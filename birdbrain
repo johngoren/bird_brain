@@ -1,0 +1,46 @@
+#!/usr/bin/env python3
+
+import click
+import os
+
+projectDir = "/Users/Desktop/natureguides"
+sourceDir = "/Volumes/Birdbrain/Natureguides/mockExpansionFiles"
+
+assetsDir = f'{projectDir}/Android/app/src/main/assets'
+expansionPackDir = f'{projectDir}/expansion/assets'
+
+
+
+@click.group()
+def cli():
+    """Utilities for Nature Guides"""
+    pass
+
+@cli.command()
+def mock():
+    """Sets up test assets."""
+    click.echo("hello, world")
+
+@cli.command()
+def unmock():
+    """Removes test assets."""
+
+
+@cli.command()
+def pack():
+    """Install OBB expansion pack on Android device"""
+    pass
+
+@cli.command()
+def boot():
+    """Run app after installing OBB expansion pack"""
+    pass
+
+@cli.command()
+def audit():
+    """Check for missing pictures and songs."""
+
+
+if __name__ == '__main__':
+    cli()
+
