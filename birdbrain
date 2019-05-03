@@ -3,17 +3,23 @@
 import click
 import os
 
-projectDir = "/Users/Desktop/natureguides"
-sourceDir = "/Volumes/Birdbrain/Natureguides/mockExpansionFiles"
+PROJECT_DIR = "/Users/Desktop/natureguides"
+SOURCE_DIR = "/Volumes/Birdbrain/Natureguides/mockExpansionFiles"
 
-assetsDir = f'{projectDir}/Android/app/src/main/assets'
-expansionPackDir = f'{projectDir}/expansion/assets'
+ASSETS_DIR = f'{PROJECT_DIR}/Android/app/src/main/assets'
+OBB_SOURCE_DIR = f'{PROJECT_DIR}/expansion/assets'
 
+OBB_VERSION = 38
 
 
 @click.group()
 def cli():
     """Utilities for Nature Guides"""
+    pass
+
+@cli.command()
+def status():
+    """Check whether OBB is installed, etc."""
     pass
 
 @cli.command()
@@ -24,12 +30,16 @@ def mock():
 @cli.command()
 def unmock():
     """Removes test assets."""
-
+    click.echo("hello, world")
 
 @cli.command()
 def pack():
     """Install OBB expansion pack on Android device"""
+    #TODO: Push dir if doesn't exist.
+    cmd = f'adb push {OBB_SOURCE_DIR}/main.{OBB_VERSION}.com.natureguides.birdguide.obb /storage/emulated/0/Android/obb/com.natureguides.birdguide/'
+
     pass
+
 
 @cli.command()
 def boot():
@@ -38,7 +48,7 @@ def boot():
 
 @cli.command()
 def audit():
-    """Check for missing pictures and songs."""
+    """Check for missing multimedia"""
 
 
 if __name__ == '__main__':
