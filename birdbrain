@@ -5,11 +5,18 @@ import os
 
 PROJECT_DIR = "/Users/Desktop/natureguides"
 SOURCE_DIR = "/Volumes/Birdbrain/Natureguides/mockExpansionFiles"
+PACKAGE = "com.natureguides.birdguide"
+
+OBB_VERSION = 38
+OBB_FILENAME = f'main.{OBB_VERSION}.{PACKAGE}.obb'
+
 
 ASSETS_DIR = f'{PROJECT_DIR}/Android/app/src/main/assets'
 OBB_SOURCE_DIR = f'{PROJECT_DIR}/expansion/assets'
+OBB_DESTINATION_DIR = f'/storage/emulated/0/Android/obb/{PACKAGE}'
+OBB_DESTINATION_PATH = f'{OBB_DESTINATION_DIR}/{OBB_FILENAME}'
 
-OBB_VERSION = 38
+
 
 
 @click.group()
@@ -19,7 +26,16 @@ def cli():
 
 @cli.command()
 def status():
-    """Check whether OBB is installed, etc."""
+    """Check whether OBB is installed, asset state."""
+
+    cmd = f'adb shell ls {OBB_DESTINATION_DIR}'
+    output = os.system(cmd)
+    click.echo(f'\n\n\n\nBirdbrain status report.')
+    click.echo(f'------------------------')
+    click.echo(f'OBB directory: {OBB_DESTINATION_DIR}...')
+    click.echo(f'Exited with code {output}')
+
+
     pass
 
 @cli.command()
@@ -28,7 +44,7 @@ def mock():
     click.echo("hello, world")
 
 @cli.command()
-def unmock():
+def clean():
     """Removes test assets."""
     click.echo("hello, world")
 
@@ -36,8 +52,8 @@ def unmock():
 def pack():
     """Install OBB expansion pack on Android device"""
     #TODO: Push dir if doesn't exist.
-    cmd = f'adb push {OBB_SOURCE_DIR}/main.{OBB_VERSION}.com.natureguides.birdguide.obb /storage/emulated/0/Android/obb/com.natureguides.birdguide/'
-
+    cmd = f'adb push {OBB_SOURCE_DIR}/main.{OBB_VERSION}.com.natureguides.birdguide.obb {OBB_DESTINATION_DIR}'
+    os.system(cmd)
     pass
 
 
