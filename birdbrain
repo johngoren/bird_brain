@@ -14,6 +14,8 @@ ASSETS_SOURCE_DIR = "/Volumes/Birdbrain/Natureguides/assets"
 ASSETS_TARGET_DIR = f'{PROJECT_DIR}/Android/app/src/main/assets'
 
 OBB_SOURCE_DIR = f'/Volumes/Birdbrain/Natureguides/obb'
+OBB_CREATION_PATH = f'{OBB_SOURCE_DIR}/{OBB_FILENAME}'
+
 OBB_DESTINATION_DIR = f'/storage/emulated/0/Android/obb/{PACKAGE}'
 OBB_DESTINATION_PATH = f'{OBB_DESTINATION_DIR}/{OBB_FILENAME}'
 
@@ -29,15 +31,15 @@ def cli():
     pass
 
 
-@click.group()
+@cli.command()
 def install():
     """Install APK on device"""
-
     DEBUG_APK_PATH = f'/Users/johngorenfeld/Desktop/natureguides/Android/app/build/outputs/apk/debug/app-debug.apk'
+
 
 @cli.command()
 def status():
-    """Check whether OBB is installed, asset state."""
+    """Checks OBB situaton and audits assets"""
 
     
     click.echo(f'\n\n\n\nBirdbrain status report.')
@@ -76,15 +78,14 @@ def populate():
     cmd_mkdir = f'mkdir {ASSETS_TARGET_DIR}/expansion/songs'
     os.system(cmd_mkdir)
 
-    cmd_species = f'cp {ASSETS_SOURCE_DIR}/expansion/species/*.png {ASSETS_TARGET_DIR}/expansion/species/'
+    cmd_species = f'cp {ASSETS_SOURCE_DIR}/expansion/images/species/*.png {ASSETS_TARGET_DIR}/expansion/images/species/'
     os.system(cmd_species)
 
     cmd_songs = f'cp {ASSETS_SOURCE_DIR}/expansion/songs/* {ASSETS_TARGET_DIR}/expansion/songs'
     os.system(cmd_songs)
 
-
-
-    #TODO plumages.
+    cmd_plumages = f'cp {ASSETS_SOURCE_DIR}/expansion/images/plumages/* {ASSETS_TARGET_DIR}/expansion/images/plumages/'
+    os.system(cmd_plumages)
 
 @cli.command()
 def purge():
@@ -97,7 +98,7 @@ def purge():
 def pack():
     """Install OBB expansion pack on Android device"""
     #TODO: Push dir if doesn't exist.
-    cmd = f'adb push {OBB_SOURCE_DIR}/main.{OBB_VERSION}.com.natureguides.birdguide.obb {OBB_DESTINATION_DIR}'
+    cmd = f'adb push {OBB_SOURCE_DIR}/main.{OBB_VERSION}.{PACKAGE}.obb {OBB_DESTINATION_DIR}'
     os.system(cmd)
     
 
@@ -129,11 +130,12 @@ def audit():
 
 @cli.command()
 def forge():
-    """Make an OBB file from the current assets source"""
+    """Build new expansion pack from assets"""
 
     # zip -r0 zipfilename.zip files-to-zip
 
-    cmd = f'zip -r0 {OBB_DESTINATION_PATH} {ASSETS_SOURCE_DIR}/expansion/*'
+    cmd = f'zip -r0 {OBB_CREATION_PATH} {ASSETS_SOURCE_DIR}/expansion/*'
+    os.system(cmd)
 
     # 1. Make ZIP file. Uncompressed.
     # 2. Rename it OBB.
