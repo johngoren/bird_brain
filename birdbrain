@@ -39,7 +39,7 @@ def install():
 
 @cli.command()
 def status():
-    """Checks OBB situaton and audits assets"""
+    """Reports OBB situaton, audits assets"""
 
     
     click.echo(f'\n\n\n\nBirdbrain status report.')
@@ -139,6 +139,12 @@ def forge():
 
     # 1. Make ZIP file. Uncompressed.
     # 2. Rename it OBB.
+
+@cli.command()
+def plumagenames():
+    """Fit plumage filenames to Strix entries"""
+    pass
+
 
 if __name__ == '__main__':
     cli()
