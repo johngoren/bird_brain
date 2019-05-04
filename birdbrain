@@ -58,11 +58,31 @@ def status():
 @cli.command()
 def populate():
     """Sets up test assets."""
+    cmd_mkdir = f'mkdir {ASSETS_TARGET_DIR}/expansion/images'
+    os.system(cmd_mkdir)
+
+    cmd_mkdir = f'mkdir {ASSETS_TARGET_DIR}/expansion/images/species'
+    os.system(cmd_mkdir)
+    
+    cmd_mkdir = f'mkdir {ASSETS_TARGET_DIR}/expansion/images/maps'
+    os.system(cmd_mkdir)
+
+    cmd_mkdir = f'mkdir {ASSETS_TARGET_DIR}/expansion/images/maps/bto'
+    os.system(cmd_mkdir)
+
+    cmd_mkdir = f'mkdir {ASSETS_TARGET_DIR}/expansion/images/maps/collins'
+    os.system(cmd_mkdir)
+
+    cmd_mkdir = f'mkdir {ASSETS_TARGET_DIR}/expansion/songs'
+    os.system(cmd_mkdir)
+
     cmd_species = f'cp {ASSETS_SOURCE_DIR}/expansion/species/*.png {ASSETS_TARGET_DIR}/expansion/species/'
     os.system(cmd_species)
 
     cmd_songs = f'cp {ASSETS_SOURCE_DIR}/expansion/songs/* {ASSETS_TARGET_DIR}/expansion/songs'
     os.system(cmd_songs)
+
+
 
     #TODO plumages.
 
@@ -70,6 +90,8 @@ def populate():
 def purge():
     """Removes test assets."""
     cmd = 'rm -rf /Users/johngorenfeld/Desktop/natureguides/Android/app/src/main/assets/expansion/*'
+    os.system(cmd)
+
 
 @cli.command()
 def pack():
@@ -77,8 +99,7 @@ def pack():
     #TODO: Push dir if doesn't exist.
     cmd = f'adb push {OBB_SOURCE_DIR}/main.{OBB_VERSION}.com.natureguides.birdguide.obb {OBB_DESTINATION_DIR}'
     os.system(cmd)
-    pass
-
+    
 
 @cli.command()
 def boot():
@@ -87,7 +108,7 @@ def boot():
 
 @cli.command()
 def audit():
-    """Check for missing multimedia"""
+    """Check for missing media assets"""
 
     family_images = os.listdir(f'{ASSETS_SOURCE_DIR}/images/family')
     species_images = os.listdir(f'{ASSETS_SOURCE_DIR}/expansion/images/species')
@@ -107,8 +128,12 @@ def audit():
             click.echo(filename)
 
 @cli.command()
-def makeobb():
+def forge():
     """Make an OBB file from the current assets source"""
+
+    # zip -r0 zipfilename.zip files-to-zip
+
+    cmd = f'zip -r0 {OBB_DESTINATION_PATH} {ASSETS_SOURCE_DIR}/expansion/*'
 
     # 1. Make ZIP file. Uncompressed.
     # 2. Rename it OBB.
