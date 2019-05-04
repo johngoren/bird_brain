@@ -67,9 +67,9 @@ def populate():
     #TODO plumages.
 
 @cli.command()
-def clean():
+def purge():
     """Removes test assets."""
-    click.echo("hello, world")
+    cmd = 'rm -rf /Users/johngorenfeld/Desktop/natureguides/Android/app/src/main/assets/expansion/*'
 
 @cli.command()
 def pack():
