@@ -2,19 +2,23 @@
 
 import click
 import os
+import sqlite3
 
 PROJECT_DIR = "/Users/Desktop/natureguides"
-SOURCE_DIR = "/Volumes/Birdbrain/Natureguides/mockExpansionFiles"
 PACKAGE = "com.natureguides.birdguide"
 
 OBB_VERSION = 38
 OBB_FILENAME = f'main.{OBB_VERSION}.{PACKAGE}.obb'
 
+ASSETS_SOURCE_DIR = "/Volumes/Birdbrain/Natureguides/assets"
+ASSETS_TARGET_DIR = f'{PROJECT_DIR}/Android/app/src/main/assets'
 
-ASSETS_DIR = f'{PROJECT_DIR}/Android/app/src/main/assets'
-OBB_SOURCE_DIR = f'{PROJECT_DIR}/expansion/assets'
+OBB_SOURCE_DIR = f'/Volumes/Birdbrain/Natureguides/obb'
 OBB_DESTINATION_DIR = f'/storage/emulated/0/Android/obb/{PACKAGE}'
 OBB_DESTINATION_PATH = f'{OBB_DESTINATION_DIR}/{OBB_FILENAME}'
+
+STRIX_DB_PATH = f'/Users/johngorenfeld/Desktop/natureguides/Android/app/src/main/assets/databases/Strix_BIRDGUIDE.db'
+
 
 
 
@@ -24,24 +28,43 @@ def cli():
     """Utilities for Nature Guides"""
     pass
 
+
+@click.group()
+def install():
+    """Install APK on device"""
+
+    DEBUG_APK_PATH = f'/Users/johngorenfeld/Desktop/natureguides/Android/app/build/outputs/apk/debug/app-debug.apk'
+
 @cli.command()
 def status():
     """Check whether OBB is installed, asset state."""
 
-    cmd = f'adb shell ls {OBB_DESTINATION_DIR}'
-    output = os.system(cmd)
+    
     click.echo(f'\n\n\n\nBirdbrain status report.')
     click.echo(f'------------------------')
     click.echo(f'OBB directory: {OBB_DESTINATION_DIR}...')
-    click.echo(f'Exited with code {output}')
-
+    
+    cmd = f'adb shell ls {OBB_DESTINATION_DIR}'
+    output = os.system(cmd)
+    
+    click.echo('\n\n')
+    click.echo('Test assets dir...')
+    cmd = f'ls {ASSETS_TARGET_DIR}/expansion'
+    output = os.system(cmd)
+    
 
     pass
 
 @cli.command()
-def mock():
+def populate():
     """Sets up test assets."""
-    click.echo("hello, world")
+    cmd_species = f'cp {ASSETS_SOURCE_DIR}/expansion/species/*.png {ASSETS_TARGET_DIR}/expansion/species/'
+    os.system(cmd_species)
+
+    cmd_songs = f'cp {ASSETS_SOURCE_DIR}/expansion/songs/* {ASSETS_TARGET_DIR}/expansion/songs'
+    os.system(cmd_songs)
+
+    #TODO plumages.
 
 @cli.command()
 def clean():
@@ -66,6 +89,29 @@ def boot():
 def audit():
     """Check for missing multimedia"""
 
+    family_images = os.listdir(f'{ASSETS_SOURCE_DIR}/images/family')
+    species_images = os.listdir(f'{ASSETS_SOURCE_DIR}/expansion/images/species')
+
+    click.echo(f'Found {len(family_images)} family image files')
+
+    query_families = "select entity_reference from strix_entities where entity_type='taxon.group'"
+    conn = sqlite3.connect(STRIX_DB_PATH)
+    c = conn.cursor()
+
+    click.echo('Missing images:')
+
+    for row in c.execute(query_families):
+        ref = row[0]
+        filename = f'{ref}.png'
+        if filename not in family_images:
+            click.echo(filename)
+
+@cli.command()
+def makeobb():
+    """Make an OBB file from the current assets source"""
+
+    # 1. Make ZIP file. Uncompressed.
+    # 2. Rename it OBB.
 
 if __name__ == '__main__':
     cli()
