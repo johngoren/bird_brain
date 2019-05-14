@@ -3,17 +3,20 @@
 import click
 import os
 import sqlite3
+import colorgram
 
-PROJECT_DIR = "/Users/Desktop/natureguides"
+# main.38.com.natureguides.birdguide.obb
+
+PROJECT_DIR = "/Users/johngorenfeld/Desktop/natureguides"
 PACKAGE = "com.natureguides.birdguide"
 
-OBB_VERSION = 38
-OBB_FILENAME = f'main.{OBB_VERSION}.{PACKAGE}.obb'
-
-ASSETS_SOURCE_DIR = "/Volumes/Birdbrain/Natureguides/assets"
+ASSETS_SOURCE_DIR = f'{PROJECT_DIR}/assets'
 ASSETS_TARGET_DIR = f'{PROJECT_DIR}/Android/app/src/main/assets'
 
-OBB_SOURCE_DIR = f'/Volumes/Birdbrain/Natureguides/obb'
+OBB_VERSION = 103
+OBB_FILENAME = f'main.{OBB_VERSION}.{PACKAGE}.obb'
+
+OBB_SOURCE_DIR = f'{PROJECT_DIR}/assets/expansion'
 OBB_CREATION_PATH = f'{OBB_SOURCE_DIR}/{OBB_FILENAME}'
 
 OBB_DESTINATION_DIR = f'/storage/emulated/0/Android/obb/{PACKAGE}'
@@ -22,13 +25,16 @@ OBB_DESTINATION_PATH = f'{OBB_DESTINATION_DIR}/{OBB_FILENAME}'
 STRIX_DB_PATH = f'/Users/johngorenfeld/Desktop/natureguides/Android/app/src/main/assets/databases/Strix_BIRDGUIDE.db'
 
 
-
-
-
 @click.group()
 def cli():
     """Utilities for Nature Guides"""
     pass
+
+@cli.group()
+def settings():
+   """Show Birdbrain's current config"""
+   click.echo('\n\n\nBirdbrain config\n\n')
+
 
 
 @cli.command()
@@ -39,7 +45,7 @@ def install():
 
 @cli.command()
 def status():
-    """Reports OBB situaton, audits assets"""
+    """Reports OBB situation, audits assets"""
 
     
     click.echo(f'\n\n\n\nBirdbrain status report.')
@@ -78,10 +84,10 @@ def populate():
     cmd_mkdir = f'mkdir {ASSETS_TARGET_DIR}/expansion/songs'
     os.system(cmd_mkdir)
 
-    cmd_species = f'cp {ASSETS_SOURCE_DIR}/expansion/images/species/*.png {ASSETS_TARGET_DIR}/expansion/images/species/'
+    cmd_species = f'cp {ASSETS_SOURCE_DIR}/expansion/images/species/* {ASSETS_TARGET_DIR}/expansion/images/species/'
     os.system(cmd_species)
 
-    cmd_songs = f'cp {ASSETS_SOURCE_DIR}/expansion/songs/* {ASSETS_TARGET_DIR}/expansion/songs'
+    cmd_songs = f'cp {ASSETS_SOURCE_DIR}/expansion/songs/* {ASSETS_TARGET_DIR}/expansion/songs/'
     os.system(cmd_songs)
 
     cmd_plumages = f'cp {ASSETS_SOURCE_DIR}/expansion/images/plumages/* {ASSETS_TARGET_DIR}/expansion/images/plumages/'
@@ -98,10 +104,17 @@ def purge():
 def pack():
     """Install OBB expansion pack on Android device"""
     #TODO: Push dir if doesn't exist.
-    cmd = f'adb push {OBB_SOURCE_DIR}/main.{OBB_VERSION}.{PACKAGE}.obb {OBB_DESTINATION_DIR}'
+    cmd = f'adb push {OBB_SOURCE_DIR}/main.{OBB_VERSION}.{PACKAGE}.obb {OBB_DESTINATION_PATH}'
     os.system(cmd)
-    
 
+@cli.command()
+def unpack():
+    """Remove OBB expansion pack from Android device"""
+
+@cli.command()
+def optimise():
+    """Optimise images."""
+        
 @cli.command()
 def boot():
     """Run app after installing OBB expansion pack"""
@@ -134,17 +147,50 @@ def forge():
 
     # zip -r0 zipfilename.zip files-to-zip
 
-    cmd = f'zip -r0 {OBB_CREATION_PATH} {ASSETS_SOURCE_DIR}/expansion/*'
+    cmd = f'cd {OBB_SOURCE_DIR} && zip -r0 {OBB_FILENAME} ./ -x "*.obb"'
+    click.echo(cmd)
     os.system(cmd)
 
-    # 1. Make ZIP file. Uncompressed.
-    # 2. Rename it OBB.
+    click.echo('Resulting in this OBB:')
+    size_cmd = f'ls -lh {OBB_CREATION_PATH}'
+
+
+@cli.command()
+def colors():
+    """Build color palette table for bird images"""
+
+    species_images = os.listdir(f'{ASSETS_SOURCE_DIR}/expansion/images/species')
+    click.echo(f'Processing {len(species_images)} species image files')
+
+    for filename in species_images:
+        uri = f'{ASSETS_SOURCE_DIR}/expansion/images/species/{filename}'
+        colors = colorgram.extract(uri, 3)
+
+        rgb1 = colors[1].rgb
+        rgb2 = colors[2].rgb
+
+        int1 = getIfromRGB(rgb1)
+        int2 = getIfromRGB(rgb2)
+        
+        click.echo(f'{filename},{int1},{int2}')
+
+def getIfromRGB(rgb):
+    red = rgb[0]
+    green = rgb[1]
+    blue = rgb[2]
+    RGBint = (red<<16) + (green<<8) + blue
+    return RGBint
 
 @cli.command()
 def plumagenames():
     """Fit plumage filenames to Strix entries"""
     pass
 
+@cli.command()
+def species():
+     """Prepare species images"""
+     cmd = 'mogrify -verbose -format jpg -background white -alpha remove -flatten -alpha off -define jpeg:extent=400kb -path /Users/johngorenfeld/Desktop/natureguides/assets/expansion/images/species *.png'
+     os.system(cmd)
 
 if __name__ == '__main__':
     cli()
