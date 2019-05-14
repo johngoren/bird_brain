@@ -24,6 +24,9 @@ OBB_CREATION_PATH = f'{OBB_SOURCE_DIR}/{OBB_FILENAME}'
 OBB_DESTINATION_DIR = f'/storage/emulated/0/Android/obb/{PACKAGE}'
 OBB_DESTINATION_PATH = f'{OBB_DESTINATION_DIR}/{OBB_FILENAME}'
 
+ORIGINALS_PATH = f'/Users/johngorenfeld/Dropbox/natureguidesOriginals/Europe'
+ORIGINAL_SPECIES_IMAGES_PATH = f'{ORIGINALS_PATH}/SpeciesImages'
+
 STRIX_DB_PATH = f'/Users/johngorenfeld/Desktop/natureguides/Android/app/src/main/assets/databases/Strix_BIRDGUIDE.db'
 
 
@@ -142,20 +145,17 @@ def audit():
         missing = NUM_SPECIES_IMAGES - len(species_images)
         click.echo(f'{missing} species images are missing.')
 
+@cli.command()
+def missing():
+    """List missing plates"""
 
+    original_species_images = os.listdir(f'{ORIGINAL_SPECIES_IMAGES_PATH}')
+    our_species_images = os.listdir(f'{OBB_SOURCE_DIR}/images/species')
 
+    for original in original_species_images:
+        if original not in our_species_images:
+            click.echo(original) 
 
-#     query_families = "select entity_reference from strix_entities where entity_type='taxon.group'"
-#     conn = sqlite3.connect(STRIX_DB_PATH)
-#     c = conn.cursor()
-
-#     click.echo('Missing images:')
-
-#     for row in c.execute(query_families):
-#         ref = row[0]
-#         filename = f'{ref}.png'
-#         if filename not in family_images:
-#             click.echo(filename)
 
 @cli.command()
 def forge():
@@ -211,3 +211,15 @@ def species():
 if __name__ == '__main__':
     cli()
 
+
+#     query_families = "select entity_reference from strix_entities where entity_type='taxon.group'"
+#     conn = sqlite3.connect(STRIX_DB_PATH)
+#     c = conn.cursor()
+
+#     click.echo('Missing images:')
+
+#     for row in c.execute(query_families):
+#         ref = row[0]
+#         filename = f'{ref}.png'
+#         if filename not in family_images:
+#             click.echo(filename)
