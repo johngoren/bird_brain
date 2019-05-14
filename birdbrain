@@ -7,8 +7,10 @@ import colorgram
 
 # main.38.com.natureguides.birdguide.obb
 
+NUM_SPECIES_IMAGES = 792
+
 PROJECT_DIR = "/Users/johngorenfeld/Desktop/natureguides"
-PACKAGE = "com.natureguides.birdguide"
+PACKAGE = "com.johngorenfeld.birdguide"
 
 ASSETS_SOURCE_DIR = f'{PROJECT_DIR}/assets'
 ASSETS_TARGET_DIR = f'{PROJECT_DIR}/Android/app/src/main/assets'
@@ -46,22 +48,23 @@ def install():
 @cli.command()
 def status():
     """Reports OBB situation, audits assets"""
+    
+    click.echo(f'\n\n\n\nBirdbrain status report')
+    click.echo(f'-----------------------')
 
-    
-    click.echo(f'\n\n\n\nBirdbrain status report.')
-    click.echo(f'------------------------')
-    click.echo(f'OBB directory: {OBB_DESTINATION_DIR}...')
-    
+    click.echo('\nApp version:')
+    cmd = 'grep "versionCode" /Users/johngorenfeld/Desktop/natureguides/Android/app/build.gradle'
+    os.system(cmd)
+
+    click.echo('\nContent provider will use expansion version:')
+    cmd = 'grep -A 1 "mainVersion" /Users/johngorenfeld/Desktop/natureguides/Android/app/src/main/AndroidManifest.xml'
+    os.system(cmd)
+        
+    click.echo('\nExpansion packs installed on the device:')
     cmd = f'adb shell ls {OBB_DESTINATION_DIR}'
-    output = os.system(cmd)
-    
-    click.echo('\n\n')
-    click.echo('Test assets dir...')
-    cmd = f'ls {ASSETS_TARGET_DIR}/expansion'
-    output = os.system(cmd)
-    
+    os.system(cmd)
 
-    pass
+    click.echo('\n\n')
 
 @cli.command()
 def populate():
@@ -103,8 +106,10 @@ def purge():
 @cli.command()
 def pack():
     """Install OBB expansion pack on Android device"""
-    #TODO: Push dir if doesn't exist.
+    cmd = f'adb mkdir {OBB_DESTINATION_DIR}'
+    os.system(cmd)
     cmd = f'adb push {OBB_SOURCE_DIR}/main.{OBB_VERSION}.{PACKAGE}.obb {OBB_DESTINATION_PATH}'
+    click.echo(cmd)
     os.system(cmd)
 
 @cli.command()
@@ -126,20 +131,31 @@ def audit():
 
     family_images = os.listdir(f'{ASSETS_SOURCE_DIR}/images/family')
     species_images = os.listdir(f'{ASSETS_SOURCE_DIR}/expansion/images/species')
+    plumage_images = os.listdir(f'{ASSETS_SOURCE_DIR}/expansion/images/plumages')
+    map_images = os.listdir(f'{ASSETS_SOURCE_DIR}/expansion/images/maps')
 
-    click.echo(f'Found {len(family_images)} family image files')
+    click.echo(f'Found {len(family_images)} family image files')    
+    click.echo(f'Found {len(species_images)} species image files')
+    click.echo(f'Found {len(plumage_images)} plumage image files')
 
-    query_families = "select entity_reference from strix_entities where entity_type='taxon.group'"
-    conn = sqlite3.connect(STRIX_DB_PATH)
-    c = conn.cursor()
+    if len(species_images) != NUM_SPECIES_IMAGES:
+        missing = NUM_SPECIES_IMAGES - len(species_images)
+        click.echo(f'{missing} species images are missing.')
 
-    click.echo('Missing images:')
 
-    for row in c.execute(query_families):
-        ref = row[0]
-        filename = f'{ref}.png'
-        if filename not in family_images:
-            click.echo(filename)
+
+
+#     query_families = "select entity_reference from strix_entities where entity_type='taxon.group'"
+#     conn = sqlite3.connect(STRIX_DB_PATH)
+#     c = conn.cursor()
+
+#     click.echo('Missing images:')
+
+#     for row in c.execute(query_families):
+#         ref = row[0]
+#         filename = f'{ref}.png'
+#         if filename not in family_images:
+#             click.echo(filename)
 
 @cli.command()
 def forge():
