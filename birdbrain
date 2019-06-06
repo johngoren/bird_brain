@@ -16,7 +16,7 @@ ORIGINAL_PACKAGE = "com.natureguides.birdguide"
 ASSETS_SOURCE_DIR = f'{PROJECT_DIR}/assets'
 ASSETS_TARGET_DIR = f'{PROJECT_DIR}/Android/app/src/main/assets'
 
-OBB_VERSION = 104
+OBB_VERSION = 110
 OBB_FILENAME = f'main.{OBB_VERSION}.{PACKAGE}.obb'
 
 OBB_SOURCE_DIR = f'{PROJECT_DIR}/assets/expansion'
@@ -73,8 +73,12 @@ def status():
     os.system(cmd)
 
     click.echo('\nSet up for expansion pack version:')
-    cmd = 'grep -A 2 "EXPANSION_PACK_VERSION" /Users/johngorenfeld/Dropbox/natureguides/Android/app/build.gradle'
+    cmd = 'grep -A 1 "OBB_VERSION" /Users/johngorenfeld/Dropbox/natureguides/Android/app/src/main/java/com/johngorenfeld/birdguide/services/ExpansionService.kt'
     os.system(cmd)
+
+    cmd = 'grep -A 1 "mainVersion" /Users/johngorenfeld/Dropbox/natureguides/Android/app/src/main/AndroidManifest.xml'
+    os.system(cmd)
+
 
     click.echo('\nOn phone right now:')
     cmd = f'adb shell ls {OBB_DESTINATION_DIR}'
