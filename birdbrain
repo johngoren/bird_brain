@@ -3,6 +3,7 @@
 import click
 import os
 import sqlite3
+import strix
 import config
 
 # main.38.com.natureguides.birdguide.obb (original)
@@ -32,11 +33,11 @@ def status():
 	click.echo(f'----------------')
 
 	click.echo('\nApp version:')
-	cmd = f'grep "versionCode" {config.APP_PATH}/app/build.gradle'
+	cmd = f'grep "versionCode" {config.PATH_APP}/app/build.gradle'
 	os.system(cmd)
 
 	click.echo('\nSet up for expansion pack version:')
-	cmd = f'grep -A 1 "obbVersion" {config.APP_PATH}/app/build.gradle'
+	cmd = f'grep -A 1 "obbVersion" {config.PATH_APP}/app/build.gradle'
 	os.system(cmd)
 
 	click.echo('\nOn phone right now:')
@@ -44,8 +45,6 @@ def status():
 	os.system(cmd)
 
 	click.echo('\n\n')
-
-
 
 @cli.command()
 @click.option("--original", default=False, help="Use original version")
@@ -168,14 +167,11 @@ def ref(id):
 		print("Must provide valid Strix entity ID.")
 		return
 
-	query_key = f'SELECT entity_reference FROM strix_entities where entity_id={id}'
-	conn = sqlite3.connect(STRIX_DB_PATH)
-	c = conn.cursor()
-
-	for row in c.execute(query_key):
-		ref = row[0]
-
-	click.echo(ref)
+	found_ref = lookup_ref(id)
+	if ref is None:
+		click.echo('No ref found in Strix database.')
+		return
+	click.echo(found_ref)
 
 @cli.command()
 @click.argument('ref')
@@ -195,45 +191,41 @@ def id(ref):
 	click.echo(id)
 
 @cli.command()
-@click.argument('category')
 @click.argument('ref')
-def name(category, ref):
+def name(ref):
 	"""Compose filename to follow NatureGuides nomenclature"""
 
 	# Future version of this can support other categories but right
 	# now this is strictly for songs.
 
-	if category is not "song":
-	   print("Unsupported object category")
-	   return
-
 	# Songs
-
-	new_name = f'{ref}.m4a'
+	new_name = name_song(ref)
 	click.echo(new_name)
 
-
 @cli.command()
-@click.argument('category')
 @click.argument('name')
-def modernise(self, category, name):
-	"""Determine modern name for Tengio file"""
+def modernname(name):
+	"""Determine proper name for Tengio file"""
 
 	# Future version of this can support other categories but right
 	# now this is strictly for songs.
 
-	if category is not "song":
-	   print("Unsupported object category")
-	   return
+	# TODO: Deduce file category from name
 
 	# Songs
 
 	id = name.split('.')[0]
-	ref = self.ref(id)
-	song_name = f'{ref}.m4a'
+	ref = strix.lookup_ref(id)
+	if ref is None:
+		click.echo(f'No Strix reference found for id {id}.')
+		return
+
+	song_name = name_song(ref)
 	click.echo(song_name)
 
-
+def name_song(ref):
+	return f'{ref}.m4a'
 	
 if __name__ == '__main__':
-    cli()
+	strix = strix.StrixDatabase(config.STRIX_DB_PATH)
+	cli()
