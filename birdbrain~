@@ -3,18 +3,20 @@
 import click
 import os
 import sqlite3
+import colorgram
 
-# main.38.com.natureguides.birdguide.obb (original)
+# main.38.com.natureguides.birdguide.obb
 
 NUM_SPECIES_IMAGES = 792
-PROJECT_DIR = "~/Dropbox/natureguides"
+
+PROJECT_DIR = "/Users/johngorenfeld/Dropbox/natureguides"
 PACKAGE = "com.natureguides.birdguide"
 ORIGINAL_PACKAGE = "com.natureguides.birdguide"
 
 ASSETS_SOURCE_DIR = f'{PROJECT_DIR}/assets'
 ASSETS_TARGET_DIR = f'{PROJECT_DIR}/Android/app/src/main/assets'
 
-OBB_VERSION = 119
+OBB_VERSION = 115
 OBB_FILENAME = f'main.{OBB_VERSION}.{PACKAGE}.obb'
 
 OBB_SOURCE_DIR = f'{PROJECT_DIR}/assets/expansion'
@@ -29,10 +31,7 @@ OBB_DESTINATION_PATH_ORIGINAL = f'{OBB_DESTINATION_DIR_ORIGINAL}/{ORIGINAL_PACKA
 ORIGINALS_PATH = f'/Users/johngorenfeld/Dropbox/natureguides/assets/HD/Europe'
 ORIGINAL_SPECIES_IMAGES_PATH = f'{ORIGINALS_PATH}/SpeciesImages'
 
-DB_VERSION = 506
-APP_PATH = '/home/john/johng/StudioProjects/collins/'
-DB_FILENAME = f'Strix_BIRDGUIDE_v{DB_VERSION}.db'
-STRIX_DB_PATH = f'{APP_PATH}/app/src/main/assets/databases/{DB_FILENAME}'
+STRIX_DB_PATH = f'/Users/johngorenfeld/Dropbox/natureguides/Android/app/src/main/assets/databases/Strix_BIRDGUIDE.db'
 
 # Helper utils
 
@@ -42,6 +41,7 @@ def getIfromRGB(rgb):
     blue = rgb[2]
     RGBint = (red<<16) + (green<<8) + blue
     return RGBint
+
 
 
 @click.group()
@@ -73,7 +73,10 @@ def status():
     os.system(cmd)
 
     click.echo('\nSet up for expansion pack version:')
-    cmd = 'grep -A 1 "obbVersion" /Users/johngorenfeld/Dropbox/natureguides/Android/app/build.gradle'
+    cmd = 'grep -A 1 "OBB_VERSION" /Users/johngorenfeld/Dropbox/natureguides/Android/app/src/main/java/com/johngorenfeld/birdguide/services/ExpansionService.kt'
+    os.system(cmd)
+
+    cmd = 'grep -A 1 "mainVersion" /Users/johngorenfeld/Dropbox/natureguides/Android/app/src/main/AndroidManifest.xml'
     os.system(cmd)
 
 
@@ -82,6 +85,42 @@ def status():
     os.system(cmd)
 
     click.echo('\n\n')
+
+@cli.command()
+def populate():
+    """Sets up test assets."""
+    cmd_mkdir = f'mkdir {ASSETS_TARGET_DIR}/expansion/images'
+    os.system(cmd_mkdir)
+
+    cmd_mkdir = f'mkdir {ASSETS_TARGET_DIR}/expansion/images/species'
+    os.system(cmd_mkdir)
+    
+    cmd_mkdir = f'mkdir {ASSETS_TARGET_DIR}/expansion/images/maps'
+    os.system(cmd_mkdir)
+
+    cmd_mkdir = f'mkdir {ASSETS_TARGET_DIR}/expansion/images/maps/bto'
+    os.system(cmd_mkdir)
+
+    cmd_mkdir = f'mkdir {ASSETS_TARGET_DIR}/expansion/images/maps/collins'
+    os.system(cmd_mkdir)
+
+    cmd_mkdir = f'mkdir {ASSETS_TARGET_DIR}/expansion/songs'
+    os.system(cmd_mkdir)
+
+    cmd_species = f'cp {ASSETS_SOURCE_DIR}/expansion/images/species/* {ASSETS_TARGET_DIR}/expansion/images/species/'
+    os.system(cmd_species)
+
+    cmd_songs = f'cp {ASSETS_SOURCE_DIR}/expansion/songs/* {ASSETS_TARGET_DIR}/expansion/songs/'
+    os.system(cmd_songs)
+
+    cmd_plumages = f'cp {ASSETS_SOURCE_DIR}/expansion/images/plumages/* {ASSETS_TARGET_DIR}/expansion/images/plumages/'
+    os.system(cmd_plumages)
+
+@cli.command()
+def purge():
+    """Removes test assets."""
+    cmd = 'rm -rf /Users/johngorenfeld/Dropbox/natureguides/Android/app/src/main/assets/expansion/*'
+    os.system(cmd)
 
 
 @cli.command()
@@ -193,6 +232,26 @@ def forge():
 
 
 @cli.command()
+def colors():
+    """Build color palette table for bird images"""
+
+    species_images = os.listdir(f'{ASSETS_SOURCE_DIR}/expansion/images/species')
+    click.echo(f'Processing {len(species_images)} species image files')
+
+    for filename in species_images:
+        uri = f'{ASSETS_SOURCE_DIR}/expansion/images/species/{filename}'
+        colors = colorgram.extract(uri, 3)
+
+        rgb1 = colors[1].rgb
+        rgb2 = colors[2].rgb
+
+        int1 = getIfromRGB(rgb1)
+        int2 = getIfromRGB(rgb2)
+        
+        click.echo(f'{filename},{int1},{int2}')
+
+
+@cli.command()
 def plumagenames():
     """Fit plumage filenames to Strix entries"""
     pass
@@ -203,61 +262,19 @@ def species():
      cmd = 'mogrify -verbose -format jpg -background white -alpha remove -flatten -alpha off -define jpeg:extent=400kb -path /Users/johngorenfeld/Dropbox/natureguides/assets/expansion/images/species *.png'
      os.system(cmd)
 
-
-@cli.command()
-@click.argument('id')
-def ref(id):
-     """Get a Strix object's reference from its ID"""
-     if id is None:
-        print("Must provide valid Strix entity ID.")
-        return
-
-     query_key = f'SELECT entity_reference FROM strix_entities where entity_id={id}'
-     conn = sqlite3.connect(STRIX_DB_PATH)
-     c = conn.cursor()
-
-     for row in c.execute(query_key):
-          ref = row[0]
-
-     print(ref)
-     return ref
-
-@cli.command()
-@click.argument('ref')
-def id(ref):
-     """Get a Strix object's ID from its reference"""
-     if ref is None:
-        print("Must provide valid Strix entity reference.")
-        return
-
-     query_key=f'SELECT entity_id FROM strix_entities WHERE entity_reference={ref}'
-     conn = sqlite3.connect(STRIX_DB_PATH)
-     c = conn.cursor()
-
-     for row in c.execute(query_key):
-          id = row[0]
-
-     print(id)
-     return ref
-
-@cli.command()
-@click.argument('category')
-@click.argument('filename')
-def modernise(category, filename):
-     """Rename a Tengio object to follow NatureGuides nomenclature"""
-
-     # Future version of this can support plumages
-
-     if category is not "songs":
-        print("Unsupported object category")
-        return
-
-     # Songs
-
-     id = 
-
-     
-     
-
 if __name__ == '__main__':
     cli()
+
+
+#     query_families = "select entity_reference from strix_entities where entity_type='taxon.group'"
+#     conn = sqlite3.connect(STRIX_DB_PATH)
+#     c = conn.cursor()
+
+#     click.echo('Missing images:')
+
+#     for row in c.execute(query_families):
+#         ref = row[0]
+#         filename = f'{ref}.png'
+#         if filename not in family_images:
+#             click.echo(filename)
+
