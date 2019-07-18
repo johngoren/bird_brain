@@ -6,10 +6,14 @@ import sqlite3
 
 # main.38.com.natureguides.birdguide.obb (original)
 
+PACKAGE = "com.natureguides.birdguide"
+ANDROID_STUDIO_PROJECTS_PATH = os.environ['STUDIO_PROJECT_PATH']
+APP_PATH = f'{ANDROID_STUDIO_PROJECTS_PATH}/collins'
+PLATFORM_TOOLS_PATH = os.environ['PLATFORM_TOOLS_PATH']
+ADB = f'{PLATFORM_TOOLS_PATH}/adb.exe'
+
 NUM_SPECIES_IMAGES = 792
 PROJECT_DIR = "~/Dropbox/natureguides"
-PACKAGE = "com.natureguides.birdguide"
-ORIGINAL_PACKAGE = "com.natureguides.birdguide"
 
 ASSETS_SOURCE_DIR = f'{PROJECT_DIR}/assets'
 ASSETS_TARGET_DIR = f'{PROJECT_DIR}/Android/app/src/main/assets'
@@ -21,10 +25,8 @@ OBB_SOURCE_DIR = f'{PROJECT_DIR}/assets/expansion'
 OBB_CREATION_PATH = f'{OBB_SOURCE_DIR}/{OBB_FILENAME}'
 
 OBB_DESTINATION_DIR = f'/storage/emulated/0/Android/obb/{PACKAGE}'
-OBB_DESTINATION_DIR_ORIGINAL = f'/storage/emulated/0/Android/obb/{ORIGINAL_PACKAGE}'
 
 OBB_DESTINATION_PATH = f'{OBB_DESTINATION_DIR}/{OBB_FILENAME}'
-OBB_DESTINATION_PATH_ORIGINAL = f'{OBB_DESTINATION_DIR_ORIGINAL}/{ORIGINAL_PACKAGE}'
 
 ORIGINALS_PATH = f'/Users/johngorenfeld/Dropbox/natureguides/assets/HD/Europe'
 ORIGINAL_SPECIES_IMAGES_PATH = f'{ORIGINALS_PATH}/SpeciesImages'
@@ -32,6 +34,7 @@ ORIGINAL_SPECIES_IMAGES_PATH = f'{ORIGINALS_PATH}/SpeciesImages'
 DB_VERSION = 506
 APP_PATH = '/home/john/johng/StudioProjects/collins/'
 DB_FILENAME = f'Strix_BIRDGUIDE_v{DB_VERSION}.db'
+
 STRIX_DB_PATH = f'{APP_PATH}/app/src/main/assets/databases/{DB_FILENAME}'
 
 # Helper utils
@@ -69,16 +72,15 @@ def status():
     click.echo(f'-----------------------')
 
     click.echo('\nApp version:')
-    cmd = 'grep "versionCode" /Users/johngorenfeld/Dropbox/natureguides/Android/app/build.gradle'
+    cmd = f'grep "versionCode" {APP_PATH}/app/build.gradle'
     os.system(cmd)
 
     click.echo('\nSet up for expansion pack version:')
-    cmd = 'grep -A 1 "obbVersion" /Users/johngorenfeld/Dropbox/natureguides/Android/app/build.gradle'
+    cmd = f'grep -A 1 "obbVersion" {APP_PATH}/app/build.gradle'
     os.system(cmd)
 
-
     click.echo('\nOn phone right now:')
-    cmd = f'adb shell ls {OBB_DESTINATION_DIR}'
+    cmd = f'{ADB} shell ls {OBB_DESTINATION_DIR}'
     os.system(cmd)
 
     click.echo('\n\n')
@@ -100,16 +102,11 @@ def pack(original):
 
     filename = f'main.{version}.{app_package}.obb'
     destination_path = f'{destination_dir}/{filename}'
-    cmd = f'adb mkdir {destination_dir}'
+    cmd = f'{ADB} mkdir {destination_dir}'
     os.system(cmd)
-    cmd = f'adb push {OBB_SOURCE_DIR}/{filename} {destination_path}'
+    cmd = f'{ADB} push {OBB_SOURCE_DIR}/{filename} {destination_path}'
     click.echo(cmd)
     os.system(cmd)
-
-@cli.command()
-def packoriginal():
-        cmd =  "adb push ~/Dropbox/natureguides/assets/main.37.com.natureguides.birdguide.obb /storage/emulated/0/Android/obb/com.natureguides.birdguide/main.37.com.natureguides.birdguide.obb"
-        os.system(cmd)
 
 @cli.command()
 def unpack():
@@ -219,8 +216,7 @@ def ref(id):
      for row in c.execute(query_key):
           ref = row[0]
 
-     print(ref)
-     return ref
+     click.echo(ref)
 
 @cli.command()
 @click.argument('ref')
@@ -237,27 +233,48 @@ def id(ref):
      for row in c.execute(query_key):
           id = row[0]
 
-     print(id)
-     return ref
+     click.echo(id)
 
 @cli.command()
 @click.argument('category')
-@click.argument('filename')
-def modernise(category, filename):
-     """Rename a Tengio object to follow NatureGuides nomenclature"""
+@click.argument('ref')
+def name(category, ref):
+     """Compose filename to follow NatureGuides nomenclature"""
 
-     # Future version of this can support plumages
+     # Future version of this can support other categories but right
+     # now this is strictly for songs.
 
-     if category is not "songs":
+     if category is not "song":
         print("Unsupported object category")
         return
 
      # Songs
 
-     id = 
+     new_name = f'{ref}.m4a'
+     click.echo(new_name)
+
+
+@cli.command()
+@click.argument('category')
+@click.argument('name')
+def modernname(self, category, name):
+     """Determine modern name for Tengio file"""
+
+     # Future version of this can support other categories but right
+     # now this is strictly for songs.
+
+     if category is not "song":
+        print("Unsupported object category")
+        return
+
+     # Songs
+
+     id = name.split('.')[0]
+     ref = self.ref(id)
+     song_name = f'{ref}.m4a'
+     click.echo(song_name)
+
 
      
-     
-
 if __name__ == '__main__':
     cli()
