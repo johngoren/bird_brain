@@ -10,64 +10,63 @@ import config
 
 @click.group()
 def cli():
-    """Utilities for Nature Guides"""
-    pass
+	"""Utilities for Nature Guides"""
+	pass
 
 @cli.group()
 def settings():
-   """Show Birdbrain's current config"""
-   click.echo('\n\n\nBirdbrain config\n\n')
+	"""Show Birdbrain's current config"""
+	click.echo('\n\n\nBirdbrain config\n\n')
 
 
 @cli.command()
 def install():
-    """Install APK on device"""
-     pass
+	"""Install APK on device"""
+	pass
 
 @cli.command()
 def status():
-    """Reports OBB situation, audits assets"""
+	"""Reports OBB situation, audits assets"""
     
-    click.echo(f'\n\n\n\nBirdbrain status')
-    click.echo(f'----------------')
+	click.echo(f'\n\n\n\nBirdbrain status')
+	click.echo(f'----------------')
 
-    click.echo('\nApp version:')
-    cmd = f'grep "versionCode" {config.APP_PATH}/app/build.gradle'
-    os.system(cmd)
+	click.echo('\nApp version:')
+	cmd = f'grep "versionCode" {config.APP_PATH}/app/build.gradle'
+	os.system(cmd)
 
-    click.echo('\nSet up for expansion pack version:')
-    cmd = f'grep -A 1 "obbVersion" {config.APP_PATH}/app/build.gradle'
-    os.system(cmd)
+	click.echo('\nSet up for expansion pack version:')
+	cmd = f'grep -A 1 "obbVersion" {config.APP_PATH}/app/build.gradle'
+	os.system(cmd)
 
-    click.echo('\nOn phone right now:')
-    cmd = f'{ADB} shell ls {config.OBB_DESTINATION_DIR}'
-    os.system(cmd)
+	click.echo('\nOn phone right now:')
+	cmd = f'{ADB} shell ls {config.OBB_DESTINATION_DIR}'
+	os.system(cmd)
 
-    click.echo('\n\n')
+	click.echo('\n\n')
 
 
 
 @cli.command()
 @click.option("--original", default=False, help="Use original version")
 def pack(original):
-    """Install OBB expansion pack on Android device"""
-    if (original == True):
-            destination_dir = config.OBB_DESTINATION_DIR_ORIGINAL
-            version = 37
-            app_package = "com.natureguides.birdguide"
+	"""Install OBB expansion pack on Android device"""
+	if (original == True):
+		destination_dir = config.OBB_DESTINATION_DIR_ORIGINAL
+		version = 37
+		app_package = "com.natureguides.birdguide"
+	else:
+		destination_dir = config.OBB_DESTINATION_DIR    
+		version = config.OBB_VERSION
+		app_package = config.PACKAGE
 
-    else:
-            destination_dir = config.OBB_DESTINATION_DIR    
-            version = config.OBB_VERSION
-            app_package = config.PACKAGE
-
-    filename = f'main.{version}.{app_package}.obb'
-    destination_path = f'{destination_dir}/{filename}'
-    cmd = f'{adb} mkdir {destination_dir}'
-    os.system(cmd)
-    cmd = f'{adb} push {OBB_SOURCE_DIR}/{filename} {destination_path}'
-    click.echo(cmd)
-    os.system(cmd)
+	filename = f'main.{version}.{app_package}.obb'
+	destination_path = f'{destination_dir}/{filename}'
+	cmd = f'{adb} mkdir {destination_dir}'
+	os.system(cmd)
+	cmd = f'{adb} push {OBB_SOURCE_DIR}/{filename} {destination_path}'
+	click.echo(cmd)
+	os.system(cmd)
 
 @cli.command()
 def unpack():
@@ -76,7 +75,7 @@ def unpack():
 @cli.command()
 def optimise():
     """Optimise images."""
-        
+	   
 @cli.command()
 def boot():
     """Run app after installing OBB expansion pack"""
@@ -84,157 +83,157 @@ def boot():
 
 @cli.command()
 def audit():
-     """Check for missing media assets"""
+	"""Check for missing media assets"""
 
-     path_app_assets = config.PATH_APP_ASSETS
-     path_expansion_assets = config.PATH_EXPANSION_ASSETS
+	path_app_assets = config.PATH_APP_ASSETS
+	path_expansion_assets = config.PATH_EXPANSION_ASSETS
 
-     path_family_images = os.listdir(f'{path_app_assets}/images/family')
-     path_species_images = f'{path_expansion_assets}/images/species'
+	path_family_images = os.listdir(f'{path_app_assets}/images/family')
+	path_species_images = f'{path_expansion_assets}/images/species'
 
-    species_images = os.listdir(species_path) 
-    click.echo(species_path)
+	species_images = os.listdir(species_path) 
+	click.echo(species_path)
 
-    plumage_images = os.listdir(f'{path_expansion_assets}/images/plumages')
-    map_images = os.listdir(f'{path_expansion_assets}/images/maps')
+	plumage_images = os.listdir(f'{path_expansion_assets}/images/plumages')
+	map_images = os.listdir(f'{path_expansion_assets}/images/maps')
 
-    click.echo(f'Found {len(family_images)} family image files')    
-    click.echo(f'Found {len(species_images)} species image files')
-    click.echo(f'Found {len(plumage_images)} plumage image files')
+	click.echo(f'Found {len(family_images)} family image files')    
+	click.echo(f'Found {len(species_images)} species image files')
+	click.echo(f'Found {len(plumage_images)} plumage image files')
 
-    if len(species_images) != NUM_SPECIES_IMAGES:
-        missing = NUM_SPECIES_IMAGES - len(species_images)
-        click.echo(f'{missing} species images are missing.')
+	if len(species_images) != NUM_SPECIES_IMAGES:
+		missing = NUM_SPECIES_IMAGES - len(species_images)
+		click.echo(f'{missing} species images are missing.')
 
 @cli.command()
 def missing():
-    """List missing plates and stage originals in special dir for conversion"""
+	"""List missing plates and stage originals in special dir for conversion"""
 
-    original_species_images = os.listdir(f'{ORIGINAL_SPECIES_IMAGES_PATH}')
-    our_species_images = os.listdir(f'{OBB_SOURCE_DIR}/images/species')
+	original_species_images = os.listdir(f'{ORIGINAL_SPECIES_IMAGES_PATH}')
+	our_species_images = os.listdir(f'{OBB_SOURCE_DIR}/images/species')
 
-    click.echo(f'Found {len(original_species_images)} family image files')    
-    click.echo(f'Found {len(our_species_images)} species images staged to be put into expansion pack')
+	click.echo(f'Found {len(original_species_images)} family image files')    
+	click.echo(f'Found {len(our_species_images)} species images staged to be put into expansion pack')
 
-    i = 0
+	i = 0
 
-    need_conversion = []
+	need_conversion = []
 
-    for original in original_species_images:
-        name = original[:-3] + "jpg"
-        if name not in our_species_images:
-            i = i + 1
-            need_conversion.append(original)
-            click.echo(f'{i}. {name}')
-            
-    click.echo(len(need_conversion))
+	for original in original_species_images:
+		name = original[:-3] + "jpg"
+	if name not in our_species_images:
+			i = i + 1
+			need_conversion.append(original)
+			click.echo(f'{i}. {name}')
+		  
+	click.echo(len(need_conversion))
 
 
 
 @cli.command()
 def forge():
-    """Build new expansion pack from assets"""
+	"""Build new expansion pack from assets"""
 
-    # zip -r0 zipfilename.zip files-to-zip
+	# zip -r0 zipfilename.zip files-to-zip
 
-    obb_source_dir = config.PATH_OBB_SOURCE
-    obb_filename = config.
-    obb_creation_path = config.OBB_CREATION_PATH
+	obb_source_dir = config.PATH_OBB_SOURCE
+	obb_filename = config.OBB_FILENAME
+	obb_creation_path = config.OBB_CREATION_PATH
 
-    cmd = f'cd {obb_source_dir} && zip -r0 {obb_filename} ./ -x "*.obb"'
-    click.echo(cmd)
-    os.system(cmd)
+	cmd = f'cd {obb_source_dir} && zip -r0 {obb_filename} ./ -x "*.obb"'
+	click.echo(cmd)
+	os.system(cmd)
 
-    click.echo('Resulting in this OBB:')
-    size_cmd = f'ls -lh {obb_creation_path}'
+	click.echo('Resulting in this OBB:')
+	size_cmd = f'ls -lh {obb_creation_path}'
 
 
 @cli.command()
 def plumagenames():
-    """Fit plumage filenames to Strix entries"""
-    pass
+	"""Fit plumage filenames to Strix entries"""
+	pass
 
 @cli.command()
 def species():
-     """Prepare species images"""
-     cmd = 'mogrify -verbose -format jpg -background white -alpha remove -flatten -alpha off -define jpeg:extent=400kb -path /Users/johngorenfeld/Dropbox/natureguides/assets/expansion/images/species *.png'
-     os.system(cmd)
+	"""Prepare species images"""
+	cmd = 'mogrify -verbose -format jpg -background white -alpha remove -flatten -alpha off -define jpeg:extent=400kb -path /Users/johngorenfeld/Dropbox/natureguides/assets/expansion/images/species *.png'
+	os.system(cmd)
 
 
 @cli.command()
 @click.argument('id')
 def ref(id):
-     """Get a Strix object's reference from its ID"""
-     if id is None:
-        print("Must provide valid Strix entity ID.")
-        return
+	"""Get a Strix object's reference from its ID"""
+	if id is None:
+		print("Must provide valid Strix entity ID.")
+		return
 
-     query_key = f'SELECT entity_reference FROM strix_entities where entity_id={id}'
-     conn = sqlite3.connect(STRIX_DB_PATH)
-     c = conn.cursor()
+	query_key = f'SELECT entity_reference FROM strix_entities where entity_id={id}'
+	conn = sqlite3.connect(STRIX_DB_PATH)
+	c = conn.cursor()
 
-     for row in c.execute(query_key):
-          ref = row[0]
+	for row in c.execute(query_key):
+		ref = row[0]
 
-     click.echo(ref)
+	click.echo(ref)
 
 @cli.command()
 @click.argument('ref')
 def id(ref):
-     """Get a Strix object's ID from its reference"""
-     if ref is None:
-        print("Must provide valid Strix entity reference.")
-        return
+	"""Get a Strix object's ID from its reference"""
+	if ref is None:
+		print("Must provide valid Strix entity reference.")
+		return
 
-     query_key=f'SELECT entity_id FROM strix_entities WHERE entity_reference={ref}'
-     conn = sqlite3.connect(STRIX_DB_PATH)
-     c = conn.cursor()
+	query_key=f'SELECT entity_id FROM strix_entities WHERE entity_reference={ref}'
+	conn = sqlite3.connect(STRIX_DB_PATH)
+	c = conn.cursor()
 
-     for row in c.execute(query_key):
-          id = row[0]
+	for row in c.execute(query_key):
+		id = row[0]
 
-     click.echo(id)
+	click.echo(id)
 
 @cli.command()
 @click.argument('category')
 @click.argument('ref')
 def name(category, ref):
-     """Compose filename to follow NatureGuides nomenclature"""
+	"""Compose filename to follow NatureGuides nomenclature"""
 
-     # Future version of this can support other categories but right
-     # now this is strictly for songs.
+	# Future version of this can support other categories but right
+	# now this is strictly for songs.
 
-     if category is not "song":
-        print("Unsupported object category")
-        return
+	if category is not "song":
+	   print("Unsupported object category")
+	   return
 
-     # Songs
+	# Songs
 
-     new_name = f'{ref}.m4a'
-     click.echo(new_name)
+	new_name = f'{ref}.m4a'
+	click.echo(new_name)
 
 
 @cli.command()
 @click.argument('category')
 @click.argument('name')
-def modernname(self, category, name):
-     """Determine modern name for Tengio file"""
+def modernise(self, category, name):
+	"""Determine modern name for Tengio file"""
 
-     # Future version of this can support other categories but right
-     # now this is strictly for songs.
+	# Future version of this can support other categories but right
+	# now this is strictly for songs.
 
-     if category is not "song":
-        print("Unsupported object category")
-        return
+	if category is not "song":
+	   print("Unsupported object category")
+	   return
 
-     # Songs
+	# Songs
 
-     id = name.split('.')[0]
-     ref = self.ref(id)
-     song_name = f'{ref}.m4a'
-     click.echo(song_name)
+	id = name.split('.')[0]
+	ref = self.ref(id)
+	song_name = f'{ref}.m4a'
+	click.echo(song_name)
 
 
-     
+	
 if __name__ == '__main__':
     cli()
