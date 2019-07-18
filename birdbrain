@@ -3,48 +3,9 @@
 import click
 import os
 import sqlite3
+import config
 
 # main.38.com.natureguides.birdguide.obb (original)
-
-PACKAGE = "com.natureguides.birdguide"
-ANDROID_STUDIO_PROJECTS_PATH = os.environ['STUDIO_PROJECT_PATH']
-APP_PATH = f'{ANDROID_STUDIO_PROJECTS_PATH}/collins'
-PLATFORM_TOOLS_PATH = os.environ['PLATFORM_TOOLS_PATH']
-ADB = f'{PLATFORM_TOOLS_PATH}/adb.exe'
-
-NUM_SPECIES_IMAGES = 792
-PROJECT_DIR = "~/Dropbox/natureguides"
-
-ASSETS_SOURCE_DIR = f'{PROJECT_DIR}/assets'
-ASSETS_TARGET_DIR = f'{PROJECT_DIR}/Android/app/src/main/assets'
-
-OBB_VERSION = 119
-OBB_FILENAME = f'main.{OBB_VERSION}.{PACKAGE}.obb'
-
-OBB_SOURCE_DIR = f'{PROJECT_DIR}/assets/expansion'
-OBB_CREATION_PATH = f'{OBB_SOURCE_DIR}/{OBB_FILENAME}'
-
-OBB_DESTINATION_DIR = f'/storage/emulated/0/Android/obb/{PACKAGE}'
-
-OBB_DESTINATION_PATH = f'{OBB_DESTINATION_DIR}/{OBB_FILENAME}'
-
-ORIGINALS_PATH = f'/Users/johngorenfeld/Dropbox/natureguides/assets/HD/Europe'
-ORIGINAL_SPECIES_IMAGES_PATH = f'{ORIGINALS_PATH}/SpeciesImages'
-
-DB_VERSION = 506
-APP_PATH = '/home/john/johng/StudioProjects/collins/'
-DB_FILENAME = f'Strix_BIRDGUIDE_v{DB_VERSION}.db'
-
-STRIX_DB_PATH = f'{APP_PATH}/app/src/main/assets/databases/{DB_FILENAME}'
-
-# Helper utils
-
-def getIfromRGB(rgb):
-    red = rgb[0]
-    green = rgb[1]
-    blue = rgb[2]
-    RGBint = (red<<16) + (green<<8) + blue
-    return RGBint
 
 
 @click.group()
@@ -61,29 +22,29 @@ def settings():
 @cli.command()
 def install():
     """Install APK on device"""
-    DEBUG_APK_PATH = f'/Users/johngorenfeld/Dropbox/natureguides/Android/app/build/outputs/apk/debug/app-debug.apk'
-
+     pass
 
 @cli.command()
 def status():
     """Reports OBB situation, audits assets"""
     
-    click.echo(f'\n\n\n\nBirdbrain status report')
-    click.echo(f'-----------------------')
+    click.echo(f'\n\n\n\nBirdbrain status')
+    click.echo(f'----------------')
 
     click.echo('\nApp version:')
-    cmd = f'grep "versionCode" {APP_PATH}/app/build.gradle'
+    cmd = f'grep "versionCode" {config.APP_PATH}/app/build.gradle'
     os.system(cmd)
 
     click.echo('\nSet up for expansion pack version:')
-    cmd = f'grep -A 1 "obbVersion" {APP_PATH}/app/build.gradle'
+    cmd = f'grep -A 1 "obbVersion" {config.APP_PATH}/app/build.gradle'
     os.system(cmd)
 
     click.echo('\nOn phone right now:')
-    cmd = f'{ADB} shell ls {OBB_DESTINATION_DIR}'
+    cmd = f'{ADB} shell ls {config.OBB_DESTINATION_DIR}'
     os.system(cmd)
 
     click.echo('\n\n')
+
 
 
 @cli.command()
@@ -91,20 +52,20 @@ def status():
 def pack(original):
     """Install OBB expansion pack on Android device"""
     if (original == True):
-            destination_dir = OBB_DESTINATION_DIR_ORIGINAL
+            destination_dir = config.OBB_DESTINATION_DIR_ORIGINAL
             version = 37
             app_package = "com.natureguides.birdguide"
 
     else:
-            destination_dir = OBB_DESTINATION_DIR    
-            version = OBB_VERSION
-            app_package = PACKAGE
+            destination_dir = config.OBB_DESTINATION_DIR    
+            version = config.OBB_VERSION
+            app_package = config.PACKAGE
 
     filename = f'main.{version}.{app_package}.obb'
     destination_path = f'{destination_dir}/{filename}'
-    cmd = f'{ADB} mkdir {destination_dir}'
+    cmd = f'{adb} mkdir {destination_dir}'
     os.system(cmd)
-    cmd = f'{ADB} push {OBB_SOURCE_DIR}/{filename} {destination_path}'
+    cmd = f'{adb} push {OBB_SOURCE_DIR}/{filename} {destination_path}'
     click.echo(cmd)
     os.system(cmd)
 
@@ -123,16 +84,19 @@ def boot():
 
 @cli.command()
 def audit():
-    """Check for missing media assets"""
+     """Check for missing media assets"""
 
-    family_images = os.listdir(f'{ASSETS_SOURCE_DIR}/images/family')
+     path_app_assets = config.PATH_APP_ASSETS
+     path_expansion_assets = config.PATH_EXPANSION_ASSETS
 
-    species_path = f'{ASSETS_SOURCE_DIR}/expansion/images/species'
+     path_family_images = os.listdir(f'{path_app_assets}/images/family')
+     path_species_images = f'{path_expansion_assets}/images/species'
+
     species_images = os.listdir(species_path) 
     click.echo(species_path)
 
-    plumage_images = os.listdir(f'{ASSETS_SOURCE_DIR}/expansion/images/plumages')
-    map_images = os.listdir(f'{ASSETS_SOURCE_DIR}/expansion/images/maps')
+    plumage_images = os.listdir(f'{path_expansion_assets}/images/plumages')
+    map_images = os.listdir(f'{path_expansion_assets}/images/maps')
 
     click.echo(f'Found {len(family_images)} family image files')    
     click.echo(f'Found {len(species_images)} species image files')
@@ -166,14 +130,6 @@ def missing():
     click.echo(len(need_conversion))
 
 
-#     for unconverted in need_conversion:
-#         name = unconverted
-#         click.echo(name)
-#         cmd = f'cp {ORIGINAL_SPECIES_IMAGES_PATH}/{name} {PROJECT_DIR}/assets/images/missing/'
-#         os.system(cmd)
-
-#     click.echo(f'Copied {len(unconverted)} into staging directory, ready for batch conversion')
-
 
 @cli.command()
 def forge():
@@ -181,12 +137,16 @@ def forge():
 
     # zip -r0 zipfilename.zip files-to-zip
 
-    cmd = f'cd {OBB_SOURCE_DIR} && zip -r0 {OBB_FILENAME} ./ -x "*.obb"'
+    obb_source_dir = config.PATH_OBB_SOURCE
+    obb_filename = config.
+    obb_creation_path = config.OBB_CREATION_PATH
+
+    cmd = f'cd {obb_source_dir} && zip -r0 {obb_filename} ./ -x "*.obb"'
     click.echo(cmd)
     os.system(cmd)
 
     click.echo('Resulting in this OBB:')
-    size_cmd = f'ls -lh {OBB_CREATION_PATH}'
+    size_cmd = f'ls -lh {obb_creation_path}'
 
 
 @cli.command()
