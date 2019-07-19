@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>EndPoint</key>
+		<string>{0.72160883280756793, 0.44624137003055531}</string>
+		<key>StartPoint</key>
+		<string>{0.67320350172078136, 0.49167851916880567}</string>
+		<key>Type</key>
+		<string>line</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.1703840348817659</real>
+		<key>Frame</key>
+		<string>{{0.66140904311251159, 0.087306018360667731}, {0.2507618574232961, 0.36029484083960217}}</string>
+		<key>Text</key>
+		<string>&lt;p class="right"&gt;flancs gris pâle plus délicatement tachetés que chez la G. musicienne&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.18731563421829975</real>
+		<key>Frame</key>
+		<string>{{0.73738170347003218, 0.47524380565072716}, {0.24763406940063112, 0.3277275225077701}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;face teintée de chamois ; cercle oculaire plus visible que chez la G. à joues grises&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.26821541710665114</real>
+		<key>Frame</key>
+		<string>{{0.0015772870662458451, 0.029875153658669384}, {0.49038497482205168, 0.22887755443575047}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;la G. à dos olive n’a pas les couv. parotiques marquées, les couv. moyennes à pointe chamois et les flancs chamois de la G. musicienne&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+</array>
+</plist>

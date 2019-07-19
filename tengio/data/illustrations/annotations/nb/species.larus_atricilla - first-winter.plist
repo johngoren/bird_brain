@@ -1,0 +1,126 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>EndPoint</key>
+		<string>{0.57274789994944686, 0.24716680562180235}</string>
+		<key>StartPoint</key>
+		<string>{0.52926434567873692, 0.30950486615864403}</string>
+		<key>Type</key>
+		<string>line</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.24842027057249344</real>
+		<key>Frame</key>
+		<string>{{0.55066464896104184, 0.094572272057170323}, {0.15677984455266619, 0.15432063314458358}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;﻿skittent brystbånd og sider&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.67428030536864414</real>
+		<key>Frame</key>
+		<string>{{0.5358610445944898, 0.2654347867164501}, {0.11945607553194897, 0.056855247195358311}}</string>
+		<key>Text</key>
+		<string>&lt;p class="right"&gt;﻿langt&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>EndPoint</key>
+		<string>{0.62443064757246514, 0.32026199023059038}</string>
+		<key>StartPoint</key>
+		<string>{0.59577588987026875, 0.36230288608563715}</string>
+		<key>Type</key>
+		<string>line</string>
+	</dict>
+	<dict>
+		<key>EndPoint</key>
+		<string>{0.45068869165340109, 0.11237149907197}</string>
+		<key>StartPoint</key>
+		<string>{0.41633196899643021, 0.10733482191615636}</string>
+		<key>Type</key>
+		<string>line</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.55529257587653891</real>
+		<key>Frame</key>
+		<string>{{0.45211370672030016, 0.068175067652186699}, {0.1171543186361262, 0.069038152329303756}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;lange&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.5899980494245789</real>
+		<key>Frame</key>
+		<string>{{0.20700165212282789, 0.022382935167949699}, {0.16690971705232996, 0.064977118955029015}}</string>
+		<key>Text</key>
+		<string>&lt;p class="right"&gt;&lt;b&gt;﻿1. vinter&lt;/b&gt;&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.40170072266411067</real>
+		<key>Frame</key>
+		<string>{{0.11755191994371685, 0.66124768541220968}, {0.10757071597835774, 0.095435161745406172}}</string>
+		<key>Text</key>
+		<string>&lt;p class="right"&gt;﻿mørke sider&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>EndPoint</key>
+		<string>{0.21005538224088482, 0.67614926990413826}</string>
+		<key>StartPoint</key>
+		<string>{0.22687803438809032, 0.65445997813593126}</string>
+		<key>Type</key>
+		<string>line</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.60902912440911705</real>
+		<key>Frame</key>
+		<string>{{0.12139373527632949, 0.77836603267619464}, {0.13438270026760518, 0.062946699762330874}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;&lt;b&gt;1. vint.&lt;/b&gt;&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.55529257587653891</real>
+		<key>Frame</key>
+		<string>{{0.49417307739468264, 0.68053364541522621}, {0.18148243367408984, 0.069038152329303756}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;﻿gråmønstret&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.24091159952253319</real>
+		<key>Frame</key>
+		<string>{{0.52093789356274078, 0.74522491067424779}, {0.37395559453512595, 0.15913045912556914}}</string>
+		<key>Text</key>
+		<string>&lt;p class="center"&gt;﻿mer hengslete kroppsform og lengre nebb og bein skiller lattermåke fra franklinmåke&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>EndPoint</key>
+		<string>{0.48725780979597938, 0.72317498331730579}</string>
+		<key>StartPoint</key>
+		<string>{0.40184594321203637, 0.72317498331730579}</string>
+		<key>Type</key>
+		<string>line</string>
+	</dict>
+</array>
+</plist>

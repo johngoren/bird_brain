@@ -1,0 +1,126 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>FontScale</key>
+		<real>0.37019365650213182</real>
+		<key>Frame</key>
+		<string>{{0.78195644536259956, 0.39264722566946503}, {0.21804355463739722, 0.088508693969159155}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;thick eye-crescents &lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>EndPoint</key>
+		<string>{0.88834955118367653, 0.32271236000850234}</string>
+		<key>StartPoint</key>
+		<string>{0.87588222619173473, 0.35530914059862284}</string>
+		<key>Type</key>
+		<string>line</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.58442623925424786</real>
+		<key>Frame</key>
+		<string>{{0.84836044771130603, 0.26203338996360565}, {0.14043086548620823, 0.056064144372575002}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;short&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.51026721757365623</real>
+		<key>Frame</key>
+		<string>{{0.7225938001150457, 0.058032845230483125}, {0.24957085248442726, 0.064212153797518032}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;bright red&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>EndPoint</key>
+		<string>{0.71091292169145925, 0.10314827211041021}</string>
+		<key>StartPoint</key>
+		<string>{0.64346378703658758, 0.097018106989649508}</string>
+		<key>Type</key>
+		<string>line</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.61461895800378885</real>
+		<key>Frame</key>
+		<string>{{0.31900498103818642, 0.023051945105077826}, {0.26753076788027053, 0.053310033193719394}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;&lt;b&gt;ad. summer&lt;/b&gt;&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.3434068909142366</real>
+		<key>Frame</key>
+		<string>{{0.050117546881562766, 0.03301886292977857}, {0.2259855713358267, 0.095412637077379209}}</string>
+		<key>Text</key>
+		<string>&lt;p class="right"&gt;large &lt;/p&gt;&lt;p class="right"&gt;white tips&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>EndPoint</key>
+		<string>{0.21229619421493739, 0.13310485275017003}</string>
+		<key>StartPoint</key>
+		<string>{0.22147989444976621, 0.18507267390017415}</string>
+		<key>Type</key>
+		<string>line</string>
+	</dict>
+	<dict>
+		<key>EndPoint</key>
+		<string>{0.30542246216334706, 0.73766427731676709}</string>
+		<key>StartPoint</key>
+		<string>{0.3277217066003133, 0.76854702152007603}</string>
+		<key>Type</key>
+		<string>line</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.25160510100266797</real>
+		<key>Frame</key>
+		<string>{{0.24505681905668408, 0.6055914650007318}, {0.17683816471212177, 0.13022532898617095}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;pale grey centre&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.61461895800378885</real>
+		<key>Frame</key>
+		<string>{{0.1763010859053136, 0.85492318652492838}, {0.20094937235789356, 0.053310033193719394}}</string>
+		<key>Text</key>
+		<string>&lt;p class="right"&gt;&lt;b&gt;ad. s.&lt;/b&gt;&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.29639367196615812</real>
+		<key>Frame</key>
+		<string>{{0.3858738893854608, 0.58875965603587421}, {0.18825887621524773, 0.11054674964994637}}</string>
+		<key>Text</key>
+		<string>&lt;p class="right"&gt;white band&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>EndPoint</key>
+		<string>{0.58595922024459557, 0.67886088487287544}</string>
+		<key>StartPoint</key>
+		<string>{0.67392151614666107, 0.70239715971718031}</string>
+		<key>Type</key>
+		<string>line</string>
+	</dict>
+</array>
+</plist>

@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>FontScale</key>
+		<real>0.43644239062852525</real>
+		<key>Frame</key>
+		<string>{{0.73857868020304573, 0.30715083406910842}, {0.26142131979695432, 0.14821609102046288}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;﻿rødbrun overgump&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>EndPoint</key>
+		<string>{0.75926643665397731, 0.24806592799846369}</string>
+		<key>StartPoint</key>
+		<string>{0.84062648582910315, 0.32173105334731406}</string>
+		<key>Type</key>
+		<string>line</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.26878306878307223</real>
+		<key>Frame</key>
+		<string>{{0, 0.085455098144567851}, {0.36243654822335025, 0.24066912171016885}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;﻿hele fuglen flekket og streket&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.65801279325613293</real>
+		<key>Frame</key>
+		<string>{{0.053299492385786393, 0.7004347401018487}, {0.15638707131494961, 0.098307792428294072}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;&lt;b&gt;juv.&lt;/b&gt;&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+</array>
+</plist>

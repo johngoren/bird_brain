@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>FontScale</key>
+		<real>0.61936654548662085</real>
+		<key>Frame</key>
+		<string>{{0.76302016188696697, 0.17214883130228104}, {0.17650085447471139, 0.073910636656045359}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;&lt;b&gt;ad. sommer&lt;/b&gt;&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.26551539320390949</real>
+		<key>Frame</key>
+		<string>{{0.83517447266638201, 0.55988453440823083}, {0.13973314294321323, 0.1724110046803026}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;&lt;b&gt;﻿ad. parringsdrakt&lt;/b&gt;&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.47744360902252858</real>
+		<key>Frame</key>
+		<string>{{0.51589817454542375, 0.90411898947795599}, {0.36625211255770934, 0.095881010522043786}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;﻿først mørkt, blir raskt gult&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.64612331949631141</real>
+		<key>Frame</key>
+		<string>{{0.49980972413903707, 0.693973767168372}, {0.13074128564184453, 0.070849904838689165}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;kort&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>EndPoint</key>
+		<string>{0.52943357870516161, 0.7707506665713566}</string>
+		<key>StartPoint</key>
+		<string>{0.52960852279085757, 0.81894618323155455}</string>
+		<key>Type</key>
+		<string>line</string>
+	</dict>
+	<dict>
+		<key>EndPoint</key>
+		<string>{0.52760752360601237, 0.87610612783922848}</string>
+		<key>StartPoint</key>
+		<string>{0.55963047747933137, 0.9069998080142504}</string>
+		<key>Type</key>
+		<string>line</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.47744360902252858</real>
+		<key>Frame</key>
+		<string>{{0.51589817454542375, 0.90411898947795599}, {0.36625211255770934, 0.095881010522043786}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;﻿først mørkt, blir raskt gult&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.61936654548662085</real>
+		<key>Frame</key>
+		<string>{{0.096300645593438733, 0.14534399195020206}, {0.17650085447471139, 0.073910636656045359}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;&lt;b&gt;﻿juv.&lt;/b&gt;&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+</array>
+</plist>

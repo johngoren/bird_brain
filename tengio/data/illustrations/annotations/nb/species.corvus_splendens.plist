@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>FontScale</key>
+		<real>0.28059679339154292</real>
+		<key>Frame</key>
+		<string>{{0.63396502228148899, 0.13826017126542131}, {0.10524272981669235, 0.14845896788704036}}</string>
+		<key>Text</key>
+		<string>&lt;p class="center"&gt;﻿variasjon i lyshet&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>EndPoint</key>
+		<string>{0.83564333564880511, 0.80339896300618308}</string>
+		<key>StartPoint</key>
+		<string>{0.84755500401536676, 0.75897828418847069}</string>
+		<key>Type</key>
+		<string>line</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.50870138942793031</real>
+		<key>Frame</key>
+		<string>{{0.78874078130574166, 0.76925063555863471}, {0.059509602010523903, 0.081889122390972527}}</string>
+		<key>Text</key>
+		<string>&lt;p class="right"&gt;﻿lang&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.45853633507706953</real>
+		<key>Frame</key>
+		<string>{{0.10541266487485912, 0.047412168277129033}, {0.35355684049412184, 0.090848002988290877}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;﻿sees helst nær menneskelig bosetting&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.26922386984664753</real>
+		<key>Frame</key>
+		<string>{{0.67214743395980647, 0.56752519365340581}, {0.073379131098102415, 0.15473037499628045}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;﻿mørkt «ansikt»&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>EndPoint</key>
+		<string>{0.66819735496065502, 0.70813782905229272}</string>
+		<key>StartPoint</key>
+		<string>{0.65006718054599144, 0.7427592718358309}</string>
+		<key>Type</key>
+		<string>line</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.48006328959384481</real>
+		<key>Frame</key>
+		<string>{{0.65888761519521566, 0.82467140702894981}, {0.11042083239229968, 0.086774205073179747}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;﻿bratt panne&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>EndPoint</key>
+		<string>{0.65505117858999862, 0.8868278663510335}</string>
+		<key>StartPoint</key>
+		<string>{0.64133474800576795, 0.85326714634305978}</string>
+		<key>Type</key>
+		<string>line</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.2811762585915451</real>
+		<key>Frame</key>
+		<string>{{0.49854405826789028, 0.66814353885001332}, {0.070433174165562801, 0.14815301458234206}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;﻿drøyt kaiestor&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+</array>
+</plist>

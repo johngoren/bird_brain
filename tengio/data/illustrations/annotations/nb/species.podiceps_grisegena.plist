@@ -1,0 +1,252 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>FontScale</key>
+		<real>0.33131349512174985</real>
+		<key>Frame</key>
+		<string>{{0.637576766941641, 0.11017455471247665}, {0.04103477961038441, 0.10140813661155267}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;&lt;b&gt;ad. som.&lt;/b&gt;&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>EndPoint</key>
+		<string>{0.4472518953204766, 0.34032713833941369}</string>
+		<key>StartPoint</key>
+		<string>{0.46415717371718901, 0.39809642298248948}</string>
+		<key>Type</key>
+		<string>line</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.29416110909315107</real>
+		<key>Frame</key>
+		<string>{{0.46720377447182398, 0.31078060251820522}, {0.057695927224419866, 0.11421592840105201}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;﻿mørkt med gul basis&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.50381863378792557</real>
+		<key>Frame</key>
+		<string>{{0.42678500564712812, 0.20898220801685527}, {0.04685533567055461, 0.066686465964853309}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;mørk&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>EndPoint</key>
+		<string>{0.40774488676323156, 0.25245261430000276}</string>
+		<key>StartPoint</key>
+		<string>{0.42281319460788652, 0.25529594302347791}</string>
+		<key>Type</key>
+		<string>line</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.48202193992551051</real>
+		<key>Frame</key>
+		<string>{{0.42679103264121454, 0.071514562180139643}, {0.04430423423494359, 0.069701981158263163}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;&lt;b&gt;vinter&lt;/b&gt;&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>EndPoint</key>
+		<string>{0.20040875990489884, 0.25700770820859065}</string>
+		<key>StartPoint</key>
+		<string>{0.18508073403241598, 0.25347599702344376}</string>
+		<key>Type</key>
+		<string>line</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.44932401981796394</real>
+		<key>Frame</key>
+		<string>{{0.20325638378925132, 0.19698273530713978}, {0.049869912470030919, 0.074774289138090158}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;﻿rødbrun&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.52881821678046703</real>
+		<key>Frame</key>
+		<string>{{0.20012608581497798, 0.094471131006581874}, {0.035352880999791579, 0.063533900891514061}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;&lt;b&gt;juv.&lt;/b&gt;&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.28856068195865703</real>
+		<key>Frame</key>
+		<string>{{0.017274836560092013, 0.30389414215537791}, {0.12868756322498365, 0.11643264753363407}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;﻿større tendens til å «hoppdykke» enn toppdykkeren&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.28912355865139566</real>
+		<key>Frame</key>
+		<string>{{0.25027068431717375, 0.25493349038618351}, {0.099221265642303907, 0.11620597204625339}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;﻿sammenlign med horndykker (t.h.)&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.64650291013120265</real>
+		<key>Frame</key>
+		<string>{{0.82290975132657229, 0.23809524354412731}, {0.050662388412329604, 0.051968651104353066}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;&lt;b&gt;ad. vinter&lt;/b&gt;&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.26111539450013094</real>
+		<key>Frame</key>
+		<string>{{0.90826144494950289, 0.19102866029008961}, {0.082022237813949753, 0.12867063712913543}}</string>
+		<key>Text</key>
+		<string>&lt;p class="right"&gt;﻿kortere, tykkere og mørkere hals enn toppdykker&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>EndPoint</key>
+		<string>{0.93864855370082978, 0.32456967769531025}</string>
+		<key>StartPoint</key>
+		<string>{0.93531796623530683, 0.36695458923560681}</string>
+		<key>Type</key>
+		<string>line</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.20324064812962103</real>
+		<key>Frame</key>
+		<string>{{0.91232581131249957, 0.44580027356419843}, {0.081751826272848369, 0.16531084939824453}}</string>
+		<key>Text</key>
+		<string>&lt;p class="right"&gt;﻿holder ofte halsen lavt i flukt, gir inntrykk av pukkelrygg&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>EndPoint</key>
+		<string>{0.80352562324044896, 0.78756615244613637}</string>
+		<key>StartPoint</key>
+		<string>{0.78533416426439639, 0.76064816256612788}</string>
+		<key>Type</key>
+		<string>line</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.23810639793766866</real>
+		<key>Frame</key>
+		<string>{{0.77413735497061176, 0.66445107096792178}, {0.075790755607119925, 0.14110449977640929}}</string>
+		<key>Text</key>
+		<string>&lt;p class="right"&gt;﻿mørk, ingen hvit «bro»&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>EndPoint</key>
+		<string>{0.81098928786808888, 0.62037038238062492}</string>
+		<key>StartPoint</key>
+		<string>{0.7939576573945798, 0.66931218216246036}</string>
+		<key>Type</key>
+		<string>line</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.13879781420765128</real>
+		<key>Frame</key>
+		<string>{{0.79782848250219496, 0.37698413481690329}, {0.036330390309800224, 0.24206349621826606}}</string>
+		<key>Text</key>
+		<string>&lt;p class="right"&gt;﻿begrenset hvitt på framvingen&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.64650291013120265</real>
+		<key>Frame</key>
+		<string>{{0.70903744966071613, 0.52270707791183002}, {0.028917499357532361, 0.051968651104353066}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;&lt;b&gt;juv.&lt;/b&gt;&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.41052093501259629</real>
+		<key>Frame</key>
+		<string>{{0.44144824997207105, 0.52344314023841554}, {0.05131817363539222, 0.081842072618115047}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;&lt;b&gt;ad. som.&lt;/b&gt;&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.47988096264830554</real>
+		<key>Frame</key>
+		<string>{{0.011596137262813853, 0.59479410722330794}, {0.20849996502141482, 0.070012954856849705}}</string>
+		<key>Text</key>
+		<string>&lt;p class="center"&gt;﻿sammenlign med toppdykker i vinterdrakt (t.h.)&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>EndPoint</key>
+		<string>{0.38904666792349207, 0.69486381411514753}</string>
+		<key>StartPoint</key>
+		<string>{0.3843159491342486, 0.73778215346586273}</string>
+		<key>Type</key>
+		<string>line</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.19688812291463872</real>
+		<key>Frame</key>
+		<string>{{0.37568280154632067, 0.51768875116686097}, {0.049316321991228776, 0.1706445451213115}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;﻿mørk, kompakt&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.56816129893360867</real>
+		<key>Frame</key>
+		<string>{{0.24428872805114571, 0.75842675429581607}, {0.036130658809987268, 0.059134411720083394}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;&lt;b&gt;vinter&lt;/b&gt;&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.16348585261887891</real>
+		<key>Frame</key>
+		<string>{{0.47786661687628795, 0.53657778345649187}, {0.19813733816807785, 0.2055094287141859}}</string>
+		<key>Text</key>
+		<string>&lt;p class="right"&gt;﻿gråstrupedykker på våren (midten) omgitt av to horndykkere (den t.v. myter fra vinter- til sommerdrakt)&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+</array>
+</plist>

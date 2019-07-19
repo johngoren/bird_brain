@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>FontScale</key>
+		<real>0.56620612693041439</real>
+		<key>Frame</key>
+		<string>{{0.19822210709108842, 0.16086541539461752}, {0.15912328727229674, 0.039359017217671384}}</string>
+		<key>Text</key>
+		<string>&lt;p class="right"&gt;&lt;b&gt;juv.&lt;/b&gt;&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.36303675459086227</real>
+		<key>Frame</key>
+		<string>{{0.55284042189984872, 0.37933153631379385}, {0.31736116848137375, 0.061385841562297115}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;light red-&lt;/p&gt;&lt;p&gt;brown&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>EndPoint</key>
+		<string>{0.72081741286538381, 0.40433671449923525}</string>
+		<key>StartPoint</key>
+		<string>{0.75195074588828226, 0.3701942162334585}</string>
+		<key>Type</key>
+		<string>line</string>
+	</dict>
+	<dict>
+		<key>EndPoint</key>
+		<string>{0.21328407250401507, 0.84484975621773029}</string>
+		<key>StartPoint</key>
+		<string>{0.36377831901230884, 0.87755528769839708}</string>
+		<key>Type</key>
+		<string>line</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.35876979449130009</real>
+		<key>Frame</key>
+		<string>{{0.53815687141402047, 0.82829107822218595}, {0.2481220285397828, 0.062115922356851615}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;&lt;b&gt;1st-winter&lt;/b&gt;&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.20763618045236637</real>
+		<key>Frame</key>
+		<string>{{0.13058928022957222, 0.54710388704281532}, {0.32331981625759137, 0.10732867773840436}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;black trail­-&lt;/p&gt;&lt;p&gt;ing band, base white&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>EndPoint</key>
+		<string>{0.18476337956133251, 0.65684934960929697}</string>
+		<key>StartPoint</key>
+		<string>{0.24885229877442483, 0.67944496807165489}</string>
+		<key>Type</key>
+		<string>line</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.23518519183081688</real>
+		<key>Frame</key>
+		<string>{{0.10821153167103116, 0.7497771286293502}, {0.22396979720598581, 0.094756462025195873}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;large white patches&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+</array>
+</plist>

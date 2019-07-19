@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>FontScale</key>
+		<real>0.35875706214689684</real>
+		<key>Frame</key>
+		<string>{{0.036052677471966089, 0.44469010345646676}, {0.28934155909642284, 0.089021865291231808}}</string>
+		<key>Text</key>
+		<string>&lt;p class="center"&gt;surveillent de près un Aigle royal, dans l’espoir d’obtenir quelques restes&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>EndPoint</key>
+		<string>{0.70002841950814643, 0.64979123429634711}</string>
+		<key>StartPoint</key>
+		<string>{0.70039054064499551, 0.69475726930900605}</string>
+		<key>Type</key>
+		<string>line</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.3123122210492712</real>
+		<key>Frame</key>
+		<string>{{0.6892094933438786, 0.543842786347426}, {0.070100955105328072, 0.10226056076646656}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;très puissant&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.20011254924029437</real>
+		<key>Frame</key>
+		<string>{{0.59026716487441744, 0.2329129057600067}, {0.10329257712231124, 0.1595963020808307}}</string>
+		<key>Text</key>
+		<string>&lt;p class="center"&gt;grand, de la taille d’une Buse variable&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>EndPoint</key>
+		<string>{0.85545642196777483, 0.52347399394348793}</string>
+		<key>StartPoint</key>
+		<string>{0.88164614546975273, 0.52274517706243795}</string>
+		<key>Type</key>
+		<string>line</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.23870140965399789</real>
+		<key>Frame</key>
+		<string>{{0.78093897030857429, 0.40456853859100733}, {0.094024101447032535, 0.13379570277784586}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;ailes assez longues, étroites et pointues&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.36153803718210509</real>
+		<key>Frame</key>
+		<string>{{0.72239777114255155, 0.18711708246454239}, {0.079159408241867735, 0.088337103082275381}}</string>
+		<key>Text</key>
+		<string>&lt;p class="right"&gt;queue cunéiforme&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>EndPoint</key>
+		<string>{0.80627447407907948, 0.23038703463290303}</string>
+		<key>StartPoint</key>
+		<string>{0.8324641975810575, 0.22965821775185299}</string>
+		<key>Type</key>
+		<string>line</string>
+	</dict>
+</array>
+</plist>

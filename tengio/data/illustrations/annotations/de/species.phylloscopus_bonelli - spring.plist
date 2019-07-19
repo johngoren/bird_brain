@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>EndPoint</key>
+		<string>{0.38288797242517658, 0.71704472082118753}</string>
+		<key>StartPoint</key>
+		<string>{0.46022840052551495, 0.60455997006069639}</string>
+		<key>Type</key>
+		<string>line</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.21233019853711033</real>
+		<key>Frame</key>
+		<string>{{0.10986853816281235, 0.60085825033786278}, {0.28243687297261227, 0.22855181842426101}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;leuchtend gelblich grüne Flügel heben sich vom sonst matt gefärbten Gefieder ab&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.65463917525781556</real>
+		<key>Frame</key>
+		<string>{{0.42509486980815925, 0.19803865593658199}, {0.12032898073782715, 0.07413007778358062}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;&lt;b&gt;Frühjahr&lt;/b&gt;&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>EndPoint</key>
+		<string>{0.66863653234724341, 0.44832318885572175}</string>
+		<key>StartPoint</key>
+		<string>{0.74597696044758743, 0.33583843809523772}</string>
+		<key>Type</key>
+		<string>line</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.68648648648660671</real>
+		<key>Frame</key>
+		<string>{{0.70507602760336507, 0.26027544160156846}, {0.16646819775276636, 0.07069105355650393}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;seidenweiß&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.27965868428296847</real>
+		<key>Frame</key>
+		<string>{{0.81951551488404306, 0.52594006314299824}, {0.15204969243559754, 0.17352743079109295}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;Ohrdecken hell bräunlich&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.19411539931225316</real>
+		<key>Frame</key>
+		<string>{{0.7465753715450808, 0.7500020443819696}, {0.19059576760526667, 0.24999795561803045}}</string>
+		<key>Text</key>
+		<string>&lt;p class="right"&gt; Augenring und Zügelhell&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>EndPoint</key>
+		<string>{0.86345232570876873, 0.8883445015127136}</string>
+		<key>StartPoint</key>
+		<string>{0.78714662771363486, 0.81584057306950397}</string>
+		<key>Type</key>
+		<string>line</string>
+	</dict>
+</array>
+</plist>

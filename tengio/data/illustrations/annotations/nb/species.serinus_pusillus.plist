@@ -1,0 +1,128 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>FontScale</key>
+		<real>0.61935093654903883</real>
+		<key>Frame</key>
+		<string>{{0.051540298833307782, 0.13543413523286449}, {0.28164489135736376, 0.071784627579705024}}</string>
+		<key>Text</key>
+		<string>&lt;p class="center"&gt;﻿furasjerende flokk i fjellskråning&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.63999583336045984</real>
+		<key>Frame</key>
+		<string>{{0.43198990893961714, 0.34404617203036542}, {0.05870176359646502, 0.069469009021303249}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;&lt;b&gt;juv.&lt;/b&gt;&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.56123844241259768</real>
+		<key>Frame</key>
+		<string>{{0.59589738791585067, 0.86238607959736802}, {0.078067624312455702, 0.079217446563700167}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;﻿kanelbrun&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>EndPoint</key>
+		<string>{0.59373516531891812, 0.91155983403353258}</string>
+		<key>StartPoint</key>
+		<string>{0.57788298380342906, 0.88593522269171854}</string>
+		<key>Type</key>
+		<string>line</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.71992793690084722</real>
+		<key>Frame</key>
+		<string>{{0.59819906453236515, 0.17201606525735069}, {0.042989407332132738, 0.061756009237126673}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;&lt;b&gt;ad.&lt;/b&gt;&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.26565166457910278</real>
+		<key>Frame</key>
+		<string>{{0.78653884922431461, 0.62415981022841138}, {0.063775363015674602, 0.16736155744311368}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;﻿kort og butt, gråsvart&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>EndPoint</key>
+		<string>{0.78433702733765254, 0.76000329334084216}</string>
+		<key>StartPoint</key>
+		<string>{0.7694495893588611, 0.74015228274653566}</string>
+		<key>Type</key>
+		<string>line</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.61935093654903883</real>
+		<key>Frame</key>
+		<string>{{0.77003258432877952, 0.81900880409631727}, {0.07331006359759111, 0.071784627579705024}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;﻿blodrød&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>EndPoint</key>
+		<string>{0.76740007938240462, 0.85835723828949329}</string>
+		<key>StartPoint</key>
+		<string>{0.75444999455921535, 0.80645238537774622}</string>
+		<key>Type</key>
+		<string>line</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.14906945322700227</real>
+		<key>Frame</key>
+		<string>{{0.85872428828482317, 0.66209436896286644}, {0.14127571171517692, 0.2982494089759018}}</string>
+		<key>Text</key>
+		<string>&lt;p class="center"&gt;﻿kjønnene ofte like, men en del ♀♀ har ﻿mindre utbredt svart på hode, hals og bryst, samt har streket overgump&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>EndPoint</key>
+		<string>{0.87861188107524368, 0.54387732716120574}</string>
+		<key>StartPoint</key>
+		<string>{0.90343759429421133, 0.48592090476368577}</string>
+		<key>Type</key>
+		<string>line</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.6397292812286467</real>
+		<key>Frame</key>
+		<string>{{0.79395494392454391, 0.50559946163436664}, {0.081575757890788192, 0.06949795425328327}}</string>
+		<key>Text</key>
+		<string>&lt;p class="right"&gt;﻿beigegul&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.71110596711539986</real>
+		<key>Frame</key>
+		<string>{{0.93702062481752924, 0.091990187409835791}, {0.043469356460990136, 0.062522153346097897}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;&lt;b&gt;ad.&lt;/b&gt;&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+</array>
+</plist>

@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>EndPoint</key>
+		<string>{0.68601931799277005, 0.55087460700024282}</string>
+		<key>StartPoint</key>
+		<string>{0.59966660027677554, 0.59474507196509341}</string>
+		<key>Type</key>
+		<string>line</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.18812391225911759</real>
+		<key>Frame</key>
+		<string>{{0.60657758312507237, 0.37947741077968949}, {0.28277455172850396, 0.18597412131769162}}</string>
+		<key>Text</key>
+		<string>&lt;p class="right"&gt;poitrine et flancs teintés de brun olive&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.40218718740219261</real>
+		<key>Frame</key>
+		<string>{{0.2880740846579018, 0.19872696289855332}, {0.29166220217505606, 0.086989790766878045}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;&lt;b&gt;en été&lt;/b&gt;&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>EndPoint</key>
+		<string>{0.38551666667245277, 0.7984851169746191}</string>
+		<key>StartPoint</key>
+		<string>{0.35759321145862338, 0.82410491755064452}</string>
+		<key>Type</key>
+		<string>line</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.33571391371683845</real>
+		<key>Frame</key>
+		<string>{{0.28062259309208087, 0.79179138167150764}, {0.23973662612339061, 0.10421426652797412}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;brun olive sombre&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.32413771500452593</real>
+		<key>Frame</key>
+		<string>{{0.76713631165219986, 0.7161687605972723}, {0.16004647268937966, 0.10793615695337211}}</string>
+		<key>Text</key>
+		<string>&lt;p class="right"&gt;long et fin&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>EndPoint</key>
+		<string>{0.86970238182030224, 0.83236936934936356}</string>
+		<key>StartPoint</key>
+		<string>{0.87272957674521523, 0.86294784100461741}</string>
+		<key>Type</key>
+		<string>line</string>
+	</dict>
+	<dict>
+		<key>EndPoint</key>
+		<string>{0.76382316155247965, 0.90633621294787781}</string>
+		<key>StartPoint</key>
+		<string>{0.79248274449793465, 0.933195681293706}</string>
+		<key>Type</key>
+		<string>line</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.39750146327557367</real>
+		<key>Frame</key>
+		<string>{{0.58708906672216654, 0.9119847786397155}, {0.34582563420850942, 0.088015221360282725}}</string>
+		<key>Text</key>
+		<string>&lt;p class="right"&gt;pas de pâle au-dessus de l’œil&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+</array>
+</plist>

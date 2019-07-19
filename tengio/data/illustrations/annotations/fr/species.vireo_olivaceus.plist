@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>FontScale</key>
+		<real>0.20264990561083415</real>
+		<key>Frame</key>
+		<string>{{0.48926290620299162, 0.70664341599035252}, {0.3518017213365271, 0.24006432827082702}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;adulte et 1er hiver très semblables ; iris rouge vif chez l’adulte, plus terne chez le 1er hiver&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.41794229200707578</real>
+		<key>Frame</key>
+		<string>{{0.85122133013856449, 0.68733637817496007}, {0.088416709379667321, 0.11640126973268301}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;gris plomb&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>EndPoint</key>
+		<string>{0.84641598688162478, 0.77275944906163108}</string>
+		<key>StartPoint</key>
+		<string>{0.81537810269742284, 0.74556196909322869}</string>
+		<key>Type</key>
+		<string>line</string>
+	</dict>
+	<dict>
+		<key>EndPoint</key>
+		<string>{0.89014972694549788, 0.55945128412121392}</string>
+		<key>StartPoint</key>
+		<string>{0.88362155686706978, 0.60223838965922982}</string>
+		<key>Type</key>
+		<string>line</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.29266887512602624</real>
+		<key>Frame</key>
+		<string>{{0.84547949899675479, 0.37655249835994381}, {0.1545205010032453, 0.16622544315196697}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;fort, à extrémité crochue&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.52500060081550581</real>
+		<key>Frame</key>
+		<string>{{0.75101566033279576, 0.20093071466237353}, {0.22249511092378807, 0.092664681505207458}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;&lt;b&gt;1er hiver&lt;/b&gt;&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.27468329229318406</real>
+		<key>Frame</key>
+		<string>{{0.026320167704226956, 0.026025822112215859}, {0.41740602868409016, 0.17710947418194525}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;taille et proportions semblables à l’Hypolaïs ictérine, mais queue plus courte&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.20264990561083415</real>
+		<key>Frame</key>
+		<string>{{0.48926290620299162, 0.70664341599035252}, {0.3518017213365271, 0.24006432827082702}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;adulte et 1er hiver très semblables ; iris rouge vif chez l’adulte, plus terne chez le 1er hiver&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+</array>
+</plist>

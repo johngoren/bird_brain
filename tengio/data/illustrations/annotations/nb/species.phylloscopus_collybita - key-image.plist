@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>FontScale</key>
+		<real>0.18978477267381116</real>
+		<key>Frame</key>
+		<string>{{0, 0.095218925799570267}, {0.48081388546000237, 0.26586560043075358}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;﻿en viss variasjon i bl.a. mengden av gult på undersiden, også i V- og Mellom-Europa, gjør at underarts-bestemmelse av enkeltindivider i felt er vanskelig eller umulig&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.37080291970789908</real>
+		<key>Frame</key>
+		<string>{{0.60302498903989077, 0.11627588528458924}, {0.31966973549612798, 0.13607563440785386}}</string>
+		<key>Text</key>
+		<string>&lt;p class="right"&gt;&lt;b&gt;&lt;i&gt;collybita&lt;/i&gt;&lt;/b&gt;&lt;/p&gt;&lt;p class="right"&gt;(﻿V- og Mellom-Europa)&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.22987225894572258</real>
+		<key>Frame</key>
+		<string>{{0.78956597983340671, 0.33649422167773341}, {0.21043402016659343, 0.219501225467362}}</string>
+		<key>Text</key>
+		<string>&lt;p class="center"&gt;﻿betydelig overlapping mellom disse underartene&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>EndPoint</key>
+		<string>{0.75531565103024811, 0.48020105834921245}</string>
+		<key>StartPoint</key>
+		<string>{0.81781943695679582, 0.48020371336503875}</string>
+		<key>Type</key>
+		<string>line</string>
+	</dict>
+</array>
+</plist>

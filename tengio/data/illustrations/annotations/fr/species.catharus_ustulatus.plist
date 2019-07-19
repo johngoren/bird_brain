@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>FontScale</key>
+		<real>0.46213732450339168</real>
+		<key>Frame</key>
+		<string>{{0.17383017166141695, 0.56131855477317083}, {0.19543538415925735, 0.071106346892382766}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;G. MUSICIENNE&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>EndPoint</key>
+		<string>{0.38104362867273955, 0.45945238526369708}</string>
+		<key>StartPoint</key>
+		<string>{0.34429483381154863, 0.48571522806816581}</string>
+		<key>Type</key>
+		<string>line</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.15906244408659473</real>
+		<key>Frame</key>
+		<string>{{0.3396912871624847, 0.30580736207986026}, {0.17075795382373946, 0.20659117302489155}}</string>
+		<key>Text</key>
+		<string>&lt;p class="right"&gt;couv. parotiques plus nettement marquées&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>EndPoint</key>
+		<string>{0.75270948326439546, 0.23887038042812078}</string>
+		<key>StartPoint</key>
+		<string>{0.70971178524858403, 0.26319261908447833}</string>
+		<key>Type</key>
+		<string>line</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.1703840348817659</real>
+		<key>Frame</key>
+		<string>{{0.69923495226113641, 0.046734398063651553}, {0.22274783329214981, 0.19286370892002236}}</string>
+		<key>Text</key>
+		<string>&lt;p class="right"&gt;flancs gris pâle plus délicatement tachetés que chez la G. musicienne&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.18731563421829975</real>
+		<key>Frame</key>
+		<string>{{0.76672027741372462, 0.2543952136130363}, {0.21996946814441648, 0.17543061498945342}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;face teintée de chamois ; cercle oculaire plus visible que chez la G. à joues grises&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.26821541710665114</real>
+		<key>Frame</key>
+		<string>{{0.11311673034767171, 0.015991994017287729}, {0.43560129815217125, 0.12251680855090172}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;la G. à dos olive n’a pas les couv. parotiques marquées, les couv. moyennes à pointe chamois et les flancs chamois de la G. musicienne&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.42492680886657935</real>
+		<key>Frame</key>
+		<string>{{0.4353649957821667, 0.51767050970710238}, {0.54043398481223603, 0.077333075302324972}}</string>
+		<key>Text</key>
+		<string>&lt;p class="center"&gt;la G. à dos olive (à dr.) ne présente pas le vague sourcil en arrière de l’œil de la G. musicienne&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.1732083966519983</real>
+		<key>Frame</key>
+		<string>{{0.7050727831566902, 0.78366642869044667}, {0.26483885497198834, 0.18971884471673917}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;bien plus petite que la G. musicienne (à g.)&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+</array>
+</plist>

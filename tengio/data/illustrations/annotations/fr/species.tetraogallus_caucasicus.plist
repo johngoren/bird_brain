@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>FontScale</key>
+		<real>0.38484789465138308</real>
+		<key>Frame</key>
+		<string>{{0.12964291731808325, 0.92911551770546896}, {0.22490468497894731, 0.050019820147128448}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;♂ chanteur, attitude de parade&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.22285588944943893</real>
+		<key>Frame</key>
+		<string>{{0.85631943574055214, 0.16517761793149496}, {0.143680564259448, 0.086378791792400086}}</string>
+		<key>Text</key>
+		<string>&lt;p class="right"&gt;sombre, densément barré et vermiculé&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.49559890504171605</real>
+		<key>Frame</key>
+		<string>{{0.5408204145107004, 0.32755146495929749}, {0.14462570070221542, 0.038841939073378066}}</string>
+		<key>Text</key>
+		<string>&lt;p class="right"&gt;sombre&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>EndPoint</key>
+		<string>{0.69003086993513263, 0.35429941353615768}</string>
+		<key>StartPoint</key>
+		<string>{0.72548149691575448, 0.34459632229221271}</string>
+		<key>Type</key>
+		<string>line</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.34510869565218072</real>
+		<key>Frame</key>
+		<string>{{0.68467616464278214, 0.076051529624534139}, {0.21885746601291522, 0.055779592681908061}}</string>
+		<key>Text</key>
+		<string>&lt;p class="right"&gt;rayures bien marquées sur les flancs&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.35635725626953002</real>
+		<key>Frame</key>
+		<string>{{0.12499122908615923, 0.048823520033000722}, {0.42935408500960687, 0.054018887326664981}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;dans les secteurs les plus arides, ind. plus pâles et colorés, certains avec une moustache cannelle&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>EndPoint</key>
+		<string>{0.75824975684515172, 0.42247111126156978}</string>
+		<key>StartPoint</key>
+		<string>{0.79370038382577346, 0.4127680200176248}</string>
+		<key>Type</key>
+		<string>line</string>
+	</dict>
+	<dict>
+		<key>EndPoint</key>
+		<string>{0.94009095223352668, 0.25542744504231302}</string>
+		<key>StartPoint</key>
+		<string>{0.90469494493779157, 0.26660183370465296}</string>
+		<key>Type</key>
+		<string>line</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.3866057838660325</real>
+		<key>Frame</key>
+		<string>{{0.55041079785283731, 0.38708338881821786}, {0.20066032838936937, 0.049792380967414028}}</string>
+		<key>Text</key>
+		<string>&lt;p class="right"&gt;nuque à nuance cannelle&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>EndPoint</key>
+		<string>{0.78408793396272569, 0.13204441459462371}</string>
+		<key>StartPoint</key>
+		<string>{0.70545320352831775, 0.15735081384952171}</string>
+		<key>Type</key>
+		<string>line</string>
+	</dict>
+</array>
+</plist>

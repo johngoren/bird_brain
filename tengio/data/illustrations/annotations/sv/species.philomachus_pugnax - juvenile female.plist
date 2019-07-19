@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>FontScale</key>
+		<real>0.35110985308811382</real>
+		<key>Frame</key>
+		<string>{{0.79846553995597913, 0.58001397645851827}, {0.15368767296052083, 0.11481663643796615}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;ostrec­kad&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>EndPoint</key>
+		<string>{0.81311294181953109, 0.69807770850999773}</string>
+		<key>StartPoint</key>
+		<string>{0.76840421298733619, 0.71845392746784065}</string>
+		<key>Type</key>
+		<string>line</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.27601108372394839</real>
+		<key>Frame</key>
+		<string>{{0.12927730191752793, 0.31276481539755574}, {0.28475293617786696, 0.14605664311700195}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;kort hand-&lt;/p&gt;&lt;p&gt;penne-&lt;/p&gt;&lt;p&gt;projektion&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>EndPoint</key>
+		<string>{0.15224801954200298, 0.46283809457659125}</string>
+		<key>StartPoint</key>
+		<string>{0.10630692206932688, 0.54812748551874291}</string>
+		<key>Type</key>
+		<string>line</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.65379198888000278</real>
+		<key>Frame</key>
+		<string>{{0.25945521844685787, 0.26253152359354848}, {0.17692232213181078, 0.061660670423425434}}</string>
+		<key>Text</key>
+		<string>&lt;p class="right"&gt;&lt;b&gt;juv. &lt;/b&gt;♀&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+</array>
+</plist>

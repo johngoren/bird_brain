@@ -1,0 +1,180 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>EndPoint</key>
+		<string>{0.91842452868809521, 0.74348206579444642}</string>
+		<key>StartPoint</key>
+		<string>{0.89811433434559973, 0.78318042254073439}</string>
+		<key>Type</key>
+		<string>line</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.17987598816092537</real>
+		<key>Frame</key>
+		<string>{{0.77591184800295998, 0.69495516358421772}, {0.14756371728986659, 0.22207569278604411}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;Vorsicht: Baumpieper können gelegentlich markante Kopfzeichnung ähnlich Waldpieper zeigen&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.40430195973596139</real>
+		<key>Frame</key>
+		<string>{{0.82151864870034297, 0.079252386252512519}, {0.12686427565418892, 0.098802599701716703}}</string>
+		<key>Text</key>
+		<string>&lt;p class="center"&gt;Baumpieper (zum Vergleich)&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>EndPoint</key>
+		<string>{0.67202907410129376, 0.44312055033012704}</string>
+		<key>StartPoint</key>
+		<string>{0.64617819910375685, 0.39502362097451899}</string>
+		<key>Type</key>
+		<string>line</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.1699255860449283</real>
+		<key>Frame</key>
+		<string>{{0.67457026281914234, 0.35262193586316698}, {0.10134158518381622, 0.23507987005470757}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;frische Schirmfedern diffus olivbraun gesäumt&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.28059679339154298</real>
+		<key>Frame</key>
+		<string>{{0.65541694996969069, 0.60074206677879527}, {0.11162090337963675, 0.14236115888420459}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;Mantel oliv getönt, schwach gestreift&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>EndPoint</key>
+		<string>{0.62859712092748277, 0.68190677463197724}</string>
+		<key>StartPoint</key>
+		<string>{0.65322814735900503, 0.71718296468163323}</string>
+		<key>Type</key>
+		<string>line</string>
+	</dict>
+	<dict>
+		<key>EndPoint</key>
+		<string>{0.6533236492726221, 0.11366755196901721}</string>
+		<key>StartPoint</key>
+		<string>{0.63264564762194031, 0.10908346187744203}</string>
+		<key>Type</key>
+		<string>line</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.7055429157904558</real>
+		<key>Frame</key>
+		<string>{{0.65651001982992274, 0.080277140284094592}, {0.041058916237274402, 0.056617512262394608}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;kurz&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.4043709777934083</real>
+		<key>Frame</key>
+		<string>{{0.59724516245339598, 0.78355928284576015}, {0.064387971650997355, 0.098785736069367691}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;&lt;b&gt;Herbst&lt;/b&gt;(frisch)&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.53714217022834676</real>
+		<key>Frame</key>
+		<string>{{0.44727669147101623, 0.92111726936464877}, {0.22976278647754406, 0.074367805956158911}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;schwarzer Scheitelseitenstreif&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>EndPoint</key>
+		<string>{0.51658963437635652, 0.9534577374752472}</string>
+		<key>StartPoint</key>
+		<string>{0.51658963437635652, 0.91104932761319302}</string>
+		<key>Type</key>
+		<string>line</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.40437180947993101</real>
+		<key>Frame</key>
+		<string>{{0.39136273275769901, 0.44892995943230013}, {0.064387971650997355, 0.098785532893074485}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;&lt;b&gt;Herbst&lt;/b&gt;(frisch)&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>EndPoint</key>
+		<string>{0.31305696660674631, 0.80436906188189017}</string>
+		<key>StartPoint</key>
+		<string>{0.33887541787111003, 0.7455811070200713}</string>
+		<key>Type</key>
+		<string>line</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.26273875294851479</real>
+		<key>Frame</key>
+		<string>{{0.23052450739458838, 0.6315220053671704}, {0.081184752349777525, 0.15203727747858897}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;ein heller und ein dunkler Fleck&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>EndPoint</key>
+		<string>{0.2943937581884814, 0.75124923001220634}</string>
+		<key>StartPoint</key>
+		<string>{0.31647953159171649, 0.70096034167347621}</string>
+		<key>Type</key>
+		<string>line</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.30626567867023913</real>
+		<key>Frame</key>
+		<string>{{0.25733620387890282, 0.80599300997723577}, {0.21760829578272028, 0.13042951746944628}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;breit weißlicher Überaugenstreif, vor dem Auge rostbeige&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>EndPoint</key>
+		<string>{0.18708931457132597, 0.30147788678494086}</string>
+		<key>StartPoint</key>
+		<string>{0.22219449931282015, 0.39133692316569324}</string>
+		<key>Type</key>
+		<string>line</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.20888900221842566</real>
+		<key>Frame</key>
+		<string>{{0.073170721055322491, 0.10472842490550084}, {0.13862160276142932, 0.19123115272790658}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;Flankenstrichelung meist dünn, manchmal etwas kräftiger&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+</array>
+</plist>

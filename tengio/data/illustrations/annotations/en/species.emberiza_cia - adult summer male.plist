@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>EndPoint</key>
+		<string>{0.92582469348954288, 0.61043832612873672}</string>
+		<key>StartPoint</key>
+		<string>{0.87783350119944159, 0.63710849627667498}</string>
+		<key>Type</key>
+		<string>line</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.23192542793988544</real>
+		<key>Frame</key>
+		<string>{{0.84974885346145379, 0.38937417710709205}, {0.10702846327436757, 0.2082056901036316}}</string>
+		<key>Text</key>
+		<string>&lt;p class="right"&gt;plain&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.4134206962680102</real>
+		<key>Frame</key>
+		<string>{{0.34658222319283538, 0.15441251968355574}, {0.20078910306865846, 0.11680158785640453}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;unmarked red-brown&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.68285634898582959</real>
+		<key>Frame</key>
+		<string>{{0.019436558200482693, 0.11105954200046329}, {0.11356212931335813, 0.070715010336392131}}</string>
+		<key>Text</key>
+		<string>&lt;p class="center"&gt;long&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>EndPoint</key>
+		<string>{0.15556526170197227, 0.14343864151575458}</string>
+		<key>StartPoint</key>
+		<string>{0.11771129067482304, 0.15959807644106283}</string>
+		<key>Type</key>
+		<string>line</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.61677264727749603</real>
+		<key>Frame</key>
+		<string>{{0.73429240237645232, 0.020178957646308393}, {0.26570759762354756, 0.07829172384662883}}</string>
+		<key>Text</key>
+		<string>&lt;p class="right"&gt;&lt;b&gt;ad.&lt;/b&gt; &lt;b&gt;summer&lt;/b&gt; ♂&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+</array>
+</plist>

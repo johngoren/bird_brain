@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>FontScale</key>
+		<real>0.23456699845895701</real>
+		<key>Frame</key>
+		<string>{{0.086264100862642537, 0.009265254081800612}, {0.62237682478690015, 0.22559542283023434}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;les deux sexes présentent des marques alaires et caudales blanches, plus visibles chez le ♂&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.30528846153847417</real>
+		<key>Frame</key>
+		<string>{{0.26078301260783548, 0.65274581055636327}, {0.19552910774094404, 0.17333521526721185}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;rémiges barrées de roux&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.16576156625105654</real>
+		<key>Frame</key>
+		<string>{{0.71708013349859778, 0.43357676432902381}, {0.28291986650140211, 0.31923709697108427}}</string>
+		<key>Text</key>
+		<string>&lt;p class="right"&gt;pas de bord d’attaque sombre&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>EndPoint</key>
+		<string>{0.82629481720663744, 0.64096900789284705}</string>
+		<key>StartPoint</key>
+		<string>{0.74040715388884648, 0.554277344931833}</string>
+		<key>Type</key>
+		<string>line</string>
+	</dict>
+	<dict>
+		<key>EndPoint</key>
+		<string>{0.58480610179838055, 0.6974589412282336}</string>
+		<key>StartPoint</key>
+		<string>{0.42136695421366915, 0.6974589412282336}</string>
+		<key>Type</key>
+		<string>line</string>
+	</dict>
+</array>
+</plist>

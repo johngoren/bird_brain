@@ -1,0 +1,400 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>EndPoint</key>
+		<string>{0.64847399965883235, 0.15872540359747334}</string>
+		<key>StartPoint</key>
+		<string>{0.67343313336939292, 0.19402737811643417}</string>
+		<key>Type</key>
+		<string>line</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.25198412698412637</real>
+		<key>Frame</key>
+		<string>{{0.58764949557488078, 0.025560993386720354}, {0.074287149151487153, 0.12512092234567543}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;corps strié&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.43374316939891444</real>
+		<key>Frame</key>
+		<string>{{0.60725739491773145, 0.22620132957675718}, {0.049619990173750635, 0.072689297743676717}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;flancs barrés&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.61935093654903894</real>
+		<key>Frame</key>
+		<string>{{0.7078979395040087, 0.02093018482443058}, {0.030212171436436983, 0.0509056893663506}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;&lt;b&gt;juv.&lt;/b&gt;&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>EndPoint</key>
+		<string>{0.90617781959347099, 0.055202735704329528}</string>
+		<key>StartPoint</key>
+		<string>{0.88294753632149847, 0.063990990964318664}</string>
+		<key>Type</key>
+		<string>line</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.67844054742334214</real>
+		<key>Frame</key>
+		<string>{{0.9208569999278744, 0.011709809315509676}, {0.057349837659751518, 0.046471995968498832}}</string>
+		<key>Text</key>
+		<string>&lt;p class="right"&gt;♂&lt;b&gt; ad.&lt;/b&gt;&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.30543530543530828</real>
+		<key>Frame</key>
+		<string>{{0.81013912893459938, 0.033157620814860643}, {0.1032415924582874, 0.10322476093518104}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;très pâle avec la pointe de l’aile noire&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.63128759240331889</real>
+		<key>Frame</key>
+		<string>{{0.22230230986008925, 0.73592013465639716}, {0.17700464236711463, 0.049943142814979774}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;migre en grands groupes&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.43374316939891444</real>
+		<key>Frame</key>
+		<string>{{0.47600451768394292, 0.69123409096151389}, {0.10937739769482617, 0.072689297743676717}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;allure de faucon&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.43374316939891444</real>
+		<key>Frame</key>
+		<string>{{0.67708552625095297, 0.82856919858378675}, {0.045818458668503315, 0.072689297743676717}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;pointe noire&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>EndPoint</key>
+		<string>{0.65454490642095664, 0.6708274643408435}</string>
+		<key>StartPoint</key>
+		<string>{0.65739761467083213, 0.71417292672488519}</string>
+		<key>Type</key>
+		<string>line</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.32748839608045183</real>
+		<key>Frame</key>
+		<string>{{0.59245143010782497, 0.56710619180905764}, {0.10164094761397223, 0.096273598582645087}}</string>
+		<key>Text</key>
+		<string>&lt;p class="center"&gt;rectrices centrales unies&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.67844054742334214</real>
+		<key>Frame</key>
+		<string>{{0.7100988261649408, 0.57028535550153969}, {0.057349837659751518, 0.046471995968498832}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;♂&lt;b&gt; ad.&lt;/b&gt;&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>EndPoint</key>
+		<string>{0.73810855583151358, 0.88673553212661893}</string>
+		<key>StartPoint</key>
+		<string>{0.72210366249729963, 0.88673553212661893}</string>
+		<key>Type</key>
+		<string>line</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.36940081442702138</real>
+		<key>Frame</key>
+		<string>{{0.83948428441370027, 0.87958576513545272}, {0.13872255317392565, 0.085350343457221728}}</string>
+		<key>Text</key>
+		<string>&lt;p class="center"&gt;ÉPERVIER D’EUROPE (pour comparaison)&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.43050847457638386</real>
+		<key>Frame</key>
+		<string>{{0.82014315921156478, 0.73592013465641615}, {0.053621602284536767, 0.073235460499929572}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;3 à 4 (5) barres&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>EndPoint</key>
+		<string>{0.83294619245836821, 0.71417292672488519}</string>
+		<key>StartPoint</key>
+		<string>{0.83414880159931726, 0.74336780860553786}</string>
+		<key>Type</key>
+		<string>line</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.26675068262971002</real>
+		<key>Frame</key>
+		<string>{{0.81147299963819519, 0.5358011356428074}, {0.081699580595220839, 0.11819458557296353}}</string>
+		<key>Text</key>
+		<string>&lt;p class="right"&gt;arrondie, sans pointe noire&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>EndPoint</key>
+		<string>{0.89802864340386512, 0.54079107718872887}</string>
+		<key>StartPoint</key>
+		<string>{0.87736621239580903, 0.56089979685144353}</string>
+		<key>Type</key>
+		<string>line</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.67844054742334214</real>
+		<key>Frame</key>
+		<string>{{0.91485458176169343, 0.48642305735995872}, {0.057349837659751518, 0.046471995968498832}}</string>
+		<key>Text</key>
+		<string>&lt;p class="right"&gt;♀&lt;b&gt; ad.&lt;/b&gt;&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.32070707070717414</real>
+		<key>Frame</key>
+		<string>{{0.72650543581916394, 0.25182132796182166}, {0.06242514892826647, 0.098309296128713045}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;pointe sombre&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>EndPoint</key>
+		<string>{0.79573332533576702, 0.29278353468212476}</string>
+		<key>StartPoint</key>
+		<string>{0.77712582902061167, 0.29948644123636253}</string>
+		<key>Type</key>
+		<string>line</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.67844054742334214</real>
+		<key>Frame</key>
+		<string>{{0.82014315921156478, 0.24817345720091602}, {0.057349837659751518, 0.046471995968498832}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;♀&lt;b&gt; ad.&lt;/b&gt;&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.19242424242424136</real>
+		<key>Frame</key>
+		<string>{{0.58905005981365599, 0.39146521450833166}, {0.12404997543437603, 0.16384882688124217}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;ailes plus longues et pointues et queue plus courte que l’É. d’Europe&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.33529039228310953</real>
+		<key>Frame</key>
+		<string>{{0.051033311518434085, 0.54228061197856314}, {0.050820473806986254, 0.094033372593933309}}</string>
+		<key>Text</key>
+		<string>&lt;p class="right"&gt;œil sombre&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>EndPoint</key>
+		<string>{0.18188602754114702, 0.27267481501942892}</string>
+		<key>StartPoint</key>
+		<string>{0.17146437427878145, 0.34114537738359918}</string>
+		<key>Type</key>
+		<string>line</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.25198412698412637</real>
+		<key>Frame</key>
+		<string>{{0.13266619857847539, 0.14308528830425121}, {0.087235144015141791, 0.12512092234567543}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;larges stries, flancs barrés&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.7912772585670399</real>
+		<key>Frame</key>
+		<string>{{0.13506716584494691, 0.10845360444071055}, {0.080165629286086282, 0.039845055627935104}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;6 à 8 barres&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>EndPoint</key>
+		<string>{0.13058028165173172, 0.13790152763201222}</string>
+		<key>StartPoint</key>
+		<string>{0.11954598948423174, 0.14152269765757589}</string>
+		<key>Type</key>
+		<string>line</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.61935093654903894</real>
+		<key>Frame</key>
+		<string>{{0.1276641834399922, 0.044514485663376506}, {0.030212171436436983, 0.0509056893663506}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;&lt;b&gt;juv.&lt;/b&gt;&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.59625252903670134</real>
+		<key>Frame</key>
+		<string>{{0.2459118213137281, 0.041796922595862068}, {0.063683134684536569, 0.052877740301849545}}</string>
+		<key>Text</key>
+		<string>&lt;p class="right"&gt;♀&lt;b&gt; ad.&lt;/b&gt;&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.42934415145365112</real>
+		<key>Frame</key>
+		<string>{{0.3429509150002964, 0.46780387248707739}, {0.092370546223984024, 0.073434065138598459}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;grossièrement barrée de roux&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>EndPoint</key>
+		<string>{0.33594809380642016, 0.61377828189037986}</string>
+		<key>StartPoint</key>
+		<string>{0.31493963022479127, 0.60186200357174691}</string>
+		<key>Type</key>
+		<string>line</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.25527638190952945</real>
+		<key>Frame</key>
+		<string>{{0.33894930288950914, 0.56958874979210183}, {0.060357649337693615, 0.12350725965670206}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;bande médiane sombre à la gorge&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.43374316939891444</real>
+		<key>Frame</key>
+		<string>{{0.1926903802402701, 0.62792886239373047}, {0.057223053184244442, 0.072689297743676717}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;joue sombre&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>EndPoint</key>
+		<string>{0.26291867278457004, 0.63351461785561969}</string>
+		<key>StartPoint</key>
+		<string>{0.24090980617524516, 0.65399572121577099}</string>
+		<key>Type</key>
+		<string>line</string>
+	</dict>
+	<dict>
+		<key>EndPoint</key>
+		<string>{0.33914938349505047, 0.51621375315656026}</string>
+		<key>StartPoint</key>
+		<string>{0.32794486958484842, 0.51621375315656026}</string>
+		<key>Type</key>
+		<string>line</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.51815585475323445</real>
+		<key>Frame</key>
+		<string>{{0.302334552075814, 0.10100593049157859}, {0.04161676595217783, 0.060847496164525172}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;uni&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>EndPoint</key>
+		<string>{0.33961710543461326, 0.11877122842952398}</string>
+		<key>StartPoint</key>
+		<string>{0.32431836339949172, 0.13144846298553423}</string>
+		<key>Type</key>
+		<string>line</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.25198412698412637</real>
+		<key>Frame</key>
+		<string>{{0.35729002506394653, 0.047755061755178824}, {0.22228955275418028, 0.12512092234567543}}</string>
+		<key>Text</key>
+		<string>&lt;p class="center"&gt;noter les doigts courts, une adaptation à des proies différentes de l’É. d’Europe : capture des lézards et des insectes&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.67844054742334214</real>
+		<key>Frame</key>
+		<string>{{0.49701298126556892, 0.27103707148772999}, {0.057349837659751518, 0.046471995968498832}}</string>
+		<key>Text</key>
+		<string>&lt;p class="right"&gt;♂&lt;b&gt; ad.&lt;/b&gt;&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.45519713261641936</real>
+		<key>Frame</key>
+		<string>{{0.41678065844430517, 0.57207130777515502}, {0.073229501627389795, 0.069263367727080541}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;joue grise, œil sombre&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+</array>
+</plist>

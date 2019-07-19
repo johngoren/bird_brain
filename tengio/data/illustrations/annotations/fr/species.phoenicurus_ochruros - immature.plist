@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>FontScale</key>
+		<real>0.33367979368265738</real>
+		<key>Frame</key>
+		<string>{{0.097566853127470224, 0.44496752962017755}, {0.34499375623722495, 0.15633510027793163}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;♀&lt;b&gt; / imm. / &lt;/b&gt;&lt;/p&gt;&lt;p&gt;♂&lt;b&gt; 1er été&lt;/b&gt;&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.22852001799371721</real>
+		<key>Frame</key>
+		<string>{{0.063734033298928669, 0.77172300061900057}, {0.58798306831471692, 0.22827699938099952}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;la plupart des ♂♂ 1er été ont un plumage identique à la ♀&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.38079890916979142</real>
+		<key>Frame</key>
+		<string>{{0.69037669621016584, 0.21124418453836724}, {0.20527513325227006, 0.13699058151145582}}</string>
+		<key>Text</key>
+		<string>&lt;p class="right"&gt;gris souris&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>EndPoint</key>
+		<string>{0.7095899644819742, 0.356054007707099}</string>
+		<key>StartPoint</key>
+		<string>{0.63580412911843864, 0.42778207071548352}</string>
+		<key>Type</key>
+		<string>line</string>
+	</dict>
+</array>
+</plist>

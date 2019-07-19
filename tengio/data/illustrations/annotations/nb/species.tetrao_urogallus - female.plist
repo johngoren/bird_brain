@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>FontScale</key>
+		<real>0.20839163026031501</real>
+		<key>Frame</key>
+		<string>{{0.79350465395339098, 0.17501519293143633}, {0.16810370076939463, 0.12844175394099064}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;﻿rustrød, uflekket&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>EndPoint</key>
+		<string>{0.78223267079787417, 0.26631513021777675}</string>
+		<key>StartPoint</key>
+		<string>{0.73267902282934139, 0.29895902829557014}</string>
+		<key>Type</key>
+		<string>line</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.58730329426103167</real>
+		<key>Frame</key>
+		<string>{{0.62763055587238015, 0.093938684158806421}, {0.15858939755752366, 0.045574725629515755}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;♀&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.19820183056737256</real>
+		<key>Frame</key>
+		<string>{{0.33969363758423127, 0.53413528226793627}, {0.29346960410527989, 0.1350451023617511}}</string>
+		<key>Text</key>
+		<string>&lt;p class="right"&gt;﻿stor, avrundet rødbrun stjert i kontrast mot grålig overgump&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>EndPoint</key>
+		<string>{0.38704460693482329, 0.66045861030411612}</string>
+		<key>StartPoint</key>
+		<string>{0.32574447468818585, 0.67095591001658461}</string>
+		<key>Type</key>
+		<string>line</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.58490602722304441</real>
+		<key>Frame</key>
+		<string>{{0.57580472620466705, 0.66396182464833398}, {0.091497617745122176, 0.045761515955537291}}</string>
+		<key>Text</key>
+		<string>&lt;p class="right"&gt;♀&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>EndPoint</key>
+		<string>{0.28407104029560648, 0.8388200787875949}</string>
+		<key>StartPoint</key>
+		<string>{0.39515626968419459, 0.83226868257757214}</string>
+		<key>Type</key>
+		<string>line</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.21074465878448517</real>
+		<key>Frame</key>
+		<string>{{0.17972844892916862, 0.73361713675340279}, {0.24234726081241542, 0.12700766250322534}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;ingen markerte tegninger i vingen&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+</array>
+</plist>

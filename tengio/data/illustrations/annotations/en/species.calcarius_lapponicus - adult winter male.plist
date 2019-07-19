@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>EndPoint</key>
+		<string>{0.39481573966046668, 0.62165695688122646}</string>
+		<key>StartPoint</key>
+		<string>{0.43660776874437507, 0.54143979992562641}</string>
+		<key>Type</key>
+		<string>line</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.39884853906872797</real>
+		<key>Frame</key>
+		<string>{{0.29202433670858247, 0.58805451807485798}, {0.17786266956601299, 0.18388576929582756}}</string>
+		<key>Text</key>
+		<string>&lt;p class="right"&gt;two white wing-bars&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>EndPoint</key>
+		<string>{0.48324779321595057, 0.70723448024836533}</string>
+		<key>StartPoint</key>
+		<string>{0.55660978827825103, 0.56642077003889724}</string>
+		<key>Type</key>
+		<string>line</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.67498867053928235</real>
+		<key>Frame</key>
+		<string>{{0.40818597532211498, 0.76129346977992618}, {0.18670124942790026, 0.10865748365905593}}</string>
+		<key>Text</key>
+		<string>&lt;p class="right"&gt;red-brown&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>EndPoint</key>
+		<string>{0.60486172751580003, 0.84388556082735777}</string>
+		<key>StartPoint</key>
+		<string>{0.68870534737264222, 0.85938522574081}</string>
+		<key>Type</key>
+		<string>line</string>
+	</dict>
+	<dict>
+		<key>EndPoint</key>
+		<string>{0.85646820224845499, 0.43808952598248974}</string>
+		<key>StartPoint</key>
+		<string>{0.77683749506768873, 0.49005644319334118}</string>
+		<key>Type</key>
+		<string>line</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.37827198688607916</real>
+		<key>Frame</key>
+		<string>{{0.86564806660267068, 0.34565279894856826}, {0.13189847827229148, 0.19388845323420129}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;dark spots&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.57219894779002478</real>
+		<key>Frame</key>
+		<string>{{0.15845897925816366, 0.0028875648527167007}, {0.24827931724200397, 0.12817669574968163}}</string>
+		<key>Text</key>
+		<string>&lt;p class="right"&gt;&lt;b&gt;ad. winter &lt;/b&gt;♂&lt;b&gt; &lt;/b&gt;&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+</array>
+</plist>

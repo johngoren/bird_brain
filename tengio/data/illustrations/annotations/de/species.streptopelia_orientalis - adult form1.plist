@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>FontScale</key>
+		<real>0.15909467862122553</real>
+		<key>Frame</key>
+		<string>{{0.78705134876828942, 0.38119102096137591}, {0.16155883476727553, 0.34547315935908407}}</string>
+		<key>Text</key>
+		<string>&lt;p class="right"&gt;dunkel, matter als &lt;i&gt;meena&lt;/i&gt;&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.19140919366993273</real>
+		<key>Frame</key>
+		<string>{{0.10308891488036158, 0.3722181260500414}, {0.42835687617920343, 0.28714890965619638}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;beide Unterarten dunkler, stärker rostfarben als Turtel-taube&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.43338408442867865</real>
+		<key>Frame</key>
+		<string>{{0.052257508118361759, 0.054774681840811516}, {0.47918828294120036, 0.12682270354470776}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;deutlich größer, schwerer und dunkler als Turteltaube&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.69027406205894126</real>
+		<key>Frame</key>
+		<string>{{0.85137258963717199, 0.17509379957045632}, {0.1007655726254558, 0.079624810320338704}}</string>
+		<key>Text</key>
+		<string>&lt;p class="center"&gt;&lt;b&gt;ad.&lt;/b&gt;&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.40712945352379304</real>
+		<key>Frame</key>
+		<string>{{0.75715792611904176, 0.054774681840813036}, {0.19145225741652097, 0.13500114222829329}}</string>
+		<key>Text</key>
+		<string>&lt;p class="right"&gt;&lt;b&gt;&lt;i&gt;orientalis&lt;/i&gt;&lt;/b&gt;(Sibirien)&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>EndPoint</key>
+		<string>{0.85456346059411525, 0.62517748956782049}</string>
+		<key>StartPoint</key>
+		<string>{0.80466111780885496, 0.60341488515421116}</string>
+		<key>Type</key>
+		<string>line</string>
+	</dict>
+	<dict>
+		<key>EndPoint</key>
+		<string>{0.47933416527998912, 0.59453617149565097}</string>
+		<key>StartPoint</key>
+		<string>{0.385533471651543, 0.62007564507950252}</string>
+		<key>Type</key>
+		<string>line</string>
+	</dict>
+</array>
+</plist>

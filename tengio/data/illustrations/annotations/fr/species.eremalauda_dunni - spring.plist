@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>EndPoint</key>
+		<string>{0.69216120189705854, 0.39247648918170142}</string>
+		<key>StartPoint</key>
+		<string>{0.70383594015852791, 0.42275706896829868}</string>
+		<key>Type</key>
+		<string>line</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.24079392626322849</real>
+		<key>Frame</key>
+		<string>{{0.57041293848674668, 0.3933702175971574}, {0.42958706151325332, 0.11312077005089184}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;certains oiseaux en plumage usé ont un motif de tête plus estompé&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.40437180947993101</real>
+		<key>Frame</key>
+		<string>{{0.20674484718803618, 0.042323111197214693}, {0.18794064555175388, 0.067360764830531383}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;&lt;b&gt;printemps&lt;/b&gt;&lt;/p&gt;&lt;p&gt;(plum. usé)&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>EndPoint</key>
+		<string>{0.32219553183988831, 0.70459559779644731}</string>
+		<key>StartPoint</key>
+		<string>{0.33247866366073264, 0.74752370113187261}</string>
+		<key>Type</key>
+		<string>line</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.39166656706070913</real>
+		<key>Frame</key>
+		<string>{{0.23000641505260935, 0.62843370738046556}, {0.15181140970760601, 0.069545875633168372}}</string>
+		<key>Text</key>
+		<string>&lt;p class="center"&gt;côtés noirs&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+</array>
+</plist>

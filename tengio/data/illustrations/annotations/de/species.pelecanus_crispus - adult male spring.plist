@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>FontScale</key>
+		<real>0.36368843069873541</real>
+		<key>Frame</key>
+		<string>{{0.79843612124757635, 0.079243242049823262}, {0.1743774700378603, 0.11460231675085762}}</string>
+		<key>Text</key>
+		<string>&lt;p class="right"&gt;intensiv orangerot&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.39980001237771035</real>
+		<key>Frame</key>
+		<string>{{0.37141727729659463, 0}, {0.30152198756152909, 0.10425096408997139}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;♂&lt;b&gt; PK&lt;/b&gt; (Frühjahr)&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>EndPoint</key>
+		<string>{0.90155263956992204, 0.20318942770365717}</string>
+		<key>StartPoint</key>
+		<string>{0.90482390259334433, 0.29917183695770599}</string>
+		<key>Type</key>
+		<string>line</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.40510366826155048</real>
+		<key>Frame</key>
+		<string>{{0.50585615847876986, 0.45120849349719483}, {0.14566351163454136, 0.10288610051945739}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;gräulich&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>EndPoint</key>
+		<string>{0.69312311375226676, 0.52728185266915184}</string>
+		<key>StartPoint</key>
+		<string>{0.64163370330801961, 0.52728185266915184}</string>
+		<key>Type</key>
+		<string>line</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.37217934941880937</real>
+		<key>Frame</key>
+		<string>{{0.86653944812850481, 0.58595044991379264}, {0.1293413990359544, 0.11198777363291396}}</string>
+		<key>Text</key>
+		<string>&lt;p class="center"&gt;Iris hell&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>EndPoint</key>
+		<string>{0.69787177111185761, 0.8061632048099171}</string>
+		<key>StartPoint</key>
+		<string>{0.65811031465017755, 0.81854633181114889}</string>
+		<key>Type</key>
+		<string>line</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.40510366826155048</real>
+		<key>Frame</key>
+		<string>{{0.57287533196144813, 0.76760743838078016}, {0.14566351163453964, 0.10288610051945739}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;struppig&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.14205816554809858</real>
+		<key>Frame</key>
+		<string>{{0.76291182837632865, 0.70660231622203518}, {0.23708817162367146, 0.29339768377796488}}</string>
+		<key>Text</key>
+		<string>&lt;p class="right"&gt;Kehlsack bei Jungvögeln rosa oder gelblich, bei Altvögeln orange&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+</array>
+</plist>

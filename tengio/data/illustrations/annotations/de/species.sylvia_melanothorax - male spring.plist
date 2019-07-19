@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>EndPoint</key>
+		<string>{0.52517161762637476, 0.62809288345575565}</string>
+		<key>StartPoint</key>
+		<string>{0.55644978892297481, 0.57791939718454621}</string>
+		<key>Type</key>
+		<string>line</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.57360252071420237</real>
+		<key>Frame</key>
+		<string>{{0.45408345706261805, 0.59446327113574826}, {0.14139936177479293, 0.083411304419490573}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;grau&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>EndPoint</key>
+		<string>{0.67242938219425852, 0.78822117915597278}</string>
+		<key>StartPoint</key>
+		<string>{0.70216557823352088, 0.73700263002782695}</string>
+		<key>Type</key>
+		<string>line</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.5682049449297395</real>
+		<key>Frame</key>
+		<string>{{0.50205472100102078, 0.73665623300979333}, {0.16219361948978392, 0.084203657321207728}}</string>
+		<key>Text</key>
+		<string>&lt;p class="right"&gt;schwarz&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>EndPoint</key>
+		<string>{0.88084181711390097, 0.532054302561774}</string>
+		<key>StartPoint</key>
+		<string>{0.8525688172078737, 0.58997455329291093}</string>
+		<key>Type</key>
+		<string>line</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.33571420033775001</real>
+		<key>Frame</key>
+		<string>{{0.82924821392063452, 0.3888408753748982}, {0.09769483476895606, 0.14251686232796948}}</string>
+		<key>Text</key>
+		<string>&lt;p class="right"&gt;gelbrosa&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.31883343495803118</real>
+		<key>Frame</key>
+		<string>{{0.7776413520097798, 0.23478213035747733}, {0.13802710502545038, 0.15006247534038406}}</string>
+		<key>Text</key>
+		<string>&lt;p class="right"&gt;kräftig gefleckt&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>EndPoint</key>
+		<string>{0.7589341199516868, 0.40414649862312879}</string>
+		<key>StartPoint</key>
+		<string>{0.79634858406787845, 0.34174229706426479}</string>
+		<key>Type</key>
+		<string>line</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.51407504248921643</real>
+		<key>Frame</key>
+		<string>{{0.73166216273856688, 0.06647365684471665}, {0.17699774708504026, 0.09306994216137833}}</string>
+		<key>Text</key>
+		<string>&lt;p class="center"&gt;♂&lt;b&gt; PK&lt;/b&gt;&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.25592599948831141</real>
+		<key>Frame</key>
+		<string>{{0.64967832572064932, 0.80822990963986785}, {0.277264722968943, 0.18694831539874343}}</string>
+		<key>Text</key>
+		<string>&lt;p class="right"&gt;schmal weißlicher Augenring und ziegelroter Lidring&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+</array>
+</plist>

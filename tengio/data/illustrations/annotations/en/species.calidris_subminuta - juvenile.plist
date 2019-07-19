@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>FontScale</key>
+		<real>0.4126674950465124</real>
+		<key>Frame</key>
+		<string>{{0.39875327324945953, 0.42066980236487539}, {0.26990853172865237, 0.085026768849341738}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;isolated cheek patch&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>EndPoint</key>
+		<string>{0.50820663000495858, 0.4429915187804378}</string>
+		<key>StartPoint</key>
+		<string>{0.55699300840141475, 0.39370083920509941}</string>
+		<key>Type</key>
+		<string>line</string>
+	</dict>
+	<dict>
+		<key>EndPoint</key>
+		<string>{0.75034111546009841, 0.38169074437836104}</string>
+		<key>StartPoint</key>
+		<string>{0.68225715604530568, 0.37525207541168792}</string>
+		<key>Type</key>
+		<string>line</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.23005339221337204</real>
+		<key>Frame</key>
+		<string>{{0.7675347924065441, 0.25336392253385182}, {0.23246520759345599, 0.15252017531831544}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;dark fore­head joins dark loral smudge&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.6926524055128096</real>
+		<key>Frame</key>
+		<string>{{0.47722205013063951, 0.11399702599977926}, {0.15892221403192899, 0.05065713110023666}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;pale&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>EndPoint</key>
+		<string>{0.47092215925620423, 0.14672203125562985}</string>
+		<key>StartPoint</key>
+		<string>{0.40824853955072571, 0.13584290457459736}</string>
+		<key>Type</key>
+		<string>line</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.73845876480331774</real>
+		<key>Frame</key>
+		<string>{{0.64532830020603116, 0.040384209253836983}, {0.20610588310236724, 0.047514885576992266}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;long toes&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>EndPoint</key>
+		<string>{0.63233206939162556, 0.074257504390117357}</string>
+		<key>StartPoint</key>
+		<string>{0.58740442399889858, 0.074257504390117357}</string>
+		<key>Type</key>
+		<string>line</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.65571845942448537</real>
+		<key>Frame</key>
+		<string>{{0.06443925809616069, 0.060486585339388443}, {0.16398598246372559, 0.05351044066039063}}</string>
+		<key>Text</key>
+		<string>&lt;p class="right"&gt;&lt;b&gt;juv.&lt;/b&gt;&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.65571845942448537</real>
+		<key>Frame</key>
+		<string>{{0.47384159045796409, 0.60985959556053471}, {0.16398598246372559, 0.05351044066039063}}</string>
+		<key>Text</key>
+		<string>&lt;p class="right"&gt;&lt;b&gt;juv.&lt;/b&gt;&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+</array>
+</plist>

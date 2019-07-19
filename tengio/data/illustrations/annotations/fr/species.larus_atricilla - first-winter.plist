@@ -1,0 +1,126 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>EndPoint</key>
+		<string>{0.57965825116256531, 0.24768274619453168}</string>
+		<key>StartPoint</key>
+		<string>{0.53617469689184982, 0.31002080673137339}</string>
+		<key>Type</key>
+		<string>line</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.24842027057249344</real>
+		<key>Frame</key>
+		<string>{{0.57678407683721822, 0.081504458261145912}, {0.14413532647759392, 0.15432063314458358}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;bande pectorale et flancs grisâtres&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.67428030536864414</real>
+		<key>Frame</key>
+		<string>{{0.58726251768805715, 0.25689489104334329}, {0.086896492577824072, 0.056855247195358311}}</string>
+		<key>Text</key>
+		<string>&lt;p class="right"&gt;long&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>EndPoint</key>
+		<string>{0.63134099732552207, 0.32077792866146632}</string>
+		<key>StartPoint</key>
+		<string>{0.60268657342895826, 0.36281882880022553}</string>
+		<key>Type</key>
+		<string>line</string>
+	</dict>
+	<dict>
+		<key>EndPoint</key>
+		<string>{0.45759937375203241, 0.11288743964469887}</string>
+		<key>StartPoint</key>
+		<string>{0.42324265109506204, 0.10785076248889233}</string>
+		<key>Type</key>
+		<string>line</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.55529257587653891</real>
+		<key>Frame</key>
+		<string>{{0.46286620415154195, 0.064163090102004133}, {0.1171543186361262, 0.069038152329303756}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;longues&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.5899980494245789</real>
+		<key>Frame</key>
+		<string>{{0.182413692686998, 0.08628972946154248}, {0.19072456247880765, 0.064977118955029015}}</string>
+		<key>Text</key>
+		<string>&lt;p class="right"&gt;&lt;b&gt;1er hiver&lt;/b&gt;&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.29627676274783549</real>
+		<key>Frame</key>
+		<string>{{0.089886213243575777, 0.66176362598494454}, {0.15367238533221081, 0.12939379074195054}}</string>
+		<key>Text</key>
+		<string>&lt;p class="right"&gt;côtés de la queue sombres&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>EndPoint</key>
+		<string>{0.21696606711090935, 0.67666521404939617}</string>
+		<key>StartPoint</key>
+		<string>{0.23378838282981224, 0.65497591513614484}</string>
+		<key>Type</key>
+		<string>line</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.60902912440911705</real>
+		<key>Frame</key>
+		<string>{{0.12446243659959011, 0.78793780949476577}, {0.13438286571036387, 0.062946699762330874}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;&lt;b&gt;1er hiv.&lt;/b&gt;&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.55529257587653891</real>
+		<key>Frame</key>
+		<string>{{0.49493652407561733, 0.66746583161920181}, {0.23960578350624365, 0.069038152329303756}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;marques grisâtres&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.2098250923950572</real>
+		<key>Frame</key>
+		<string>{{0.554745465955779, 0.74574085124698375}, {0.29839868018107879, 0.18270633413336712}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;silhouette plus allongée, bec et pattes plus longs que chez la M. de Franklin&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>EndPoint</key>
+		<string>{0.48725289341039141, 0.72369092389004186}</string>
+		<key>StartPoint</key>
+		<string>{0.40875662531066775, 0.72369092389004186}</string>
+		<key>Type</key>
+		<string>line</string>
+	</dict>
+</array>
+</plist>

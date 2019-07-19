@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>FontScale</key>
+		<real>0.25045353247741464</real>
+		<key>Frame</key>
+		<string>{{0.41001945493803627, 0.41857181099201674}, {0.31206184335121234, 0.09205682920736348}}</string>
+		<key>Text</key>
+		<string>&lt;p class="center"&gt;eindrucksvoll, grimmiger Gesichtsausdruck, unverwechselbar&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>EndPoint</key>
+		<string>{0.44631081318694482, 0.72111936904348384}</string>
+		<key>StartPoint</key>
+		<string>{0.41226728134220192, 0.72326835021908997}</string>
+		<key>Type</key>
+		<string>line</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.26392073238073832</real>
+		<key>Frame</key>
+		<string>{{0.49048144031644675, 0.91100670852746735}, {0.14955479070281913, 0.087359404680618827}}</string>
+		<key>Text</key>
+		<string>&lt;p class="right"&gt;oberseits recht einfarbig&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.67195767195772216</real>
+		<key>Frame</key>
+		<string>{{0.18329098471588287, 0.69904713007856523}, {0.22069875550912135, 0.034311622630160021}}</string>
+		<key>Text</key>
+		<string>&lt;p class="right"&gt;„Boxhandschuhe“&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.23710159787904861</real>
+		<key>Frame</key>
+		<string>{{0.65974639932447543, 0.74519214502054354}, {0.14706817889270751, 0.097240837977885061}}</string>
+		<key>Text</key>
+		<string>&lt;p class="right"&gt;Feder-ohren ange-legt&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+</array>
+</plist>

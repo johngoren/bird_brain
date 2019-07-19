@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>FontScale</key>
+		<real>0.30428271937705859</real>
+		<key>Frame</key>
+		<string>{{0.31451628057244824, 0.063562898718474842}, {0.14634830979764621, 0.07192723912558989}}</string>
+		<key>Text</key>
+		<string>&lt;p class="center"&gt;gul&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.30428271937705859</real>
+		<key>Frame</key>
+		<string>{{0.44362791251560374, 0.46064908093517837}, {0.14634830979764621, 0.07192723912558989}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;mörk huva&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.30428271937705859</real>
+		<key>Frame</key>
+		<string>{{0.85044136883831567, 0.40066663189498269}, {0.14634830979764699, 0.07192723912558989}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;vit ögonring&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>EndPoint</key>
+		<string>{0.38285829938438587, 0.13859212120258285}</string>
+		<key>StartPoint</key>
+		<string>{0.38285829938438587, 0.18945172335158578}</string>
+		<key>Type</key>
+		<string>line</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.16506904955322602</real>
+		<key>Frame</key>
+		<string>{{0.20011154670429801, 0.54852783865090515}, {0.29822981595727333, 0.13258824702544444}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;högljudd gruppsång &lt;/p&gt;&lt;p&gt;under stökig sammankomst&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+</array>
+</plist>

@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>FontScale</key>
+		<real>0.53333260995468301</real>
+		<key>Frame</key>
+		<string>{{0.092298897964290513, 0.070665584556224806}, {0.23964598434471523, 0.061911592162545166}}</string>
+		<key>Text</key>
+		<string>&lt;p class="right"&gt;♂&lt;b&gt; winter / spring&lt;/b&gt;&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>EndPoint</key>
+		<string>{0.88904737033093006, 0.40602862178120624}</string>
+		<key>StartPoint</key>
+		<string>{0.84262721667523388, 0.40106824623350606}</string>
+		<key>Type</key>
+		<string>line</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.37568539252844607</real>
+		<key>Frame</key>
+		<string>{{0.82210684145778001, 0.25603482719627479}, {0.17509650904418347, 0.087891282682756824}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;pale brown eye-surround&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.398844898046126</real>
+		<key>Frame</key>
+		<string>{{0.89126548770968506, 0.34402066331628794}, {0.092851619603277438, 0.082787748310826956}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;pink patch&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.35737779712636958</real>
+		<key>Frame</key>
+		<string>{{0.32593560850208492, 0.9076062606574733}, {0.12070726416584039, 0.092393739342526524}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;&lt;b&gt;ad. &lt;/b&gt;♂&lt;b&gt; winter&lt;/b&gt;&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+</array>
+</plist>

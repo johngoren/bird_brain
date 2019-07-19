@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>FontScale</key>
+		<real>0.22882882882882516</real>
+		<key>Frame</key>
+		<string>{{0.53014096687345269, 0.79831619903626028}, {0.4496500424544374, 0.20168380096373992}}</string>
+		<key>Text</key>
+		<string>&lt;p class="right"&gt;some have more distinct, fine streaks on mantle and scapulars than shown here, but often looks rather plain&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>EndPoint</key>
+		<string>{0.91585474176284054, 0.64316384434241836}</string>
+		<key>StartPoint</key>
+		<string>{0.90553360102751257, 0.71171462178254086}</string>
+		<key>Type</key>
+		<string>line</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.60476161181175025</real>
+		<key>Frame</key>
+		<string>{{0.86910300788584582, 0.5584766871735054}, {0.095531258437961841, 0.07631282652021959}}</string>
+		<key>Text</key>
+		<string>&lt;p class="right"&gt;pink&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.35661630568355929</real>
+		<key>Frame</key>
+		<string>{{0.76759660727073775, 0.28956426867728291}, {0.16167192537687697, 0.12941379076825019}}</string>
+		<key>Text</key>
+		<string>&lt;p class="right"&gt;&lt;b&gt;ad. winter&lt;/b&gt;&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.28015497668082556</real>
+		<key>Frame</key>
+		<string>{{0.72426574288513235, 0.095273242400949823}, {0.25552005507889342, 0.16473406439200042}}</string>
+		<key>Text</key>
+		<string>&lt;p class="right"&gt;resembles a miniature Tawny Pipit&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+</array>
+</plist>

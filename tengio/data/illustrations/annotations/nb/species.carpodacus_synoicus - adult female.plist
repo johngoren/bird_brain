@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>FontScale</key>
+		<real>0.21544476685573022</real>
+		<key>Frame</key>
+		<string>{{0.12461715562789495, 0.51527537223482689}, {0.22515179426733878, 0.20898249271104002}}</string>
+		<key>Text</key>
+		<string>&lt;p class="right"&gt;﻿blekt gråbrun uten særtrekk&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>EndPoint</key>
+		<string>{0.36374183365049612, 0.7006634468792291}</string>
+		<key>StartPoint</key>
+		<string>{0.46994919423214893, 0.68064172790792332}</string>
+		<key>Type</key>
+		<string>line</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.30871769424287399</real>
+		<key>Frame</key>
+		<string>{{0.24413093403812794, 0.77230405138533531}, {0.27708953658080221, 0.14584257805332657}}</string>
+		<key>Text</key>
+		<string>&lt;p class="right"&gt;﻿en anelse brunere hode&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>EndPoint</key>
+		<string>{0.53518653609896671, 0.8926684373384649}</string>
+		<key>StartPoint</key>
+		<string>{0.63247353247354432, 0.87508962577963656}</string>
+		<key>Type</key>
+		<string>line</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.40135139273065096</real>
+		<key>Frame</key>
+		<string>{{0.36414120855449961, 0.080646028870188083}, {0.3872164933889351, 0.11218145803040809}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;&lt;b&gt;ad. &lt;/b&gt;♀&lt;b&gt; / &lt;/b&gt;&lt;/p&gt;&lt;p&gt;&lt;b&gt;1. sommer &lt;/b&gt;♂&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+</array>
+</plist>

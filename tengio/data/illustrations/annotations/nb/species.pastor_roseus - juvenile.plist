@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>EndPoint</key>
+		<string>{0.8814434158392459, 0.75604999523465}</string>
+		<key>StartPoint</key>
+		<string>{0.8620744054802677, 0.82727272698588306}</string>
+		<key>Type</key>
+		<string>line</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.29862154502142652</real>
+		<key>Frame</key>
+		<string>{{0.8493583421508436, 0.56380511739606465}, {0.15064165784915637, 0.18268920180873513}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;﻿lys nebbrot&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.3298238550578762</real>
+		<key>Frame</key>
+		<string>{{0.15800266323868134, 0.093896103964092398}, {0.27334270910883596, 0.16540626418086887}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;﻿kontrasterende mørk vinge&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>EndPoint</key>
+		<string>{0.24584894142376562, 0.52505519736384176}</string>
+		<key>StartPoint</key>
+		<string>{0.31115733063200834, 0.49440364709213769}</string>
+		<key>Type</key>
+		<string>line</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.55294064707735224</real>
+		<key>Frame</key>
+		<string>{{0.10634452548476121, 0.45604508632092178}, {0.1363238189240262, 0.09866326881775403}}</string>
+		<key>Text</key>
+		<string>&lt;p class="right"&gt;﻿lys&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>EndPoint</key>
+		<string>{0.37279110958822248, 0.26172383235176067}</string>
+		<key>StartPoint</key>
+		<string>{0.38626627922715945, 0.36647608114365388}</string>
+		<key>Type</key>
+		<string>line</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.65319140453693736</real>
+		<key>Frame</key>
+		<string>{{4.49057433885948e-08, 0.0013064557560305129}, {0.84324294877253603, 0.083520590326094282}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;&lt;b&gt;﻿PIROL &lt;/b&gt;[Eurasian Golden Oriole]&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+</array>
+</plist>

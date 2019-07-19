@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>FontScale</key>
+		<real>0.3488363427967156</real>
+		<key>Frame</key>
+		<string>{{0.36631665688614201, 0.79861117222721534}, {0.2633493224997408, 0.20138847045458139}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;♂ 1er hiver souvent tacheté de sombre&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>EndPoint</key>
+		<string>{0.47951919963341816, 0.84642765702243261}</string>
+		<key>StartPoint</key>
+		<string>{0.48970463110617923, 0.62986034118014567}</string>
+		<key>Type</key>
+		<string>line</string>
+	</dict>
+	<dict>
+		<key>EndPoint</key>
+		<string>{0.71996137755080503, 0.78620761496438241}</string>
+		<key>StartPoint</key>
+		<string>{0.69716425920593872, 0.73507103298044218}</string>
+		<key>Type</key>
+		<string>line</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.26857108511417216</real>
+		<key>Frame</key>
+		<string>{{0.6993673366866342, 0.73842449389167897}, {0.30063266331336569, 0.26157550610832114}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;liserés pâles masquant les centres noirs des plumes&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>EndPoint</key>
+		<string>{0.70696331680145585, 0.30309590414928217}</string>
+		<key>StartPoint</key>
+		<string>{0.70198626278754084, 0.41296295449826437}</string>
+		<key>Type</key>
+		<string>line</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.63609069261828344</real>
+		<key>Frame</key>
+		<string>{{0.66504696889189585, 0.17763731558526258}, {0.1142500115942663, 0.11044276913663066}}</string>
+		<key>Text</key>
+		<string>&lt;p class="center"&gt;jaune&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.49473702752145721</real>
+		<key>Frame</key>
+		<string>{{0.092402259010151797, 0}, {0.29174905644533539, 0.14199789707826893}}</string>
+		<key>Text</key>
+		<string>&lt;p class="right"&gt;♂ &lt;b&gt;ad. internuptial&lt;/b&gt;&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+</array>
+</plist>

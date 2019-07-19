@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>FontScale</key>
+		<real>0.51537408974378918</real>
+		<key>Frame</key>
+		<string>{{0.15732162514580239, 0.85897891226960121}, {0.29242715376134626, 0.084585498430042136}}</string>
+		<key>Text</key>
+		<string>&lt;p class="right"&gt;brun-roux&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>EndPoint</key>
+		<string>{0.46706519198650021, 0.92092946399552666}</string>
+		<key>StartPoint</key>
+		<string>{0.57263565432350927, 0.90832130066707317}</string>
+		<key>Type</key>
+		<string>line</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.6167736147078523</real>
+		<key>Frame</key>
+		<string>{{0.42317497466794501, 0.063493976075318606}, {0.48401487683613453, 0.070679376061760502}}</string>
+		<key>Text</key>
+		<string>&lt;p class="right"&gt;♂ &lt;b&gt;ad. nuptial&lt;/b&gt;&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>EndPoint</key>
+		<string>{0.97777848087462016, 0.79321956273537098}</string>
+		<key>StartPoint</key>
+		<string>{0.87208192753028613, 0.79321956273537098}</string>
+		<key>Type</key>
+		<string>line</string>
+	</dict>
+</array>
+</plist>

@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>FontScale</key>
+		<real>0.38079890916979142</real>
+		<key>Frame</key>
+		<string>{{0.0056198738033205863, 0.2395216736738881}, {0.21710672060352168, 0.18214601215762322}}</string>
+		<key>Text</key>
+		<string>&lt;p class="right"&gt;queue courte&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.5839080459770174</real>
+		<key>Frame</key>
+		<string>{{0.84463993109728353, 0.63876216290909638}, {0.097557562705694836, 0.11878754406131362}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;♀ &lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>EndPoint</key>
+		<string>{0.71297026176013489, 0.36882770933528569}</string>
+		<key>StartPoint</key>
+		<string>{0.65826823192600215, 0.43143011042967166}</string>
+		<key>Type</key>
+		<string>line</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.38079890916979142</real>
+		<key>Frame</key>
+		<string>{{0.61704014732468837, 0.23775179864693133}, {0.21710672060352168, 0.18214601215762322}}</string>
+		<key>Text</key>
+		<string>&lt;p class="right"&gt;roux vif&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>EndPoint</key>
+		<string>{0.16129313037749471, 0.21554465888052374}</string>
+		<key>StartPoint</key>
+		<string>{0.1065911005433733, 0.27814705997489853}</string>
+		<key>Type</key>
+		<string>line</string>
+	</dict>
+</array>
+</plist>

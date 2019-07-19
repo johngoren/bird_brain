@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>EndPoint</key>
+		<string>{0.74868612801264345, 0.67986342840557235}</string>
+		<key>StartPoint</key>
+		<string>{0.82736286124704705, 0.7421925570399126}</string>
+		<key>Type</key>
+		<string>line</string>
+	</dict>
+	<dict>
+		<key>EndPoint</key>
+		<string>{0.40564580099877168, 0.56215243083272637}</string>
+		<key>StartPoint</key>
+		<string>{0.52740010876959287, 0.51200762470779537}</string>
+		<key>Type</key>
+		<string>line</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.61665464354044486</real>
+		<key>Frame</key>
+		<string>{{0.49730309190837146, 0.88747372884911457}, {0.32441692651804566, 0.072222770904002864}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;&lt;b&gt;ad. &lt;/b&gt;(hell)&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.27428418368201068</real>
+		<key>Frame</key>
+		<string>{{0.65049412919584659, 0.7191466268199086}, {0.2458793122381944, 0.1623735880408772}}</string>
+		<key>Text</key>
+		<string>&lt;p class="right"&gt;Decken dun-kel&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.31969768171690288</real>
+		<key>Frame</key>
+		<string>{{0.20549102895628699, 0.21953760970372932}, {0.38774149063632163, 0.13930819519282236}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;Flügel und Schwanz lang&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.27983199377164336</real>
+		<key>Frame</key>
+		<string>{{0.24289433868387023, 0.49999486569653212}, {0.21612683846741337, 0.15915444995061956}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;rostbraun&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+</array>
+</plist>

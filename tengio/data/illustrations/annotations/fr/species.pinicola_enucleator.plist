@@ -1,0 +1,118 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>FontScale</key>
+		<real>0.20938420544802738</real>
+		<key>Frame</key>
+		<string>{{0.055886037706874968, 0.21704642077991232}, {0.10198577797473596, 0.12343110678695036}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;bande hivernale se nourrissant de sorbes&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.60626655524479434</real>
+		<key>Frame</key>
+		<string>{{0.21005672704574332, 0.20827060961207725}, {0.098261511879628782, 0.042628978950885535}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;♂ &lt;b&gt;1er hiver&lt;/b&gt;&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>EndPoint</key>
+		<string>{0.57414018544576928, 0.17394788094523125}</string>
+		<key>StartPoint</key>
+		<string>{0.54653725258371377, 0.15123499729046336}</string>
+		<key>Type</key>
+		<string>line</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.17084809584434138</real>
+		<key>Frame</key>
+		<string>{{0.57732389037653953, 0.085615558453593685}, {0.20209871548972702, 0.15127194771724586}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;nuance roux orangé apparaissant souvent dès le 1er hiver chez le ♂ (mais quelques ♀ ad. peuvent également avoir une légère teinte orangée)&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>EndPoint</key>
+		<string>{0.70451676830742915, 0.75671258433792432}</string>
+		<key>StartPoint</key>
+		<string>{0.71957173877466618, 0.76688644395543015}</string>
+		<key>Type</key>
+		<string>line</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.24615245932733959</real>
+		<key>Frame</key>
+		<string>{{0.72218654238132329, 0.67674455106978482}, {0.065381941459249138, 0.10499397118672511}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;fort et arrondi&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.61707269611504834</real>
+		<key>Frame</key>
+		<string>{{0.50103314185282788, 0.41628493093922669}, {0.11560938190281299, 0.041882462771189788}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;♀ &lt;b&gt;/ &lt;/b&gt;♂ &lt;b&gt;1er hiver&lt;/b&gt;&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>EndPoint</key>
+		<string>{0.51190591703017407, 0.71895350342705178}</string>
+		<key>StartPoint</key>
+		<string>{0.48514650373691104, 0.76157105492528099}</string>
+		<key>Type</key>
+		<string>line</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.36868447256450365</real>
+		<key>Frame</key>
+		<string>{{0.42517512724283657, 0.74818190356552439}, {0.15491556566811623, 0.07009930210075381}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;barres alaires et liserés des tertiaires blancs&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.71993320932140081</real>
+		<key>Frame</key>
+		<string>{{0.6922147912630493, 0.3215630238548971}, {0.057015873776548966, 0.035898502649317869}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;♂ &lt;b&gt;ad.&lt;/b&gt;&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>EndPoint</key>
+		<string>{0.68149293338480788, 0.89397032292475864}</string>
+		<key>StartPoint</key>
+		<string>{0.65638562332601136, 0.92497174870717314}</string>
+		<key>Type</key>
+		<string>line</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.24635112388625496</real>
+		<key>Frame</key>
+		<string>{{0.55900750980991232, 0.83517806690421981}, {0.094874249865321059, 0.10490930105960926}}</string>
+		<key>Text</key>
+		<string>&lt;p class="right"&gt;en vol, semble avoir une longue queue&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+</array>
+</plist>

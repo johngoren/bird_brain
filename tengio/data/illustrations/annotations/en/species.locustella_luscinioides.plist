@@ -1,0 +1,170 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>FontScale</key>
+		<real>0.22117625883094091</real>
+		<key>Frame</key>
+		<string>{{0.05307312243910095, 0.79567555957507485}, {0.074581147654041891, 0.13562622976678534}}</string>
+		<key>Text</key>
+		<string>&lt;p class="center"&gt;linked &lt;/p&gt;&lt;p class="center"&gt;to vast reedbeds&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.18252424660751754</real>
+		<key>Frame</key>
+		<string>{{0.48348081480144944, 0.1189718892544496}, {0.05936589547750723, 0.16434694379901468}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;a hint &lt;/p&gt;&lt;p&gt;of pale tips at most&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>EndPoint</key>
+		<string>{0.50267886486363378, 0.29318943661060637}</string>
+		<key>StartPoint</key>
+		<string>{0.51288451617746145, 0.34399136478709519}</string>
+		<key>Type</key>
+		<string>line</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.46999931869605738</real>
+		<key>Frame</key>
+		<string>{{0.70176154711311833, 0.68557903139569398}, {0.088227621651622984, 0.063824139537874636}}</string>
+		<key>Text</key>
+		<string>&lt;p class="right"&gt;unmarked&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>EndPoint</key>
+		<string>{0.79473053070772781, 0.73468536616786129}</string>
+		<key>StartPoint</key>
+		<string>{0.86760540890258075, 0.69231850403493866}</string>
+		<key>Type</key>
+		<string>line</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.21009303130750304</real>
+		<key>Frame</key>
+		<string>{{0.63776928452271553, 0.45344430002523706}, {0.1033755853427839, 0.14278104281934784}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;&lt;b&gt;&lt;i&gt;fusca&lt;/i&gt;&lt;/b&gt;&lt;/p&gt;&lt;p&gt;(Transcaspia, Central Asia)&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>EndPoint</key>
+		<string>{0.55776293980976366, 0.87386005612906703}</string>
+		<key>StartPoint</key>
+		<string>{0.55776293980976366, 0.8290009620093689}</string>
+		<key>Type</key>
+		<string>line</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.60645075718434471</real>
+		<key>Frame</key>
+		<string>{{0.4824777860306631, 0.85715098738187434}, {0.1465299898964629, 0.049463706234675879}}</string>
+		<key>Text</key>
+		<string>&lt;p class="center"&gt;olive grey-brown&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>EndPoint</key>
+		<string>{0.6695142747953281, 0.81123764446792812}</string>
+		<key>StartPoint</key>
+		<string>{0.68821792367179369, 0.84064444849426545}</string>
+		<key>Type</key>
+		<string>line</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.26557656525606771</real>
+		<key>Frame</key>
+		<string>{{0.6024928663213226, 0.7911132705733136}, {0.1677605818596066, 0.11295161555478331}}</string>
+		<key>Text</key>
+		<string>&lt;p class="right"&gt;note the proportionally small head (cf. Reed Warbler) &lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>EndPoint</key>
+		<string>{0.31647112970691943, 0.57707804758226278}</string>
+		<key>StartPoint</key>
+		<string>{0.31647112970691943, 0.53559236832570722}</string>
+		<key>Type</key>
+		<string>line</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.4948926937076194</real>
+		<key>Frame</key>
+		<string>{{0.2958501454697362, 0.55264802431354909}, {0.089621550449630244, 0.060613750173659789}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;red-brown&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.24831265408398334</real>
+		<key>Frame</key>
+		<string>{{0.058918012712996924, 0.29955769344247446}, {0.09125216355840958, 0.12080456475253817}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;rusty-buff with a hint &lt;/p&gt;&lt;p&gt;of paler tips&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>EndPoint</key>
+		<string>{0.11326610225684286, 0.42890189135048501}</string>
+		<key>StartPoint</key>
+		<string>{0.1241460500439216, 0.45719298558655386}</string>
+		<key>Type</key>
+		<string>line</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.20409947108621951</real>
+		<key>Frame</key>
+		<string>{{0.09434294599718418, 0.13711554923434885}, {0.14032166226089587, 0.14697393354092111}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;wing-edge is greyish-white and is smooth­ly curved (unlike in &lt;i&gt;Acrocephalus&lt;/i&gt;)&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>EndPoint</key>
+		<string>{0.20931943029374162, 0.29166236084157887}</string>
+		<key>StartPoint</key>
+		<string>{0.23294035010385949, 0.36112952431762979}</string>
+		<key>Type</key>
+		<string>line</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.31864430952944256</real>
+		<key>Frame</key>
+		<string>{{0.3872453811255816, 0.19986947769135049}, {0.078090888202869552, 0.094140397936061188}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;rufous-grey flanks&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>EndPoint</key>
+		<string>{0.38744197766518312, 0.29788019843960445}</string>
+		<key>StartPoint</key>
+		<string>{0.35166859093701841, 0.33421927285397862}</string>
+		<key>Type</key>
+		<string>line</string>
+	</dict>
+</array>
+</plist>

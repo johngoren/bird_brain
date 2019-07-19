@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>FontScale</key>
+		<real>0.45460914684480414</real>
+		<key>Frame</key>
+		<string>{{0.067583028640998077, 0.15015804944992253}, {0.16012297979586071, 0.09005616142386802}}</string>
+		<key>Text</key>
+		<string>&lt;p class="center"&gt;high-alpine species&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.55826112275470985</real>
+		<key>Frame</key>
+		<string>{{0.45139160165257958, 0.26091239315908471}, {0.024609937937009153, 0.073335493095067414}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;♀ &lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.2928546957622693</real>
+		<key>Frame</key>
+		<string>{{0.34243707566801646, 0.72773990680745115}, {0.072894440151563947, 0.13979750130507301}}</string>
+		<key>Text</key>
+		<string>&lt;p class="right"&gt;drab and feature­-less&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.32999325270143792</real>
+		<key>Frame</key>
+		<string>{{0.68961082645656491, 0.18568392881576878}, {0.055289348612716428, 0.12406421761012026}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;&lt;b&gt;ad. &lt;/b&gt;♂ &lt;b&gt;&lt;/b&gt;&lt;/p&gt;&lt;p&gt;&lt;b&gt;spring&lt;/b&gt;&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.45972850678732696</real>
+		<key>Frame</key>
+		<string>{{0.76223863889680687, 0.48414761020340003}, {0.09993586991777062, 0.089053330625768326}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;dark rufous with no dark centre&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>EndPoint</key>
+		<string>{0.80050602651078018, 0.35184949614727762}</string>
+		<key>StartPoint</key>
+		<string>{0.80000510136573078, 0.47802267524633929}</string>
+		<key>Type</key>
+		<string>line</string>
+	</dict>
+	<dict>
+		<key>EndPoint</key>
+		<string>{0.88390116005254293, 0.27768295343102983}</string>
+		<key>StartPoint</key>
+		<string>{0.85618976517622281, 0.19885039183643463}</string>
+		<key>Type</key>
+		<string>line</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.27924575467142371</real>
+		<key>Frame</key>
+		<string>{{0.80165096139180847, 0.048559491949813384}, {0.089523880476574932, 0.1466104820866313}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;large white wing patch&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+</array>
+</plist>

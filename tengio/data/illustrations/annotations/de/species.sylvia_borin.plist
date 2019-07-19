@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>FontScale</key>
+		<real>0.36363636363636359</real>
+		<key>Frame</key>
+		<string>{{0.58958602147250239, 0.79902297646914844}, {0.23328034411596524, 0.089050081131918285}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;singt meist in dichtem Laub versteckt&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>EndPoint</key>
+		<string>{0.23226695220287377, 0.17729737854316727}</string>
+		<key>StartPoint</key>
+		<string>{0.17911614615247798, 0.094327657015927449}</string>
+		<key>Type</key>
+		<string>line</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.63544481136790698</real>
+		<key>Frame</key>
+		<string>{{0.12030136672351642, 0.029446693360771683}, {0.15973538523890901, 0.050959339198358211}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;ungemustert&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.19978369875135005</real>
+		<key>Frame</key>
+		<string>{{0.70622619353048799, 0.066958641638875313}, {0.24339425023347683, 0.16208453385697014}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;Gesamteindruck nichtssagend und merkmalslos – ein gutes Kennzeichen!&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>EndPoint</key>
+		<string>{0.70148512997069923, 0.55178487463743475}</string>
+		<key>StartPoint</key>
+		<string>{0.75028369988455779, 0.46116349195266632}</string>
+		<key>Type</key>
+		<string>line</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.41741988496301496</real>
+		<key>Frame</key>
+		<string>{{0.63494010888478702, 0.52105078703028196}, {0.14972485370162228, 0.077576198094163815}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;Halsseiten grau&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>EndPoint</key>
+		<string>{0.89187599331967526, 0.57800669782907255}</string>
+		<key>StartPoint</key>
+		<string>{0.86673636387470665, 0.5371054749745815}</string>
+		<key>Type</key>
+		<string>line</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.25297738318959057</real>
+		<key>Frame</key>
+		<string>{{0.7598933938792366, 0.55755608640182641}, {0.21202005858339981, 0.12800293558284526}}</string>
+		<key>Text</key>
+		<string>&lt;p class="right"&gt;kurzer Schnabel, „milder“ Gesichtsausdruck&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+</array>
+</plist>

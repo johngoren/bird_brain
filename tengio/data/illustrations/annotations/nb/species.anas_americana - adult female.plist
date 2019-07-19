@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>FontScale</key>
+		<real>0.60023629908014287</real>
+		<key>Frame</key>
+		<string>{{0.18571945512398569, 0.070035278968975739}, {0.17588118114370097, 0.066507582556734515}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;&lt;b&gt;ad. &lt;/b&gt;♀&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.60023629908014287</real>
+		<key>Frame</key>
+		<string>{{0.56106301640162481, 0.50873635111662485}, {0.17588118114370097, 0.066507582556734515}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;&lt;b&gt;ad. &lt;/b&gt;♀&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.31864430952944256</real>
+		<key>Frame</key>
+		<string>{{0.54352073493698605, 0.64136912180034145}, {0.27028165435287543, 0.12528158834398634}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;﻿mørk øyetrakt framtrer ofte&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>EndPoint</key>
+		<string>{0.61359894087961575, 0.68520940874809977}</string>
+		<key>StartPoint</key>
+		<string>{0.60466656187985945, 0.65979039538146267}</string>
+		<key>Type</key>
+		<string>line</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.3848484848485062</real>
+		<key>Frame</key>
+		<string>{{0.53876795376965347, 0.78836510971332097}, {0.25151309836056113, 0.10372982299861676}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;﻿bred skittenhvit bord&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>EndPoint</key>
+		<string>{0.52640205995350464, 0.821888400544459}</string>
+		<key>StartPoint</key>
+		<string>{0.46008900408598824, 0.77318544494337149}</string>
+		<key>Type</key>
+		<string>line</string>
+	</dict>
+</array>
+</plist>

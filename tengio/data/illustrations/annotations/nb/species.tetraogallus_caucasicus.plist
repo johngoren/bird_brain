@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>FontScale</key>
+		<real>0.33519613999792719</real>
+		<key>Frame</key>
+		<string>{{0.12999110583589901, 0.92002101889863619}, {0.22490468497894731, 0.057429129328822992}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;♂﻿ i sangpositur&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>EndPoint</key>
+		<string>{0.77316671755208932, 0.12012195509264333}</string>
+		<key>StartPoint</key>
+		<string>{0.70553267464254876, 0.15738470844068503}</string>
+		<key>Type</key>
+		<string>line</string>
+	</dict>
+	<dict>
+		<key>EndPoint</key>
+		<string>{0.69003086993513263, 0.35429941353615768}</string>
+		<key>StartPoint</key>
+		<string>{0.72548149691575448, 0.34459632229221271}</string>
+		<key>Type</key>
+		<string>line</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.40063091482649321</real>
+		<key>Frame</key>
+		<string>{{0.69647971337156822, 0.07832515432624311}, {0.26115351562439992, 0.048049268696101717}}</string>
+		<key>Text</key>
+		<string>&lt;p class="right"&gt;﻿tydelige striper&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.49559890504171605</real>
+		<key>Frame</key>
+		<string>{{0.53934497091959765, 0.32664201507861457}, {0.14462570070221595, 0.038841939073378066}}</string>
+		<key>Text</key>
+		<string>&lt;p class="right"&gt;mørk&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.2295914323901577</real>
+		<key>Frame</key>
+		<string>{{0.55483712862613033, 0.3875381137585639}, {0.19686061537533708, 0.083844689995881752}}</string>
+		<key>Text</key>
+		<string>&lt;p class="right"&gt;svak kanelfarget tone&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.13091096508181974</real>
+		<key>Frame</key>
+		<string>{{0.86910661353007168, 0.1420434865916152}, {0.11171261978565125, 0.1470466775829809}}</string>
+		<key>Text</key>
+		<string>&lt;p class="right"&gt;﻿mørk, fin-møns-tret, synlig på kort hold&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>EndPoint</key>
+		<string>{0.76007338895406518, 0.42351427127848135}</string>
+		<key>StartPoint</key>
+		<string>{0.79552401593468691, 0.41381118003453637}</string>
+		<key>Type</key>
+		<string>line</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.33008447043533862</real>
+		<key>Frame</key>
+		<string>{{0.12499122908615923, 0.054527882448361965}, {0.42136209889115739, 0.058318473598818296}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;﻿fugler i tørrere områder er lysere og klarere farget, enkelte med kanelbrun «mustasje»&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>EndPoint</key>
+		<string>{0.94191426536642386, 0.29102970011926454}</string>
+		<key>StartPoint</key>
+		<string>{0.90651857833247407, 0.30220408959343564}</string>
+		<key>Type</key>
+		<string>line</string>
+	</dict>
+</array>
+</plist>

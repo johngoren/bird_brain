@@ -1,0 +1,358 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>FontScale</key>
+		<real>0.67142840067549925</real>
+		<key>Frame</key>
+		<string>{{0.51535865705447503, 0.74799186803508266}, {0.047103318312815029, 0.039539450641879192}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;&lt;b&gt;juv.&lt;/b&gt;&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.64827543000905119</real>
+		<key>Frame</key>
+		<string>{{0.60783551044732909, 0.56402675898552213}, {0.080287688616240388, 0.040951590757795843}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;&lt;b&gt;1:a vint.&lt;/b&gt;&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>EndPoint</key>
+		<string>{0.52103571686162153, 0.58481863050766503}</string>
+		<key>StartPoint</key>
+		<string>{0.52767227883705303, 0.61799470845535387}</string>
+		<key>Type</key>
+		<string>line</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.62666700665527697</real>
+		<key>Frame</key>
+		<string>{{0.48274600479583052, 0.5383923021554009}, {0.076475112455659439, 0.042363663358885778}}</string>
+		<key>Text</key>
+		<string>&lt;p class="center"&gt;ljusgul&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.64627020950333536</real>
+		<key>Frame</key>
+		<string>{{0.54720786028563884, 0.82897849059070305}, {0.07681601704379952, 0.041078653661704601}}</string>
+		<key>Text</key>
+		<string>&lt;p class="center"&gt;olivbrun&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>EndPoint</key>
+		<string>{0.60221804213496777, 0.843590902541004}</string>
+		<key>StartPoint</key>
+		<string>{0.61465713599985405, 0.80572649918223083}</string>
+		<key>Type</key>
+		<string>line</string>
+	</dict>
+	<dict>
+		<key>EndPoint</key>
+		<string>{0.7371450251483922, 0.83851577583982717}</string>
+		<key>StartPoint</key>
+		<string>{0.72941572801883914, 0.86679104173068811}</string>
+		<key>Type</key>
+		<string>line</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.69629519448369603</real>
+		<key>Frame</key>
+		<string>{{0.71298283804537499, 0.79257455236802155}, {0.066756226287499831, 0.038127378040789299}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;ljus bas&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>EndPoint</key>
+		<string>{0.71196079691068914, 0.92158958638668409}</string>
+		<key>StartPoint</key>
+		<string>{0.70145524276787008, 0.87521129892559757}</string>
+		<key>Type</key>
+		<string>line</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.58749985059106169</real>
+		<key>Frame</key>
+		<string>{{0.68612016182320379, 0.90444370596074797}, {0.086600979354295851, 0.045187943590719086}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;mörk tygel&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.55179187940155561</real>
+		<key>Frame</key>
+		<string>{{0.69686034897257354, 0.34861804038679634}, {0.086652391078620897, 0.048112179789338794}}</string>
+		<key>Text</key>
+		<string>&lt;p class="right"&gt;♀&lt;b&gt; / ad. vint.&lt;/b&gt;&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.62666500922747426</real>
+		<key>Frame</key>
+		<string>{{0.8844278989511587, 0.20199557072499333}, {0.099573296050363191, 0.042363798388539216}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;&lt;b&gt;ad. &lt;/b&gt;♂&lt;b&gt; som.&lt;/b&gt;&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.36973835399784544</real>
+		<key>Frame</key>
+		<string>{{0.72818535393723616, 0.053370490626235077}, {0.086602704579944623, 0.071801883199327191}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;&lt;b&gt;&lt;i&gt;flava&lt;/i&gt;&lt;/b&gt;&lt;/p&gt;&lt;p&gt;(c. Europa)&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.37134560083861096</real>
+		<key>Frame</key>
+		<string>{{0.46697859976417805, 0.04741010150562755}, {0.13802270998782679, 0.071491112451881902}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;&lt;b&gt;&lt;i&gt;‘dombrowskii’&lt;/i&gt;&lt;/b&gt;&lt;/p&gt;&lt;p&gt;(Rumänien)&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.66935965723098589</real>
+		<key>Frame</key>
+		<string>{{0.58455827016543982, 0.12397776648137518}, {0.020031249959397094, 0.039661652478263275}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;♂&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.66935965723098589</real>
+		<key>Frame</key>
+		<string>{{0.43872780698523672, 0.12397776648137518}, {0.020031077436832242, 0.039661652478263275}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;♂&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.39292052376612785</real>
+		<key>Frame</key>
+		<string>{{0.31904688374172824, 0.051335616076278609}, {0.13802288251039149, 0.067565597881230816}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;&lt;b&gt;&lt;i&gt;‘superciliaris’&lt;/i&gt;&lt;/b&gt;&lt;/p&gt;&lt;p&gt;(s.ö. Ryssland)&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.66935965723098589</real>
+		<key>Frame</key>
+		<string>{{0.4557627067734748, 0.33387319349566397}, {0.020031077436832242, 0.039661652478263275}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;♂&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.37495351414028394</real>
+		<key>Frame</key>
+		<string>{{0.31955133972134447, 0.25749395123745572}, {0.13802270998782679, 0.070803203882314425}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;&lt;b&gt;&lt;i&gt;iberiae&lt;/i&gt;&lt;/b&gt;&lt;/p&gt;&lt;p&gt;(Spanien, n.v. Afrika)&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.41664653451498607</real>
+		<key>Frame</key>
+		<string>{{0.16771276395662496, 0.055183151022055198}, {0.13802279624910918, 0.063718062935454234}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;&lt;b&gt;&lt;i&gt;feldegg&lt;/i&gt;&lt;/b&gt;&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.66935965723098589</real>
+		<key>Frame</key>
+		<string>{{0.29859516776444195, 0.12397769896654456}, {0.020031077436832242, 0.039661652478263275}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;♀&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.66935965723098589</real>
+		<key>Frame</key>
+		<string>{{0.1481417254104099, 0.12397776648137518}, {0.020031163698114682, 0.039661652478263275}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;♂&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.38204277694545263</real>
+		<key>Frame</key>
+		<string>{{0.020810981156634333, 0.049411848603390311}, {0.17681354608112462, 0.069489365354119093}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;&lt;b&gt;&lt;i&gt;feldegg&lt;/i&gt;&lt;/b&gt;&lt;/p&gt;&lt;p&gt;(Balkan, Turkiet, Kaukasus)&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.57207203275168383</real>
+		<key>Frame</key>
+		<string>{{0.020810981156634333, 0}, {0.36055956638554598, 0.046406586213223071}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;&lt;b&gt;CITRONÄRLA&lt;/b&gt;&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.66935965723098589</real>
+		<key>Frame</key>
+		<string>{{0.14613870243371924, 0.33387319349566397}, {0.020031077436832242, 0.039661652478263275}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;♂&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.38204314813285495</real>
+		<key>Frame</key>
+		<string>{{0.020810981156634333, 0.25978844262392781}, {0.13802288251039149, 0.069489297839292197}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;&lt;b&gt;&lt;i&gt;thunbergi&lt;/i&gt;&lt;/b&gt;&lt;/p&gt;&lt;p&gt;(n. Fennoskandia)&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.36983120319102897</real>
+		<key>Frame</key>
+		<string>{{0.16771276395662496, 0.25749395123745666}, {0.13802279624910918, 0.071783856740589819}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;&lt;b&gt;&lt;i&gt;cinereocapilla&lt;/i&gt;&lt;/b&gt;&lt;/p&gt;&lt;p&gt;(Italien)&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.66935965723098589</real>
+		<key>Frame</key>
+		<string>{{0.30491001120558198, 0.33387312598083313}, {0.020031077436832242, 0.039661652478263275}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;♂&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.36199968146797151</real>
+		<key>Frame</key>
+		<string>{{0.020810981156634333, 0.46322363476371609}, {0.13802288251039149, 0.073336832785068778}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;&lt;b&gt;&lt;i&gt;lutea&lt;/i&gt;&lt;/b&gt;&lt;/p&gt;&lt;p&gt;(s.v. Sibirien)&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.66935965723098589</real>
+		<key>Frame</key>
+		<string>{{0.14814181167169227, 0.53455021358285471}, {0.020031077436832242, 0.039661652478263275}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;♂&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.37175109195076184</real>
+		<key>Frame</key>
+		<string>{{0.16950984525336632, 0.46514733472177744}, {0.13802270998782679, 0.071413132827007383}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;&lt;b&gt;&lt;i&gt;beema&lt;/i&gt;&lt;/b&gt;&lt;/p&gt;&lt;p&gt;(n. Kirghizstäppen)&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.66935965723098589</real>
+		<key>Frame</key>
+		<string>{{0.29952014749587741, 0.53455021358285471}, {0.020031163698114682, 0.039661652478263275}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;♂&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.41664653451498607</real>
+		<key>Frame</key>
+		<string>{{0.16731501318336731, 0.68857030247930229}, {0.13802288251039149, 0.063718062935454234}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;&lt;b&gt;&lt;i&gt;flavissima&lt;/i&gt;&lt;/b&gt;&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.72067739452366109</real>
+		<key>Frame</key>
+		<string>{{0.29551401528121229, 0.74954854623116407}, {0.020031077436832242, 0.036837439761256689}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;♀&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.3197244562181516</real>
+		<key>Frame</key>
+		<string>{{0.020810981156634333, 0.66925464812554536}, {0.13802288251039149, 0.083033717289211217}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;&lt;b&gt;&lt;i&gt;flavissima&lt;/i&gt;&lt;/b&gt;&lt;/p&gt;&lt;p&gt;(Brittiska öarna)&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.66935965723098589</real>
+		<key>Frame</key>
+		<string>{{0.14457754574440754, 0.74463395061276405}, {0.020031163698114682, 0.039661652478263275}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;♂&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+</array>
+</plist>

@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>FontScale</key>
+		<real>0.26666648582188146</real>
+		<key>Frame</key>
+		<string>{{0.23266522012591279, 0.32017468361448259}, {0.24126024140109403, 0.087225102984911138}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;long gape-flange&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.63902232911886103</real>
+		<key>Frame</key>
+		<string>{{0.22304528088152095, 0.26907424518564854}, {0.2547532797162354, 0.036399372335722387}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;&lt;b&gt;juv.&lt;/b&gt;&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.2873094332591713</real>
+		<key>Frame</key>
+		<string>{{0.059762930725622138, 0.85312416173269567}, {0.23191991793979813, 0.080958050783720537}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;white trailing edge&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>EndPoint</key>
+		<string>{0.61752855586190292, 0.89275476496969031}</string>
+		<key>StartPoint</key>
+		<string>{0.46691376345536295, 0.89026401152211843}</string>
+		<key>Type</key>
+		<string>line</string>
+	</dict>
+	<dict>
+		<key>EndPoint</key>
+		<string>{0.21314438059468641, 0.87554554859677125}</string>
+		<key>StartPoint</key>
+		<string>{0.3063999481731175, 0.87617570667449041}</string>
+		<key>Type</key>
+		<string>line</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.63902232911886103</real>
+		<key>Frame</key>
+		<string>{{0.33770087289548839, 0.60632198594834841}, {0.2547532797162354, 0.036399372335722387}}</string>
+		<key>Text</key>
+		<string>&lt;p class="right"&gt;&lt;b&gt;juv.&lt;/b&gt;&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.25770410192922844</real>
+		<key>Frame</key>
+		<string>{{0.55959845107830009, 0.86070666432229237}, {0.20412302561767962, 0.090258600908206338}}</string>
+		<key>Text</key>
+		<string>&lt;p class="right"&gt;broad white band&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+</array>
+</plist>

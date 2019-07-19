@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>EndPoint</key>
+		<string>{0.34938886275943537, 0.34561347768358652}</string>
+		<key>StartPoint</key>
+		<string>{0.31036711221291968, 0.40488041736458447}</string>
+		<key>Type</key>
+		<string>line</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.3784308325236565</real>
+		<key>Frame</key>
+		<string>{{0.027695125129093518, 0.19914486242098714}, {0.51010921807081755, 0.14076268700474073}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;brownish vent and belly, looks oil-stained&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.19671265113040137</real>
+		<key>Frame</key>
+		<string>{{0.028592109038369323, 0.44577586406591124}, {0.2518832528162635, 0.2707957039131092}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;diffuse, brownish ’arm-pits’&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>EndPoint</key>
+		<string>{0.40784021120733882, 0.57789961494711906}</string>
+		<key>StartPoint</key>
+		<string>{0.25311745830986299, 0.63855070820877635}</string>
+		<key>Type</key>
+		<string>line</string>
+	</dict>
+</array>
+</plist>

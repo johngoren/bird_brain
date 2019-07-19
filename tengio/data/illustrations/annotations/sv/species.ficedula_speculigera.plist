@@ -1,0 +1,136 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>EndPoint</key>
+		<string>{0.82771193474092286, 0.71179511979211729}</string>
+		<key>StartPoint</key>
+		<string>{0.85655203877313368, 0.74875452456657599}</string>
+		<key>Type</key>
+		<string>line</string>
+	</dict>
+	<dict>
+		<key>EndPoint</key>
+		<string>{0.89560268988594838, 0.39528009243983614}</string>
+		<key>StartPoint</key>
+		<string>{0.79067572345180204, 0.45130818414098589}</string>
+		<key>Type</key>
+		<string>line</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.41206106104928475</real>
+		<key>Frame</key>
+		<string>{{0.88007243683552128, 0.19183022576233857}, {0.10408079795365459, 0.10513174238324935}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;stor fläck&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>EndPoint</key>
+		<string>{0.86561080462417683, 0.2854426010195622}</string>
+		<key>StartPoint</key>
+		<string>{0.74684947318235306, 0.3494070667130994}</string>
+		<key>Type</key>
+		<string>line</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.58824312670391776</real>
+		<key>Frame</key>
+		<string>{{0.73457909994480186, 0.037393645368634855}, {0.21497151537245074, 0.073644204836083915}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;&lt;b&gt;ad. som.&lt;/b&gt; ♂&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.38984776559867068</real>
+		<key>Frame</key>
+		<string>{{0.85016270195842392, 0.27565748060884349}, {0.12743259796473014, 0.11112208697637717}}</string>
+		<key>Text</key>
+		<string>&lt;p class="right"&gt; mycket &lt;/p&gt;&lt;p class="right"&gt;vitt&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>EndPoint</key>
+		<string>{0.55818555644625256, 0.40706928093280909}</string>
+		<key>StartPoint</key>
+		<string>{0.51511378614690118, 0.43350513953140307}</string>
+		<key>Type</key>
+		<string>line</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.18181818181818182</real>
+		<key>Frame</key>
+		<string>{{0.43120009040420171, 0.34566986741349942}, {0.12329505029785014, 0.2382638352402098}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;några få har ljusare gump&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.27127275100033127</real>
+		<key>Frame</key>
+		<string>{{0.86760084694307094, 0.69875913363113884}, {0.114513876149598, 0.15969424557628673}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;mycket stor fläck&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.31629865897635073</real>
+		<key>Frame</key>
+		<string>{{0.13056928655796507, 0.14743403478178216}, {0.2485292496427208, 0.13696136890558494}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;jämför mycket snarlika &lt;i&gt;iberiae&lt;/i&gt; (ovan)&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.43265193798372847</real>
+		<key>Frame</key>
+		<string>{{0.2593053640276845, 0.82711250241389245}, {0.25620411278619631, 0.1001282867662343}}</string>
+		<key>Text</key>
+		<string>&lt;p class="right"&gt;mycket vitt &lt;/p&gt;&lt;p class="right"&gt;i vingen&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.1999091757758093</real>
+		<key>Frame</key>
+		<string>{{0.0071229596343220687, 0.42110888051745338}, {0.21605008359225578, 0.21670189548970145}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;övergumpen ser ofta helmörk &lt;/p&gt;&lt;p&gt;ut i fält&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>EndPoint</key>
+		<string>{0.24857419788328491, 0.61653385531751326}</string>
+		<key>StartPoint</key>
+		<string>{0.18374006909421184, 0.61653385531751326}</string>
+		<key>Type</key>
+		<string>line</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.31629865897635073</real>
+		<key>Frame</key>
+		<string>{{0.13056928655796507, 0.14743403478178216}, {0.2485292496427208, 0.13696136890558494}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;jämför mycket snarlika &lt;i&gt;iberiae&lt;/i&gt; (ovan)&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+</array>
+</plist>

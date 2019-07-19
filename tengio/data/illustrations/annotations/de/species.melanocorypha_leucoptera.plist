@@ -1,0 +1,136 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>EndPoint</key>
+		<string>{0.84847896313545179, 0.35199639647802972}</string>
+		<key>StartPoint</key>
+		<string>{0.8729783653250669, 0.39961711748573842}</string>
+		<key>Type</key>
+		<string>line</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.15266123979903659</real>
+		<key>Frame</key>
+		<string>{{0.8788844396995491, 0.12079497534230407}, {0.10900621725956203, 0.35320158436148275}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;wirkt vor hellem Himmel, wenn weißer Hinterrand verschwindet,  schmalflügelig&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.37751876956162628</real>
+		<key>Frame</key>
+		<string>{{0.80424811234868465, 0.65226319978891401}, {0.074636327135153752, 0.14282784358038655}}</string>
+		<key>Text</key>
+		<string>&lt;p class="right"&gt;Flügel dreifarbig&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.60644982186646901</real>
+		<key>Frame</key>
+		<string>{{0.96534800906479623, 0.5086636102997445}, {0.03382044227986547, 0.088911217092385211}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;♂&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.44761867900944985</real>
+		<key>Frame</key>
+		<string>{{0.25014457167257848, 0.74933545203458984}, {0.15788984033531195, 0.1204601020827141}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;graubraun, gestrichelt&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.39585636193410106</real>
+		<key>Frame</key>
+		<string>{{0.28996167246806287, 0.13118606662586985}, {0.064847632252117524, 0.13621150738657106}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;♀&lt;b&gt; Herbst&lt;/b&gt;(frisch)&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.32787631702054226</real>
+		<key>Frame</key>
+		<string>{{0.030650855665913881, 0.13294292671530011}, {0.11705337589124455, 0.16445284080774195}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;weißer Flügelfleck&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>EndPoint</key>
+		<string>{0.10842101260129262, 0.31356407084967874}</string>
+		<key>StartPoint</key>
+		<string>{0.12871854663034435, 0.41653709404827904}</string>
+		<key>Type</key>
+		<string>line</string>
+	</dict>
+	<dict>
+		<key>EndPoint</key>
+		<string>{0.30757941807288947, 0.76679259637147335}</string>
+		<key>StartPoint</key>
+		<string>{0.30757941807288947, 0.71229866883941473}</string>
+		<key>Type</key>
+		<string>line</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.29110862003536503</real>
+		<key>Frame</key>
+		<string>{{0.63827184163103923, 0.16620430535550104}, {0.090372792777057023, 0.18522361777214816}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;♂&lt;b&gt; Frühjahr&lt;/b&gt;&lt;/p&gt;&lt;p&gt;(abgetragen)&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>EndPoint</key>
+		<string>{0.68897606505399067, 0.66920982332887347}</string>
+		<key>StartPoint</key>
+		<string>{0.6590310939832047, 0.64124069969445452}</string>
+		<key>Type</key>
+		<string>line</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.59982061029111466</real>
+		<key>Frame</key>
+		<string>{{0.69209303805575473, 0.61027833001039911}, {0.073305933107680438, 0.089893863002537613}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;rotbraun&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>EndPoint</key>
+		<string>{0.69567473664596391, 0.93094497399162557}</string>
+		<key>StartPoint</key>
+		<string>{0.67124173939317111, 0.91084821919250203}</string>
+		<key>Type</key>
+		<string>line</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.68756797588364238</real>
+		<key>Frame</key>
+		<string>{{0.69937884155408703, 0.88438456813647015}, {0.081764233963243671, 0.078421615983948784}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;rotbraun&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+</array>
+</plist>

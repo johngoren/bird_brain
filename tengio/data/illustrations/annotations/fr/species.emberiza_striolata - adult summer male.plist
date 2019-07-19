@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>FontScale</key>
+		<real>0.61677458214124381</real>
+		<key>Frame</key>
+		<string>{{0.74886588428250644, 0.4663561799334689}, {0.21512133568087766, 0.087345190832249189}}</string>
+		<key>Text</key>
+		<string>&lt;p class="right"&gt;strié&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>EndPoint</key>
+		<string>{0.88482080852298839, 0.56405529121721365}</string>
+		<key>StartPoint</key>
+		<string>{0.82812505413883419, 0.59097441996940703}</string>
+		<key>Type</key>
+		<string>line</string>
+	</dict>
+	<dict>
+		<key>EndPoint</key>
+		<string>{0.77084501554164997, 0.36122857081743542}</string>
+		<key>StartPoint</key>
+		<string>{0.6754531779267835, 0.40623951701969169}</string>
+		<key>Type</key>
+		<string>line</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.31715009653570525</real>
+		<key>Frame</key>
+		<string>{{0.78020637702588191, 0.20758861157131223}, {0.20329199730069178, 0.16986371489734883}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;gris-chamois pâle&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.61677264727749603</real>
+		<key>Frame</key>
+		<string>{{0.65947990682106727, 0.025247297682171328}, {0.31370495145961846, 0.087345464840903816}}</string>
+		<key>Text</key>
+		<string>&lt;p class="right"&gt;♂ &lt;b&gt;ad.&lt;/b&gt; &lt;b&gt;nuptial&lt;/b&gt;&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+</array>
+</plist>

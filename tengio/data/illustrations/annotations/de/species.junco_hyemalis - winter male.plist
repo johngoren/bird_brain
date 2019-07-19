@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>EndPoint</key>
+		<string>{0.48708038398959902, 0.8858437609214227}</string>
+		<key>StartPoint</key>
+		<string>{0.55856136378710775, 0.79686683958810423}</string>
+		<key>Type</key>
+		<string>line</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.45643655882564316</real>
+		<key>Frame</key>
+		<string>{{0.2858761920201971, 0.81937276674888426}, {0.23694468186815476, 0.14563030258478746}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;vorwiegend dunkelgrau&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>EndPoint</key>
+		<string>{0.71372739310364575, 0.4121725032352167}</string>
+		<key>StartPoint</key>
+		<string>{0.64747672890107788, 0.50114942456854572}</string>
+		<key>Type</key>
+		<string>line</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>1.0071884311479433</real>
+		<key>Frame</key>
+		<string>{{0.70325616426062243, 0.33723729549382142}, {0.25629606180517955, 0.065996582284783806}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;Bauch weiß&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.54273504273503403</real>
+		<key>Frame</key>
+		<string>{{0.70152332338211754, 0.064966237414688571}, {0.18829136141782138, 0.12247411524703966}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;♂&lt;b&gt; SK&lt;/b&gt;&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+</array>
+</plist>

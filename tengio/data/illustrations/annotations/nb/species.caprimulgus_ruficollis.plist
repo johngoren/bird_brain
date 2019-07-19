@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>FontScale</key>
+		<real>0.38367327822401232</real>
+		<key>Frame</key>
+		<string>{{0.37410318736554343, 0.58252890313413352}, {0.039702916925522788, 0.13244599560209805}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;﻿rustrød&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>EndPoint</key>
+		<string>{0.38674172672937723, 0.60820298230311454}</string>
+		<key>StartPoint</key>
+		<string>{0.40398265043814663, 0.55504154793036409}</string>
+		<key>Type</key>
+		<string>line</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.28603058169912188</real>
+		<key>Frame</key>
+		<string>{{0.53595722622905217, 0.28681519296003904}, {0.098881597766628471, 0.17765928740358913}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;﻿mangler nattravnens mørke vingeframkant&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.354716810926133</real>
+		<key>Frame</key>
+		<string>{{0.51371839720513202, 0.12242643982000262}, {0.11878586469987679, 0.14325791097304971}}</string>
+		<key>Text</key>
+		<string>&lt;p class="right"&gt;﻿jevnt brede lyse vingedekkerbånd&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>EndPoint</key>
+		<string>{0.53299003173040971, 0.33294808235310436}</string>
+		<key>StartPoint</key>
+		<string>{0.48504748459548136, 0.33294808235310436}</string>
+		<key>Type</key>
+		<string>line</string>
+	</dict>
+	<dict>
+		<key>EndPoint</key>
+		<string>{0.53176319875573075, 0.24669752430799866}</string>
+		<key>StartPoint</key>
+		<string>{0.47864022448900345, 0.24669752430799866}</string>
+		<key>Type</key>
+		<string>line</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.23456699845895701</real>
+		<key>Frame</key>
+		<string>{{0.73196858243179685, 0.081015810625242698}, {0.14798911652509181, 0.21663741981671614}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;﻿kjønnene svært like, men ♂ ﻿har i gjennomsnitt større hvite flekker&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.2944927536231623</real>
+		<key>Frame</key>
+		<string>{{0.74209032078586179, 0.60641575571265727}, {0.084411865312216935, 0.17255429444394765}}</string>
+		<key>Text</key>
+		<string>&lt;p class="right"&gt;﻿rustbrune bånd&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.13766937669376891</real>
+		<key>Frame</key>
+		<string>{{0.91999933723999228, 0.55269885361622373}, {0.048467554810807813, 0.36911614289744998}}</string>
+		<key>Text</key>
+		<string>&lt;p class="right"&gt;﻿mangler mørk vingeframkant&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>EndPoint</key>
+		<string>{0.94326717349353673, 0.61214642644767292}</string>
+		<key>StartPoint</key>
+		<string>{0.92923785327685327, 0.59113207855745797}</string>
+		<key>Type</key>
+		<string>line</string>
+	</dict>
+	<dict>
+		<key>EndPoint</key>
+		<string>{0.87820878088984944, 0.70947232200604271}</string>
+		<key>StartPoint</key>
+		<string>{0.83026623375492103, 0.70947232200604271}</string>
+		<key>Type</key>
+		<string>line</string>
+	</dict>
+</array>
+</plist>

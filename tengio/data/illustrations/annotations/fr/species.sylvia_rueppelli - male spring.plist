@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>FontScale</key>
+		<real>0.42333364913398847</real>
+		<key>Frame</key>
+		<string>{{0.29425436982502129, 0.7501498375258242}, {0.36118631026086467, 0.095525832058025187}}</string>
+		<key>Text</key>
+		<string>&lt;p class="right"&gt;impossible à confondre !&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.45578318029130832</real>
+		<key>Frame</key>
+		<string>{{0.72126825826608609, 0.20233158062555506}, {0.17311455109061819, 0.088724860460708654}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;♂&lt;b&gt; printemps&lt;/b&gt;&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+</array>
+</plist>

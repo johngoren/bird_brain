@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>FontScale</key>
+		<real>0.36422108765403738</real>
+		<key>Frame</key>
+		<string>{{0.7652452145042663, 0.24773002122066545}, {0.23475478549573373, 0.089479475526749508}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;long, slender and all dark&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>EndPoint</key>
+		<string>{0.79236695777111987, 0.34202448371104671}</string>
+		<key>StartPoint</key>
+		<string>{0.78911693945008632, 0.37475657259689132}</string>
+		<key>Type</key>
+		<string>line</string>
+	</dict>
+	<dict>
+		<key>EndPoint</key>
+		<string>{0.60833225331014396, 0.44467218201570746}</string>
+		<key>StartPoint</key>
+		<string>{0.63532195732848473, 0.42689138951746414}</string>
+		<key>Type</key>
+		<string>line</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.63003975241662968</real>
+		<key>Frame</key>
+		<string>{{0.5073486781240556, 0.42405508270242454}, {0.13635868205624521, 0.051727389857639264}}</string>
+		<key>Text</key>
+		<string>&lt;p class="center"&gt;dark&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.67428261786604782</real>
+		<key>Frame</key>
+		<string>{{0.34994637702356424, 0.081623883480587134}, {0.12960785428683738, 0.048333311634528704}}</string>
+		<key>Text</key>
+		<string>&lt;p class="right"&gt;&lt;b&gt;juv.&lt;/b&gt;&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.2170104549307714</real>
+		<key>Frame</key>
+		<string>{{0.037253102915236924, 0.031277547209716101}, {0.27755252947893072, 0.15017853360780323}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;darker and less strongly patter-&lt;/p&gt;&lt;p&gt;ned than Sooty&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.67428261786604782</real>
+		<key>Frame</key>
+		<string>{{0.20107433059883875, 0.84066202657795508}, {0.10623571200094203, 0.048333311634528704}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;&lt;b&gt;juv.&lt;/b&gt;&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.24653257144576846</real>
+		<key>Frame</key>
+		<string>{{0.20107433059883875, 0.6941998971489115}, {0.16505179141072837, 0.13219475101380124}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;grey-&lt;/p&gt;&lt;p&gt;white, &lt;/p&gt;&lt;p&gt;U-shaped&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>EndPoint</key>
+		<string>{0.28256699602630153, 0.72429437131014074}</string>
+		<key>StartPoint</key>
+		<string>{0.31790532975713609, 0.68855462166500925}</string>
+		<key>Type</key>
+		<string>line</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.60903006769995172</real>
+		<key>Frame</key>
+		<string>{{0.4177761672392486, 0.58988704579084428}, {0.25709050465533373, 0.053511827457296671}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;rakish build&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+</array>
+</plist>

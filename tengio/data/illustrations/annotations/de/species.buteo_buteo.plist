@@ -1,0 +1,282 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>FontScale</key>
+		<real>0.24245895379916477</real>
+		<key>Frame</key>
+		<string>{{0.051520641067685329, 0.51629647909176235}, {0.10686738202668467, 0.096237442851195107}}</string>
+		<key>Text</key>
+		<string>&lt;p class="center"&gt;steht häufig auf Warten&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.47192870833567224</real>
+		<key>Frame</key>
+		<string>{{0.63618983157202891, 0.88388227397671537}, {0.045750319983346957, 0.049443124136900336}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;&lt;b&gt;JK&lt;/b&gt;(hell)&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.28545740615869247</real>
+		<key>Frame</key>
+		<string>{{0.62409450440331549, 0.65635337616214673}, {0.046519673585210967, 0.081741195732143529}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;nur Basis weiß&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>EndPoint</key>
+		<string>{0.63622290843454044, 0.7408505124112218}</string>
+		<key>StartPoint</key>
+		<string>{0.63327343429774929, 0.77292966002828667}</string>
+		<key>Type</key>
+		<string>line</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.16906851321805577</real>
+		<key>Frame</key>
+		<string>{{0.80155318464946301, 0.54832050789848918}, {0.12158094709393567, 0.1380128639323466}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;Mäusebussard: waagerechte oder leicht angehobene Flügel und kom-pakte Gestalt&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.14350282485876306</real>
+		<key>Frame</key>
+		<string>{{0.77313486858290081, 0.73864116676348968}, {0.13125898127396041, 0.16260049049886557}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;Wespenbussard: in Frontalansicht hängende Flügel, schlanke Flügelbasis und langer, gerun-deter Schwanz&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.3636884306987464</real>
+		<key>Frame</key>
+		<string>{{0.87704665635638657, 0.3366091573879138}, {0.065860755325846426, 0.064158295234130205}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;kompakte Gestalt&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.20782196039927411</real>
+		<key>Frame</key>
+		<string>{{0.76272797062875952, 0.38797988862349969}, {0.093793087634798308, 0.11227701665973301}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;dunkle Vögel oberseits eher einfarbig&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.5131313131313997</real>
+		<key>Frame</key>
+		<string>{{0.66625319639549407, 0.59296674427275542}, {0.068656596954746893, 0.045473018529337994}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;&lt;b&gt;ad.&lt;/b&gt;&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.21166671062752934</real>
+		<key>Frame</key>
+		<string>{{0.60056407166349512, 0.44816965240838896}, {0.070591298219461265, 0.11023759778205248}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;schwarzes Komma&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>EndPoint</key>
+		<string>{0.61821189621836181, 0.51028852876485353}</string>
+		<key>StartPoint</key>
+		<string>{0.60978015781992667, 0.49375288566327336}</string>
+		<key>Type</key>
+		<string>line</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.47192870833567224</real>
+		<key>Frame</key>
+		<string>{{0.53095320814152802, 0.40269505972073233}, {0.045750319983346957, 0.049443124136900336}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;&lt;b&gt;JK&lt;/b&gt;(hell)&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.13701675520021633</real>
+		<key>Frame</key>
+		<string>{{0.56479014231794233, 0.14340965418132201}, {0.083730105271090913, 0.17029763751091101}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;helles Armflügelband in allen Kleidern typisch&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.54623655913980673</real>
+		<key>Frame</key>
+		<string>{{0.70841188838767255, 0.023865027526700621}, {0.054994385124741973, 0.042717078012413923}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;&lt;b&gt;ad.&lt;/b&gt;&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>EndPoint</key>
+		<string>{0.80547492343943383, 0.18370957750864711}</string>
+		<key>StartPoint</key>
+		<string>{0.78684666418707583, 0.20989101241947908}</string>
+		<key>Type</key>
+		<string>line</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.22882882882882172</real>
+		<key>Frame</key>
+		<string>{{0.74050546080645896, 0.18823397624013052}, {0.060240704117861574, 0.10196979912641466}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;bei ad.dunkler Hinterrand&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.55628558913704074</real>
+		<key>Frame</key>
+		<string>{{0.88194882984384892, 0.025242997785163368}, {0.054994385124741973, 0.041945414667679704}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;&lt;b&gt;ad.&lt;/b&gt;&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.22729306487693937</real>
+		<key>Frame</key>
+		<string>{{0.87508578696140105, 0.22358574017151969}, {0.093141296261789505, 0.10265878425565218}}</string>
+		<key>Text</key>
+		<string>&lt;p class="right"&gt;helles Brustband in der Regel vorhanden&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>EndPoint</key>
+		<string>{0.68095971685788403, 0.24434026888110669}</string>
+		<key>StartPoint</key>
+		<string>{0.61919233091585313, 0.24434026888110669}</string>
+		<key>Type</key>
+		<string>line</string>
+	</dict>
+	<dict>
+		<key>EndPoint</key>
+		<string>{0.80547492343943383, 0.26969492163685893}</string>
+		<key>StartPoint</key>
+		<string>{0.78390536009459622, 0.26969492163685893}</string>
+		<key>Type</key>
+		<string>line</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.49489477809252591</real>
+		<key>Frame</key>
+		<string>{{0.53232852485503668, 0.021109087009768115}, {0.064923234925813866, 0.047148668248112327}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;&lt;b&gt;JK&lt;/b&gt;&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.47192870833567224</real>
+		<key>Frame</key>
+		<string>{{0.3652597442652909, 0.55573321225744432}, {0.045750319983346957, 0.049443124136900336}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;&lt;b&gt;JK&lt;/b&gt;(hell)&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.13687188468274206</real>
+		<key>Frame</key>
+		<string>{{0.24834495065101661, 0.73076377011925697}, {0.23162565322089926, 0.17047788714309836}}</string>
+		<key>Text</key>
+		<string>&lt;p class="center"&gt;extrem helle Varianten (vorwiegend N-Deutschland bis S-Schweden) können sehr verwirrend aussehen; sie sind vor allem an Kopf, Unterseite, Oberflügeldecken und Schwanzbasis weiß&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>EndPoint</key>
+		<string>{0.2427054070787264, 0.40831872963844168}</string>
+		<key>StartPoint</key>
+		<string>{0.22603801722135355, 0.38213729472760599}</string>
+		<key>Type</key>
+		<string>line</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.21166671062752934</real>
+		<key>Frame</key>
+		<string>{{0.2456467111712041, 0.3686883050049809}, {0.06201983777015569, 0.11023759778205248}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;im JK unterseits längs gestrichelt&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.60476161181175025</real>
+		<key>Frame</key>
+		<string>{{0.15054454551442967, 0.099267560069907626}, {0.037643607894691192, 0.038583185926938351}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;&lt;b&gt;JK&lt;/b&gt;&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.36277115625371886</real>
+		<key>Frame</key>
+		<string>{{0.33584670334051675, 0.14512641027162496}, {0.051093574057010316, 0.064320520823569413}}</string>
+		<key>Text</key>
+		<string>&lt;p class="right"&gt;&lt;b&gt;ad.&lt;/b&gt;&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.17392495206792352</real>
+		<key>Frame</key>
+		<string>{{0.40114365419351744, 0.16331561768336422}, {0.059271696034716173, 0.13415918436415672}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;ad. unterseits quer gebändert&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>EndPoint</key>
+		<string>{0.40447713216499254, 0.30359298999509893}</string>
+		<key>StartPoint</key>
+		<string>{0.39447717091211221, 0.32382159338936689}</string>
+		<key>Type</key>
+		<string>line</string>
+	</dict>
+</array>
+</plist>

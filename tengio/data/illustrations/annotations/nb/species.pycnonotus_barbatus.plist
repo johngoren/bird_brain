@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>FontScale</key>
+		<real>0.30428271937705859</real>
+		<key>Frame</key>
+		<string>{{0.84351636502114569, 0.3861157658858666}, {0.13421901854400051, 0.070711445165121123}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;﻿mørkt «ansikt»&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.30428271937705859</real>
+		<key>Frame</key>
+		<string>{{0.30871510526005347, 0.058649136179887505}, {0.13421901854399979, 0.070711445165121123}}</string>
+		<key>Text</key>
+		<string>&lt;p class="center"&gt;hvit&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>EndPoint</key>
+		<string>{0.37678250706544419, 0.13479259263127608}</string>
+		<key>StartPoint</key>
+		<string>{0.37678250706544419, 0.18479250938325376}</string>
+		<key>Type</key>
+		<string>line</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.12543209876543143</real>
+		<key>Frame</key>
+		<string>{{0.093775932289406463, 0.43339438263670477}, {0.43972013668434901, 0.17153719851377158}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;﻿bylbyler er støyende fugler som eksponerer seg mye, sees også ofte i bebyggelse, er derfor lette å oppdage&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+</array>
+</plist>

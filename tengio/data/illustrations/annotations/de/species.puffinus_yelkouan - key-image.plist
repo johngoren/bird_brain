@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>FontScale</key>
+		<real>0.16149542217700877</real>
+		<key>Frame</key>
+		<string>{{0.033187480173529189, 0.51480367194683263}, {0.18825242617776813, 0.352454426170488}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;viele zeigen deutliches dunkles Band&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>EndPoint</key>
+		<string>{0.33427733894130207, 0.60841414487084977}</string>
+		<key>StartPoint</key>
+		<string>{0.2148024103165917, 0.62858256956269676}</string>
+		<key>Type</key>
+		<string>line</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.23716153127918016</real>
+		<key>Frame</key>
+		<string>{{0.033187480173529189, 0.14117897284296024}, {0.50021473980895703, 0.24000425383302951}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;äußere Unterschwanzdecken oft dunkel, dann nur weißer Keil übrig&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>EndPoint</key>
+		<string>{0.26790237859424371, 0.3899228773757854}</string>
+		<key>StartPoint</key>
+		<string>{0.2546273865248283, 0.45042815145134452}</string>
+		<key>Type</key>
+		<string>line</string>
+	</dict>
+</array>
+</plist>

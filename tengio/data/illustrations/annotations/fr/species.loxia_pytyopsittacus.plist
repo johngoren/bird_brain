@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>FontScale</key>
+		<real>0.37076296556815891</real>
+		<key>Frame</key>
+		<string>{{0.039051954918337912, 0.71541310535592351}, {0.099082883025351592, 0.086619219706835601}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;spécialiste des cônes de pin&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>EndPoint</key>
+		<string>{0.94993163005129233, 0.62930451785469621}</string>
+		<key>StartPoint</key>
+		<string>{0.95452161164972782, 0.65807450974640092}</string>
+		<key>Type</key>
+		<string>line</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.76574762514946326</real>
+		<key>Frame</key>
+		<string>{{0.9427119015817178, 0.6458939530681711}, {0.051218501189611326, 0.041939664869920866}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;épais&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.61935093654903894</real>
+		<key>Frame</key>
+		<string>{{0.92115583491321917, 0.26549715170227706}, {0.054679236356311132, 0.051852991379409116}}</string>
+		<key>Text</key>
+		<string>&lt;p class="right"&gt;♂ &lt;b&gt;ad.&lt;/b&gt;&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>EndPoint</key>
+		<string>{0.77975217594580803, 0.62021355264781086}</string>
+		<key>StartPoint</key>
+		<string>{0.81073878215745543, 0.59588708979455596}</string>
+		<key>Type</key>
+		<string>line</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.2098296222408724</real>
+		<key>Frame</key>
+		<string>{{0.72321394577979847, 0.49686503215062378}, {0.086051203772363416, 0.15305369390047258}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;tête forte, nuque proéminente&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.18419124945550214</real>
+		<key>Frame</key>
+		<string>{{0.53118456319885565, 0.74588426043727907}, {0.17830268220001708, 0.17435789630964435}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;culmen fortement arqué comme un perroquet, mandibule inférieure très grosse et plus épaisse en son centre&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.21333194445348624</real>
+		<key>Frame</key>
+		<string>{{0.42513856261400912, 0.50853691585949612}, {0.13146742259720123, 0.15054097432983601}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;plumages identiques à ceux du B.-c. des sapins&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.61935093654903894</real>
+		<key>Frame</key>
+		<string>{{0.47171505149423837, 0.24040682596762411}, {0.054679236356311132, 0.051852991379409116}}</string>
+		<key>Text</key>
+		<string>&lt;p class="right"&gt;♀ &lt;b&gt;ad.&lt;/b&gt;&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+</array>
+</plist>

@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>FontScale</key>
+		<real>0.30922901102568123</real>
+		<key>Frame</key>
+		<string>{{0.64066082425620774, 0.51848664966855551}, {0.27827290122647952, 0.13451608072046112}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;warm rötlich-beige (wie juv. Kampfläufer)&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.20590696442017956</real>
+		<key>Frame</key>
+		<string>{{0.023504263377340427, 0.62915280501062087}, {0.38917501502650698, 0.20201489893929167}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;Schirmfedern unregelmäßig gebändert und gezackt&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.58366632032062027</real>
+		<key>Frame</key>
+		<string>{{0.444050885550061, 0.40573859624280267}, {0.16132504819813012, 0.071267217518031847}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;&lt;b&gt;JK&lt;/b&gt;&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.35908497328889138</real>
+		<key>Frame</key>
+		<string>{{0.023504263377340427, 0.40264700807270798}, {0.25530257437355885, 0.11583964159584538}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;Variation: schwächere Musterung&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>EndPoint</key>
+		<string>{0.098200281671650846, 0.69900309954148709}</string>
+		<key>StartPoint</key>
+		<string>{0.11264015212723842, 0.64254076367855062}</string>
+		<key>Type</key>
+		<string>line</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.70815023988243608</real>
+		<key>Frame</key>
+		<string>{{0.37559613098145567, 0.0064559968996774986}, {0.12302850751101889, 0.058739335617741972}}</string>
+		<key>Text</key>
+		<string>&lt;p class="right"&gt;&lt;b&gt;JK&lt;/b&gt;&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>EndPoint</key>
+		<string>{0.097713920535712789, 0.3877126293906768}</string>
+		<key>StartPoint</key>
+		<string>{0.10931302262954511, 0.34231598203638836}</string>
+		<key>Type</key>
+		<string>line</string>
+	</dict>
+	<dict>
+		<key>EndPoint</key>
+		<string>{0.59870586567958872, 0.64632305442158344}</string>
+		<key>StartPoint</key>
+		<string>{0.62541249225490658, 0.62960821180173843}</string>
+		<key>Type</key>
+		<string>line</string>
+	</dict>
+</array>
+</plist>

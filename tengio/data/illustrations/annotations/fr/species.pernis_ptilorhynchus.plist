@@ -1,0 +1,450 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>FontScale</key>
+		<real>0.40418061163236269</real>
+		<key>Frame</key>
+		<string>{{0.35188328292586596, 0.12754665183044611}, {0.041298152195352322, 0.054867104212514034}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;♂&lt;b&gt; ad.&lt;/b&gt;&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.32601051980857926</real>
+		<key>Frame</key>
+		<string>{{0.42138505125463127, 0.2632682564659235}, {0.057165848563886103, 0.068023018864948048}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;œil sombre&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>EndPoint</key>
+		<string>{0.39078916410990372, 0.23088713084277879}</string>
+		<key>StartPoint</key>
+		<string>{0.37870190005272769, 0.24049100553294686}</string>
+		<key>Type</key>
+		<string>line</string>
+	</dict>
+	<dict>
+		<key>EndPoint</key>
+		<string>{0.41723005423497489, 0.32081432112342623}</string>
+		<key>StartPoint</key>
+		<string>{0.39586730159799399, 0.30698474156959665}</string>
+		<key>Type</key>
+		<string>line</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.3636884306987066</real>
+		<key>Frame</key>
+		<string>{{0.39267779911883788, 0.17979451749108472}, {0.098209020464556998, 0.060975873487386603}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;net collier diagnostique&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.46725533480502052</real>
+		<key>Frame</key>
+		<string>{{0.45953547843509329, 0.14653018788240707}, {0.043816332207264101, 0.04746060255976392}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;œil pâle&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>EndPoint</key>
+		<string>{0.44304139935707082, 0.14008686104485055}</string>
+		<key>StartPoint</key>
+		<string>{0.45626184441960776, 0.17204157137758247}</string>
+		<key>Type</key>
+		<string>line</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.37786558833930406</real>
+		<key>Frame</key>
+		<string>{{0.42384027676624342, 0.034252450427884856}, {0.053268700284279248, 0.058688116683431331}}</string>
+		<key>Text</key>
+		<string>&lt;p class="right"&gt;♀&lt;b&gt; ad.&lt;/b&gt;&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.24901960784312768</real>
+		<key>Frame</key>
+		<string>{{0.84720929126890354, 0.2319697494442006}, {0.11842957085368117, 0.089054110763360561}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;absence de tache au poignet diagnostique&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.40418061163236269</real>
+		<key>Frame</key>
+		<string>{{0.89656878179586186, 0.037471038031867313}, {0.041298152195352322, 0.054867104212514034}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;♂&lt;b&gt; ad.&lt;/b&gt;&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.30209324452899783</real>
+		<key>Frame</key>
+		<string>{{0.49466408960126262, 0.25882567539597279}, {0.061947228293028483, 0.073408525813564884}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;main large et arrondie&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>EndPoint</key>
+		<string>{0.77532626803557814, 0.12664896270792084}</string>
+		<key>StartPoint</key>
+		<string>{0.77537487031320274, 0.14881681024961188}</string>
+		<key>Type</key>
+		<string>line</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.33951955666601796</real>
+		<key>Frame</key>
+		<string>{{0.50662544465784343, 0.051983013282278799}, {0.11546171583964226, 0.065316472361340402}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;queue relativement courte&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.24901960784312768</real>
+		<key>Frame</key>
+		<string>{{0.64322188559745908, 0.2689533977964812}, {0.1177397402634684, 0.089054110763360561}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;bandes sombres plus régulièrement espacées (voir B. apivore)&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.34070363707672741</real>
+		<key>Frame</key>
+		<string>{{0.74774118079838858, 0.058967649420578992}, {0.077689015660966379, 0.065089471686844244}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;motif diagnostique&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>EndPoint</key>
+		<string>{0.54478640616773977, 0.33465021307145038}</string>
+		<key>StartPoint</key>
+		<string>{0.56036615255709543, 0.35760519120237921}</string>
+		<key>Type</key>
+		<string>line</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.46725533480502052</real>
+		<key>Frame</key>
+		<string>{{0.86861382137015286, 0.1586834547630647}, {0.043816332207263838, 0.04746060255976392}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;collier&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>EndPoint</key>
+		<string>{0.86420700634930647, 0.19683702966856076}</string>
+		<key>StartPoint</key>
+		<string>{0.85476383130463796, 0.20137704315846133}</string>
+		<key>Type</key>
+		<string>line</string>
+	</dict>
+	<dict>
+		<key>EndPoint</key>
+		<string>{0.55698904489607637, 0.1175614094988227}</string>
+		<key>StartPoint</key>
+		<string>{0.55698904489607637, 0.1392137815275625}</string>
+		<key>Type</key>
+		<string>line</string>
+	</dict>
+	<dict>
+		<key>EndPoint</key>
+		<string>{0.83041798060653615, 0.31222321867331737}</string>
+		<key>StartPoint</key>
+		<string>{0.84472878848857369, 0.31222321867331737}</string>
+		<key>Type</key>
+		<string>line</string>
+	</dict>
+	<dict>
+		<key>EndPoint</key>
+		<string>{0.78135888395741149, 0.30422581029496493}</string>
+		<key>StartPoint</key>
+		<string>{0.73263526302040871, 0.30422581029496493}</string>
+		<key>Type</key>
+		<string>line</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.23226042428676141</real>
+		<key>Frame</key>
+		<string>{{0.27583740885962349, 0.31216070943404872}, {0.10689990379914253, 0.095479976010594603}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;&lt;b&gt;juv.&lt;/b&gt;&lt;/p&gt;&lt;p&gt;variante rappelant l’Aigle de Bonelli&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>EndPoint</key>
+		<string>{0.18660252870016822, 0.54779949543891315}</string>
+		<key>StartPoint</key>
+		<string>{0.19628481287348815, 0.56695493214092019}</string>
+		<key>Type</key>
+		<string>line</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.4782383091924915</real>
+		<key>Frame</key>
+		<string>{{0.19871814599482596, 0.68933106090237661}, {0.050045665443255789, 0.046370646836208493}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;6e doigt&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.23226042428676141</real>
+		<key>Frame</key>
+		<string>{{0.19311203317483247, 0.5355918823762329}, {0.065098115601408033, 0.095479976010594603}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;collier noir parfois absent&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.15979707405028479</real>
+		<key>Frame</key>
+		<string>{{0.31540880904680707, 0.56535376944750537}, {0.093888978150647284, 0.13877738294589873}}</string>
+		<key>Text</key>
+		<string>&lt;p class="right"&gt;habituellement 5 à 6 barres (4 chez la B. apivore)&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.19865451810868048</real>
+		<key>Frame</key>
+		<string>{{0.097046628013890093, 0.29307504476954321}, {0.15197532601236227, 0.11163209349700405}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;&lt;b&gt;juv.&lt;/b&gt;&lt;/p&gt;&lt;p&gt;variante rappelant le Circaète Jean-le-Blanc&lt;/p&gt;&lt;p&gt;&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.36227958498033402</real>
+		<key>Frame</key>
+		<string>{{0.23176609635767739, 0.4361380008888921}, {0.067994022615106647, 0.061212998630089298}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;poignet sans marque&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.23226042428676141</real>
+		<key>Frame</key>
+		<string>{{0.43196456959814949, 0.33541954777458594}, {0.098209020464557248, 0.095479976010594603}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;&lt;b&gt;juv.&lt;/b&gt;&lt;/p&gt;&lt;p&gt;variante rappelant l’Aigle criard&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>EndPoint</key>
+		<string>{0.22710746333564097, 0.44391853306101109}</string>
+		<key>StartPoint</key>
+		<string>{0.20696202324034696, 0.44391853306101109}</string>
+		<key>Type</key>
+		<string>line</string>
+	</dict>
+	<dict>
+		<key>EndPoint</key>
+		<string>{0.25463514055601055, 0.70191353041954874}</string>
+		<key>StartPoint</key>
+		<string>{0.2419276524500211, 0.70191353041954874}</string>
+		<key>Type</key>
+		<string>line</string>
+	</dict>
+	<dict>
+		<key>EndPoint</key>
+		<string>{0.43007277229572666, 0.62778907940182882}</string>
+		<key>StartPoint</key>
+		<string>{0.41307821950881252, 0.62778907940182882}</string>
+		<key>Type</key>
+		<string>line</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.37786558833930406</real>
+		<key>Frame</key>
+		<string>{{0.6903266765268018, 0.40221166875450093}, {0.053268700284279248, 0.058688116683431331}}</string>
+		<key>Text</key>
+		<string>&lt;p class="right"&gt;♀&lt;b&gt; ad.&lt;/b&gt;&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.37786558833930406</real>
+		<key>Frame</key>
+		<string>{{0.87881245041839462, 0.40146969539913457}, {0.053268700284279248, 0.058688116683431331}}</string>
+		<key>Text</key>
+		<string>&lt;p class="right"&gt;♀&lt;b&gt; ad.&lt;/b&gt;&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.18349570673711815</real>
+		<key>Frame</key>
+		<string>{{0.66161942439100829, 0.57300957597425473}, {0.082886498995626001, 0.12085416129588726}}</string>
+		<key>Text</key>
+		<string>&lt;p class="center"&gt;ponctuation irrégulière/barrures denses chez la ♀&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.22423979917116249</real>
+		<key>Frame</key>
+		<string>{{0.49428952489296329, 0.56186145137835541}, {0.096949930458601896, 0.098895110596238872}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;motif de la queue comme chez la B. apivore ♂&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.46629806611161695</real>
+		<key>Frame</key>
+		<string>{{0.50750996995550024, 0.66750407297018044}, {0.047590439931641831, 0.047558034979716654}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;6e doigt&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>EndPoint</key>
+		<string>{0.56517312993478863, 0.54711653200443189}</string>
+		<key>StartPoint</key>
+		<string>{0.55661131789429108, 0.5713881425850359}</string>
+		<key>Type</key>
+		<string>line</string>
+	</dict>
+	<dict>
+		<key>EndPoint</key>
+		<string>{0.57398675997648174, 0.70332791923756843}</string>
+		<key>StartPoint</key>
+		<string>{0.55632777259300614, 0.70332791923756843}</string>
+		<key>Type</key>
+		<string>line</string>
+	</dict>
+	<dict>
+		<key>EndPoint</key>
+		<string>{0.76096162586092564, 0.67912615501835005}</string>
+		<key>StartPoint</key>
+		<string>{0.74008188105563444, 0.67912615501835005}</string>
+		<key>Type</key>
+		<string>line</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.26569037656903333</real>
+		<key>Frame</key>
+		<string>{{0.85614883031118905, 0.75857639109152064}, {0.11860627856104192, 0.08346640185271649}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;massive, silhouette d’aigle&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.37423607804827652</real>
+		<key>Frame</key>
+		<string>{{0.72998801171441263, 0.85486693738014619}, {0.080962649676451851, 0.059257300511389416}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;motif diagnostique&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.40418061163236269</real>
+		<key>Frame</key>
+		<string>{{0.61201127815634848, 0.85620274904159022}, {0.041298152195352586, 0.054867104212514034}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;♂ &lt;b&gt;ad.&lt;/b&gt;&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>EndPoint</key>
+		<string>{0.73867573275550813, 0.84378895197883141}</string>
+		<key>StartPoint</key>
+		<string>{0.73867573275550813, 0.86875902617326273}</string>
+		<key>Type</key>
+		<string>line</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.39013858682710778</real>
+		<key>Frame</key>
+		<string>{{0.45613593541901265, 0.85382493992585928}, {0.027951798132219735, 0.056841903077221201}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;&lt;b&gt;juv.&lt;/b&gt;&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.46629806611161695</real>
+		<key>Frame</key>
+		<string>{{0.50750996995550024, 0.66750407297018044}, {0.047590439931641831, 0.047558034979716654}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;6e doigt&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>EndPoint</key>
+		<string>{0.53526974229333935, 0.71906840096246138}</string>
+		<key>StartPoint</key>
+		<string>{0.5284131737777289, 0.72857737887752783}</string>
+		<key>Type</key>
+		<string>line</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.28853284805058116</real>
+		<key>Frame</key>
+		<string>{{0.18906802163170894, 0.73563919849932424}, {0.22816203260326703, 0.076858561820395951}}</string>
+		<key>Text</key>
+		<string>&lt;p class="center"&gt;en migration au Moyen-Orient, associée à des B. apivores&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+</array>
+</plist>

@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>FontScale</key>
+		<real>0.57142608020856422</real>
+		<key>Frame</key>
+		<string>{{0.070659136026881161, 0}, {0.16857257344499074, 0.041162206996036239}}</string>
+		<key>Text</key>
+		<string>&lt;p class="right"&gt;&lt;b&gt;ad. &lt;/b&gt;♀&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.26094019589626527</real>
+		<key>Frame</key>
+		<string>{{0.65791303377217325, 0.76733458027094958}, {0.24485828623177996, 0.090140035787469028}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;Decken stark gebändert&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.28571304010428211</real>
+		<key>Frame</key>
+		<string>{{0.14270563748387843, 0.73693615542641411}, {0.17616515131366806, 0.082324413992072479}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;breites, helles Band&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>EndPoint</key>
+		<string>{0.30890186764157712, 0.78978065401051101}</string>
+		<key>StartPoint</key>
+		<string>{0.41437331210418987, 0.81237425747721037}</string>
+		<key>Type</key>
+		<string>line</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.652017324516313</real>
+		<key>Frame</key>
+		<string>{{0.41510008508372775, 0.55426892097741265}, {0.21874411210140116, 0.036074438074060786}}</string>
+		<key>Text</key>
+		<string>&lt;p class="right"&gt;&lt;b&gt;ad. &lt;/b&gt;♀&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>EndPoint</key>
+		<string>{0.64292984482543147, 0.79821426842426735}</string>
+		<key>StartPoint</key>
+		<string>{0.50956993309665555, 0.7686115297882643}</string>
+		<key>Type</key>
+		<string>line</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.22928226075400718</real>
+		<key>Frame</key>
+		<string>{{0.0071580688725050873, 0.8901987577959507}, {0.21879046002102059, 0.10258603748553385}}</string>
+		<key>Text</key>
+		<string>&lt;p class="center"&gt;vierFingersichtbar&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>EndPoint</key>
+		<string>{0.21867582023661214, 0.98136211120194039}</string>
+		<key>StartPoint</key>
+		<string>{0.28619341903185735, 0.97079632048825404}</string>
+		<key>Type</key>
+		<string>line</string>
+	</dict>
+</array>
+</plist>

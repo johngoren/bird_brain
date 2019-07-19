@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>FontScale</key>
+		<real>0.22098359550182908</real>
+		<key>Frame</key>
+		<string>{{0.53799168516258289, 0.63789320781085113}, {0.12971614350992533, 0.27274567781445219}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;mörkare grå än kungs­tärna&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>EndPoint</key>
+		<string>{0.58343541878647798, 0.65705696899571098}</string>
+		<key>StartPoint</key>
+		<string>{0.58869448475288266, 0.56767142630928746}</string>
+		<key>Type</key>
+		<string>line</string>
+	</dict>
+	<dict>
+		<key>EndPoint</key>
+		<string>{0.89894877967497866, 0.82785976692249674}</string>
+		<key>StartPoint</key>
+		<string>{0.89003361324876828, 0.7376358725399601}</string>
+		<key>Type</key>
+		<string>line</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.38383881768397976</real>
+		<key>Frame</key>
+		<string>{{0.86435571309721282, 0.79529137105963832}, {0.11756843396196333, 0.15702507866373278}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;relativt smal&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>EndPoint</key>
+		<string>{0.29052028730406781, 0.32435217831061958}</string>
+		<key>StartPoint</key>
+		<string>{0.31922430066800234, 0.39727548605913687}</string>
+		<key>Type</key>
+		<string>line</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.64827649878988913</real>
+		<key>Frame</key>
+		<string>{{0.35695514293179126, 0.15126690623250269}, {0.21815924198958647, 0.092973169093016561}}</string>
+		<key>Text</key>
+		<string>&lt;p class="right"&gt;&lt;b&gt;ad. sommar&lt;/b&gt;&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.38673128973374454</real>
+		<key>Frame</key>
+		<string>{{0, 0.17059375418400413}, {0.28803103006189468, 0.15585064395104203}}</string>
+		<key>Text</key>
+		<string>&lt;p class="right"&gt;grå övergump och stjärtovansida&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+</array>
+</plist>

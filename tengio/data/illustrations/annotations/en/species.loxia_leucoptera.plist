@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>FontScale</key>
+		<real>0.27390893664685639</real>
+		<key>Frame</key>
+		<string>{{0.053418368851848544, 0.38082597941132246}, {0.092822558656203369, 0.13639973997968038}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;larch-cone specialist&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.58181473831239439</real>
+		<key>Frame</key>
+		<string>{{0.21812138580671872, 0.1072367413355369}, {0.05110839714276693, 0.064214783979366336}}</string>
+		<key>Text</key>
+		<string>&lt;p class="right"&gt;&lt;b&gt;juv.&lt;/b&gt;&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.11228006053510761</real>
+		<key>Frame</key>
+		<string>{{0.35552568194899548, 0.60771345275934097}, {0.18604680911060725, 0.33274926606456473}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;Common Crossbills very&lt;br/&gt;rarely have white wing-
+bars, too, but these &lt;/p&gt;&lt;p&gt;bars are narrower, &lt;/p&gt;&lt;p&gt;and tertial tips are &lt;/p&gt;&lt;p&gt;evenly fringed white, &lt;/p&gt;&lt;p&gt;do not have more &lt;/p&gt;&lt;p&gt;white at tips&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.21377731095178096</real>
+		<key>Frame</key>
+		<string>{{0.46682118680365337, 0.46699702717506786}, {0.13658278398407991, 0.17476647811876084}}</string>
+		<key>Text</key>
+		<string>&lt;p class="center"&gt;COMMON CROSSBILL, ♀&lt;/p&gt;&lt;p class="center"&gt;wing-barred variant &lt;/p&gt;&lt;p class="center"&gt;to compare&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>EndPoint</key>
+		<string>{0.65650884112965058, 0.84824502088782261}</string>
+		<key>StartPoint</key>
+		<string>{0.67672427948997305, 0.80360343594868089}</string>
+		<key>Type</key>
+		<string>line</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.26074501607375894</real>
+		<key>Frame</key>
+		<string>{{0.61150389486249446, 0.78225759762588143}, {0.055529158228657387, 0.14328598988896238}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;boldly spotted black&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.37151716827002057</real>
+		<key>Frame</key>
+		<string>{{0.81464711605235041, 0.73384424691288375}, {0.18535288394764965, 0.10056361031904645}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;broad white wing-bars, the lower widest towards back&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>EndPoint</key>
+		<string>{0.8086089560587697, 0.81114007146218559}</string>
+		<key>StartPoint</key>
+		<string>{0.78492905501731336, 0.75884794230570873}</string>
+		<key>Type</key>
+		<string>line</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.61935288762321228</real>
+		<key>Frame</key>
+		<string>{{0.66225285185078719, 0.35707793764818058}, {0.054586025814716992, 0.060322811895035286}}</string>
+		<key>Text</key>
+		<string>&lt;p class="right"&gt;&lt;b&gt;ad.&lt;/b&gt; ♀&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.61935288762321228</real>
+		<key>Frame</key>
+		<string>{{0.93401576850989187, 0.26581545840865661}, {0.054585853710262033, 0.060322811895035286}}</string>
+		<key>Text</key>
+		<string>&lt;p class="right"&gt;&lt;b&gt;ad.&lt;/b&gt; ♂&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.27909512128645408</real>
+		<key>Frame</key>
+		<string>{{0.89100290677828342, 0.071562807665270844}, {0.097598715441872624, 0.13386514090440063}}</string>
+		<key>Text</key>
+		<string>&lt;p class="right"&gt;more &lt;/p&gt;&lt;p class="right"&gt;bright red 
+than brick-red&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+</array>
+</plist>

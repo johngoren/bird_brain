@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>EndPoint</key>
+		<string>{0.53427925236176721, 0.87888337532687932}</string>
+		<key>StartPoint</key>
+		<string>{0.54989997183835448, 0.75821671562009008}</string>
+		<key>Type</key>
+		<string>line</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.39138120491137546</real>
+		<key>Frame</key>
+		<string>{{0.49359197406397537, 0.85481893884907922}, {0.13383346678144165, 0.14518106115092058}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;gris-brun&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>EndPoint</key>
+		<string>{0.82731031560887658, 0.71632218384903501}</string>
+		<key>StartPoint</key>
+		<string>{0.78742318043981296, 0.76059057767533189}</string>
+		<key>Type</key>
+		<string>line</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.6612810164968761</real>
+		<key>Frame</key>
+		<string>{{0.78360912362625723, 0.62986252774079743}, {0.21639087637374277, 0.085925857881976278}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;plus pâle&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.58498442386139327</real>
+		<key>Frame</key>
+		<string>{{0.098766096275764534, 0.062949316387479498}, {0.20075031443454125, 0.097132737771873784}}</string>
+		<key>Text</key>
+		<string>&lt;p class="right"&gt;&lt;b&gt;juv.&lt;/b&gt;&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+</array>
+</plist>

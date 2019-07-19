@@ -1,0 +1,118 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>FontScale</key>
+		<real>0.33509234828494211</real>
+		<key>Frame</key>
+		<string>{{0, 0.22698525553810453}, {0.21298670632559105, 0.14216363116541433}}</string>
+		<key>Text</key>
+		<string>&lt;p class="center"&gt;♀&lt;b&gt;/1er W&lt;/b&gt;&lt;/p&gt;&lt;p class="center"&gt;Herbst&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.39021629976379635</real>
+		<key>Frame</key>
+		<string>{{0.040828762949421331, 0.051944682820504559}, {0.24972577696526452, 0.1220808690891924}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;sucht oft am Boden nach Nahrunng&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>EndPoint</key>
+		<string>{0.12102376599634408, 0.62911796750713422}</string>
+		<key>StartPoint</key>
+		<string>{0.13223644119439409, 0.65462489869248541}</string>
+		<key>Type</key>
+		<string>line</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.40000000000000002</real>
+		<key>Frame</key>
+		<string>{{0.04204753199268689, 0.50167708706269243}, {0.17274792051499338, 0.11909486251983267}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;deutliche weiße Flecke&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.4411656248005158</real>
+		<key>Frame</key>
+		<string>{{0.59240965908734855, 0.89187710369264606}, {0.24972577696526452, 0.10798199662422424}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;kleiner gelber Fleck oft verdeckt&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>EndPoint</key>
+		<string>{0.85720190454234535, 0.96286812569551017}</string>
+		<key>StartPoint</key>
+		<string>{0.8270689675628754, 0.98000649801054374}</string>
+		<key>Type</key>
+		<string>line</string>
+	</dict>
+	<dict>
+		<key>EndPoint</key>
+		<string>{0.90347349177331182, 0.58476216437967943}</string>
+		<key>StartPoint</key>
+		<string>{0.87324801950030462, 0.61477031871538435}</string>
+		<key>Type</key>
+		<string>line</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.39759270044651518</real>
+		<key>Frame</key>
+		<string>{{0.8883506339424021, 0.44753089240967481}, {0.092149061365338694, 0.11981594469524574}}</string>
+		<key>Text</key>
+		<string>&lt;p class="right"&gt;gelber Fleck&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>EndPoint</key>
+		<string>{0.64021937842778598, 0.72204947046553247}</string>
+		<key>StartPoint</key>
+		<string>{0.62559414990859208, 0.81169883154344469}</string>
+		<key>Type</key>
+		<string>line</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.59366512084606404</real>
+		<key>Frame</key>
+		<string>{{0.56489945155393084, 0.77800998952751166}, {0.10558536025099066, 0.080243799635797503}}</string>
+		<key>Text</key>
+		<string>&lt;p class="center"&gt;gelb&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.71641791044776126</real>
+		<key>Frame</key>
+		<string>{{0.41681901279707523, 0.73581102249291941}, {0.11466113396303183, 0.066494631573573243}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;♂&lt;b&gt; 1er W&lt;/b&gt;&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.14321247153777922</real>
+		<key>Frame</key>
+		<string>{{0.61060329067641483, 0.00071185263813765623}, {0.362583790371725, 0.33263824369769546}}</string>
+		<key>Text</key>
+		<string>&lt;p class="right"&gt;kräftiger gefärbte Vögel mit blaugrauen Flügeldecken und Oberschwanzdecken wohl ♂, aber zuverlässige Alters- und Geschlechts­bestimmung oft problematisch  &lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+</array>
+</plist>

@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>EndPoint</key>
+		<string>{0.7549538112930243, 0.67676670983262888}</string>
+		<key>StartPoint</key>
+		<string>{0.78671535298520279, 0.74095875552018664}</string>
+		<key>Type</key>
+		<string>line</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.53642736420504511</real>
+		<key>Frame</key>
+		<string>{{0.75608181377568739, 0.7007820869251542}, {0.10576912824288139, 0.089397441911562778}}</string>
+		<key>Text</key>
+		<string>&lt;p class="right"&gt;﻿tverrbåndet&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.24245895379915494</real>
+		<key>Frame</key>
+		<string>{{0.83010437743363619, 0.42675757189302832}, {0.13759700191820023, 0.19778702077143248}}</string>
+		<key>Text</key>
+		<string>&lt;p class="right"&gt;﻿dekkerne på vingeoversiden vanligvis i kontrast mot svingfjærene&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.16951414842498702</real>
+		<key>Frame</key>
+		<string>{{0.64652647930938134, 0.24501856254349236}, {0.093229628230130535, 0.28289812134775455}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;﻿ser i flukt ut som en mellomting mellom hegre og hubro&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.31571460898014364</real>
+		<key>Frame</key>
+		<string>{{0.36891106198838219, 0.80807266017209323}, {0.13304564134281063, 0.15189425122329173}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;﻿mobbes ofte av måker&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.27834882417702533</real>
+		<key>Frame</key>
+		<string>{{0.44425200581717106, 0.13065777803399342}, {0.19103294584457375, 0.17228466573580531}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;﻿umiskjennelig, kan bare forveksles med amerikarørdrum&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.23738317757008312</real>
+		<key>Frame</key>
+		<string>{{0.19200786543856008, 0.69887066244949902}, {0.095134864387671297, 0.202016143781441}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;﻿kamuflert i «pålestillingen»&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+</array>
+</plist>

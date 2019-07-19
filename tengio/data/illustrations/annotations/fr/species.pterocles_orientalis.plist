@@ -1,0 +1,126 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>FontScale</key>
+		<real>0.6109775709502242</real>
+		<key>Frame</key>
+		<string>{{0.93349202582933111, 0.081528400499517067}, {0.026171256449809267, 0.087366756202838639}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;♂&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.51652804062681867</real>
+		<key>Frame</key>
+		<string>{{0.88939318546749402, 0.57387268986995454}, {0.059820288608932341, 0.10334216981102125}}</string>
+		<key>Text</key>
+		<string>&lt;p class="right"&gt;ventre noir&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>EndPoint</key>
+		<string>{0.91636090962306238, 0.69004716499289398}</string>
+		<key>StartPoint</key>
+		<string>{0.91298841114976426, 0.72586660592484187}</string>
+		<key>Type</key>
+		<string>line</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.6109775709502242</real>
+		<key>Frame</key>
+		<string>{{0.53472879163874243, 0.088106852460937676}, {0.026171256449809267, 0.087366756202838639}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;♂&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.32397959183672559</real>
+		<key>Frame</key>
+		<string>{{0.68143266597315355, 0.11915186600024694}, {0.10522195236688446, 0.16476077454135446}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;tache ventrale noire chez les deux sexes&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>EndPoint</key>
+		<string>{0.64209101969768856, 0.28837333259198655}</string>
+		<key>StartPoint</key>
+		<string>{0.67183615840373767, 0.2485421295708776}</string>
+		<key>Type</key>
+		<string>line</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.27782335247470719</real>
+		<key>Frame</key>
+		<string>{{0.72048619829394023, 0.2348942085750711}, {0.10529275684816489, 0.19213333944442404}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;large bande pectorale crème&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>EndPoint</key>
+		<string>{0.69067700290451073, 0.40168681140189005}</string>
+		<key>StartPoint</key>
+		<string>{0.71522510067559419, 0.36881487640219601}</string>
+		<key>Type</key>
+		<string>line</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.6972862919885352</real>
+		<key>Frame</key>
+		<string>{{0.152471609974943, 0.12521803459820902}, {0.094515802668015875, 0.076552671549562662}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;queue courte&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>EndPoint</key>
+		<string>{0.17476689079114296, 0.2002331191488432}</string>
+		<key>StartPoint</key>
+		<string>{0.16921759784871684, 0.23872951997222136}</string>
+		<key>Type</key>
+		<string>line</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.6109775709502242</real>
+		<key>Frame</key>
+		<string>{{0.30216050374626413, 0.084440648331303977}, {0.026171430728498452, 0.087366756202838639}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;♀&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>EndPoint</key>
+		<string>{0.48224022153792745, 0.59539747446568392}</string>
+		<key>StartPoint</key>
+		<string>{0.50768578299606737, 0.6505038836686371}</string>
+		<key>Type</key>
+		<string>line</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.6972862919885352</real>
+		<key>Frame</key>
+		<string>{{0.51166109282735295, 0.60691941410034178}, {0.055241524992614664, 0.076552671549562662}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;tacheté&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+</array>
+</plist>

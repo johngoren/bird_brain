@@ -1,0 +1,184 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>FontScale</key>
+		<real>0.61918319014386136</real>
+		<key>Frame</key>
+		<string>{{0.028123348631641749, 0.027021914797724797}, {0.053746940766519688, 0.087595010234232246}}</string>
+		<key>Text</key>
+		<string>&lt;p class="center"&gt;&lt;i&gt;KM&lt;/i&gt;&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.3431107680432241</real>
+		<key>Frame</key>
+		<string>{{0.2966101231992857, 0.039453342461546609}, {0.16558477930499405, 0.15807535912333545}}</string>
+		<key>Text</key>
+		<string>&lt;p class="center"&gt;oft etwas weniger bunt gefärbt als ♂&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.59832441857065732</real>
+		<key>Frame</key>
+		<string>{{0.3530062868288063, 0.21630794385090424}, {0.057939386662311437, 0.090648745386464794}}</string>
+		<key>Text</key>
+		<string>&lt;p class="right"&gt;♀&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>EndPoint</key>
+		<string>{0.52288558977764921, 0.50217914766066885}</string>
+		<key>StartPoint</key>
+		<string>{0.52921325737081082, 0.420823110844394}</string>
+		<key>Type</key>
+		<string>line</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.8220064724918662</real>
+		<key>Frame</key>
+		<string>{{0.4925935687689395, 0.50217914766067251}, {0.058581294344806169, 0.065981667654147064}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;einfarbig&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>EndPoint</key>
+		<string>{0.6149024329312327, 0.26586904823470636}</string>
+		<key>StartPoint</key>
+		<string>{0.63201133114146069, 0.18984104224983661}</string>
+		<key>Type</key>
+		<string>line</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.40010011561429576</real>
+		<key>Frame</key>
+		<string>{{0.60010375301804419, 0.037963131906165883}, {0.092712680045464693, 0.13555946564584839}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;zierliches Halsband&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.65872940957464743</real>
+		<key>Frame</key>
+		<string>{{0.91625386194441427, 0.25811103721184447}, {0.071750059490182747, 0.08233632366974182}}</string>
+		<key>Text</key>
+		<string>&lt;p class="center"&gt;♂&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>EndPoint</key>
+		<string>{0.3958822184603088, 0.67922787818641905}</string>
+		<key>StartPoint</key>
+		<string>{0.42326897276602143, 0.63729711178282111}</string>
+		<key>Type</key>
+		<string>line</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.15635498816470675</real>
+		<key>Frame</key>
+		<string>{{0.31845581383648208, 0.45610942340053823}, {0.1072287545584466, 0.34688600929304308}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;viel Weiß, aber schwächer gemustert als bei Turteltaube&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.50800070949906628</real>
+		<key>Frame</key>
+		<string>{{0.68797251615549071, 0.53068579048212261}, {0.081717760427761008, 0.10676630339945575}}</string>
+		<key>Text</key>
+		<string>&lt;p class="right"&gt;Basis schwarz&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>EndPoint</key>
+		<string>{0.75013188932281294, 0.6423046100372366}</string>
+		<key>StartPoint</key>
+		<string>{0.76294104639249749, 0.70313860944512507}</string>
+		<key>Type</key>
+		<string>line</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.20302440487294066</real>
+		<key>Frame</key>
+		<string>{{0.62875489679705543, 0.22926677307086279}, {0.17937230154606798, 0.26714698615400267}}</string>
+		<key>Text</key>
+		<string>&lt;p class="center"&gt;Palmtaube hat längeren Schwanz und kürzere, stumpfere Flügel als Turteltaube&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>EndPoint</key>
+		<string>{0.61000358400926447, 0.6467635046605632}</string>
+		<key>StartPoint</key>
+		<string>{0.62281274107894902, 0.70759750406844257}</string>
+		<key>Type</key>
+		<string>line</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.52697171783704977</real>
+		<key>Frame</key>
+		<string>{{0.57518532867503036, 0.53068579048211828}, {0.072579232110266886, 0.10292271110892404}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;ganz weiß&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.45741650228840058</real>
+		<key>Frame</key>
+		<string>{{0.55880712640004215, 0.68696063682869724}, {0.049871792889888432, 0.1185732425615889}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;dunkler&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>EndPoint</key>
+		<string>{0.61243613157277077, 0.79478170782139346}</string>
+		<key>StartPoint</key>
+		<string>{0.64638694691347798, 0.79478170782139346}</string>
+		<key>Type</key>
+		<string>line</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.69895483320847052</real>
+		<key>Frame</key>
+		<string>{{0.81528998428787613, 0.86056215575919226}, {0.13377259384144316, 0.077597800745644527}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;Turteltaube&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.70555555555556526</real>
+		<key>Frame</key>
+		<string>{{0.65845765632608033, 0.86128811069418498}, {0.083244893982527407, 0.076871845810651693}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;Palmtaube&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+</array>
+</plist>

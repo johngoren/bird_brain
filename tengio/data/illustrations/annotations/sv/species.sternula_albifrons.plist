@@ -1,0 +1,184 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>FontScale</key>
+		<real>0.61541832500966454</real>
+		<key>Frame</key>
+		<string>{{0.04338854383910986, 0.39653161307033175}, {0.26773898603160412, 0.069035173022097926}}</string>
+		<key>Text</key>
+		<string>&lt;p class="center"&gt;jämför storleken med en fisktärna (t.h.)&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.59354791964787368</real>
+		<key>Frame</key>
+		<string>{{0.31866084699393538, 0.87463800585687657}, {0.11273252534102025, 0.071578905664797396}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;&lt;b&gt;juv. &lt;/b&gt;→&lt;b&gt; 1:a vint.&lt;/b&gt;&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.20883353266954058</real>
+		<key>Frame</key>
+		<string>{{0.57546701776344822, 0.60154719370449117}, {0.060456819746350636, 0.20344199518590345}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;långa &lt;i&gt;smala&lt;/i&gt; vingar&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>EndPoint</key>
+		<string>{0.63755891730547765, 0.81375772259828127}</string>
+		<key>StartPoint</key>
+		<string>{0.61754857527241358, 0.78698475448885741}</string>
+		<key>Type</key>
+		<string>line</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.61556572759663619</real>
+		<key>Frame</key>
+		<string>{{0.64354228571254846, 0.87719826957438951}, {0.075671432351888931, 0.069018641947284493}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;&lt;b&gt;ad. som.&lt;/b&gt;&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.34961763238828469</real>
+		<key>Frame</key>
+		<string>{{0.79339091717384347, 0.82469698056799823}, {0.19598166832385919, 0.12151993095367558}}</string>
+		<key>Text</key>
+		<string>&lt;p class="center"&gt;typisk snabb ryttling mellan upprepade dykningar&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.61646709121523069</real>
+		<key>Frame</key>
+		<string>{{0.94490299948355161, 0.21147930412886268}, {0.044469586014152004, 0.068917726758554052}}</string>
+		<key>Text</key>
+		<string>&lt;p class="center"&gt;gul&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>EndPoint</key>
+		<string>{0.96490417097156733, 0.27629723751584667}</string>
+		<key>StartPoint</key>
+		<string>{0.96260358023345449, 0.32047265685644366}</string>
+		<key>Type</key>
+		<string>line</string>
+	</dict>
+	<dict>
+		<key>EndPoint</key>
+		<string>{0.94873529235089138, 0.43314366123178083}</string>
+		<key>StartPoint</key>
+		<string>{0.94511330129448667, 0.38484918205124968}</string>
+		<key>Type</key>
+		<string>line</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.63671486633094254</real>
+		<key>Frame</key>
+		<string>{{0.89542373669139541, 0.41962163492006049}, {0.093948848806309215, 0.066726116814004741}}</string>
+		<key>Text</key>
+		<string>&lt;p class="right"&gt;vit panna&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.36902563178521552</real>
+		<key>Frame</key>
+		<string>{{0.9377657420861425, 0.043113008309885667}, {0.051606843411562062, 0.11512888777530712}}</string>
+		<key>Text</key>
+		<string>&lt;p class="right"&gt;&lt;b&gt;ad. som.&lt;/b&gt;&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.61333337492766493</real>
+		<key>Frame</key>
+		<string>{{0.62290243827822844, 0.12192645628758066}, {0.055184611950093304, 0.069269849456704571}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;svart&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>EndPoint</key>
+		<string>{0.63943408511074995, 0.18627587084372138}</string>
+		<key>StartPoint</key>
+		<string>{0.63613411404085829, 0.23011968462058477}</string>
+		<key>Type</key>
+		<string>line</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.62535445117519561</real>
+		<key>Frame</key>
+		<string>{{0.56084971545208995, 0.3495395840067661}, {0.10992024014947552, 0.067938287587417198}}</string>
+		<key>Text</key>
+		<string>&lt;p class="center"&gt;vit framhjässa&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>EndPoint</key>
+		<string>{0.61060902927121763, 0.36610527030807555}</string>
+		<key>StartPoint</key>
+		<string>{0.60450217604185419, 0.32258377475519823}</string>
+		<key>Type</key>
+		<string>line</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.66287032073391572</real>
+		<key>Frame</key>
+		<string>{{0.41315669345233286, 0.045692612304466439}, {0.07492509914549085, 0.064093246022801031}}</string>
+		<key>Text</key>
+		<string>&lt;p class="right"&gt;&lt;b&gt;ad. vint.&lt;/b&gt;&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.66165231350139775</real>
+		<key>Frame</key>
+		<string>{{0.11300731311965805, 0.32054074721643311}, {0.059746523622696897, 0.064211232517548095}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;vattrad&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>EndPoint</key>
+		<string>{0.18070226806605455, 0.32743525669864265}</string>
+		<key>StartPoint</key>
+		<string>{0.16480531837256215, 0.3602764020720623}</string>
+		<key>Type</key>
+		<string>line</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.67428261786604782</real>
+		<key>Frame</key>
+		<string>{{0.091900463393256596, 0.10864813141363905}, {0.055294377074104228, 0.06300846176706873}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;&lt;b&gt;juv.&lt;/b&gt;&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+</array>
+</plist>

@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>FontScale</key>
+		<real>0.23497535265950614</real>
+		<key>Frame</key>
+		<string>{{0.3242672298174652, 0.047997668212590737}, {0.46761643238402012, 0.19315393911557019}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;Unterflügeldecken weißlich, bei Sonne fast silbrig schimmernd&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>EndPoint</key>
+		<string>{0.71842506644995208, 0.22275323448072945}</string>
+		<key>StartPoint</key>
+		<string>{0.83931692688675963, 0.26956914282658384}</string>
+		<key>Type</key>
+		<string>line</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.20744854622672468</real>
+		<key>Frame</key>
+		<string>{{0, 0.57619257812159363}, {0.25941378385397279, 0.21878396251401136}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;Flügel lang, schmal und spitz&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>EndPoint</key>
+		<string>{0.10661990469079094, 0.79526533501560559}</string>
+		<key>StartPoint</key>
+		<string>{0.15279387916318266, 0.8617367773998047}</string>
+		<key>Type</key>
+		<string>line</string>
+	</dict>
+</array>
+</plist>

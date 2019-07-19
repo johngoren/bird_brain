@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>EndPoint</key>
+		<string>{0.51642134591353328, 0.40343524129514241}</string>
+		<key>StartPoint</key>
+		<string>{0.56467637685889505, 0.38890505877028658}</string>
+		<key>Type</key>
+		<string>line</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.27246346283367157</real>
+		<key>Frame</key>
+		<string>{{0.46260002151334656, 0.39001963719887733}, {0.13406113607834594, 0.075782759578345946}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;blauschwarz glänzend&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.66160829121642317</real>
+		<key>Frame</key>
+		<string>{{0.44117149598386635, 0.085429290331788463}, {0.072529165869097217, 0.03120884875829558}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;&lt;b&gt;ad.&lt;/b&gt;&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.22482790670687125</real>
+		<key>Frame</key>
+		<string>{{0.54708765265221537, 0.021178353758657637}, {0.29552559307751375, 0.091839280097592429}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;Geschlechter gleich gefärbt, aber Kehle bei ♀ meist nicht so rein weiß&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.34458102886230674</real>
+		<key>Frame</key>
+		<string>{{0.8546211851947223, 0.30617201842403602}, {0.12681914445787543, 0.059922141291355313}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;bei ♂ rein weiß&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>EndPoint</key>
+		<string>{0.84236709210260674, 0.35911078738680774}</string>
+		<key>StartPoint</key>
+		<string>{0.78756758157886209, 0.37734115315411226}</string>
+		<key>Type</key>
+		<string>line</string>
+	</dict>
+	<dict>
+		<key>EndPoint</key>
+		<string>{0.29453116837207738, 0.84551253416007954}</string>
+		<key>StartPoint</key>
+		<string>{0.31174175753684674, 0.81584500538352334}</string>
+		<key>Type</key>
+		<string>line</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.61346255253690485</real>
+		<key>Frame</key>
+		<string>{{0.12997453014318169, 0.83144229218626442}, {0.26492432893267831, 0.033658180132463064}}</string>
+		<key>Text</key>
+		<string>&lt;p class="center"&gt;leicht gegabelt&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.61781341914075261</real>
+		<key>Frame</key>
+		<string>{{0.53200204802931816, 0.59601754095996384}, {0.10867503220149777, 0.033421146996976465}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;&lt;b&gt;ad.&lt;/b&gt;&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+</array>
+</plist>

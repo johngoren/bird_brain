@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>EndPoint</key>
+		<string>{0.80456658484214305, 0.33204103385207512}</string>
+		<key>StartPoint</key>
+		<string>{0.85049965282296469, 0.38896736687888012}</string>
+		<key>Type</key>
+		<string>line</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.54487146524199559</real>
+		<key>Frame</key>
+		<string>{{0.84744049672676269, 0.36880066687580809}, {0.074237306024043465, 0.056523184721922685}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;blanc&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>EndPoint</key>
+		<string>{0.87830048888094114, 0.31688594646960222}</string>
+		<key>StartPoint</key>
+		<string>{0.90667665140952114, 0.35205342479406687}</string>
+		<key>Type</key>
+		<string>line</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.51648285984381381</real>
+		<key>Frame</key>
+		<string>{{0.9124671017331103, 0.31795500909446478}, {0.075675620035242891, 0.059629995250745339}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;pâle&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.47703600861591061</real>
+		<key>Frame</key>
+		<string>{{0.81655525957862696, 0.17493068183250687}, {0.071166610454934956, 0.064560892518231563}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;blanc&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>EndPoint</key>
+		<string>{0.76247264327267117, 0.21758066044338473}</string>
+		<key>StartPoint</key>
+		<string>{0.80942845409995134, 0.21995315189605605}</string>
+		<key>Type</key>
+		<string>line</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.4522720341537298</real>
+		<key>Frame</key>
+		<string>{{0.84257074268130705, 0.0425334009801423}, {0.12001328147172613, 0.068095898383824488}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;&lt;b&gt;intern.&lt;/b&gt;&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.16967267869071501</real>
+		<key>Frame</key>
+		<string>{{0.14641798884981583, 0.6336993708522336}, {0.17806082400246778, 0.18151343349578025}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;paraît décharné et dégingandé avec un très long cou ; le G. jougris est plus compact et robuste&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.52344152498711338</real>
+		<key>Frame</key>
+		<string>{{0.358916950241774, 0.59987021390421247}, {0.17903918017830492, 0.058837270276438626}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;&lt;b&gt;ad. internuptial&lt;/b&gt;&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.35926449787838732</real>
+		<key>Frame</key>
+		<string>{{0.6535978304040968, 0.61442038893393536}, {0.22061931765140791, 0.085724781216771406}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;cou long et fin, à dominante claire et face très blanche&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.35926449787838732</real>
+		<key>Frame</key>
+		<string>{{0.63598741923901736, 0.83861433585415779}, {0.22130416697449443, 0.085724781216771406}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;vole souvent avec le cou ondulé ; silhouette reptilienne&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+</array>
+</plist>

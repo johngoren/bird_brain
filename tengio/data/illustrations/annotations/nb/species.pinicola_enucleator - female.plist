@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>EndPoint</key>
+		<string>{0.82650562310613485, 0.83735825148600584}</string>
+		<key>StartPoint</key>
+		<string>{0.85724585845128354, 0.8618601364627585}</string>
+		<key>Type</key>
+		<string>line</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.24615245932733959</real>
+		<key>Frame</key>
+		<string>{{0.86649848655376871, 0.64476983110110986}, {0.13350151344623123, 0.25285882663872927}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;﻿kraftig, avrundet form&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.61707656962072988</real>
+		<key>Frame</key>
+		<string>{{0.41101928391270176, 0.016030386289442491}, {0.23605888935703676, 0.10086563824324743}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;♀&lt;b&gt; / 1. vinter &lt;/b&gt;♂&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>EndPoint</key>
+		<string>{0.4332200351581878, 0.74642239143203226}</string>
+		<key>StartPoint</key>
+		<string>{0.37858123246323511, 0.84905899329393075}</string>
+		<key>Type</key>
+		<string>line</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.36868447256450365</real>
+		<key>Frame</key>
+		<string>{{0.25612736785075746, 0.80946226670565458}, {0.23289824257669017, 0.16882138161882865}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;﻿hvite vingebånd og tertiærkanter&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+</array>
+</plist>

@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>FontScale</key>
+		<real>0.69564725113754589</real>
+		<key>Frame</key>
+		<string>{{0.50918091559820289, 0.090452919665330561}, {0.15334145393637408, 0.034431156393721372}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;&lt;b&gt;ad.&lt;/b&gt;&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>EndPoint</key>
+		<string>{0.68250143945558372, 0.28330233385242776}</string>
+		<key>StartPoint</key>
+		<string>{0.59625121119127111, 0.25936759891610006}</string>
+		<key>Type</key>
+		<string>line</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.19242431063810597</real>
+		<key>Frame</key>
+		<string>{{0.70464500772047189, 0.1742346367813096}, {0.21534345554084047, 0.12447460104885509}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;bord d’attaque blanc&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.66666440611298972</real>
+		<key>Frame</key>
+		<string>{{0.61754315580049179, 0.60690065247988023}, {0.15044869874408315, 0.035928030774031922}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;&lt;b&gt;ad.&lt;/b&gt;&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.22345957262538421</real>
+		<key>Frame</key>
+		<string>{{0.57415159431873519, 0.64420066598007508}, {0.34083041605587383, 0.1071869019410196}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;bord d’attaque blanc visible de dessous chez certains ind.&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>EndPoint</key>
+		<string>{0.29295058072812952, 0.65473213150707588}</string>
+		<key>StartPoint</key>
+		<string>{0.27379861932282168, 0.68523567194428803}</string>
+		<key>Type</key>
+		<string>line</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.21078768775529938</real>
+		<key>Frame</key>
+		<string>{{0.19657922988427412, 0.53575631776867183}, {0.20992398962539288, 0.11363063731969344}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;queue assez longue, à base pâle&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>EndPoint</key>
+		<string>{0.52122069675107363, 0.69967766860872582}</string>
+		<key>StartPoint</key>
+		<string>{0.56216902399128765, 0.71517992417886611}</string>
+		<key>Type</key>
+		<string>line</string>
+	</dict>
+</array>
+</plist>

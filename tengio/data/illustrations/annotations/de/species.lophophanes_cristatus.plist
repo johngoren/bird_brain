@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>FontScale</key>
+		<real>0.18431363541977713</real>
+		<key>Frame</key>
+		<string>{{0.36032122250338988, 0.4783408940935106}, {0.13402291241500408, 0.20150041789857168}}</string>
+		<key>Text</key>
+		<string>&lt;p class="right"&gt;Haube kann angelegt werden&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.14893446258865192</real>
+		<key>Frame</key>
+		<string>{{0.66862071771980147, 0.69699884984898564}, {0.33137928228019842, 0.24936655973350189}}</string>
+		<key>Text</key>
+		<string>&lt;p class="right"&gt;einzige europäische Meisenart mit voll entwickelter Haube&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+</array>
+</plist>

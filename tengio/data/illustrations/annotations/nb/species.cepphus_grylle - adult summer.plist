@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>FontScale</key>
+		<real>0.49745966844118783</real>
+		<key>Frame</key>
+		<string>{{0.79795539571965701, 0.17875058601557195}, {0.16939312148196253, 0.047916396412342986}}</string>
+		<key>Text</key>
+		<string>&lt;p class="right"&gt;&lt;b&gt;ad. sommer&lt;/b&gt;&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>EndPoint</key>
+		<string>{0.21242526080873436, 0.9160197429795317}</string>
+		<key>StartPoint</key>
+		<string>{0.22674352061426872, 0.87855633411387279}</string>
+		<key>Type</key>
+		<string>line</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.32423232956232062</real>
+		<key>Frame</key>
+		<string>{{0.16158015299371192, 0.893992309044222}, {0.13661390558135308, 0.073516649941594001}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;﻿peker oppover&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.55500728311559255</real>
+		<key>Frame</key>
+		<string>{{0.65982856800695133, 0.87598454710544837}, {0.18029175760099647, 0.042948039417378583}}</string>
+		<key>Text</key>
+		<string>&lt;p class="right"&gt;&lt;b&gt;ad. som.&lt;/b&gt;&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>EndPoint</key>
+		<string>{0.63389340473174205, 0.76540334478164518}</string>
+		<key>StartPoint</key>
+		<string>{0.6151758681859324, 0.80061377432408953}</string>
+		<key>Type</key>
+		<string>line</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.64192451980057352</real>
+		<key>Frame</key>
+		<string>{{0.56968035212544255, 0.72370466773426989}, {0.21452152947273839, 0.03713283094340427}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;﻿«kulemage»&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+</array>
+</plist>

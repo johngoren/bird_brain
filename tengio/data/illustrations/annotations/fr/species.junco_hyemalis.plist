@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>EndPoint</key>
+		<string>{0.65801388414491402, 0.54094348202246623}</string>
+		<key>StartPoint</key>
+		<string>{0.7056734040295467, 0.4886221022641275}</string>
+		<key>Type</key>
+		<string>line</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>1.0071884311479433</real>
+		<key>Frame</key>
+		<string>{{0.49759891477713247, 0.54636797801211323}, {0.27665770079371371, 0.038808178488657086}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;entièrement gris sombre&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>EndPoint</key>
+		<string>{0.809129434998624, 0.26240907801483321}</string>
+		<key>StartPoint</key>
+		<string>{0.76495719705677001, 0.31473045777317821}</string>
+		<key>Type</key>
+		<string>line</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>1.0071884311479433</real>
+		<key>Frame</key>
+		<string>{{0.80214780519060613, 0.21834469139911664}, {0.17088388111857872, 0.038808178488657086}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;ventre blanc&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.35462478184992063</real>
+		<key>Frame</key>
+		<string>{{0.76030748779973178, 0.02003798060488678}, {0.23969251220026822, 0.11022114191737963}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;♂&lt;b&gt; internuptial&lt;/b&gt;&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>EndPoint</key>
+		<string>{0.55712879221780442, 0.10882871164280336}</string>
+		<key>StartPoint</key>
+		<string>{0.55829121953206406, 0.14730031440628985}</string>
+		<key>Type</key>
+		<string>line</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>1.0071884311480972</real>
+		<key>Frame</key>
+		<string>{{0.52573618881034045, 0.055531140363853274}, {0.17088388111857872, 0.03880817848865116}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;rosé&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.54918918918916915</real>
+		<key>Frame</key>
+		<string>{{0.078892596180929905, 0.025116232169667393}, {0.19332254001519519, 0.071172465112448263}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;♀ / ♂ &lt;b&gt;1er hiver&lt;/b&gt;&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>EndPoint</key>
+		<string>{0.55222554327130069, 0.77058047891769688}</string>
+		<key>StartPoint</key>
+		<string>{0.60221737306046941, 0.73791808817150162}</string>
+		<key>Type</key>
+		<string>line</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.24053030303030479</real>
+		<key>Frame</key>
+		<string>{{0.31068060264423308, 0.70652526031649987}, {0.23713517210889715, 0.16250405007295585}}</string>
+		<key>Text</key>
+		<string>&lt;p class="right"&gt;rectrices externes blanches bien visibles en vol&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+</array>
+</plist>

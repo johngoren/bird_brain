@@ -1,0 +1,146 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>FontScale</key>
+		<real>0.33333333333333331</real>
+		<key>Frame</key>
+		<string>{{0.10025904346347822, 0.75215761991169272}, {0.20966442398964411, 0.11134541878776366}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;typischer Neststandort in hohlem Baumstumpf („Kamin“)&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.15077539511760921</real>
+		<key>Frame</key>
+		<string>{{0.15349648749742398, 0.054129974834072732}, {0.062902282723955691, 0.24616177969204012}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;ca. 4-5 Wochen alter Ästling&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.40542697525941573</real>
+		<key>Frame</key>
+		<string>{{0.65553654365344205, 0.30275757334769876}, {0.079410014866368075, 0.091545806916702555}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;ohne helles Flügelfeld&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.32178893977844542</real>
+		<key>Frame</key>
+		<string>{{0.61784939914531034, 0.14808680459854742}, {0.1110867656911551, 0.11534001019884439}}</string>
+		<key>Text</key>
+		<string>&lt;p class="right"&gt;gleichmäßig gebändert&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>EndPoint</key>
+		<string>{0.73427092504687808, 0.22690518781395363}</string>
+		<key>StartPoint</key>
+		<string>{0.75317779043913535, 0.18610293141846249}</string>
+		<key>Type</key>
+		<string>line</string>
+	</dict>
+	<dict>
+		<key>EndPoint</key>
+		<string>{0.78216509784040289, 0.3991138303312633}</string>
+		<key>StartPoint</key>
+		<string>{0.73067498575167833, 0.37122760911882025}</string>
+		<key>Type</key>
+		<string>line</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.25011739651140935</real>
+		<key>Frame</key>
+		<string>{{0.58500883338472354, 0.6176548624539866}, {0.058637949741026298, 0.14839087609896889}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;Iris schwarz&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.51450516900754328</real>
+		<key>Frame</key>
+		<string>{{0.41147032730180461, 0.85886364624996492}, {0.23217645582394386, 0.072137544638306753}}</string>
+		<key>Text</key>
+		<string>&lt;p class="center"&gt;trügerisch milder Gesichtsausdruck&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.16631199869045446</real>
+		<key>Frame</key>
+		<string>{{0.33407817536049, 0.63569791023472466}, {0.12065863058567169, 0.22316573601524192}}</string>
+		<key>Text</key>
+		<string>&lt;p class="right"&gt;„Gesicht“ ungemustert hell, Schnabel strohgelb&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.606451692505105</real>
+		<key>Frame</key>
+		<string>{{0.34849905240327855, 0.6098670742068355}, {0.072472566183326315, 0.061200488109131285}}</string>
+		<key>Text</key>
+		<string>&lt;p class="right"&gt;beigegrau&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>EndPoint</key>
+		<string>{0.41177203412859104, 0.63256736054783935}</string>
+		<key>StartPoint</key>
+		<string>{0.42884927479395468, 0.59571338118570316}</string>
+		<key>Type</key>
+		<string>line</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.40213646334276365</real>
+		<key>Frame</key>
+		<string>{{0.48019416621712374, 0.026220558838705992}, {0.1142222143381916, 0.092294887380769255}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;lang (vgl. Waldkauz)&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>EndPoint</key>
+		<string>{0.47550983942621566, 0.10348520571278329}</string>
+		<key>StartPoint</key>
+		<string>{0.45477352627303153, 0.1482359322702283}</string>
+		<key>Type</key>
+		<string>line</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.62609027943635087</real>
+		<key>Frame</key>
+		<string>{{0.83568732413614633, 0.88002142502764513}, {0.12348562636876509, 0.059280811114548512}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;rundliches Profil&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>EndPoint</key>
+		<string>{0.83162474398174857, 0.92196953265025572}</string>
+		<key>StartPoint</key>
+		<string>{0.80418073335998075, 0.92196953265025572}</string>
+		<key>Type</key>
+		<string>line</string>
+	</dict>
+</array>
+</plist>

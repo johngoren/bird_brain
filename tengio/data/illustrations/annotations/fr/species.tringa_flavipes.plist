@@ -1,0 +1,166 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>EndPoint</key>
+		<string>{0.55852651706956324, 0.34420041322671219}</string>
+		<key>StartPoint</key>
+		<string>{0.54964944287783279, 0.26579581904053967}</string>
+		<key>Type</key>
+		<string>line</string>
+	</dict>
+	<dict>
+		<key>EndPoint</key>
+		<string>{0.74640910134818639, 0.35648437036338343}</string>
+		<key>StartPoint</key>
+		<string>{0.73948823127278041, 0.29539944573605015}</string>
+		<key>Type</key>
+		<string>line</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.70555557549245163</real>
+		<key>Frame</key>
+		<string>{{0.72672633044641766, 0.33634692972318198}, {0.092032436926275912, 0.066298800366499183}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;assez courte&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.65654944875132126</real>
+		<key>Frame</key>
+		<string>{{0.55222786082917341, 0.3296270913355373}, {0.064177578336896676, 0.071247471665705761}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;longue&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.32564148430823042</real>
+		<key>Frame</key>
+		<string>{{0.83130860419261932, 0.066732125650240323}, {0.13804906036800249, 0.1436472025252411}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;C. SYLVAIN (pour comparaison)&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.30768533121240066</real>
+		<key>Frame</key>
+		<string>{{0.58156630422307443, 0.65724786203452634}, {0.069025828810616377, 0.15203028387061185}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;pattes jaunes dépassant&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>EndPoint</key>
+		<string>{0.60142244672944212, 0.6712812895838155}</string>
+		<key>StartPoint</key>
+		<string>{0.60388818486779827, 0.60652807142601228}</string>
+		<key>Type</key>
+		<string>line</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.2027467665990875</real>
+		<key>Frame</key>
+		<string>{{0.88648652419791019, 0.69789720200414118}, {0.095421022574283143, 0.23071878793284309}}</string>
+		<key>Text</key>
+		<string>&lt;p class="right"&gt;C. SYLVAIN&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.19874798291227186</real>
+		<key>Frame</key>
+		<string>{{0.70790178515289215, 0.69325524198531907}, {0.099980207700079204, 0.23536082007781817}}</string>
+		<key>Text</key>
+		<string>&lt;p class="right"&gt;plus dégingandé en vol que le C. sylvain&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>EndPoint</key>
+		<string>{0.452500324063974, 0.45636578710315218}</string>
+		<key>StartPoint</key>
+		<string>{0.47415265163711112, 0.42082205523951738}</string>
+		<key>Type</key>
+		<string>line</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.38079890916979142</real>
+		<key>Frame</key>
+		<string>{{0.45271909785409586, 0.28172522018142115}, {0.073209122881139857, 0.12284039455109692}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;stries diffuses&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.62006878509624719</real>
+		<key>Frame</key>
+		<string>{{0.20381460141922433, 0.028488445531278141}, {0.069804504052766822, 0.075439192185401974}}</string>
+		<key>Text</key>
+		<string>&lt;p class="right"&gt;&lt;b&gt;juv.&lt;/b&gt; &lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.3720655611129714</real>
+		<key>Frame</key>
+		<string>{{0.4989285251480412, 0.49349799286259383}, {0.077199223014989701, 0.12572377864567078}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;fin et tout sombre&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>EndPoint</key>
+		<string>{0.51595342077084783, 0.62690080332312248}</string>
+		<key>StartPoint</key>
+		<string>{0.51595342077084783, 0.68340742288424328}</string>
+		<key>Type</key>
+		<string>line</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.42194587251357807</real>
+		<key>Frame</key>
+		<string>{{0.015566508676062157, 0.67603693735130044}, {0.083665818996960878, 0.11086134808805179}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;&lt;b&gt;en hiver&lt;/b&gt;&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.16064930401071709</real>
+		<key>Frame</key>
+		<string>{{0.0030166718561368279, 0.12198084837928155}, {0.15668650697178385, 0.29117765890802694}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;taille plus petite, forme plus élégante et arrière plus allongé que chez le C. gambette&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.56563354996849857</real>
+		<key>Frame</key>
+		<string>{{0.22668872550588565, 0.77833885285897331}, {0.11935802041550356, 0.082699281627919063}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;C. GAMBETTE&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+</array>
+</plist>

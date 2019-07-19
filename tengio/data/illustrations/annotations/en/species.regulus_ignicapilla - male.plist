@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>EndPoint</key>
+		<string>{0.82719509774147326, 0.61303281858214798}</string>
+		<key>StartPoint</key>
+		<string>{0.87789634373929959, 0.51179820670510667}</string>
+		<key>Type</key>
+		<string>line</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.55401153166443584</real>
+		<key>Frame</key>
+		<string>{{0.6786343489936667, 0.88707469018927865}, {0.24880903996699938, 0.10758385365571937}}</string>
+		<key>Text</key>
+		<string>&lt;p class="right"&gt;broad white supercilium&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>EndPoint</key>
+		<string>{0.31211656748876354, 0.8510184028789437}</string>
+		<key>StartPoint</key>
+		<string>{0.36608742701704045, 0.76258650701232655}</string>
+		<key>Type</key>
+		<string>line</string>
+	</dict>
+	<dict>
+		<key>EndPoint</key>
+		<string>{0.71007422248900376, 0.75094273100527065}</string>
+		<key>StartPoint</key>
+		<string>{0.76285777828302426, 0.87223397541431213}</string>
+		<key>Type</key>
+		<string>line</string>
+	</dict>
+	<dict>
+		<key>EndPoint</key>
+		<string>{0.5916653175923543, 0.88803465898419731}</string>
+		<key>StartPoint</key>
+		<string>{0.65628855192044411, 0.75032494396527538}</string>
+		<key>Type</key>
+		<string>line</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.61843478260858975</real>
+		<key>Frame</key>
+		<string>{{0.22081049777610323, 0.80782488588724899}, {0.2008733533678527, 0.096376687117694718}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;faint tips&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.61843478260858975</real>
+		<key>Frame</key>
+		<string>{{0.46682963005743466, 0.85718651085447561}, {0.24855541199557593, 0.096376687117694718}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;bright patch&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.72727272727256675</real>
+		<key>Frame</key>
+		<string>{{0.64036188810577077, 0.16567959049445355}, {0.085632405651205251, 0.081953706375998553}}</string>
+		<key>Text</key>
+		<string>&lt;p class="right"&gt;♂ &lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.42037946549220923</real>
+		<key>Frame</key>
+		<string>{{0.78947822677169344, 0.36045228211044877}, {0.21052177322830667, 0.14178308038043835}}</string>
+		<key>Text</key>
+		<string>&lt;p class="left"&gt;black eye-stripe&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+</array>
+</plist>

@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>EndPoint</key>
+		<string>{0.75727304632052206, 0.95193502775380368}</string>
+		<key>StartPoint</key>
+		<string>{0.82211239586900953, 0.89322341102795355}</string>
+		<key>Type</key>
+		<string>line</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.44761867900944979</real>
+		<key>Frame</key>
+		<string>{{0.54421650969854152, 0.84723567138297984}, {0.20315187115890784, 0.15276432861702016}}</string>
+		<key>Text</key>
+		<string>&lt;p class="right"&gt;bande noire&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.3256406752711144</real>
+		<key>Frame</key>
+		<string>{{0.41396353493439514, 0.21852179285467113}, {0.23194640884441162, 0.20998656546325384}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;&lt;b&gt;&lt;i&gt;europaeus&lt;/i&gt;&lt;/b&gt;&lt;/p&gt;&lt;p&gt;(Europe centrale)&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.64827543000905119</real>
+		<key>Frame</key>
+		<string>{{0.92056800425517715, 0.23776745289731879}, {0.075112684717200354, 0.10548011510225111}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;&lt;b&gt;ad.&lt;/b&gt;&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.28952723344807746</real>
+		<key>Frame</key>
+		<string>{{0, 0}, {0.71423498088210147, 0.23617870471441868}}</string>
+		<key>Text</key>
+		<string>&lt;p class="right"&gt;(les oiseaux d’Europe occ.– p. ex. la ssp. &lt;i&gt;rosaceus – &lt;/i&gt;sont semblables, mais ont la poitrine tachetée de sombre)&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.4703703836616337</real>
+		<key>Frame</key>
+		<string>{{0.45039711645987079, 0.71476196645034773}, {0.20215507185979981, 0.14537515402863055}}</string>
+		<key>Text</key>
+		<string>&lt;p class="right"&gt;brun-roux&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>EndPoint</key>
+		<string>{0.66356269252388944, 0.81090083064894336}</string>
+		<key>StartPoint</key>
+		<string>{0.73724872976797073, 0.74253311363503782}</string>
+		<key>Type</key>
+		<string>line</string>
+	</dict>
+</array>
+</plist>

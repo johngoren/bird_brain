@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>EndPoint</key>
+		<string>{0.43459856914373651, 0.71038069380433322}</string>
+		<key>StartPoint</key>
+		<string>{0.38685373779265175, 0.56741081556492157}</string>
+		<key>Type</key>
+		<string>line</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.20460770098276065</real>
+		<key>Frame</key>
+		<string>{{0.085707452042343577, 0.071165166504523716}, {0.42711773510773687, 0.32268071880656241}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;tonalité roussâtre typique du V. fauve absente&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.17470303469748991</real>
+		<key>Frame</key>
+		<string>{{0.18550131538527093, 0.60171534043628916}, {0.59077967099014128, 0.37791535871599835}}</string>
+		<key>Text</key>
+		<string>&lt;p class="right"&gt;couv. sombres avec une nette bande pâle chez le juv. (les ind. plus âgés ont plusieurs bandes distinctes)&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.46547964154402427</real>
+		<key>Frame</key>
+		<string>{{0.51681694168379799, 0.0026276924901088954}, {0.42711773510773687, 0.14183855561861572}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;&lt;b&gt;juvénile&lt;/b&gt;&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+</array>
+</plist>

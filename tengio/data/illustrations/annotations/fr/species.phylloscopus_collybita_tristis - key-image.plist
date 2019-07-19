@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>EndPoint</key>
+		<string>{0.49266177112433429, 0.79317610626705859}</string>
+		<key>StartPoint</key>
+		<string>{0.52970586968189914, 0.74380085734394685}</string>
+		<key>Type</key>
+		<string>line</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.20788930377071946</real>
+		<key>Frame</key>
+		<string>{{0.11657848518014224, 0.61331610384988389}, {0.31749858299630135, 0.25508194797296657}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;la combinaison du cri et des détails de plumage est nécessaire pour une identification fiable&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.98506784471397524</real>
+		<key>Frame</key>
+		<string>{{0.45153384080026104, 0.80275881697254803}, {0.19244281327472157, 0.053832645998079839}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;gris-brun&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.29296424452135544</real>
+		<key>Frame</key>
+		<string>{{0.62843666930958897, 0.7585507452623127}, {0.29527744848054599, 0.18100778357856367}}</string>
+		<key>Text</key>
+		<string>&lt;p class="right"&gt;sourcil chamois, sans teinte jaune&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>EndPoint</key>
+		<string>{0.8169253009460814, 0.79722628379508875}</string>
+		<key>StartPoint</key>
+		<string>{0.83275811803496391, 0.82671572950500116}</string>
+		<key>Type</key>
+		<string>line</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.2052525252525346</real>
+		<key>Frame</key>
+		<string>{{0.65282342286713135, 0.22241696414374715}, {0.27089069492300133, 0.25835886064414731}}</string>
+		<key>Text</key>
+		<string>&lt;p class="right"&gt;face, côtés de la poitrine et flancs chamois ; pas de trace de jaune&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>EndPoint</key>
+		<string>{0.78497868196493881, 0.4516151884294326}</string>
+		<key>StartPoint</key>
+		<string>{0.7422156068546869, 0.51788151878620015}</string>
+		<key>Type</key>
+		<string>line</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.40868865647626224</real>
+		<key>Frame</key>
+		<string>{{0.64425510404961639, 0.066879710665032746}, {0.17031181403431431, 0.12975356112351255}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;&lt;b&gt;&lt;i&gt;tristis&lt;/i&gt;&lt;/b&gt;&lt;/p&gt;&lt;p&gt;(Sibérie)&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.20368885324777344</real>
+		<key>Frame</key>
+		<string>{{0.11483327219592955, 0.062077889416707818}, {0.42396560025349239, 0.26034222159458581}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;les&lt;i&gt; tristis&lt;/i&gt; typiques ne présentent pas de teinte verte sur la tête et le manteau, mais la présence de vert sur l’aile, le croupion et la queue est normale&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+</array>
+</plist>

@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>FontScale</key>
+		<real>0.26082146131018291</real>
+		<key>Frame</key>
+		<string>{{0.51853921570490769, 0.14133945627128472}, {0.21628840030023463, 0.21585672957100874}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;♂&lt;b&gt; PK&lt;/b&gt;&lt;/p&gt;&lt;p&gt;Frühjahr (schwarz-kehlig)&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.15315657140159677</real>
+		<key>Frame</key>
+		<string>{{0.71173427555850455, 0.11531633251226758}, {0.26895888259744422, 0.36759811952646321}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;♂ im abgetrage-nen Prachtkleid oft nur noch schwarz-weiß gefärbt ohne Ockertönung&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+</array>
+</plist>

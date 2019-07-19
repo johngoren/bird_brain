@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>FontScale</key>
+		<real>0.42419861871360492</real>
+		<key>Frame</key>
+		<string>{{0.22661603269348457, 0.077333425337812609}, {0.10299827564804954, 0.096007294347607644}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;stor och kraftig&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>EndPoint</key>
+		<string>{0.88405711136045051, 0.72613269290175464}</string>
+		<key>StartPoint</key>
+		<string>{0.86029784071042392, 0.68500505786264909}</string>
+		<key>Type</key>
+		<string>line</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.15119046108522818</real>
+		<key>Frame</key>
+		<string>{{0.72699453928172308, 0.3994615630368904}, {0.092529859642756992, 0.26936991498245216}}</string>
+		<key>Text</key>
+		<string>&lt;p class="center"&gt;bredden hos svarta strec­-ket syns sär­-skilt bra snett bakifrån&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.22650586863655006</real>
+		<key>Frame</key>
+		<string>{{0.72231785342282528, 0.82019820548652267}, {0.13303116146392929, 0.17980179451347728}}</string>
+		<key>Text</key>
+		<string>&lt;p class="center"&gt;murar igen ingångs­-hålet till boet till lämplig diameter&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.20566140703431821</real>
+		<key>Frame</key>
+		<string>{{0.6227244463781707, 0.1564770589544624}, {0.12427234303363577, 0.1980252991359229}}</string>
+		<key>Text</key>
+		<string>&lt;p class="center"&gt;den större storleken inte alltid uppen-&lt;/p&gt;&lt;p class="center"&gt;bar utan direkt jämförelse med klippnötväcka&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.25753397024333075</real>
+		<key>Frame</key>
+		<string>{{0.65590197421820962, 0.4874521786025221}, {0.060528275939189927, 0.15813898884953151}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;lång och kraftig&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>EndPoint</key>
+		<string>{0.5230948791446266, 0.72315246649719356}</string>
+		<key>StartPoint</key>
+		<string>{0.5484300174875012, 0.68067672714659744}</string>
+		<key>Type</key>
+		<string>line</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.32564121462874446</real>
+		<key>Frame</key>
+		<string>{{0.42587360787786349, 0.68469466681194979}, {0.12522218595411042, 0.12506451830772267}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;svarta ögonstrecket brett bakom ögat&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>EndPoint</key>
+		<string>{0.46705055381544686, 0.57590091577785818}</string>
+		<key>StartPoint</key>
+		<string>{0.49238569215832412, 0.53342517642726262}</string>
+		<key>Type</key>
+		<string>line</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.39952811639796776</real>
+		<key>Frame</key>
+		<string>{{0.3743689115179496, 0.56057197586430996}, {0.14375491736006601, 0.10193565853602793}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;oftast aningen ljusare än klippnötväcka&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>EndPoint</key>
+		<string>{0.68548815207134728, 0.64560064636217573}</string>
+		<key>StartPoint</key>
+		<string>{0.68503657484355751, 0.70730334155529262}</string>
+		<key>Type</key>
+		<string>line</string>
+	</dict>
+</array>
+</plist>

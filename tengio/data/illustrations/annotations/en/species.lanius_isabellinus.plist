@@ -1,0 +1,166 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>EndPoint</key>
+		<string>{0.9418030851497714, 0.86733663595344845}</string>
+		<key>StartPoint</key>
+		<string>{0.93861991745174622, 0.8165033130891669}</string>
+		<key>Type</key>
+		<string>line</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.70165745856358397</real>
+		<key>Frame</key>
+		<string>{{0.81585079317525377, 0.85191670470261449}, {0.15885432952408715, 0.068381608373886918}}</string>
+		<key>Text</key>
+		<string>&lt;p class="right"&gt;may have rusty tinge&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.2159863945578295</real>
+		<key>Frame</key>
+		<string>{{0.87810332778913613, 0.24290481133956562}, {0.096601794910203626, 0.22214577747981812}}</string>
+		<key>Text</key>
+		<string>&lt;p class="right"&gt;often&lt;/p&gt;&lt;p class="right"&gt;strongly&lt;/p&gt;&lt;p class="right"&gt;buff-washed underparts&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.84105960264914403</real>
+		<key>Frame</key>
+		<string>{{0.79114011969372933, 0.23232644098337729}, {0.059819403293389958, 0.057047640135115721}}</string>
+		<key>Text</key>
+		<string>&lt;p class="right"&gt;&lt;b&gt;ad.&lt;/b&gt; ♂&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.55294064707735235</real>
+		<key>Frame</key>
+		<string>{{0.73992042183040641, 0.62290213786122772}, {0.084477406974513322, 0.086773265444889017}}</string>
+		<key>Text</key>
+		<string>&lt;p class="right"&gt;light sandy grey-brown&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>EndPoint</key>
+		<string>{0.82960304014375708, 0.68700746682857827}</string>
+		<key>StartPoint</key>
+		<string>{0.84867103195294613, 0.64681815479023297}</string>
+		<key>Type</key>
+		<string>line</string>
+	</dict>
+	<dict>
+		<key>EndPoint</key>
+		<string>{0.625756298842713, 0.79171406047664028}</string>
+		<key>StartPoint</key>
+		<string>{0.6333536232068534, 0.7350120685552809}</string>
+		<key>Type</key>
+		<string>line</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.42175176421755045</real>
+		<key>Frame</key>
+		<string>{{0.51812381079677483, 0.78495184235855486}, {0.29248981406329511, 0.11376470619661054}}</string>
+		<key>Text</key>
+		<string>&lt;p class="center"&gt;supercilium tends to be more subdued and buffish in colour than on Turkestan Shrike&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.57072525022642306</real>
+		<key>Frame</key>
+		<string>{{0.60002685909234876, 0.31170693164134022}, {0.06747887391981329, 0.084069288199666248}}</string>
+		<key>Text</key>
+		<string>&lt;p class="right"&gt;&lt;b&gt;ad.&lt;/b&gt; ♀&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.51474193915767519</real>
+		<key>Frame</key>
+		<string>{{0.40123100227905006, 0.29023335714731957}, {0.088188677922288405, 0.093212660352927773}}</string>
+		<key>Text</key>
+		<string>&lt;p class="right"&gt;&lt;b&gt;1st-w.&lt;/b&gt;&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.24242424242424246</real>
+		<key>Frame</key>
+		<string>{{0.48115770895783766, 0.50167347369089965}, {0.096601794910203626, 0.19791942036946111}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;often more buff-washed than Turkes-tan Shrike&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>EndPoint</key>
+		<string>{0.47413314613048818, 0.7257790831786648}</string>
+		<key>StartPoint</key>
+		<string>{0.49394598202644302, 0.70986430277673029}</string>
+		<key>Type</key>
+		<string>line</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.14597701149425363</real>
+		<key>Frame</key>
+		<string>{{0.27594588956005545, 0.58679629765083241}, {0.1378317670757892, 0.32868507892422866}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;mask and upper-parts tend to be lighter, warmer brown than in Turkestan Shrike&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.28035320088303639</real>
+		<key>Frame</key>
+		<string>{{0.22119609548508656, 0.23723782722018372}, {0.096601794910203626, 0.17114292040535428}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;plain rufous, or darker toward tip/in centre&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>EndPoint</key>
+		<string>{0.30217951155110334, 0.28516073252500623}</string>
+		<key>StartPoint</key>
+		<string>{0.32199234744705801, 0.26924595212307106}</string>
+		<key>Type</key>
+		<string>line</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.73752753630899204</real>
+		<key>Frame</key>
+		<string>{{0.1492620594741795, 0.35805907698451533}, {0.054240659446559807, 0.065055829351448186}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;&lt;b&gt;1st-w.&lt;/b&gt;&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.73752753630899204</real>
+		<key>Frame</key>
+		<string>{{0.1492620594741795, 0.35805907698451533}, {0.054240659446559807, 0.065055829351448186}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;&lt;b&gt;1st-w.&lt;/b&gt;&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+</array>
+</plist>

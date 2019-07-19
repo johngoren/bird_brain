@@ -1,0 +1,170 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>EndPoint</key>
+		<string>{0.86875427573288622, 0.20083834669497783}</string>
+		<key>StartPoint</key>
+		<string>{0.88713661225309137, 0.24996552128240326}</string>
+		<key>Type</key>
+		<string>line</string>
+	</dict>
+	<dict>
+		<key>EndPoint</key>
+		<string>{0.89833983908315318, 0.58830739596460091}</string>
+		<key>StartPoint</key>
+		<string>{0.87390485753633151, 0.53103397389059181}</string>
+		<key>Type</key>
+		<string>line</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.29353337600732182</real>
+		<key>Frame</key>
+		<string>{{0.78699864542688014, 0.010552854198032244}, {0.11636968743336309, 0.21192786372198255}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;ohne deut-lichen weißen Hinterrand&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.32955958818461384</real>
+		<key>Frame</key>
+		<string>{{0.90336833286024387, 0.428688381778764}, {0.066219573733182477, 0.18876070834718159}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;helles Feld&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.37866030493292074</real>
+		<key>Frame</key>
+		<string>{{0.92885060566861155, 0.80961603730896148}, {0.049478833319841556, 0.1642841895438531}}</string>
+		<key>Text</key>
+		<string>&lt;p class="right"&gt;dun-kel&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>EndPoint</key>
+		<string>{0.94310420514258853, 0.93600403358210604}</string>
+		<key>StartPoint</key>
+		<string>{0.93030310691350593, 0.90463328179435976}</string>
+		<key>Type</key>
+		<string>line</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.20536646917748119</real>
+		<key>Frame</key>
+		<string>{{0.6119550603231515, 0.51249427149084081}, {0.076478798678476664, 0.30291167568631677}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;äußere Steuerfedern spießartig&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.35407384462445674</real>
+		<key>Frame</key>
+		<string>{{0.71179795744501917, 0.45646858914807648}, {0.065286801481945586, 0.1756918853306238}}</string>
+		<key>Text</key>
+		<string>&lt;p class="right"&gt;sich putzend&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>EndPoint</key>
+		<string>{0.62052869216099638, 0.55967068492759109}</string>
+		<key>StartPoint</key>
+		<string>{0.62052869216099638, 0.46531785805408082}</string>
+		<key>Type</key>
+		<string>line</string>
+	</dict>
+	<dict>
+		<key>EndPoint</key>
+		<string>{0.2392689410333273, 0.3576666611293976}</string>
+		<key>StartPoint</key>
+		<string>{0.24071304244202052, 0.44324333109868574}</string>
+		<key>Type</key>
+		<string>line</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.26797769578545239</real>
+		<key>Frame</key>
+		<string>{{0.24183943904359426, 0.67185866805860717}, {0.16160270182548692, 0.23213835437311128}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;helle Oberseitenstreifen undeutlicher als bei Bekassine &lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.6742849303793127</real>
+		<key>Frame</key>
+		<string>{{0.21100364716607845, 0.25742699409444225}, {0.045656770902993062, 0.092257588010069697}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;kurz&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>EndPoint</key>
+		<string>{0.36109111039885244, 0.78232703759752653}</string>
+		<key>StartPoint</key>
+		<string>{0.37107987362060668, 0.71051739595206131}</string>
+		<key>Type</key>
+		<string>line</string>
+	</dict>
+	<dict>
+		<key>EndPoint</key>
+		<string>{0.54675526556501908, 0.80933448240362449}</string>
+		<key>StartPoint</key>
+		<string>{0.53699430526682279, 0.72167892574786219}</string>
+		<key>Type</key>
+		<string>line</string>
+	</dict>
+	<dict>
+		<key>EndPoint</key>
+		<string>{0.42531553149771295, 0.45610485754144148}</string>
+		<key>StartPoint</key>
+		<string>{0.44570101477315255, 0.3217404212783771}</string>
+		<key>Type</key>
+		<string>line</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.53441250160173248</real>
+		<key>Frame</key>
+		<string>{{0.4361562811313493, 0.1871515102768474}, {0.11080675708160759, 0.11640427782262698}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;Fleckenbänder&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.36178751828645511</real>
+		<key>Frame</key>
+		<string>{{0.5298034768902794, 0.70195486640530125}, {0.069462326895981211, 0.17194595767971843}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;recht kurz&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.26191700526210676</real>
+		<key>Frame</key>
+		<string>{{0.040622442101896902, 0.14646882483958318}, {0.11636968743336309, 0.23750997475738617}}</string>
+		<key>Text</key>
+		<string>&lt;p class="center"&gt;beachte bei der Landung sichtbares Flügelmuster&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+</array>
+</plist>

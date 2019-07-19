@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>EndPoint</key>
+		<string>{0.90681371209035244, 0.34286619780841476}</string>
+		<key>StartPoint</key>
+		<string>{0.89056187687656319, 0.28980962466116378}</string>
+		<key>Type</key>
+		<string>line</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.39809706815261892</real>
+		<key>Frame</key>
+		<string>{{0.80821676305770362, 0.32066749391110944}, {0.13019113671158272, 0.1160986315275159}}</string>
+		<key>Text</key>
+		<string>&lt;p class="right"&gt;pale &lt;/p&gt;&lt;p class="right"&gt;tip&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.5459217886402371</real>
+		<key>Frame</key>
+		<string>{{0.16331031912576796, 0.042775314311536729}, {0.15883163089873156, 0.084661440135508734}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;&lt;b&gt;ad. &lt;/b&gt;♀&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>EndPoint</key>
+		<string>{0.3653644811243793, 0.37122951368338053}</string>
+		<key>StartPoint</key>
+		<string>{0.3653644811243793, 0.2726287951452665}</string>
+		<key>Type</key>
+		<string>line</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.66666440611298972</real>
+		<key>Frame</key>
+		<string>{{0.34198957785803674, 0.3490530858894656}, {0.24117791384115775, 0.069328022321026597}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;white borders&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>EndPoint</key>
+		<string>{0.41407786526277629, 0.088664311256419187}</string>
+		<key>StartPoint</key>
+		<string>{0.41407786526277629, 0.14161569647504305}</string>
+		<key>Type</key>
+		<string>line</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.77578612523697854</real>
+		<key>Frame</key>
+		<string>{{0.36057940328174831, 0.025113839618422867}, {0.2194874809176979, 0.059576374627113841}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;barred&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.69564971251658603</real>
+		<key>Frame</key>
+		<string>{{0.36055735173641129, 0.87611906277199403}, {0.11306840657551188, 0.066439364519299396}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;&lt;b&gt;ad. &lt;/b&gt;♀&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+</array>
+</plist>

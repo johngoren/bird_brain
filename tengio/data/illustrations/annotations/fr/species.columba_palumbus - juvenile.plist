@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>EndPoint</key>
+		<string>{0.81345258624014583, 0.7811831177644033}</string>
+		<key>StartPoint</key>
+		<string>{0.85728000154473649, 0.83847691191782636}</string>
+		<key>Type</key>
+		<string>line</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.74629335803162689</real>
+		<key>Frame</key>
+		<string>{{0.58429968703902824, 0.28256083792229775}, {0.083064357325432894, 0.075580892779014197}}</string>
+		<key>Text</key>
+		<string>&lt;p class="right"&gt;&lt;b&gt;juv.&lt;/b&gt;&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.1544542414107635</real>
+		<key>Frame</key>
+		<string>{{0.088932919913869771, 0.019708621050835949}, {0.23948480466416572, 0.36519242048569667}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;les jeunes n’ont pas de tache blanche sur le cou, mais ont la bande blanche diagnostique sur les ailes.&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.29537898254230682</real>
+		<key>Frame</key>
+		<string>{{0.75798010843961472, 0.75719966904901959}, {0.24201989156038534, 0.19095982317225274}}</string>
+		<key>Text</key>
+		<string>&lt;p class="right"&gt;au début, le bec et les yeux sont grisâtres&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+</array>
+</plist>

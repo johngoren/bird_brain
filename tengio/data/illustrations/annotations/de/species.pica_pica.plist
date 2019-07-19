@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>FontScale</key>
+		<real>0.21608400529895791</real>
+		<key>Frame</key>
+		<string>{{0.061649448021079099, 0.14181876041545283}, {0.069859430398873476, 0.15241789951741003}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;Domnest aus Ästen und Zweigen&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.26558456226423294</real>
+		<key>Frame</key>
+		<string>{{0.33511147618185017, 0.057417861537180377}, {0.24493431289066694, 0.12400973131189987}}</string>
+		<key>Text</key>
+		<string>&lt;p class="center"&gt;je nach Lichteinfall und Abnutzungsgrad glänzt das Gefieder metallisch grün und blau&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.28059719385679882</real>
+		<key>Frame</key>
+		<string>{{0.60007222120129633, 0.6078138725288259}, {0.074279672185694312, 0.11737490940049916}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;&lt;b&gt;&lt;i&gt;pica&lt;/i&gt;&lt;/b&gt;&lt;/p&gt;&lt;p&gt;(Europa)&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.44022022703911662</real>
+		<key>Frame</key>
+		<string>{{0.15076990965102646, 0.057417861537184103}, {0.096940044220001409, 0.074814986191103744}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;Schwanz bei ♂ meist länger&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>EndPoint</key>
+		<string>{0.19694584725710626, 0.19794056009618524}</string>
+		<key>StartPoint</key>
+		<string>{0.19903922481685155, 0.15973568766192653}</string>
+		<key>Type</key>
+		<string>line</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.1334346078763865</real>
+		<key>Frame</key>
+		<string>{{0.90404653276727931, 0.18142759284908402}, {0.050693787048365087, 0.24682554796793821}}</string>
+		<key>Text</key>
+		<string>&lt;p class="right"&gt;blaue nackte Haut hinter dem Auge&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.3245775033585469</real>
+		<key>Frame</key>
+		<string>{{0.87050850274418479, 0.030762259452198668}, {0.084789325696436116, 0.10147058827608918}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;&lt;b&gt;&lt;i&gt;mauritanica&lt;/i&gt;&lt;/b&gt;&lt;/p&gt;&lt;p&gt;(NW-Afrika)&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.27464472950829949</real>
+		<key>Frame</key>
+		<string>{{0.57918636074144425, 0.18142759284908117}, {0.096940044220001409, 0.11991881390165472}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;ohne grünen Glanz&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>EndPoint</key>
+		<string>{0.59448257204671473, 0.30933759871512773}</string>
+		<key>StartPoint</key>
+		<string>{0.58021912553569377, 0.3579674189306829}</string>
+		<key>Type</key>
+		<string>line</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.29152454076230777</real>
+		<key>Frame</key>
+		<string>{{0.6772866488275725, 0.77673166144322725}, {0.081541663617971105, 0.11297529230593802}}</string>
+		<key>Text</key>
+		<string>&lt;p class="right"&gt;fast ganzer Handflügel weiß&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>EndPoint</key>
+		<string>{0.76292276227577738, 0.84218485349740968}</string>
+		<key>StartPoint</key>
+		<string>{0.78937899949081602, 0.84976640822883287}</string>
+		<key>Type</key>
+		<string>line</string>
+	</dict>
+</array>
+</plist>

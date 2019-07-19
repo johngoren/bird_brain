@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>FontScale</key>
+		<real>0.12935644427932752</real>
+		<key>Frame</key>
+		<string>{{0.59664459067189579, 0.042181412489348334}, {0.35965054804223739, 0.36724899559614432}}</string>
+		<key>Text</key>
+		<string>&lt;p class="right"&gt;Schirmfedern enden vor Flügelspitze &lt;/p&gt;&lt;p class="right"&gt;(kennzeich-nende  Hand-schwingen-projektion)&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>EndPoint</key>
+		<string>{0.18323571307488909, 0.40163305352950857}</string>
+		<key>StartPoint</key>
+		<string>{0.27276544149923643, 0.49428936545990532}</string>
+		<key>Type</key>
+		<string>line</string>
+	</dict>
+	<dict>
+		<key>EndPoint</key>
+		<string>{0.12447387530938329, 0.47744061928073483}</string>
+		<key>StartPoint</key>
+		<string>{0.20770632623756594, 0.56357949437726274}</string>
+		<key>Type</key>
+		<string>line</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.19795918679618282</real>
+		<key>Frame</key>
+		<string>{{0.49488282142468043, 0.44400993502088731}, {0.28016507759439369, 0.23997888152765273}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;breit weißliche Mantelstreifen&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.28484830923473675</real>
+		<key>Frame</key>
+		<string>{{0.0020907263836088628, 0.30589594791203756}, {0.20862128554781911, 0.16677657088118097}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;breit weiße Flügel­binden&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>EndPoint</key>
+		<string>{0.75538243065596444, 0.35183732423253405}</string>
+		<key>StartPoint</key>
+		<string>{0.63692504720262966, 0.36141326909869648}</string>
+		<key>Type</key>
+		<string>line</string>
+	</dict>
+	<dict>
+		<key>EndPoint</key>
+		<string>{0.51904705760400038, 0.64127048255102204}</string>
+		<key>StartPoint</key>
+		<string>{0.46311540027267584, 0.64127048255102204}</string>
+		<key>Type</key>
+		<string>line</string>
+	</dict>
+</array>
+</plist>

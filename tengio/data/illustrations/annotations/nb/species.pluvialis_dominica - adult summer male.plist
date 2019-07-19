@@ -1,0 +1,134 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>FontScale</key>
+		<real>0.2679681994932524</real>
+		<key>Frame</key>
+		<string>{{0.084307941499809816, 0.079537315463965044}, {0.25708489830309239, 0.090444989304437992}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;﻿ganske lang håndsvingfjærprojek-sjon&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.35277842074381954</real>
+		<key>Frame</key>
+		<string>{{0.41391904541043678, 0.087282040341660927}, {0.12656349328342362, 0.06870142704872724}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;﻿lange bein&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.68717145733139473</real>
+		<key>Frame</key>
+		<string>{{0.24433481547061972, 0.0020883408704907664}, {0.31308479093482211, 0.035269772454196248}}</string>
+		<key>Text</key>
+		<string>&lt;p class="right"&gt;&lt;b&gt;ad. sommer &lt;/b&gt;♂&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.39999755860865044</real>
+		<key>Frame</key>
+		<string>{{0.24133219339730325, 0.28876064014077807}, {0.21861021074284814, 0.060591322160566258}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;﻿grovt sagtagget&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>EndPoint</key>
+		<string>{0.52203385230485178, 0.37347926391109887}</string>
+		<key>StartPoint</key>
+		<string>{0.55336349171028265, 0.29500142226857567}</string>
+		<key>Type</key>
+		<string>line</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.40439759345914478</real>
+		<key>Frame</key>
+		<string>{{0.4664579949428071, 0.36696934381808916}, {0.16756266260332861, 0.059932060252344849}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;﻿grovt flekket&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>EndPoint</key>
+		<string>{0.20809440745568888, 0.17169553755697639}</string>
+		<key>StartPoint</key>
+		<string>{0.20742371935382872, 0.20750674314416437}</string>
+		<key>Type</key>
+		<string>line</string>
+	</dict>
+	<dict>
+		<key>EndPoint</key>
+		<string>{0.1080194845056279, 0.17170363041484851}</string>
+		<key>StartPoint</key>
+		<string>{0.10673520457404172, 0.20405909797454969}</string>
+		<key>Type</key>
+		<string>line</string>
+	</dict>
+	<dict>
+		<key>EndPoint</key>
+		<string>{0.56893706363586272, 0.11620997801400426}</string>
+		<key>StartPoint</key>
+		<string>{0.5114646505014655, 0.1178648171471058}</string>
+		<key>Type</key>
+		<string>line</string>
+	</dict>
+	<dict>
+		<key>EndPoint</key>
+		<string>{0.33736176359028242, 0.24942525771569668}</string>
+		<key>StartPoint</key>
+		<string>{0.32247367644226294, 0.29477099877735047}</string>
+		<key>Type</key>
+		<string>line</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.63999583336045995</real>
+		<key>Frame</key>
+		<string>{{0.43392590809838866, 0.65048994910354696}, {0.3507870217603638, 0.03786959175942986}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;gråbrun&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.36456958063224104</real>
+		<key>Frame</key>
+		<string>{{0.13287043378006635, 0.62703624633905797}, {0.25829090195432203, 0.066479438287379025}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;﻿svarte kroppssider&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>EndPoint</key>
+		<string>{0.52068077590258421, 0.69231931727973384}</string>
+		<key>StartPoint</key>
+		<string>{0.53814127253245092, 0.74949345457841743}</string>
+		<key>Type</key>
+		<string>line</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.68717385909664397</real>
+		<key>Frame</key>
+		<string>{{0.40059531663800924, 0.92896521591329051}, {0.41531763126276655, 0.035269649181588147}}</string>
+		<key>Text</key>
+		<string>&lt;p class="right"&gt;&lt;b&gt;ad. sommer &lt;/b&gt;♂&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+</array>
+</plist>

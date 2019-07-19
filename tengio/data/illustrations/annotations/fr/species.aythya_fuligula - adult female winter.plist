@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>FontScale</key>
+		<real>0.55866607562996551</real>
+		<key>Frame</key>
+		<string>{{0.64439445253438055, 0.51916506323787315}, {0.2290051068797751, 0.15551976936280251}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;pointe noire étendue&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>EndPoint</key>
+		<string>{0.63765099989078322, 0.62256826414932331}</string>
+		<key>StartPoint</key>
+		<string>{0.61191326998483053, 0.5505788942939327}</string>
+		<key>Type</key>
+		<string>line</string>
+	</dict>
+	<dict>
+		<key>EndPoint</key>
+		<string>{0.64301905481907984, 0.71994537342053566}</string>
+		<key>StartPoint</key>
+		<string>{0.59498308864169225, 0.58553774028607719}</string>
+		<key>Type</key>
+		<string>line</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.56119358678308595</real>
+		<key>Frame</key>
+		<string>{{0.64955701278485967, 0.63069341551331426}, {0.31655495759407148, 0.15481933735350528}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;vague bande pâle&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>EndPoint</key>
+		<string>{0.36923949369246167, 0.9143794208592686}</string>
+		<key>StartPoint</key>
+		<string>{0.40351387722967708, 0.81847787421487606}</string>
+		<key>Type</key>
+		<string>line</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.67067829219370423</real>
+		<key>Frame</key>
+		<string>{{0.33511686365977894, 0.87045410557629821}, {0.24679184382987418, 0.12954589442370179}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;toujours une huppe&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.38322382206351652</real>
+		<key>Frame</key>
+		<string>{{0.20242831140680698, 0.61241205134011178}, {0.15550238773905134, 0.22671768880378715}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;brun foncé uni&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>EndPoint</key>
+		<string>{0.24454470723590116, 0.66480997203478831}</string>
+		<key>StartPoint</key>
+		<string>{0.28002508902698492, 0.56553397818346551}</string>
+		<key>Type</key>
+		<string>line</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.3890179995571002</real>
+		<key>Frame</key>
+		<string>{{0, 0.32924518306626943}, {0.18422209680318427, 0.22334087196919386}}</string>
+		<key>Text</key>
+		<string>&lt;p class="right"&gt;♀ &lt;b&gt;ad. hiv.&lt;/b&gt;&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+</array>
+</plist>

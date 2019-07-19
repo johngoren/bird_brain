@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>FontScale</key>
+		<real>0.25915593210285454</real>
+		<key>Frame</key>
+		<string>{{0.1493179197233096, 0.54810445215721126}, {0.25109554164270403, 0.19709038277484214}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;gelbocker (im Winter weiß)&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>EndPoint</key>
+		<string>{0.36861366043552063, 0.72761189916735092}</string>
+		<key>StartPoint</key>
+		<string>{0.4780406358336271, 0.69814904305378078}</string>
+		<key>Type</key>
+		<string>line</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.22918512336270011</real>
+		<key>Frame</key>
+		<string>{{0.27083027555738437, 0.74375062271341286}, {0.25916637161726569, 0.22286412445579964}}</string>
+		<key>Text</key>
+		<string>&lt;p class="right"&gt;♂&lt;b&gt; PK&lt;/b&gt;&lt;/p&gt;&lt;p class="right"&gt;Frühjahr&lt;/p&gt;&lt;p class="center"&gt;(schwarzkehlig)&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.38857025404266715</real>
+		<key>Frame</key>
+		<string>{{0.2597656017068003, 0.032962729238278955}, {0.18724653536256827, 0.13144892416524001}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;viel Weiß&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>EndPoint</key>
+		<string>{0.30768048088840366, 0.17141165149842427}</string>
+		<key>StartPoint</key>
+		<string>{0.27254122087438271, 0.22983008621529941}</string>
+		<key>Type</key>
+		<string>line</string>
+	</dict>
+</array>
+</plist>

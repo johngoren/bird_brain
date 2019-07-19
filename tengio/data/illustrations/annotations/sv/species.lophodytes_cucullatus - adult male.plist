@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>FontScale</key>
+		<real>0.28088904173092133</real>
+		<key>Frame</key>
+		<string>{{0.41477123741404226, 0.56100056707033452}, {0.19110247958228266, 0.43899943292966542}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;tofsen hopfälld&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.47856806406033209</real>
+		<key>Frame</key>
+		<string>{{0.80660246167178107, 0.58953261832541082}, {0.1884080196659168, 0.25766476975046571}}</string>
+		<key>Text</key>
+		<string>&lt;p class="right"&gt;&lt;b&gt;ad. &lt;/b&gt;♂&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>EndPoint</key>
+		<string>{0.49530489773929892, 0.75981225655401219}</string>
+		<key>StartPoint</key>
+		<string>{0.55280961276794827, 0.68250068880504378}</string>
+		<key>Type</key>
+		<string>line</string>
+	</dict>
+</array>
+</plist>

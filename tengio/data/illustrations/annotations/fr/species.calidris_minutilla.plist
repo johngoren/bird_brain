@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>FontScale</key>
+		<real>0.45410409323767953</real>
+		<key>Frame</key>
+		<string>{{0.90940579585970749, 0.012024725280925947}, {0.090594204140292484, 0.11349841748746277}}</string>
+		<key>Text</key>
+		<string>&lt;p class="center"&gt;&lt;b&gt;juv.&lt;/b&gt;&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.28794460440715924</real>
+		<key>Frame</key>
+		<string>{{0.54232004070638362, 0}, {0.11745398210374225, 0.17899309508914144}}</string>
+		<key>Text</key>
+		<string>&lt;p class="right"&gt;&lt;b&gt;ad. nuptial&lt;/b&gt; (usé)&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.58995733035666342</real>
+		<key>Frame</key>
+		<string>{{0.41294360250330331, 0.24230776252857625}, {0.096257811739656265, 0.087362413017051402}}</string>
+		<key>Text</key>
+		<string>&lt;p class="right"&gt;&lt;b&gt;1er hiver&lt;/b&gt;&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>EndPoint</key>
+		<string>{0.18844385906454891, 0.61063603841518321}</string>
+		<key>StartPoint</key>
+		<string>{0.21417967438466312, 0.5030256657311144}</string>
+		<key>Type</key>
+		<string>line</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.2588783360830908</real>
+		<key>Frame</key>
+		<string>{{0.14407141685150252, 0.56623363982316077}, {0.11807188541418438, 0.19909003100403627}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;parotiques sombres entourées de clair&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>EndPoint</key>
+		<string>{0.29564067785774606, 0.5269209021080915}</string>
+		<key>StartPoint</key>
+		<string>{0.26708769220571771, 0.48513523776530054}</string>
+		<key>Type</key>
+		<string>line</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.1521455833145029</real>
+		<key>Frame</key>
+		<string>{{0.30186559601097385, 0.22095569608144416}, {0.1032348332627836, 0.33875512410055569}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;sourcil atteignant la base du bec ; nette tache lorale sombre isolée&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.59526231652376105</real>
+		<key>Frame</key>
+		<string>{{0.19471031174397649, 0.12174816734387157}, {0.06102020962481193, 0.086583837959106805}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;pâles&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>EndPoint</key>
+		<string>{0.19062419443384948, 0.17379403374941532}</string>
+		<key>StartPoint</key>
+		<string>{0.16791463273349796, 0.15890078793041509}</string>
+		<key>Type</key>
+		<string>line</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.65572283330109327</real>
+		<key>Frame</key>
+		<string>{{0.046818425179511292, 0.060873035086000796}, {0.066590370994792439, 0.07860042893060247}}</string>
+		<key>Text</key>
+		<string>&lt;p class="right"&gt;&lt;b&gt;juv.&lt;/b&gt;&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+</array>
+</plist>

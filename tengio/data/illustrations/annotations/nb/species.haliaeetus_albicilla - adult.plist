@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>FontScale</key>
+		<real>0.63999583336045995</real>
+		<key>Frame</key>
+		<string>{{0.30827763067683595, 0.014537445121264729}, {0.13102272133190906, 0.044326602561503427}}</string>
+		<key>Text</key>
+		<string>&lt;p class="right"&gt;&lt;b&gt;ad.&lt;/b&gt;&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.29035208047553529</real>
+		<key>Frame</key>
+		<string>{{0.26400348129041068, 0.46689081025288004}, {0.18550559254052773, 0.097704968739762865}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;﻿hvit, kileformet&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.61538076309117662</real>
+		<key>Frame</key>
+		<string>{{0.47720266771803821, 0.39873112171990038}, {0.11721581602555864, 0.04609965512065263}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;&lt;b&gt;ad.&lt;/b&gt;&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.57588246148979227</real>
+		<key>Frame</key>
+		<string>{{0.59265018699964911, 0.59121453288786985}, {0.20368348570145992, 0.049261512276303508}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;﻿gulbrun&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>EndPoint</key>
+		<string>{0.59077570872382212, 0.64039283164169802}</string>
+		<key>StartPoint</key>
+		<string>{0.54226836020833347, 0.66865572634960435}</string>
+		<key>Type</key>
+		<string>line</string>
+	</dict>
+	<dict>
+		<key>EndPoint</key>
+		<string>{0.61530246324116122, 0.73655116293381118}</string>
+		<key>StartPoint</key>
+		<string>{0.59248760400058109, 0.70438491808121562}</string>
+		<key>Type</key>
+		<string>line</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.6215713797943776</real>
+		<key>Frame</key>
+		<string>{{0.61314820121134528, 0.72378285448608171}, {0.19282657131778058, 0.045640519928333893}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;﻿gult nebb&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>EndPoint</key>
+		<string>{0.31698806834009691, 0.56852316148886839}</string>
+		<key>StartPoint</key>
+		<string>{0.31698806834009691, 0.59829076313743235}</string>
+		<key>Type</key>
+		<string>line</string>
+	</dict>
+</array>
+</plist>

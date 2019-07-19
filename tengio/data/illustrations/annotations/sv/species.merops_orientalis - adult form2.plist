@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>FontScale</key>
+		<real>0.68996883685673382</real>
+		<key>Frame</key>
+		<string>{{0.65383851342849619, 0.23311925156443825}, {0.090891763637715603, 0.071720310435852377}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;&lt;b&gt;ad.&lt;/b&gt;&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.4101823229786396</real>
+		<key>Frame</key>
+		<string>{{0.29561274564886908, 0.025890173810459188}, {0.2297821825455775, 0.12064093550176191}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;mycket långa stjärtspröt &lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>EndPoint</key>
+		<string>{0.2870613499365578, 0.12020938193024376}</string>
+		<key>StartPoint</key>
+		<string>{0.24250365719026648, 0.17461036451821454}</string>
+		<key>Type</key>
+		<string>line</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.36862709805156818</real>
+		<key>Frame</key>
+		<string>{{0.79266525263928445, 0.44792325600708127}, {0.10531700545960111, 0.1342407528691946}}</string>
+		<key>Text</key>
+		<string>&lt;p class="right"&gt;ljus­grön&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>EndPoint</key>
+		<string>{0.86879503179111117, 0.5884460354990515}</string>
+		<key>StartPoint</key>
+		<string>{0.83070555086250908, 0.63495041902661198}</string>
+		<key>Type</key>
+		<string>line</string>
+	</dict>
+	<dict>
+		<key>EndPoint</key>
+		<string>{0.83857245887145171, 0.75095595942550408}</string>
+		<key>StartPoint</key>
+		<string>{0.86643626986467537, 0.80533701474517605}</string>
+		<key>Type</key>
+		<string>line</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.3550060654342409</real>
+		<key>Frame</key>
+		<string>{{0.75197465666370411, 0.77011008101927725}, {0.14361386814908586, 0.13939136253883297}}</string>
+		<key>Text</key>
+		<string>&lt;p class="right"&gt;saknar blått&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.31358024691358083</real>
+		<key>Frame</key>
+		<string>{{0.30916522987069178, 0.84219420815729373}, {0.55530695684313025, 0.15780579184270616}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;&lt;b&gt;&lt;i&gt;cleopatra&lt;/i&gt;&lt;/b&gt;  (n. Egypten)&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+</array>
+</plist>

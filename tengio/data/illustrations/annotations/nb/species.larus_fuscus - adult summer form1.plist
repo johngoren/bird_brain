@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>FontScale</key>
+		<real>0.3862275978445992</real>
+		<key>Frame</key>
+		<string>{{0.71303013795879822, 0.04758686035892197}, {0.2572684265325626, 0.092458802208161481}}</string>
+		<key>Text</key>
+		<string>&lt;p class="right"&gt;&lt;b&gt;ad. sommer &lt;/b&gt;♀&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.30787878787878242</real>
+		<key>Frame</key>
+		<string>{{0, 0.0091201945456647719}, {0.63371803263527848, 0.11598766294515515}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;♀♀ især kan være påfallende elegante, med lengre og smalere vinger enn &lt;i&gt;graellsii&lt;/i&gt;&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.1510667382984682</real>
+		<key>Frame</key>
+		<string>{{0.3838941260939146, 0.54359091351065048}, {0.19283259637587971, 0.23638652345755476}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;﻿helt svart, svært liten kontrast&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>EndPoint</key>
+		<string>{0.55078197313922161, 0.76403776865974338}</string>
+		<key>StartPoint</key>
+		<string>{0.62251038778987144, 0.79960731862958467}</string>
+		<key>Type</key>
+		<string>line</string>
+	</dict>
+</array>
+</plist>

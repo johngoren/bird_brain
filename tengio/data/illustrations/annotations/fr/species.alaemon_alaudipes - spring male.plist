@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>FontScale</key>
+		<real>0.38484786795909737</real>
+		<key>Frame</key>
+		<string>{{0.30552044315232801, 0.11833076602238049}, {0.21318274504605114, 0.067236381339788265}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;♂ &lt;b&gt;printemps&lt;/b&gt;&lt;/p&gt;&lt;p&gt;(plum. usé)&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>EndPoint</key>
+		<string>{0.17473268786031021, 0.09310063700122316}</string>
+		<key>StartPoint</key>
+		<string>{0.14521480546498203, 0.12164502918927038}</string>
+		<key>Type</key>
+		<string>line</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.5705894303044402</real>
+		<key>Frame</key>
+		<string>{{0.1458424841267309, 0.041459295807728287}, {0.23119484222160872, 0.045349206686314245}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;longue queue&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.36905195424392595</real>
+		<key>Frame</key>
+		<string>{{0.59705697066436747, 0.56088753705259697}, {0.22908340203330352, 0.070114187746042084}}</string>
+		<key>Text</key>
+		<string>&lt;p class="center"&gt;motif facial très marqué&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.62666500922747437</real>
+		<key>Frame</key>
+		<string>{{0.17471614372223415, 0.95707546754660855}, {0.42982875249248176, 0.041291244328131388}}</string>
+		<key>Text</key>
+		<string>&lt;p class="right"&gt;motif alaire remarquable&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+</array>
+</plist>

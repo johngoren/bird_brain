@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>FontScale</key>
+		<real>0.40161405500000552</real>
+		<key>Frame</key>
+		<string>{{0.30743595444277122, 0.043187962384235778}, {0.30393829828074242, 0.071726207533273481}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;nettement chamois roussâtre&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>EndPoint</key>
+		<string>{0.43327240893652613, 0.16200821373572061}</string>
+		<key>StartPoint</key>
+		<string>{0.43217032573143427, 0.12276326615014088}</string>
+		<key>Type</key>
+		<string>line</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.24762491293930092</real>
+		<key>Frame</key>
+		<string>{{0.7067084027785262, 0.15488336177310719}, {0.2693209877795929, 0.11633018954062609}}</string>
+		<key>Text</key>
+		<string>&lt;p class="right"&gt;sexes semblables, la ♀ étant à peine plus terne&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.49682643888893824</real>
+		<key>Frame</key>
+		<string>{{0.2625948451438877, 0.93974997925833337}, {0.23028101476840548, 0.057980515533009556}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;dos noir (voir le T. de Finsch)&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>EndPoint</key>
+		<string>{0.59915262437427308, 0.90311840548873168}</string>
+		<key>StartPoint</key>
+		<string>{0.50064790850196372, 0.95619449379886512}</string>
+		<key>Type</key>
+		<string>line</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.25223435948359291</real>
+		<key>Frame</key>
+		<string>{{0.17131380843555349, 0.79152252750331875}, {0.17402499804107577, 0.11420431822288536}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;bande terminale de largeur constante&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>EndPoint</key>
+		<string>{0.36503974965108776, 0.86895408342821134}</string>
+		<key>StartPoint</key>
+		<string>{0.32563786330216937, 0.86759315808694126}</string>
+		<key>Type</key>
+		<string>line</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.26736842105263231</real>
+		<key>Frame</key>
+		<string>{{0.42413910414699535, 0.61882677221644511}, {0.2571520332688732, 0.10773992285176903}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;très pâle (motif rappelant la Pie bavarde)&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>EndPoint</key>
+		<string>{0.56214361253113965, 0.73050863038732217}</string>
+		<key>StartPoint</key>
+		<string>{0.65334053117155921, 0.76671491498777122}</string>
+		<key>Type</key>
+		<string>line</string>
+	</dict>
+</array>
+</plist>

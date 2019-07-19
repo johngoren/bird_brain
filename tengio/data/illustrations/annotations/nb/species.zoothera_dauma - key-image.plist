@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>FontScale</key>
+		<real>0.28222202763825915</real>
+		<key>Frame</key>
+		<string>{{0.13216495596353711, 0.35489114288807011}, {0.16855415598234233, 0.150320382642677}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;﻿stor, langstrakt&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.36782397292221342</real>
+		<key>Frame</key>
+		<string>{{0.24992169975757078, 0.059405819513278058}, {0.31853977953708351, 0.11533702615339581}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;﻿kjønn og aldrer like i felt&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.23959725900189768</real>
+		<key>Frame</key>
+		<string>{{0.74593807613175545, 0.1444427939129351}, {0.16190096810358762, 0.17706263987118182}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;﻿kraftig skjell-tegnet&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>EndPoint</key>
+		<string>{0.79713715286795594, 0.33267746941995552}</string>
+		<key>StartPoint</key>
+		<string>{0.75544984804211179, 0.3745588492040024}</string>
+		<key>Type</key>
+		<string>line</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.59499840361705647</real>
+		<key>Frame</key>
+		<string>{{0.87358449040240149, 0.7907374805385663}, {0.12641550959759837, 0.071300566399635862}}</string>
+		<key>Text</key>
+		<string>&lt;p class="center"&gt;﻿langt&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>EndPoint</key>
+		<string>{0.93240658400959853, 0.86936890128297983}</string>
+		<key>StartPoint</key>
+		<string>{0.91514669997434317, 0.90392170449969145}</string>
+		<key>Type</key>
+		<string>line</string>
+	</dict>
+</array>
+</plist>

@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>FontScale</key>
+		<real>0.27390893664685639</real>
+		<key>Frame</key>
+		<string>{{0.053418368851848544, 0.36229251651828015}, {0.12142991022784472, 0.13639973997968038}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;spécialiste des cônes de mélèzes&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.58181473831239439</real>
+		<key>Frame</key>
+		<string>{{0.21812138580671872, 0.1072367413355369}, {0.05110839714276693, 0.064214783979366336}}</string>
+		<key>Text</key>
+		<string>&lt;p class="right"&gt;&lt;b&gt;juv.&lt;/b&gt;&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.11228006053510761</real>
+		<key>Frame</key>
+		<string>{{0.28958327726208888, 0.60771345275934097}, {0.21663966339991594, 0.33274926606456473}}</string>
+		<key>Text</key>
+		<string>&lt;p class="center"&gt;le Bec-croisé des sapins peut, très rarement, avoir des barres alaires blanches, mais elles sont alors plus étroites et les pointes des tertiaires présentent d’étroits liserés blancs de largeur constante&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.19180804741219956</real>
+		<key>Frame</key>
+		<string>{{0.48720338461596985, 0.44697966675939976}, {0.13658278398407991, 0.1947838385344289}}</string>
+		<key>Text</key>
+		<string>&lt;p class="center"&gt;BEC-CROISÉ DES SAPINS, ♀&lt;/p&gt;&lt;p class="center"&gt;variante à barres alaires pour comparaison&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>EndPoint</key>
+		<string>{0.65650884112965058, 0.84824502088782261}</string>
+		<key>StartPoint</key>
+		<string>{0.67672427948997305, 0.80360343594868089}</string>
+		<key>Type</key>
+		<string>line</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.23888495220745179</real>
+		<key>Frame</key>
+		<string>{{0.60913305706732768, 0.76914567550112711}, {0.065093712898758482, 0.15639791201371669}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;fortement tacheté de noir&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.31025332326906579</real>
+		<key>Frame</key>
+		<string>{{0.81464711605235041, 0.71398655974806513}, {0.16196497804291254, 0.12042129748386518}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;larges barres alaires blanches, s’élargissant vers le dos&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>EndPoint</key>
+		<string>{0.8086089560587697, 0.81114007146218559}</string>
+		<key>StartPoint</key>
+		<string>{0.78492905501731336, 0.75884794230570873}</string>
+		<key>Type</key>
+		<string>line</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.61935288762321228</real>
+		<key>Frame</key>
+		<string>{{0.66225285185078719, 0.35707793764818058}, {0.054586025814716992, 0.060322811895035286}}</string>
+		<key>Text</key>
+		<string>&lt;p class="right"&gt;♀ &lt;b&gt;ad.&lt;/b&gt;&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.61935288762321228</real>
+		<key>Frame</key>
+		<string>{{0.93401576850989187, 0.26581545840865661}, {0.054585853710262033, 0.060322811895035286}}</string>
+		<key>Text</key>
+		<string>&lt;p class="right"&gt;♂ &lt;b&gt;ad.&lt;/b&gt;&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.27909512128645408</real>
+		<key>Frame</key>
+		<string>{{0.89100290677828342, 0.071562807665270844}, {0.097598715441872624, 0.13386514090440063}}</string>
+		<key>Text</key>
+		<string>&lt;p class="right"&gt;rouge vif plutôt que rouge brique&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+</array>
+</plist>

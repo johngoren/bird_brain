@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>FontScale</key>
+		<real>0.46808400871143285</real>
+		<key>Frame</key>
+		<string>{{0.89376336253358646, 0.60100819821550922}, {0.097858820986245015, 0.12560047764925281}}</string>
+		<key>Text</key>
+		<string>&lt;p class="right"&gt;lång, spetsig&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>EndPoint</key>
+		<string>{0.95896761679783438, 0.74481733328943411}</string>
+		<key>StartPoint</key>
+		<string>{0.94146284229739507, 0.80462423693072682}</string>
+		<key>Type</key>
+		<string>line</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.22517730496454397</real>
+		<key>Frame</key>
+		<string>{{0.74650885631580532, 0.06339057337508551}, {0.24103263918176251, 0.26109014442370287}}</string>
+		<key>Text</key>
+		<string>&lt;p class="right"&gt;bjärta färger och svarta centra på skulderfjädrarna indikerar ♂ &lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.54918918918916915</real>
+		<key>Frame</key>
+		<string>{{0.19996870720049703, 0.20579811890406005}, {0.12208885841733473, 0.10705158847160429}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;&lt;b&gt;1:a vint.&lt;/b&gt;&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.46808400871143285</real>
+		<key>Frame</key>
+		<string>{{0.10305236667171451, 0.088372637097170248}, {0.097858820986244432, 0.12560047764925281}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;rätt lång&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>EndPoint</key>
+		<string>{0.13714955302797113, 0.22717906549445083}</string>
+		<key>StartPoint</key>
+		<string>{0.15483253445778855, 0.33365199673107498}</string>
+		<key>Type</key>
+		<string>line</string>
+	</dict>
+</array>
+</plist>

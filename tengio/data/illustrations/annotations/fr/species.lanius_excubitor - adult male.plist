@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>FontScale</key>
+		<real>0.52222278296762292</real>
+		<key>Frame</key>
+		<string>{{0.3970366816423363, 0.18998001192225061}, {0.14245108411727761, 0.078369230166445952}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;♂ &lt;b&gt;ad.&lt;/b&gt;&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.3636363636363637</real>
+		<key>Frame</key>
+		<string>{{0.68533881473685254, 0.17289110547521605}, {0.214766743580522, 0.11254704306051687}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;&lt;b&gt;&lt;i&gt;excubitor&lt;/i&gt;&lt;/b&gt;&lt;/p&gt;&lt;p&gt;(Europe)&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.19311917886333507</real>
+		<key>Frame</key>
+		<string>{{0.82376193314745327, 0.45425871312650817}, {0.17623806685254667, 0.21192197335052823}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;flancs légèrement barrés chez la ♀&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+</array>
+</plist>

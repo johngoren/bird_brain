@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>FontScale</key>
+		<real>0.21359296103467507</real>
+		<key>Frame</key>
+		<string>{{0.39039484333662483, 0.74802796062120769}, {0.34352912356516274, 0.20017917584886619}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;Überaugenstreif oft kurz und diffus, Gesicht freundlich wirkend&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>EndPoint</key>
+		<string>{0.51820014348217069, 0.82405445248403753}</string>
+		<key>StartPoint</key>
+		<string>{0.59277639618100952, 0.75785981337894126}</string>
+		<key>Type</key>
+		<string>line</string>
+	</dict>
+	<dict>
+		<key>EndPoint</key>
+		<string>{0.72111932400286305, 0.73403661990631686}</string>
+		<key>StartPoint</key>
+		<string>{0.75233591447569614, 0.70605064612202584}</string>
+		<key>Type</key>
+		<string>line</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.59854601249406347</real>
+		<key>Frame</key>
+		<string>{{0.68732641577517772, 0.62789189872674966}, {0.1471549872085291, 0.071434546408350383}}</string>
+		<key>Text</key>
+		<string>&lt;p class="center"&gt;schlank&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.3848489979358764</real>
+		<key>Frame</key>
+		<string>{{0.69380824173350109, 0.44295750603220713}, {0.13019838326935096, 0.11110036179479517}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;&lt;b&gt;Herbst&lt;/b&gt;(frisch)&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.35031939061873629</real>
+		<key>Frame</key>
+		<string>{{0.62498728681961735, 0.23005103783154454}, {0.37501271318038271, 0.12205108838401096}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;schmutzig weiße bis olivbeige Tönung, am kräftigsten auf Flanken&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>EndPoint</key>
+		<string>{0.65693059132424958, 0.35985545382932266}</string>
+		<key>StartPoint</key>
+		<string>{0.61217298310691071, 0.39993498963098256}</string>
+		<key>Type</key>
+		<string>line</string>
+	</dict>
+	<dict>
+		<key>EndPoint</key>
+		<string>{0.31786922294372444, 0.30521030103470703}</string>
+		<key>StartPoint</key>
+		<string>{0.38326732901154864, 0.38862536313303814}</string>
+		<key>Type</key>
+		<string>line</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.21845430424135218</real>
+		<key>Frame</key>
+		<string>{{0.067583634256042094, 0.10374551400203659}, {0.28298464172159421, 0.19572451573122451}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;Flankenstrichelung meist ebenso kräftig wie Bruststrichelung&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+</array>
+</plist>

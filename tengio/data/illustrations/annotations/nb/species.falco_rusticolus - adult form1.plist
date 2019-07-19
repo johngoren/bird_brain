@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>FontScale</key>
+		<real>0.24684159378036755</real>
+		<key>Frame</key>
+		<string>{{0.54745099808429887, 0.68772845953002615}, {0.24705881387079276, 0.17911227154047893}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;«hette-inntrykk»&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.66206450656986415</real>
+		<key>Frame</key>
+		<string>{{0.81891031013311077, 0.43087732698525871}, {0.1286609362997333, 0.066779533012178316}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;&lt;b&gt;ad.&lt;/b&gt;&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>EndPoint</key>
+		<string>{0.10762065539263714, 0.21973844429100034}</string>
+		<key>StartPoint</key>
+		<string>{0.16908529496114816, 0.27895607209276946}</string>
+		<key>Type</key>
+		<string>line</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.22398589065256608</real>
+		<key>Frame</key>
+		<string>{{0, 0.034464751958192895}, {0.1717647382617255, 0.19738903394255952}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;﻿tydelig stjert-projeksjon&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.24684159378036755</real>
+		<key>Frame</key>
+		<string>{{0.75294118612920724, 0.82088772845952107}, {0.24705881387079276, 0.17911227154047893}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;﻿mørke kinn og (oftest) utydelig mustasje&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+</array>
+</plist>

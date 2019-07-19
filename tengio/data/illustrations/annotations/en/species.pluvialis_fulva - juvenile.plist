@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>FontScale</key>
+		<real>0.68459208189700205</real>
+		<key>Frame</key>
+		<string>{{0.10291409406759996, 0.13372956604955757}, {0.1588258581955872, 0.094874358724893706}}</string>
+		<key>Text</key>
+		<string>&lt;p class="right"&gt;&lt;b&gt;juv.&lt;/b&gt;&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.22917249482459578</real>
+		<key>Frame</key>
+		<string>{{0.50438519933373904, 0.059836043044922342}, {0.48959924810084871, 0.2834119984941022}}</string>
+		<key>Text</key>
+		<string>&lt;p class="right"&gt;smaller, more delicate than Golden, with propor­tionately longer legs and bill&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+</array>
+</plist>

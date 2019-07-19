@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>EndPoint</key>
+		<string>{0.48831853691621974, 0.62373579455145356}</string>
+		<key>StartPoint</key>
+		<string>{0.4259717893920702, 0.75401193024527724}</string>
+		<key>Type</key>
+		<string>line</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.61935093654903883</real>
+		<key>Frame</key>
+		<string>{{0.72676319661016098, 0.69110285384541459}, {0.19721777780728023, 0.1013359897426056}}</string>
+		<key>Text</key>
+		<string>&lt;p class="right"&gt;&lt;b&gt;ad. &lt;/b&gt;♂&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>EndPoint</key>
+		<string>{0.69845516742514713, 0.41291998496659449}</string>
+		<key>StartPoint</key>
+		<string>{0.6491084935650645, 0.52747504238805121}</string>
+		<key>Type</key>
+		<string>line</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.23260073260074415</real>
+		<key>Frame</key>
+		<string>{{0.50699426056015873, 0.73017049666418044}, {0.41698671385728364, 0.26982950333581962}}</string>
+		<key>Text</key>
+		<string>&lt;p class="right"&gt;﻿utydelig beige innramming av det grønne hodefeltet&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.26458333333332995</real>
+		<key>Frame</key>
+		<string>{{0.15037559643020371, 0.70570793180128666}, {0.35177431446047641, 0.23721275018535071}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;﻿mangler krikkandas karakteristiske hvite skulderstripe&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.81150159744474859</real>
+		<key>Frame</key>
+		<string>{{0.35886895335884644, 0.33333333333333309}, {0.59867989961456136, 0.077341240424951593}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;﻿karakteristisk hvit vertikal stripe&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.22846863053742833</real>
+		<key>Frame</key>
+		<string>{{0.19792626291901089, 0.050716580182750666}, {0.72829056519203561, 0.27470966147768217}}</string>
+		<key>Text</key>
+		<string>&lt;p class="right"&gt;♀-fargete fugler svært lik krikkand; kraftig rustfarget vingebånd kan gi indikasjon, hodetegninger kanskje mer iøynefallende, men stor overlapping&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+</array>
+</plist>

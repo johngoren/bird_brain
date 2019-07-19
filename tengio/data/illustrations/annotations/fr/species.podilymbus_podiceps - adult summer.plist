@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>EndPoint</key>
+		<string>{0.22579018597365741, 0.3351054522553783}</string>
+		<key>StartPoint</key>
+		<string>{0.29404846300962179, 0.27766302471430787}</string>
+		<key>Type</key>
+		<string>line</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.40740832830881779</real>
+		<key>Frame</key>
+		<string>{{0.11005913329938026, 0.26794392214747598}, {0.1134368084949746, 0.11175725017483416}}</string>
+		<key>Text</key>
+		<string>&lt;p class="right"&gt;blanc&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.3865098766189668</real>
+		<key>Frame</key>
+		<string>{{0.041578819609089761, 0.11254341345967385}, {0.22038240281658592, 0.11779992498097325}}</string>
+		<key>Text</key>
+		<string>&lt;p class="right"&gt;&lt;b&gt;ad. nuptial&lt;/b&gt;&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.22759836917711904</real>
+		<key>Frame</key>
+		<string>{{0.53126131915755925, 0.48253511563366097}, {0.14117403864617351, 0.20004903653192271}}</string>
+		<key>Text</key>
+		<string>&lt;p class="right"&gt;en alerte, long cou&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>EndPoint</key>
+		<string>{0.68531865288853511, 0.59849010987625362}</string>
+		<key>StartPoint</key>
+		<string>{0.75362304409375824, 0.52878539271634173}</string>
+		<key>Type</key>
+		<string>line</string>
+	</dict>
+	<dict>
+		<key>EndPoint</key>
+		<string>{0.91096051361447095, 0.52046187743534134}</string>
+		<key>StartPoint</key>
+		<string>{0.8715800443322651, 0.57463936462724008}</string>
+		<key>Type</key>
+		<string>line</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.46267739874743136</real>
+		<key>Frame</key>
+		<string>{{0.86282860395902816, 0.40966941221454978}, {0.10629889800385725, 0.098407301920044973}}</string>
+		<key>Text</key>
+		<string>&lt;p class="right"&gt;noir&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>EndPoint</key>
+		<string>{0.94456359423333336, 0.77027014184303344}</string>
+		<key>StartPoint</key>
+		<string>{0.94456359423333336, 0.67375973788675148}</string>
+		<key>Type</key>
+		<string>line</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.2587396298492276</real>
+		<key>Frame</key>
+		<string>{{0.59554833563902354, 0.80956405285956134}, {0.34212971457163116, 0.17597163023171666}}</string>
+		<key>Text</key>
+		<string>&lt;p class="center"&gt;étroit cercle oculaire clair et bec blanc grisâtre&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.46267875189414853</real>
+		<key>Frame</key>
+		<string>{{0.85369811796644657, 0.7290652306020452}, {0.12760336531988478, 0.098407014118807076}}</string>
+		<key>Text</key>
+		<string>&lt;p class="right"&gt;noir&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+</array>
+</plist>

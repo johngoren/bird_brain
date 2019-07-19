@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>EndPoint</key>
+		<string>{0.83134070153470963, 0.50339687788805276}</string>
+		<key>StartPoint</key>
+		<string>{0.81943392544619242, 0.42834750830848434}</string>
+		<key>Type</key>
+		<string>line</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.60645075718434471</real>
+		<key>Frame</key>
+		<string>{{0.79526142942584199, 0.48487254839782989}, {0.20060159540954334, 0.064058097968882455}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;dunkel&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.38188323317237538</real>
+		<key>Frame</key>
+		<string>{{0.79391133040762241, 0.033675770950402306}, {0.14841915767073646, 0.101727645108426}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;&lt;b&gt;Herbst&lt;/b&gt;(frisch)&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.3984969173529655</real>
+		<key>Frame</key>
+		<string>{{0.12658848487634389, 0.16214971538875264}, {0.16212397907274226, 0.097486530824549167}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;Schwanz kurz&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>EndPoint</key>
+		<string>{0.47822598913656705, 0.78948365987294367}</string>
+		<key>StartPoint</key>
+		<string>{0.57460207081468873, 0.83162771373770783}</string>
+		<key>Type</key>
+		<string>line</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.33196352863968331</real>
+		<key>Frame</key>
+		<string>{{0.27439960839701139, 0.69015855346956978}, {0.1962155048951747, 0.11702515085379697}}</string>
+		<key>Text</key>
+		<string>&lt;p class="right"&gt;ohne weißen Hinterrand&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+</array>
+</plist>

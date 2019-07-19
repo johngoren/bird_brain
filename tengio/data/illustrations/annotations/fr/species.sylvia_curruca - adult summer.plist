@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>EndPoint</key>
+		<string>{0.62781850782502047, 0.86062454964879753}</string>
+		<key>StartPoint</key>
+		<string>{0.7096984361035108, 0.68720809068648081}</string>
+		<key>Type</key>
+		<string>line</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.40478087649402095</real>
+		<key>Frame</key>
+		<string>{{0.57323188897268396, 0.8387869214831718}, {0.26218118448771027, 0.16121307851682848}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;couv. parotiques sombres&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>EndPoint</key>
+		<string>{0.85360861307784297, 0.8683319478249012}</string>
+		<key>StartPoint</key>
+		<string>{0.8128182338368598, 0.81283868095696199}</string>
+		<key>Type</key>
+		<string>line</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.42035581299130542</real>
+		<key>Frame</key>
+		<string>{{0.86105224292134064, 0.75474481031838303}, {0.13894775707865933, 0.15523984493034951}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;gris plomb&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.36363636363636803</real>
+		<key>Frame</key>
+		<string>{{0.7816535245906735, 0.18622720923974964}, {0.17404503056625872, 0.17945392086693626}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;&lt;b&gt;ad. nuptial&lt;/b&gt;&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.31839548730804679</real>
+		<key>Frame</key>
+		<string>{{0.032328120345047312, 0.22476420012028606}, {0.34323404278359382, 0.20495256316621807}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;dos et ailes de couleurs identiques (voir F. grisette)&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+</array>
+</plist>

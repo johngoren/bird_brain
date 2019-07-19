@@ -1,0 +1,182 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>FontScale</key>
+		<real>0.19999999999999998</real>
+		<key>Frame</key>
+		<string>{{0.14607682703318645, 0.65972820437523594}, {0.070143222618606588, 0.19311570908749529}}</string>
+		<key>Text</key>
+		<string>&lt;p class="right"&gt;in Akazienbeständen zu finden&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.29136793805563194</real>
+		<key>Frame</key>
+		<string>{{0.9126703449312521, 0.5458355538976517}, {0.072426350558880789, 0.13255796802915423}}</string>
+		<key>Text</key>
+		<string>&lt;p class="right"&gt;wirkt im Flug ganz schwarz&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>EndPoint</key>
+		<string>{0.91936778137090935, 0.62337250547028111}</string>
+		<key>StartPoint</key>
+		<string>{0.90597290849159495, 0.62335591714880956}</string>
+		<key>Type</key>
+		<string>line</string>
+	</dict>
+	<dict>
+		<key>EndPoint</key>
+		<string>{0.76127207903585392, 0.22640774507865002}</string>
+		<key>StartPoint</key>
+		<string>{0.78371754169848884, 0.25832367558267777}</string>
+		<key>Type</key>
+		<string>line</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.18654733478319774</real>
+		<key>Frame</key>
+		<string>{{0.71154190261651451, 0.0097365046596483464}, {0.15795214925739243, 0.20704204572199458}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;anders als bei Nachtigallengrasmücke nur leicht aufgehellte Spitzen&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.50876314471706152</real>
+		<key>Frame</key>
+		<string>{{0.44572024937709653, 0.54583555389765182}, {0.1687633308263301, 0.07591576201727139}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;schlägt den Schwanz ständig abwärts&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>EndPoint</key>
+		<string>{0.50061617047184426, 0.69446924162706869}</string>
+		<key>StartPoint</key>
+		<string>{0.50048959176453955, 0.63199933063550651}</string>
+		<key>Type</key>
+		<string>line</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.57271702367533217</real>
+		<key>Frame</key>
+		<string>{{0.23366493075388009, 0.70059422549119277}, {0.069834122442643601, 0.067438438567166012}}</string>
+		<key>Text</key>
+		<string>&lt;p class="right"&gt;♀&lt;b&gt; SK&lt;/b&gt;&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.44328097731238902</real>
+		<key>Frame</key>
+		<string>{{0.3322258534942496, 0.80927883420795954}, {0.15265328101201867, 0.087130158509555314}}</string>
+		<key>Text</key>
+		<string>&lt;p class="right"&gt;Augenring bei manchen unauffällig&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>EndPoint</key>
+		<string>{0.43676016549160779, 0.81459160727337798}</string>
+		<key>StartPoint</key>
+		<string>{0.41784443284446621, 0.77581640584243106}</string>
+		<key>Type</key>
+		<string>line</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.27699018538713638</real>
+		<key>Frame</key>
+		<string>{{0.042228193088922367, 0.06905263591037844}, {0.18226963647354813, 0.13943866553797662}}</string>
+		<key>Text</key>
+		<string>&lt;p class="right"&gt;Schwanz leicht gestuft, äußere Steuerfedern mit hellen Spitzen&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>EndPoint</key>
+		<string>{0.1095391928355727, 0.25000407045434669}</string>
+		<key>StartPoint</key>
+		<string>{0.13327512154666643, 0.22504839208367444}</string>
+		<key>Type</key>
+		<string>line</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.29279538904899804</real>
+		<key>Frame</key>
+		<string>{{0.37603047038897619, 0.38883400300565657}, {0.1540714444012852, 0.13191171467196719}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;nimmt oft typische verstohlene, geduckte Haltung ein&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.5245224574083569</real>
+		<key>Frame</key>
+		<string>{{0.42381782210145957, 0.17150280047549429}, {0.091591968607211097, 0.073634867815449409}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;ungemustert&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>EndPoint</key>
+		<string>{0.48412095448150239, 0.30646713218161409}</string>
+		<key>StartPoint</key>
+		<string>{0.4626164075611599, 0.25312079799733661}</string>
+		<key>Type</key>
+		<string>line</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.36363636363636803</real>
+		<key>Frame</key>
+		<string>{{0.62691305683918819, 0.118395980476434}, {0.077654060340896489, 0.10621363999812111}}</string>
+		<key>Text</key>
+		<string>&lt;p class="center"&gt;♂&lt;b&gt; PK&lt;/b&gt;&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>EndPoint</key>
+		<string>{0.69312395240745639, 0.49163134981408252}</string>
+		<key>StartPoint</key>
+		<string>{0.72995985282557274, 0.39811468753942991}</string>
+		<key>Type</key>
+		<string>line</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.29777256740914421</real>
+		<key>Frame</key>
+		<string>{{0.6937165485141471, 0.25912715272877673}, {0.053635876980728206, 0.12970685027687676}}</string>
+		<key>Text</key>
+		<string>&lt;p class="right"&gt;Augenring hell&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.42035581299130542</real>
+		<key>Frame</key>
+		<string>{{0.70224047286900115, 0.52015648667547776}, {0.055751633065258717, 0.091882021430016309}}</string>
+		<key>Text</key>
+		<string>&lt;p class="right"&gt;Iris dunkel&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+</array>
+</plist>

@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>EndPoint</key>
+		<string>{0.55122401916855923, 0.73437036328779293}</string>
+		<key>StartPoint</key>
+		<string>{0.61203513989660019, 0.67392056829194891}</string>
+		<key>Type</key>
+		<string>line</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.48504878201229212</real>
+		<key>Frame</key>
+		<string>{{0.47014252486450225, 0.68532016732266321}, {0.16441525233878126, 0.10049225155592814}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;brungrå&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.42035581299130542</real>
+		<key>Frame</key>
+		<string>{{0.830054269025292, 0.85160507958902842}, {0.12612676891742161, 0.11595805913092967}}</string>
+		<key>Text</key>
+		<string>&lt;p class="right"&gt;ljust &lt;/p&gt;&lt;p class="right"&gt;öga&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.18356797707040584</real>
+		<key>Frame</key>
+		<string>{{0.7537350212137226, 0.19108387095124263}, {0.2186623155897994, 0.26553457197047298}}</string>
+		<key>Text</key>
+		<string>&lt;p class="right"&gt;hela &lt;/p&gt;&lt;p class="right"&gt;under-&lt;/p&gt;&lt;p class="right"&gt;sidan har hos &lt;/p&gt;&lt;p class="right"&gt;typiska fåglar &lt;/p&gt;&lt;p class="right"&gt;skärbeige ton&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>EndPoint</key>
+		<string>{0.7524186154255641, 0.43336281121235132}</string>
+		<key>StartPoint</key>
+		<string>{0.81322973615360483, 0.36715589288356804}</string>
+		<key>Type</key>
+		<string>line</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.50297029702968254</real>
+		<key>Frame</key>
+		<string>{{0.73590964508335444, 0.069499874809390558}, {0.25936814866825592, 0.096911576104461744}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;&lt;b&gt;ad. sommar &lt;/b&gt;♂&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.76969696969696488</real>
+		<key>Frame</key>
+		<string>{{0.29446595387237579, 0.28185495878625061}, {0.18243336218412834, 0.063328356662319368}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;jämnbeige&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>EndPoint</key>
+		<string>{0.43861161447416569, 0.42258306666887996}</string>
+		<key>StartPoint</key>
+		<string>{0.38996193605270901, 0.35525828128123565}</string>
+		<key>Type</key>
+		<string>line</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.32987012987014364</real>
+		<key>Frame</key>
+		<string>{{0.15257333884027793, 0.099388940112897728}, {0.47149135185310326, 0.14776616554540475}}</string>
+		<key>Text</key>
+		<string>&lt;p class="center"&gt;artbestämning med ledning &lt;/p&gt;&lt;p class="center"&gt;av dräkten utanför häcknings-&lt;/p&gt;&lt;p class="center"&gt;området mycket vansklig&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+</array>
+</plist>

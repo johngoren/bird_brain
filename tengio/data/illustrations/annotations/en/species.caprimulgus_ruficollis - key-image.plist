@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>FontScale</key>
+		<real>0.23456699845895701</real>
+		<key>Frame</key>
+		<string>{{0.086264100862642537, 0.009265254081800612}, {0.50450417222521737, 0.22559542283023434}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;both sexes have white wing and tail patches, more prominent in ♂♂&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.30528846153847417</real>
+		<key>Frame</key>
+		<string>{{0.24087591240875983, 0.65274581055636327}, {0.19552910774094498, 0.17333521526721185}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;rufous-barred remiges&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>EndPoint</key>
+		<string>{0.58480610179838055, 0.6974589412282336}</string>
+		<key>StartPoint</key>
+		<string>{0.42136695421366915, 0.6974589412282336}</string>
+		<key>Type</key>
+		<string>line</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.25663046223792041</real>
+		<key>Frame</key>
+		<string>{{0.76244193762442147, 0.61857877293155816}, {0.14041450228793403, 0.20620015542156533}}</string>
+		<key>Text</key>
+		<string>&lt;p class="center"&gt;lacks dark ‘fore-arm’ &lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>EndPoint</key>
+		<string>{0.8183060221781846, 0.61188825742616126}</string>
+		<key>StartPoint</key>
+		<string>{0.7561499337586306, 0.58065994832736945}</string>
+		<key>Type</key>
+		<string>line</string>
+	</dict>
+</array>
+</plist>

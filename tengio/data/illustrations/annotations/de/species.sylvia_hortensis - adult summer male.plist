@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>EndPoint</key>
+		<string>{0.55122401916855923, 0.75351033160393566}</string>
+		<key>StartPoint</key>
+		<string>{0.61203513989660019, 0.69148502754784336}</string>
+		<key>Type</key>
+		<string>line</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.48504878201229212</real>
+		<key>Frame</key>
+		<string>{{0.47014252486450225, 0.70318173546961871}, {0.16441525233878126, 0.10311139117124039}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;bräunlich grau&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.42035581299130542</real>
+		<key>Frame</key>
+		<string>{{0.83034117904286808, 0.86135673484089004}, {0.12612676891742225, 0.11898028563777145}}</string>
+		<key>Text</key>
+		<string>&lt;p class="right"&gt;Iris hell&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.18356797707040584</real>
+		<key>Frame</key>
+		<string>{{0.75623293669640723, 0.20367255330569167}, {0.2186623155897994, 0.27245522610962108}}</string>
+		<key>Text</key>
+		<string>&lt;p class="right"&gt;typische Vögel unter-seits komplett rosabeige überhaucht&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>EndPoint</key>
+		<string>{0.73393548427494115, 0.48467601629886958}</string>
+		<key>StartPoint</key>
+		<string>{0.78643999414897348, 0.39945003542402352}</string>
+		<key>Type</key>
+		<string>line</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.50297029702968254</real>
+		<key>Frame</key>
+		<string>{{0.73590964508335444, 0.071311257006068787}, {0.25936814866825592, 0.099437392216923715}}</string>
+		<key>Text</key>
+		<string>&lt;p class="center"&gt;♂&lt;b&gt; PK&lt;/b&gt;&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.61480531954046602</real>
+		<key>Frame</key>
+		<string>{{0.26014752944047714, 0.27566609345519466}, {0.23685478990534231, 0.081349417627983422}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;einfarbig beige&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>EndPoint</key>
+		<string>{0.43860728829674117, 0.43360312234258519}</string>
+		<key>StartPoint</key>
+		<string>{0.38640427277554412, 0.35743341703287407}</string>
+		<key>Type</key>
+		<string>line</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.25176934572229942</real>
+		<key>Frame</key>
+		<string>{{0.15257333884027793, 0.077015798854319556}, {0.45200317110573784, 0.19865029460087039}}</string>
+		<key>Text</key>
+		<string>&lt;p class="center"&gt;Bestimmung anhand Gefiedermerkmalen außerhalb der Brutgebiete sehr schwierig&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+</array>
+</plist>

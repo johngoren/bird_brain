@@ -1,0 +1,164 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>FontScale</key>
+		<real>0.55377855392501785</real>
+		<key>Frame</key>
+		<string>{{0.74253972848423133, 0.072400941666699623}, {0.23476256097955786, 0.076680849380405036}}</string>
+		<key>Text</key>
+		<string>&lt;p class="right"&gt;flykten hackspettlik, i mjuka bågar&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.64827436123173665</real>
+		<key>Frame</key>
+		<string>{{0.5798274932800479, 0.9032683689606722}, {0.12304124087617593, 0.065503454128495522}}</string>
+		<key>Text</key>
+		<string>&lt;p class="center"&gt;sträng uppsyn&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>EndPoint</key>
+		<string>{0.69104880963410364, 0.87865186537570694}</string>
+		<key>StartPoint</key>
+		<string>{0.71608537238470271, 0.90250551326762007}</string>
+		<key>Type</key>
+		<string>line</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.36734808271161418</real>
+		<key>Frame</key>
+		<string>{{0.72195414229795685, 0.80967437806702525}, {0.081856498655104748, 0.11559665582073894}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;korta vita ögonbryn&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.28484872192738792</real>
+		<key>Frame</key>
+		<string>{{0.69966906736123924, 0.3124756827260059}, {0.076351276939210844, 0.14907635743033998}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;distinktare streckning än juv.&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>EndPoint</key>
+		<string>{0.71630419418266167, 0.47195849072322155}</string>
+		<key>StartPoint</key>
+		<string>{0.68871799898872099, 0.54122861542463097}</string>
+		<key>Type</key>
+		<string>line</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.67267004242507178</real>
+		<key>Frame</key>
+		<string>{{0.60978788341397894, 0.063027787788909717}, {0.05992076536784819, 0.063127844567796187}}</string>
+		<key>Text</key>
+		<string>&lt;p class="center"&gt;&lt;b&gt;ad.&lt;/b&gt;&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>EndPoint</key>
+		<string>{0.57447888568843819, 0.7392682532268996}</string>
+		<key>StartPoint</key>
+		<string>{0.60296461185104155, 0.66773914927912237}</string>
+		<key>Type</key>
+		<string>line</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.56969661846947084</real>
+		<key>Frame</key>
+		<string>{{0.51990665612122799, 0.70710646042152558}, {0.063915414248067445, 0.074538286707240456}}</string>
+		<key>Text</key>
+		<string>&lt;p class="center"&gt;vattrad&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.55294220217286627</real>
+		<key>Frame</key>
+		<string>{{0.40445931812384101, 0.7767794169534048}, {0.11758401481238964, 0.076796832863821121}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;inga vita prickar&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.30801679779234886</real>
+		<key>Frame</key>
+		<string>{{0.34404349710320653, 0.56831317424341987}, {0.071284658789144001, 0.13786329248267254}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;gråbrun kropps-&lt;/p&gt;&lt;p&gt;sida&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>EndPoint</key>
+		<string>{0.38108186790842641, 0.5954382597939557}</string>
+		<key>StartPoint</key>
+		<string>{0.41496461022980835, 0.51035679821863056}</string>
+		<key>Type</key>
+		<string>line</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.70554291579045592</real>
+		<key>Frame</key>
+		<string>{{0.39846719377156026, 0.065970355718265442}, {0.051931295579983168, 0.060186572543284585}}</string>
+		<key>Text</key>
+		<string>&lt;p class="center"&gt;&lt;b&gt;juv.&lt;/b&gt;&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>EndPoint</key>
+		<string>{0.45790951545509151, 0.80659142435491349}</string>
+		<key>StartPoint</key>
+		<string>{0.46017480144183526, 0.74570429858470078}</string>
+		<key>Type</key>
+		<string>line</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.27111158739462893</real>
+		<key>Frame</key>
+		<string>{{0.19867491687435668, 0.53314317054674931}, {0.11394340458416571, 0.15663000719261799}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;tydligt ”falskt” ansikte i nacken, särskilt hos ad.&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>EndPoint</key>
+		<string>{0.22324037421158466, 0.4947881950643877}</string>
+		<key>StartPoint</key>
+		<string>{0.23253405728807669, 0.55225289796503652}</string>
+		<key>Type</key>
+		<string>line</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.41825526999342572</real>
+		<key>Frame</key>
+		<string>{{0.10645317908017046, 0.067385483806423327}, {0.1908236596536976, 0.10152701694419837}}</string>
+		<key>Text</key>
+		<string>&lt;p class="center"&gt;med slagen talltita&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+</array>
+</plist>

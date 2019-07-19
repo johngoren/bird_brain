@@ -1,0 +1,348 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>EndPoint</key>
+		<string>{0.69156145487778842, 0.71085691498588466}</string>
+		<key>StartPoint</key>
+		<string>{0.63189927014765135, 0.6667036661800444}</string>
+		<key>Type</key>
+		<string>line</string>
+	</dict>
+	<dict>
+		<key>EndPoint</key>
+		<string>{0.69337755544771384, 0.68287448232511683}</string>
+		<key>StartPoint</key>
+		<string>{0.69376811989231668, 0.72336422965937974}</string>
+		<key>Type</key>
+		<string>line</string>
+	</dict>
+	<dict>
+		<key>EndPoint</key>
+		<string>{0.63187190104034641, 0.64567004618960955}</string>
+		<key>StartPoint</key>
+		<string>{0.63186748506823665, 0.68355274278736988}</string>
+		<key>Type</key>
+		<string>line</string>
+	</dict>
+	<dict>
+		<key>EndPoint</key>
+		<string>{0.66319275319027282, 0.68987459909314031}</string>
+		<key>StartPoint</key>
+		<string>{0.6632834399153521, 0.62681589718575781}</string>
+		<key>Type</key>
+		<string>line</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.29595106320997799</real>
+		<key>Frame</key>
+		<string>{{0.60297906844675864, 0.5297820410298193}, {0.11214981072511107, 0.093743220275542133}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;Handschwingenprojektion länger als bei Zilpzalp&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>EndPoint</key>
+		<string>{0.77025336240963516, 0.56652879043665694}</string>
+		<key>StartPoint</key>
+		<string>{0.75015872319981081, 0.5535386974934845}</string>
+		<key>Type</key>
+		<string>line</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.71150227569348345</real>
+		<key>Frame</key>
+		<string>{{0.72111757259840747, 0.52601471284687129}, {0.032028191565024101, 0.038992715353205379}}</string>
+		<key>Text</key>
+		<string>&lt;p class="center"&gt;hell&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.18392129467660251</real>
+		<key>Frame</key>
+		<string>{{0.87166100767130195, 0.52601471284687129}, {0.090765312917357052, 0.15084390177905388}}</string>
+		<key>Text</key>
+		<string>&lt;p class="right"&gt;unterseits „sauberer“ getönt als Zilpzalp&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>EndPoint</key>
+		<string>{0.89989398954396671, 0.66552266089281398}</string>
+		<key>StartPoint</key>
+		<string>{0.85687755035469715, 0.72147368283995672}</string>
+		<key>Type</key>
+		<string>line</string>
+	</dict>
+	<dict>
+		<key>EndPoint</key>
+		<string>{0.93291309539932321, 0.79498278536884781}</string>
+		<key>StartPoint</key>
+		<string>{0.89978232055946206, 0.83194798678914672}</string>
+		<key>Type</key>
+		<string>line</string>
+	</dict>
+	<dict>
+		<key>EndPoint</key>
+		<string>{0.92549712272331297, 0.89813119008977182}</string>
+		<key>StartPoint</key>
+		<string>{0.91589520945675817, 0.88484848240548308}</string>
+		<key>Type</key>
+		<string>line</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.42288189081698813</real>
+		<key>Frame</key>
+		<string>{{0.74748707622539512, 0.87784891583130908}, {0.21493924436326403, 0.06560556578971706}}</string>
+		<key>Text</key>
+		<string>&lt;p class="right"&gt;deutlicher Überaugen-streif &lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.22736417112566656</real>
+		<key>Frame</key>
+		<string>{{0.90521330412968348, 0.69349817186638962}, {0.067290596105490028, 0.12202188925334145}}</string>
+		<key>Text</key>
+		<string>&lt;p class="right"&gt;helle Wangen diffus umrandet&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.34194658128205568</real>
+		<key>Frame</key>
+		<string>{{0.5847309636508089, 0.81059597881262913}, {0.12341776809585264, 0.081133742016825799}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;(zum Vergleich: Abbildung zeigt kurzflügeliges ♀)&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.84619767161560533</real>
+		<key>Frame</key>
+		<string>{{0.58511113250072311, 0.89840165257492055}, {0.13600644009768462, 0.032785963185534041}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;Fitis&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.64141414141410003</real>
+		<key>Frame</key>
+		<string>{{0.51183258076471783, 0.95674650133514516}, {0.46181111634977923, 0.04325349866485495}}</string>
+		<key>Text</key>
+		<string>&lt;p class="right"&gt;Zweigsänger &lt;b&gt;&lt;/b&gt;&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.25910274850646337</real>
+		<key>Frame</key>
+		<string>{{0.34509786525398778, 0.50083714924652312}, {0.19515334295669057, 0.10707491861508291}}</string>
+		<key>Text</key>
+		<string>&lt;p class="center"&gt;alle Arten der Zilpzalp-Gruppe schlagen den Schwanz abwärts&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.16848969166914238</real>
+		<key>Frame</key>
+		<string>{{0.085569263711583646, 0.033879318078853082}, {0.23825431057137839, 0.16465936541537904}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;Bestimmung der Unterarten aufgrund gewisser Variation z. B. im Gelbanteil der Unterseite auch bei Vögeln Mittel- und W-Europas schwierig oder unmöglich&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.31794045433241425</real>
+		<key>Frame</key>
+		<string>{{0.38438197974526811, 0.051493183323549303}, {0.12745059514377532, 0.087259753614956706}}</string>
+		<key>Text</key>
+		<string>&lt;p class="right"&gt;&lt;b&gt;&lt;i&gt;collybita&lt;/i&gt;&lt;/b&gt;&lt;/p&gt;&lt;p class="right"&gt;(W- und Mitteleuropa)&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.2018222890861309</real>
+		<key>Frame</key>
+		<string>{{0.47458840260184076, 0.16824395875542303}, {0.10427488454828746, 0.137464528000839}}</string>
+		<key>Text</key>
+		<string>&lt;p class="center"&gt;große Über-schneidungen zwischen diesen Taxa&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>EndPoint</key>
+		<string>{0.46326701610276255, 0.26403370682347183}</string>
+		<key>StartPoint</key>
+		<string>{0.49423907592541805, 0.26403516665713544}</string>
+		<key>Type</key>
+		<string>line</string>
+	</dict>
+	<dict>
+		<key>EndPoint</key>
+		<string>{0.68354472802033017, 0.263510881824842}</string>
+		<key>StartPoint</key>
+		<string>{0.68363541474540668, 0.20045217991745984}</string>
+		<key>Type</key>
+		<string>line</string>
+	</dict>
+	<dict>
+		<key>EndPoint</key>
+		<string>{0.66210106906173538, 0.23241344972883021}</string>
+		<key>StartPoint</key>
+		<string>{0.66164737831162679, 0.27029614632659316}</string>
+		<key>Type</key>
+		<string>line</string>
+	</dict>
+	<dict>
+		<key>EndPoint</key>
+		<string>{0.70538585491441974, 0.27450937025161115}</string>
+		<key>StartPoint</key>
+		<string>{0.66231114123628521, 0.25439122033707945}</string>
+		<key>Type</key>
+		<string>line</string>
+	</dict>
+	<dict>
+		<key>EndPoint</key>
+		<string>{0.70604985044490187, 0.25323398485493753}</string>
+		<key>StartPoint</key>
+		<string>{0.70453957063992578, 0.29372373218920272}</string>
+		<key>Type</key>
+		<string>line</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.68050904219678832</real>
+		<key>Frame</key>
+		<string>{{0.70628025336469791, 0.091949593054922035}, {0.042258823761826311, 0.040768607011765573}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;dunkel&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>EndPoint</key>
+		<string>{0.77298533880410969, 0.13609824863890305}</string>
+		<key>StartPoint</key>
+		<string>{0.75036224957313413, 0.12214942450208756}</string>
+		<key>Type</key>
+		<string>line</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.19352380952377593</real>
+		<key>Frame</key>
+		<string>{{0.59839950746238135, 0.053802410204668506}, {0.10593931325551388, 0.14335913383239474}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;Handschwingenprojektion kurz, wie Hälfte oder Zweidrittel der Schirmfederlänge&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>EndPoint</key>
+		<string>{0.68162236034977552, 0.38296626119719834}</string>
+		<key>StartPoint</key>
+		<string>{0.68175765752627415, 0.29658451666254981}</string>
+		<key>Type</key>
+		<string>line</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.28660760860077511</real>
+		<key>Frame</key>
+		<string>{{0.59352744479893038, 0.37259444807109132}, {0.15656064483024509, 0.096799264488189277}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;Handschwingenspitzen (im Gegensatz zum Fitis) gleichmäßig gestuft&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>EndPoint</key>
+		<string>{0.88643769370836989, 0.2129447020094436}</string>
+		<key>StartPoint</key>
+		<string>{0.8510246315174147, 0.27872606456221694}</string>
+		<key>Type</key>
+		<string>line</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.3249014536313492</real>
+		<key>Frame</key>
+		<string>{{0.8659597097156132, 0.14189318463194384}, {0.08215733057846844, 0.085390217246467087}}</string>
+		<key>Text</key>
+		<string>&lt;p class="right"&gt;Flanken düsterer als bei Fitis&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.37995512341060556</real>
+		<key>Frame</key>
+		<string>{{0.80681405348714552, 0.048805317952191334}, {0.12745059514377532, 0.073017585498623305}}</string>
+		<key>Text</key>
+		<string>&lt;p class="right"&gt;&lt;b&gt;&lt;i&gt;abietinus&lt;/i&gt;&lt;/b&gt;&lt;/p&gt;&lt;p class="right"&gt;(N- u. NO-Europa)&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.19695874050620632</real>
+		<key>Frame</key>
+		<string>{{0.89000655013306029, 0.23173547609569067}, {0.083637146981439037, 0.14085897197540032}}</string>
+		<key>Text</key>
+		<string>&lt;p class="right"&gt;dunkle Wangen verstärken Augenring&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>EndPoint</key>
+		<string>{0.93132521664642798, 0.35121457169689041}</string>
+		<key>StartPoint</key>
+		<string>{0.89819444180656427, 0.39801011372282696}</string>
+		<key>Type</key>
+		<string>line</string>
+	</dict>
+	<dict>
+		<key>EndPoint</key>
+		<string>{0.93943588071519324, 0.44627266346565964}</string>
+		<key>StartPoint</key>
+		<string>{0.92909341654664768, 0.43313555067069043}</string>
+		<key>Type</key>
+		<string>line</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.34926593560840158</real>
+		<key>Frame</key>
+		<string>{{0.85087717958375519, 0.42099408031518371}, {0.12276651753074258, 0.079433471406097508}}</string>
+		<key>Text</key>
+		<string>&lt;p class="right"&gt;Überaugenstreif blass&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>EndPoint</key>
+		<string>{0.56174231272099395, 0.26351065913656097}</string>
+		<key>StartPoint</key>
+		<string>{0.59271437254364945, 0.26351211897022425}</string>
+		<key>Type</key>
+		<string>line</string>
+	</dict>
+</array>
+</plist>

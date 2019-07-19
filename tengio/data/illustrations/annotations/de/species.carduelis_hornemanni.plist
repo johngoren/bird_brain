@@ -1,0 +1,162 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>FontScale</key>
+		<real>0.24229062678464269</real>
+		<key>Frame</key>
+		<string>{{0.068314979096461101, 0.19984749167749777}, {0.20039704694629784, 0.14309723603357835}}</string>
+		<key>Text</key>
+		<string>&lt;p class="center"&gt;manche, vor allem Jungvögel, zeigen weniger Weiß auf dem Bürzel und sind Birkenzeisig sehr ähnlich&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.48205248911380488</real>
+		<key>Frame</key>
+		<string>{{0.47008410034134968, 0.1525648313313808}, {0.093747577926326459, 0.071923949762118869}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;&lt;b&gt;1er W&lt;/b&gt;&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.45347359237929952</real>
+		<key>Frame</key>
+		<string>{{0.60302165367024319, 0.17979759194584713}, {0.13776400058421151, 0.07645675424628838}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;Strichel angedeutet oder fehlend&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>EndPoint</key>
+		<string>{0.72945007240643334, 0.24368952323329848}</string>
+		<key>StartPoint</key>
+		<string>{0.76979282130723237, 0.26881916915096676}</string>
+		<key>Type</key>
+		<string>line</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.44079743872581989</real>
+		<key>Frame</key>
+		<string>{{0.90273407453546883, 0.14553378528546493}, {0.097265925464531222, 0.078655445707549621}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;♂&lt;b&gt; PK&lt;/b&gt;&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>EndPoint</key>
+		<string>{0.94013782152567149, 0.31002515460125918}</string>
+		<key>StartPoint</key>
+		<string>{0.92726273144281468, 0.34266854559912147}</string>
+		<key>Type</key>
+		<string>line</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.42488737238303181</real>
+		<key>Frame</key>
+		<string>{{0.89789727184310097, 0.22448878109349865}, {0.048737254923587554, 0.081600728247743698}}</string>
+		<key>Text</key>
+		<string>&lt;p class="right"&gt;hellrosa&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.37968186040403712</real>
+		<key>Frame</key>
+		<string>{{0.10342483007227511, 0.46333807409587169}, {0.13017734499466979, 0.091316237686020901}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;dünn gestrichelt oder unmarkiert&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>EndPoint</key>
+		<string>{0.12435255745420544, 0.55363334781612283}</string>
+		<key>StartPoint</key>
+		<string>{0.11328222311660711, 0.59686609863977924}</string>
+		<key>Type</key>
+		<string>line</string>
+	</dict>
+	<dict>
+		<key>EndPoint</key>
+		<string>{0.73112556823922825, 0.62566214334082426}</string>
+		<key>StartPoint</key>
+		<string>{0.72865366491790096, 0.63056487103016756}</string>
+		<key>Type</key>
+		<string>line</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.40869491106154426</real>
+		<key>Frame</key>
+		<string>{{0.75563476785220207, 0.52312533624810453}, {0.0812587562287517, 0.084833742900470382}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;dünn gestrichelt&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.44761867900944979</real>
+		<key>Frame</key>
+		<string>{{0.78599040484910587, 0.71149591896286524}, {0.10818784109410186, 0.07745681901937275}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;♀&lt;b&gt;/1er W&lt;/b&gt;&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>EndPoint</key>
+		<string>{0.79521778175877189, 0.94050126357225416}</string>
+		<key>StartPoint</key>
+		<string>{0.78054849805800086, 0.91151498781992568}</string>
+		<key>Type</key>
+		<string>line</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.43390788108847578</real>
+		<key>Frame</key>
+		<string>{{0.7982004972547132, 0.88548230519342785}, {0.092010776514394599, 0.079904331128422296}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;klein&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.29984133008169506</real>
+		<key>Frame</key>
+		<string>{{0.50845050611725551, 0.7698507509968151}, {0.11076234430084413, 0.11563155419661168}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;Bürzel rein weiß, oft so groß wie Zuckerwürfel&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>EndPoint</key>
+		<string>{0.57504305071142658, 0.78184983628397386}</string>
+		<key>StartPoint</key>
+		<string>{0.59406355906014341, 0.72895580482021394}</string>
+		<key>Type</key>
+		<string>line</string>
+	</dict>
+	<dict>
+		<key>EndPoint</key>
+		<string>{0.75209599454471987, 0.59425836107065799}</string>
+		<key>StartPoint</key>
+		<string>{0.73483285099843887, 0.64168211262731445}</string>
+		<key>Type</key>
+		<string>line</string>
+	</dict>
+</array>
+</plist>

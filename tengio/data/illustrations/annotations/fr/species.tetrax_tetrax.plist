@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>FontScale</key>
+		<real>0.30817266998965487</real>
+		<key>Frame</key>
+		<string>{{0.074887647364464752, 0.22208355956040771}, {0.16016730735403642, 0.15511872644785582}}</string>
+		<key>Text</key>
+		<string>&lt;p class="center"&gt;deux ♂♂ en parade avec les plumes du cou hérissées&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.279044218621258</real>
+		<key>Frame</key>
+		<string>{{0.34705376552096234, 0.76361011939098589}, {0.12831257693468767, 0.17131102852094313}}</string>
+		<key>Text</key>
+		<string>&lt;p class="right"&gt;bondit lors de la parade nuptiale&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.62456876012579821</real>
+		<key>Frame</key>
+		<string>{{0.49529065564426417, 0.46364591027212315}, {0.040033412977895415, 0.076538173451394298}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;♀&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.25832697686244382</real>
+		<key>Frame</key>
+		<string>{{0.68576708972743461, 0.28976409680531601}, {0.09756272024692407, 0.18504978719386853}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;cou noir acquis par les ind. de 3e année civ.&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.63682210842378417</real>
+		<key>Frame</key>
+		<string>{{0.68183567396255473, 0.60713360971713159}, {0.065896029781477863, 0.075065471915147564}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;♂&lt;b&gt; ad.&lt;/b&gt;&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.63682210842378417</real>
+		<key>Frame</key>
+		<string>{{0.93049110255648515, 0.56086932787855281}, {0.065896029781477863, 0.075065471915147564}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;♂&lt;b&gt; ad.&lt;/b&gt;&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.23639710188692417</real>
+		<key>Frame</key>
+		<string>{{0.79574929852859733, 0.12165250523559706}, {0.15574171475768278, 0.20221632039167892}}</string>
+		<key>Text</key>
+		<string>&lt;p class="center"&gt;impossible à confondre en raison de sa taille de perdrix et de l’étendue du blanc à l’aile&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+</array>
+</plist>

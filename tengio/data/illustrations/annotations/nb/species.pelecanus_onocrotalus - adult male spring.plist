@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>FontScale</key>
+		<real>0.37629629629630046</real>
+		<key>Frame</key>
+		<string>{{0.47018609688365975, 0.60551344635168969}, {0.18493502366374115, 0.14753514614458288}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;﻿hengetopp&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>EndPoint</key>
+		<string>{0.55578234998971066, 0.75232840061350481}</string>
+		<key>StartPoint</key>
+		<string>{0.58980060103169663, 0.78812772240904005}</string>
+		<key>Type</key>
+		<string>line</string>
+	</dict>
+	<dict>
+		<key>EndPoint</key>
+		<string>{0.80329887242704578, 0.94451642660389501}</string>
+		<key>StartPoint</key>
+		<string>{0.76654160064294941, 0.90604800331286883}</string>
+		<key>Type</key>
+		<string>line</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.23052194151250743</real>
+		<key>Frame</key>
+		<string>{{0.76654160064294941, 0.74867718075864809}, {0.1584123027978534, 0.2408314310710756}}</string>
+		<key>Text</key>
+		<string>&lt;p class="right"&gt;﻿rosa hud, plirende øyne&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.17689902245662462</real>
+		<key>Frame</key>
+		<string>{{0.79334377798552136, 0.016936211553160298}, {0.16836739723937946, 0.31383400708928522}}</string>
+		<key>Text</key>
+		<string>&lt;p class="right"&gt;﻿strupesekk guloker i &lt;i&gt;alle&lt;/i&gt; aldre&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>EndPoint</key>
+		<string>{0.88234626460514942, 0.335379681915146}</string>
+		<key>StartPoint</key>
+		<string>{0.88713024079676428, 0.44262549954263941}</string>
+		<key>Type</key>
+		<string>line</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.39980001237771035</real>
+		<key>Frame</key>
+		<string>{{0.38007972924625683, 0.01872599258116895}, {0.2802741973537437, 0.1388617492469971}}</string>
+		<key>Text</key>
+		<string>&lt;p class="right"&gt;&lt;b&gt;ad. &lt;/b&gt;♂&lt;b&gt; vår&lt;/b&gt;&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+</array>
+</plist>

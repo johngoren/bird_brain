@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>FontScale</key>
+		<real>0.38493941758255767</real>
+		<key>Frame</key>
+		<string>{{0.24099384923760472, 0.74792057859575711}, {0.15634948708531929, 0.074622304450757321}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;impossible à confondre dans son habitat&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.62666700665527697</real>
+		<key>Frame</key>
+		<string>{{0.35587218999912462, 0.092192610200397082}, {0.047022400802210158, 0.045837847068505695}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;&lt;b&gt;juv.&lt;/b&gt;&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.1889891845102461</real>
+		<key>Frame</key>
+		<string>{{0.15465549421388175, 0.22136122826669005}, {0.065173775745724957, 0.15199317616181096}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;calotte et poitrine unies&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>EndPoint</key>
+		<string>{0.81042207726471271, 0.37606858393217918}</string>
+		<key>StartPoint</key>
+		<string>{0.78971891217000012, 0.39159029796884737}</string>
+		<key>Type</key>
+		<string>line</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.48705656759348737</real>
+		<key>Frame</key>
+		<string>{{0.75556260811197007, 0.34867233456690228}, {0.064263949578928017, 0.058976858798704609}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;pâle&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.2487934440541813</real>
+		<key>Frame</key>
+		<string>{{0.91347950860165239, 0.10581921705338983}, {0.068995898481653412, 0.11545748933676561}}</string>
+		<key>Text</key>
+		<string>&lt;p class="right"&gt;&lt;b&gt;&lt;i&gt;lilith&lt;/i&gt;&lt;/b&gt;&lt;/p&gt;&lt;p class="right"&gt;(Chypre, Moyen-Orient)&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.29097845669332384</real>
+		<key>Frame</key>
+		<string>{{0.76508227165374376, 0.70483297897484298}, {0.081128072155012165, 0.098718876786873438}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;vol ondulant&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.23525775404630073</real>
+		<key>Frame</key>
+		<string>{{0.67693070232637031, 0.87718337745850028}, {0.15562175943329329, 0.12210040230295446}}</string>
+		<key>Text</key>
+		<string>&lt;p class="center"&gt;souvent perchée à découvert en plein jour&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.31322569961273383</real>
+		<key>Frame</key>
+		<string>{{0.37766992520841763, 0.87684410502054155}, {0.063369864386663144, 0.091707246402379969}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;« fausse face » sur la nuque&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>EndPoint</key>
+		<string>{0.45304114853582317, 0.89880259271897966}</string>
+		<key>StartPoint</key>
+		<string>{0.43239743927168806, 0.89880259271897966}</string>
+		<key>Type</key>
+		<string>line</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.1744206008583635</real>
+		<key>Frame</key>
+		<string>{{0.68888222953464584, 0.46854859597942139}, {0.1348628616671616, 0.16468849592639992}}</string>
+		<key>Text</key>
+		<string>&lt;p class="center"&gt;couleur de fond variable, tendant à être plus pâle vers le sud et l’est (mais forte variation au sein même des races)&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.20648576267181298</real>
+		<key>Frame</key>
+		<string>{{0.59568644086683253, 0.11437027864331537}, {0.1111589055636225, 0.13911402918175161}}</string>
+		<key>Text</key>
+		<string>&lt;p class="right"&gt;&lt;b&gt;&lt;i&gt;noctua&lt;/i&gt; &lt;/b&gt;et al.&lt;/p&gt;&lt;p class="right"&gt;(Europe, sauf du S.-E.)&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+</array>
+</plist>

@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>FontScale</key>
+		<real>0.548061443940975</real>
+		<key>Frame</key>
+		<string>{{0.68905836886636773, 0.57670588346945462}, {0.029909279905977946, 0.06384808572055313}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;♀&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.10847394786345091</real>
+		<key>Frame</key>
+		<string>{{0.020327286659523894, 0.31588402340250521}, {0.14454514478792807, 0.3225905827353398}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;compared with Quail, bigger and chunkier; &lt;br/&gt;can also be mis­-&lt;br/&gt;taken for a &lt;br/&gt;Pheasant&lt;br/&gt;chick&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.63964498870255937</real>
+		<key>Frame</key>
+		<string>{{0.055486891465075058, 0.089888424270756648}, {0.052129854051578432, 0.054706399129072839}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;&lt;b&gt;juv.&lt;/b&gt;&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.6392477602040566</real>
+		<key>Frame</key>
+		<string>{{0.35024321168819555, 0.10638663855504482}, {0.048513920628665524, 0.054740393680383581}}</string>
+		<key>Text</key>
+		<string>&lt;p class="right"&gt;&lt;b&gt;ad.&lt;/b&gt; ♂ &lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.34908873968290405</real>
+		<key>Frame</key>
+		<string>{{0.53391100874560027, 0.23696974229501946}, {0.093888430104890841, 0.10024005381743109}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;dark brown belly patch&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>EndPoint</key>
+		<string>{0.55720842226459577, 0.34336791817911466}</string>
+		<key>StartPoint</key>
+		<string>{0.53753074142217749, 0.36470347978100481}</string>
+		<key>Type</key>
+		<string>line</string>
+	</dict>
+	<dict>
+		<key>EndPoint</key>
+		<string>{0.59593590602094026, 0.80830281337713417}</string>
+		<key>StartPoint</key>
+		<string>{0.56851867612822626, 0.83026254855666226}</string>
+		<key>Type</key>
+		<string>line</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.54856836736402392</real>
+		<key>Frame</key>
+		<string>{{0.60046134781490823, 0.76041076263918295}, {0.099770220615132216, 0.063789084706105101}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;orange-&lt;/p&gt;&lt;p&gt;brown&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.24812422949704091</real>
+		<key>Frame</key>
+		<string>{{0.53335410714191245, 0.065275608844594213}, {0.26943112916654866, 0.14102884721820694}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;(♀ is similar, only &lt;br/&gt;somewhat duller and has diffuse supercilium and smaller, or no, belly patch)&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.63999687501525859</real>
+		<key>Frame</key>
+		<string>{{0.10804666702139908, 0.87200160022241624}, {0.30569269559350376, 0.054676320180530903}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;hardy, will endure much snow and cold weather&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+</array>
+</plist>

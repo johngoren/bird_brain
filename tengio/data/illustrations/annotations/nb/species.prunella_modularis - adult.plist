@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>FontScale</key>
+		<real>0.55999874674759709</real>
+		<key>Frame</key>
+		<string>{{0.15896115537999525, 0.06783450427528076}, {0.14791105094458371, 0.096146346399253055}}</string>
+		<key>Text</key>
+		<string>&lt;p class="right"&gt;&lt;b&gt;ad.&lt;/b&gt;&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.1178495549202434</real>
+		<key>Frame</key>
+		<string>{{0.70614707940476873, 0.1001806002709232}, {0.28018815490269622, 0.45686921367145078}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;﻿kjønnene svært like (♂ ﻿har i snitt en anelse mer blygrått på hode og hals enn ♀, ﻿men mange er helt like)&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.48820387517785541</real>
+		<key>Frame</key>
+		<string>{{0.71801991769727214, 0.58109325793653233}, {0.19385484634571548, 0.1102855512327246}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;﻿blygrå&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>EndPoint</key>
+		<string>{0.72767018269068251, 0.70521671443431067}</string>
+		<key>StartPoint</key>
+		<string>{0.67191624666564376, 0.75257153121795084}</string>
+		<key>Type</key>
+		<string>line</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.23038996543705237</real>
+		<key>Frame</key>
+		<string>{{0.8165182949704316, 0.62452248810316957}, {0.16251650190925859, 0.23369869163269974}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;﻿tynt «sangernebb»&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>EndPoint</key>
+		<string>{0.80690184864179471, 0.83759368708862258}</string>
+		<key>StartPoint</key>
+		<string>{0.75110385323136764, 0.87973929106323379}</string>
+		<key>Type</key>
+		<string>line</string>
+	</dict>
+	<dict>
+		<key>EndPoint</key>
+		<string>{0.35610609129307241, 0.72076746434671779}</string>
+		<key>StartPoint</key>
+		<string>{0.42125387147728893, 0.67569361226328473}</string>
+		<key>Type</key>
+		<string>line</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.3527777877462267</real>
+		<key>Frame</key>
+		<string>{{0.1988234003103424, 0.67683074072190663}, {0.23473125496860447, 0.15262251581064276}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;﻿gråspurvlignende tegnet kropp&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+</array>
+</plist>

@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>FontScale</key>
+		<real>0.61935093654903894</real>
+		<key>Frame</key>
+		<string>{{0.87314363665618167, 0.88838524143746889}, {0.072500479855382605, 0.058618192016539256}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;&lt;b&gt;ad.&lt;/b&gt;&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.54475781983824301</real>
+		<key>Frame</key>
+		<string>{{0.0024359987927803886, 0.83194388977786304}, {0.41920354770015122, 0.066644719547183803}}</string>
+		<key>Text</key>
+		<string>&lt;p class="center"&gt;﻿kan være overraskende vanskelige å oppdage blant måkefugler&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.56470263842694191</real>
+		<key>Frame</key>
+		<string>{{0.038611862590145214, 0.13052690854571816}, {0.071170374689738192, 0.064290884535953802}}</string>
+		<key>Text</key>
+		<string>&lt;p class="right"&gt;&lt;b&gt;juv.&lt;/b&gt;&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.61935093654903894</real>
+		<key>Frame</key>
+		<string>{{0.60222659617150609, 0.047669774118090952}, {0.065106192723895673, 0.058618192016539256}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;&lt;b&gt;ad. &lt;/b&gt;♀&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.22068866429299436</real>
+		<key>Frame</key>
+		<string>{{0.89953156247046617, 0.37905262425057684}, {0.07964907302236858, 0.16450882169486888}}</string>
+		<key>Text</key>
+		<string>&lt;p class="right"&gt;﻿unikt med tynt, svart oppadbøyd nebb&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.61935093654903894</real>
+		<key>Frame</key>
+		<string>{{0.87949575534015478, 0.051853384851159187}, {0.06325762094102394, 0.058618192016539256}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;&lt;b&gt;ad. &lt;/b&gt;♂&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>EndPoint</key>
+		<string>{0.95732054189847504, 0.54672591771980372}</string>
+		<key>StartPoint</key>
+		<string>{0.95591478740696145, 0.59394332013480844}</string>
+		<key>Type</key>
+		<string>line</string>
+	</dict>
+</array>
+</plist>

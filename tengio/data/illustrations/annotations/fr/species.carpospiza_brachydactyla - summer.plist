@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>EndPoint</key>
+		<string>{0.74979104673711194, 0.91956504125770988}</string>
+		<key>StartPoint</key>
+		<string>{0.71345445878289548, 0.87245378529131501}</string>
+		<key>Type</key>
+		<string>line</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.2848483092347367</real>
+		<key>Frame</key>
+		<string>{{0.76560609102386412, 0.73798166435172741}, {0.23439390897613585, 0.20936379304134223}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;bec fort à culmen arqué&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.34814790548682467</real>
+		<key>Frame</key>
+		<string>{{0.66207867156595901, 0.16768885676277331}, {0.22358005908020256, 0.17129766263969259}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;&lt;b&gt;été&lt;/b&gt;&lt;/p&gt;&lt;p&gt;(plum. usé)&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.19677693299697782</real>
+		<key>Frame</key>
+		<string>{{0.074867395322086805, 0.64814845921821784}, {0.35531664368044985, 0.30306866538931981}}</string>
+		<key>Text</key>
+		<string>&lt;p class="center"&gt;sexes et classes d’âge semblables ; aspect anonyme avec motif facial flou&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+</array>
+</plist>

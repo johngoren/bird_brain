@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>EndPoint</key>
+		<string>{0.072783524520468518, 0.35921652587383307}</string>
+		<key>StartPoint</key>
+		<string>{0.0762988147218637, 0.44684098856457627}</string>
+		<key>Type</key>
+		<string>line</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.26797769578545239</real>
+		<key>Frame</key>
+		<string>{{0.079040735000149492, 0.68092693828855522}, {0.39337984910643264, 0.23769327059766665}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;helle Oberseitenstreifen undeutlicher als bei Bekassine &lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.6742849303793127</real>
+		<key>Frame</key>
+		<string>{{0.0039790001477595866, 0.25657819036265711}, {0.11113956292575902, 0.094465250650995369}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;kurz&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>EndPoint</key>
+		<string>{0.36932798857639404, 0.79403874234267602}</string>
+		<key>StartPoint</key>
+		<string>{0.39364304101392611, 0.72051074379521096}</string>
+		<key>Type</key>
+		<string>line</string>
+	</dict>
+	<dict>
+		<key>EndPoint</key>
+		<string>{0.82127920299737145, 0.82169245731702034}</string>
+		<key>StartPoint</key>
+		<string>{0.7975186776728328, 0.7319393615658577}</string>
+		<key>Type</key>
+		<string>line</string>
+	</dict>
+	<dict>
+		<key>EndPoint</key>
+		<string>{0.52566567845054413, 0.46001028276980427}</string>
+		<key>StartPoint</key>
+		<string>{0.57528884838686145, 0.32243059502873}</string>
+		<key>Type</key>
+		<string>line</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.53441250160173248</real>
+		<key>Frame</key>
+		<string>{{0.55205467075641357, 0.18462106101819087}, {0.26973030084489175, 0.11918975466996116}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;Fleckenbänder&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.36178751828645511</real>
+		<key>Frame</key>
+		<string>{{0.78001447168022764, 0.71174331861872631}, {0.16908801254097133, 0.17606050993731992}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;recht kurz&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+</array>
+</plist>

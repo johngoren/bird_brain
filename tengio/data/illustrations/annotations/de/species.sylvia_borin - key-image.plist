@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>FontScale</key>
+		<real>0.19978369875135005</real>
+		<key>Frame</key>
+		<string>{{0.69058804413667363, 0.075763721610889331}, {0.2563505981546505, 0.24038322554476899}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;Gesamteindruck nichtssagend und merkmalslos – ein gutes Kennzeichen!&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>EndPoint</key>
+		<string>{0.68559460456989996, 0.79479650619326403}</string>
+		<key>StartPoint</key>
+		<string>{0.73699081698867874, 0.66039836372573868}</string>
+		<key>Type</key>
+		<string>line</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.41741988496301496</real>
+		<key>Frame</key>
+		<string>{{0.61550726296990876, 0.74921560505866025}, {0.15769499800513068, 0.11505117903371838}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;Halsseiten grau&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>EndPoint</key>
+		<string>{0.88612034277395457, 0.83368538897854438}</string>
+		<key>StartPoint</key>
+		<string>{0.85964248210377847, 0.77302588221052615}</string>
+		<key>Type</key>
+		<string>line</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.25297738318959057</real>
+		<key>Frame</key>
+		<string>{{0.74711205362946209, 0.80335563559453438}, {0.22330629744335265, 0.18983772111012201}}</string>
+		<key>Text</key>
+		<string>&lt;p class="right"&gt;kurzer Schnabel, „milder“ Gesichtsausdruck&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+</array>
+</plist>

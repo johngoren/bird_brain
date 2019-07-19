@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>EndPoint</key>
+		<string>{0.64691395880805169, 0.30446964431099877}</string>
+		<key>StartPoint</key>
+		<string>{0.5877900283956029, 0.24584785762811093}</string>
+		<key>Type</key>
+		<string>line</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.61287547226274652</real>
+		<key>Frame</key>
+		<string>{{0.094890243690648482, 0.19568205918311926}, {0.48605776642733439, 0.069943212727700821}}</string>
+		<key>Text</key>
+		<string>&lt;p class="right"&gt;stretched neck when worried&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.66635033824546186</real>
+		<key>Frame</key>
+		<string>{{0.051085508483109714, 0}, {0.1311708967516107, 0.064330243524649888}}</string>
+		<key>Text</key>
+		<string>&lt;p class="right"&gt;&lt;b&gt;ad. &lt;/b&gt;♂&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.65535344646553495</real>
+		<key>Frame</key>
+		<string>{{0.62157344047797292, 0.79451894774251774}, {0.18750888695883494, 0.06540971099374196}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;compact&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>EndPoint</key>
+		<string>{0.65284021373220236, 0.86161828561827136}</string>
+		<key>StartPoint</key>
+		<string>{0.62240830902753264, 0.90340153666902623}</string>
+		<key>Type</key>
+		<string>line</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.66666214557464221</real>
+		<key>Frame</key>
+		<string>{{0.60707932995243674, 0.64475166963296671}, {0.13733056744934649, 0.064300155358474428}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;&lt;b&gt;ad. &lt;/b&gt;♂&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>EndPoint</key>
+		<string>{0.343464667305444, 0.9413445024457846}</string>
+		<key>StartPoint</key>
+		<string>{0.27700553467642508, 0.96615305556080577}</string>
+		<key>Type</key>
+		<string>line</string>
+	</dict>
+</array>
+</plist>

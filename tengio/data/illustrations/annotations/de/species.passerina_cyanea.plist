@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>FontScale</key>
+		<real>0.54918918918916915</real>
+		<key>Frame</key>
+		<string>{{0.76471706384479166, 0.013510840107653462}, {0.23528293615520837, 0.076204433534014182}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;♂&lt;b&gt; 1er W&lt;/b&gt;&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.72159090909091517</real>
+		<key>Frame</key>
+		<string>{{0.86275359411456032, 0.79866365502212866}, {0.10115753714450065, 0.0579977526572363}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;hell&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>EndPoint</key>
+		<string>{0.88822734434970085, 0.86883320929024888}</string>
+		<key>StartPoint</key>
+		<string>{0.87266530783296392, 0.90508180470102595}</string>
+		<key>Type</key>
+		<string>line</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.54273504273503403</real>
+		<key>Frame</key>
+		<string>{{0.58193387130272134, 0.87799864906889613}, {0.15279090398253581, 0.077110648419281974}}</string>
+		<key>Text</key>
+		<string>&lt;p class="center"&gt;♂&lt;b&gt; PK&lt;/b&gt;&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>EndPoint</key>
+		<string>{0.17851683693210002, 0.65605838534929983}</string>
+		<key>StartPoint</key>
+		<string>{0.21105564055800613, 0.60992380937195079}</string>
+		<key>Type</key>
+		<string>line</string>
+	</dict>
+	<dict>
+		<key>EndPoint</key>
+		<string>{0.21891400128495786, 0.72543536794507268}</string>
+		<key>StartPoint</key>
+		<string>{0.26418538024274468, 0.66447182111786085}</string>
+		<key>Type</key>
+		<string>line</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.3358677685950518</real>
+		<key>Frame</key>
+		<string>{{0.11845410743004597, 0.67405910829760052}, {0.16163854142377518, 0.1246045467245283}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;rostbeige Flügel-binden&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.46384765450613696</real>
+		<key>Frame</key>
+		<string>{{0.077157995923380587, 0.79866365502212866}, {0.24423076443710925, 0.090224992319351008}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;recht unscheinbar&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.54918918918916915</real>
+		<key>Frame</key>
+		<string>{{0.44894919561421659, 0.49924201861200879}, {0.23528293615520837, 0.076204433534014182}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;♀&lt;b&gt;/ 1er W&lt;/b&gt;&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.19404125286477902</real>
+		<key>Frame</key>
+		<string>{{0.076529973804921311, 0.057544645214601571}, {0.32821749744396694, 0.21567914269410293}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;Jungvögel beider Geschlechter können im Herbst wie ♀ aussehen; Blau im Gefieder kennzeichnend für ♂&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+</array>
+</plist>

@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>EndPoint</key>
+		<string>{0.18398106505817544, 0.53012240663425025}</string>
+		<key>StartPoint</key>
+		<string>{0.15174874723601095, 0.47345174347884389}</string>
+		<key>Type</key>
+		<string>line</string>
+	</dict>
+	<dict>
+		<key>EndPoint</key>
+		<string>{0.82700903690260408, 0.60529362817148069}</string>
+		<key>StartPoint</key>
+		<string>{0.79128015953544906, 0.57638131058122266}</string>
+		<key>Type</key>
+		<string>line</string>
+	</dict>
+	<dict>
+		<key>EndPoint</key>
+		<string>{0.40512757389589793, 0.50278172973747326}</string>
+		<key>StartPoint</key>
+		<string>{0.37922942620164152, 0.45441022138049453}</string>
+		<key>Type</key>
+		<string>line</string>
+	</dict>
+	<dict>
+		<key>EndPoint</key>
+		<string>{0.77213286276839588, 0.82308063303114387}</string>
+		<key>StartPoint</key>
+		<string>{0.72821688239990467, 0.78779173640811762}</string>
+		<key>Type</key>
+		<string>line</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.54492541532935079</real>
+		<key>Frame</key>
+		<string>{{0.41015304207227449, 0.43773843527768769}, {0.1538854335804111, 0.11910168586468774}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;platt rygg&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.29971965309547838</real>
+		<key>Frame</key>
+		<string>{{0.83429137937103404, 0.49429772253194065}, {0.088402222733751756, 0.21654080727087277}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;blågrå ton&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.63728448764865897</real>
+		<key>Frame</key>
+		<string>{{0.18899097217541208, 0.46745173048190436}, {0.18187201549259549, 0.10184075855306504}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;hög ”akter”&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.73003260135009684</real>
+		<key>Frame</key>
+		<string>{{0.71233798669646986, 0.056095015901207662}, {0.1891915191214924, 0.088902242880953802}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;&lt;b&gt;ad. häckande&lt;/b&gt;&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.28504777908101236</real>
+		<key>Frame</key>
+		<string>{{0.86523930378379199, 0.73208476525975408}, {0.12622213970664475, 0.22768651573249205}}</string>
+		<key>Text</key>
+		<string>&lt;p class="right"&gt;saknar vit bak­kant&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+</array>
+</plist>

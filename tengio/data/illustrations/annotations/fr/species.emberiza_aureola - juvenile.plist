@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>EndPoint</key>
+		<string>{0.10656173155083799, 0.13298283644703218}</string>
+		<key>StartPoint</key>
+		<string>{0.10981290513121283, 0.2107482784284786}</string>
+		<key>Type</key>
+		<string>line</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.54628507918866354</real>
+		<key>Frame</key>
+		<string>{{0, 0.00070739309130892023}, {0.19750873732590907, 0.11847223690045551}}</string>
+		<key>Text</key>
+		<string>&lt;p class="center"&gt;blanche&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.63022454442004749</real>
+		<key>Frame</key>
+		<string>{{0.385677414190919, 0.07322943757921313}, {0.19030246359652889, 0.10269294633134365}}</string>
+		<key>Text</key>
+		<string>&lt;p class="center"&gt;&lt;b&gt;juv.&lt;/b&gt;&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>EndPoint</key>
+		<string>{0.40033875639503136, 0.64010552398160447}</string>
+		<key>StartPoint</key>
+		<string>{0.45122972736714834, 0.57398472669863498}</string>
+		<key>Type</key>
+		<string>line</string>
+	</dict>
+	<dict>
+		<key>EndPoint</key>
+		<string>{0.48414353208569055, 0.72811337873238535}</string>
+		<key>StartPoint</key>
+		<string>{0.53536792217565166, 0.66155904730925286}</string>
+		<key>Type</key>
+		<string>line</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.31363046639457698</real>
+		<key>Frame</key>
+		<string>{{0.28004806643237101, 0.61293664074299525}, {0.26187452909148545, 0.2063562767381151}}</string>
+		<key>Text</key>
+		<string>&lt;p class="center"&gt;deux barres alaires blanches&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+</array>
+</plist>

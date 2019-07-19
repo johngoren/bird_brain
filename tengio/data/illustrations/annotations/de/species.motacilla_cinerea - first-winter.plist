@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>EndPoint</key>
+		<string>{0.92573759635394204, 0.77830555683774472}</string>
+		<key>StartPoint</key>
+		<string>{0.9214647549358711, 0.8545018507789911}</string>
+		<key>Type</key>
+		<string>line</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.62666500922747426</real>
+		<key>Frame</key>
+		<string>{{0.90420412815676232, 0.66541905391455469}, {0.07758786738349685, 0.10914561806379915}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;rosa&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.64827649878988913</real>
+		<key>Frame</key>
+		<string>{{0.79350099474328561, 0.30026721679186791}, {0.15368417526413791, 0.10550704811722204}}</string>
+		<key>Text</key>
+		<string>&lt;p class="center"&gt;&lt;b&gt;1er W&lt;/b&gt;&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.63967663983838563</real>
+		<key>Frame</key>
+		<string>{{0.38976238475700714, 0.76870632435004194}, {0.18289716164753683, 0.10692549249315994}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;gelblich grün&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>EndPoint</key>
+		<string>{0.40077102568887379, 0.48725841139596793}</string>
+		<key>StartPoint</key>
+		<string>{0.40623630828962459, 0.57799296511125997}</string>
+		<key>Type</key>
+		<string>line</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.39166656706070907</real>
+		<key>Frame</key>
+		<string>{{0.32623913448650571, 0.29635874258816963}, {0.11975522868788765, 0.17463257143540487}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;hellgelb&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.18137544199939595</real>
+		<key>Frame</key>
+		<string>{{0.03506687894915464, 0.17814315564961103}, {0.2911722555373506, 0.37710584739094316}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;sehr langer Schwanz; wippt häufig mit Schwanz und ganzem Hinterkörper&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>EndPoint</key>
+		<string>{0.14726918491440094, 0.56005406870841734}</string>
+		<key>StartPoint</key>
+		<string>{0.15492106108528689, 0.6580008947770154}</string>
+		<key>Type</key>
+		<string>line</string>
+	</dict>
+	<dict>
+		<key>EndPoint</key>
+		<string>{0.42141455431319941, 0.80723949351100543}</string>
+		<key>StartPoint</key>
+		<string>{0.4188312670901963, 0.73017315518907333}</string>
+		<key>Type</key>
+		<string>line</string>
+	</dict>
+</array>
+</plist>

@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>FontScale</key>
+		<real>0.24736835814360511</real>
+		<key>Frame</key>
+		<string>{{0.12247460047344159, 0.36265436093712639}, {0.20281003886172838, 0.15110399862227897}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;commun à la fois en milieu urbain et près des habitations à la campagne&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.29489415890338594</real>
+		<key>Frame</key>
+		<string>{{0.12589122072171188, 0.18142570430694349}, {0.0799835236917531, 0.12675174098776473}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;grisâtre, paraît sale&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.55294142462401852</real>
+		<key>Frame</key>
+		<string>{{0.48243904127235843, 0.27437789042002519}, {0.049847835438811182, 0.067599109749360398}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;♀&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.52222070231310813</real>
+		<key>Frame</key>
+		<string>{{0.71516824021099645, 0.61168164315075457}, {0.073679749399829547, 0.071575768410873458}}</string>
+		<key>Text</key>
+		<string>&lt;p class="right"&gt;gris pâle&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>EndPoint</key>
+		<string>{0.79493166371140878, 0.6675332026331301}</string>
+		<key>StartPoint</key>
+		<string>{0.8493746861993724, 0.61695965931655072}</string>
+		<key>Type</key>
+		<string>line</string>
+	</dict>
+	<dict>
+		<key>EndPoint</key>
+		<string>{0.87389893180027367, 0.74043859711651505}</string>
+		<key>StartPoint</key>
+		<string>{0.88890015442813219, 0.70520186773205351}</string>
+		<key>Type</key>
+		<string>line</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.64827543000905108</real>
+		<key>Frame</key>
+		<string>{{0.83380608839829518, 0.71804298509549636}, {0.071857138773104332, 0.057658128501962266}}</string>
+		<key>Text</key>
+		<string>&lt;p class="center"&gt;gris&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.60590782316594016</real>
+		<key>Frame</key>
+		<string>{{0.85731062231247801, 0.20803584747285495}, {0.14268937768752193, 0.061689825777162637}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;♂ &lt;b&gt;nuptial&lt;/b&gt;&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.41182773063037981</real>
+		<key>Frame</key>
+		<string>{{0.57182489652265611, 0.46043073359733022}, {0.14081963865781119, 0.090762096061166461}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;♂ &lt;b&gt;internuptial&lt;/b&gt;&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+</array>
+</plist>

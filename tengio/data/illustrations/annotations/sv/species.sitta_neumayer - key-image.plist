@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>FontScale</key>
+		<real>0.2535145986122454</real>
+		<key>Frame</key>
+		<string>{{0.025126000115946696, 0.079791910304478145}, {0.58284706329563518, 0.21288922269442478}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;den avbildade fågeln är från &lt;/p&gt;&lt;p&gt;kontaktzonen med östliga klipp-&lt;/p&gt;&lt;p&gt;nötväckan; andra populationer har såväl grövre näbb som något bredare ögonstreck än som visas&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.42333364913398841</real>
+		<key>Frame</key>
+		<string>{{0.83812601011391485, 0.58028125486020088}, {0.12172870602352687, 0.1274893360134666}}</string>
+		<key>Text</key>
+		<string>&lt;p class="right"&gt;lång&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>EndPoint</key>
+		<string>{0.9243794717304944, 0.71290247075963686}</string>
+		<key>StartPoint</key>
+		<string>{0.92175530865561106, 0.80460228089414576}</string>
+		<key>Type</key>
+		<string>line</string>
+	</dict>
+	<dict>
+		<key>EndPoint</key>
+		<string>{0.64147888568481493, 0.87585246128813243}</string>
+		<key>StartPoint</key>
+		<string>{0.69652301825988527, 0.81092769001432763}</string>
+		<key>Type</key>
+		<string>line</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.34701326574557162</real>
+		<key>Frame</key>
+		<string>{{0.43567057609785392, 0.83334252322810975}, {0.27835742273820663, 0.15552871076640895}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;svarta ögon­strecket smalt bakom ögat&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+</array>
+</plist>

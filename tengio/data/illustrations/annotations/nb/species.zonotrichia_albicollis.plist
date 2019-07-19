@@ -1,0 +1,164 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>EndPoint</key>
+		<string>{0.79754583466375151, 0.35418085722529419}</string>
+		<key>StartPoint</key>
+		<string>{0.87627801007229467, 0.39866981003078095}</string>
+		<key>Type</key>
+		<string>line</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.28830874006811613</real>
+		<key>Frame</key>
+		<string>{{0.80204481611566625, 0.36670097235908294}, {0.1330948679525327, 0.10708952847440023}}</string>
+		<key>Text</key>
+		<string>&lt;p class="right"&gt;﻿gult foran øyet&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>EndPoint</key>
+		<string>{0.71756419839194951, 0.3662012788282753}</string>
+		<key>StartPoint</key>
+		<string>{0.65923117292601174, 0.39677052072044289}</string>
+		<key>Type</key>
+		<string>line</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.42996191282267132</real>
+		<key>Frame</key>
+		<string>{{0.57072218646295902, 0.37542250887218193}, {0.18445823952858043, 0.071808330245466775}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;﻿«hvitbrynet» variant&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.24411340701585293</real>
+		<key>Frame</key>
+		<string>{{0.076958972115107951, 0.026348327945539082}, {0.37004122442014087, 0.12647747375439292}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;﻿finner føden primært på bakken som en jernspurv, men slår seg iblant sammen med gråspurver&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.57304004512126794</real>
+		<key>Frame</key>
+		<string>{{0.80191772822109697, 0.070989223895852618}, {0.15871618407462978, 0.05387903915582231}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;&lt;b&gt;adult&lt;/b&gt;&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>EndPoint</key>
+		<string>{0.47982852026714379, 0.49317844611347345}</string>
+		<key>StartPoint</key>
+		<string>{0.44325130153203152, 0.46434135607233751}</string>
+		<key>Type</key>
+		<string>line</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.41460499148872448</real>
+		<key>Frame</key>
+		<string>{{0.48824085984448429, 0.46552479375487399}, {0.17058638005183854, 0.074468102562104926}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;﻿streking hos juv./1. vint.&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>EndPoint</key>
+		<string>{0.18256032073486439, 0.50661193896333157}</string>
+		<key>StartPoint</key>
+		<string>{0.16506428175518964, 0.54429383888055427}</string>
+		<key>Type</key>
+		<string>line</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.48438034321146656</real>
+		<key>Frame</key>
+		<string>{{0.073584736026173395, 0.54819629157334782}, {0.24444465888746925, 0.063740916537283823}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;﻿svakere vingebånd enn hos adult&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>EndPoint</key>
+		<string>{0.43321371187587848, 0.62635575313119962}</string>
+		<key>StartPoint</key>
+		<string>{0.40788394677055484, 0.57928548571076255}</string>
+		<key>Type</key>
+		<string>line</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.31730168644597356</real>
+		<key>Frame</key>
+		<string>{{0.3472727743511006, 0.62397110518096843}, {0.15306228390082777, 0.097304389947514461}}</string>
+		<key>Text</key>
+		<string>&lt;p class="right"&gt;﻿anlegger gult under 1. høst&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.41233766233765395</real>
+		<key>Frame</key>
+		<string>{{0.077708802357096249, 0.31358164892739832}, {0.12747114113763722, 0.074877581770981347}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;&lt;b&gt;juv. &lt;/b&gt;→ &lt;/p&gt;&lt;p&gt;&lt;b&gt;1. vinter&lt;/b&gt;&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.50232517500560203</real>
+		<key>Frame</key>
+		<string>{{0.67269909937306793, 0.92978420928799732}, {0.1765850219877261, 0.061463865569944119}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;﻿«brunbrynet» variant&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>EndPoint</key>
+		<string>{0.80754382743027642, 0.91978806920546741}</string>
+		<key>StartPoint</key>
+		<string>{0.76795655801399521, 0.94306404014591427}</string>
+		<key>Type</key>
+		<string>line</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.59502196193263446</real>
+		<key>Frame</key>
+		<string>{{0.88065201981721186, 0.55547513549274063}, {0.11934798018278803, 0.051888583958584172}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;&lt;b&gt;adult&lt;/b&gt;&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.21206428720517245</real>
+		<key>Frame</key>
+		<string>{{0.36826802112671231, 0.77445559581809376}, {0.26858707649184854, 0.14559192137368951}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;﻿adulte av begge kjønn kan være enten «brunbrynete» eller «hvitbrynete»&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+</array>
+</plist>

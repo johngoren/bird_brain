@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>EndPoint</key>
+		<string>{0.92896457757066697, 0.78348527412208868}</string>
+		<key>StartPoint</key>
+		<string>{0.9246917362046847, 0.8596819168811155}</string>
+		<key>Type</key>
+		<string>line</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.62666700665527697</real>
+		<key>Frame</key>
+		<string>{{0.92241213261650312, 0.65444217315433861}, {0.07758786738349685, 0.10914527017490479}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;pink&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.64827436123173665</real>
+		<key>Frame</key>
+		<string>{{0.79672797598605472, 0.30544693454066485}, {0.18749780338833982, 0.10550739600611651}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;&lt;b&gt;1st-winter&lt;/b&gt;&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.61784448299268424</real>
+		<key>Frame</key>
+		<string>{{0.31371881692366599, 0.76202890108231158}, {0.22263960976794994, 0.11070381242183716}}</string>
+		<key>Text</key>
+		<string>&lt;p class="center"&gt;yellowish-green&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>EndPoint</key>
+		<string>{0.42464153556893253, 0.81241921091357572}</string>
+		<key>StartPoint</key>
+		<string>{0.42205824832000149, 0.74343169437193302}</string>
+		<key>Type</key>
+		<string>line</string>
+	</dict>
+	<dict>
+		<key>EndPoint</key>
+		<string>{0.403998006881367, 0.49243847786829464}</string>
+		<key>StartPoint</key>
+		<string>{0.4094632895826697, 0.58317233413650926}</string>
+		<key>Type</key>
+		<string>line</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.39166656706070907</real>
+		<key>Frame</key>
+		<string>{{0.34070188314200495, 0.29346033502690133}, {0.11975522868788765, 0.17463257143540487}}</string>
+		<key>Text</key>
+		<string>&lt;p class="center"&gt;bright yellow&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.21363630930584082</real>
+		<key>Frame</key>
+		<string>{{0.05155094491547136, 0.23717060801371923}, {0.25150309253514119, 0.32015971429824303}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;very long tail; frequently wags &lt;/p&gt;&lt;p&gt;tail and whole &lt;/p&gt;&lt;p&gt;rear body&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>EndPoint</key>
+		<string>{0.1504961661571701, 0.56523378645720534}</string>
+		<key>StartPoint</key>
+		<string>{0.15814804232805599, 0.66318061252580329}</string>
+		<key>Type</key>
+		<string>line</string>
+	</dict>
+</array>
+</plist>

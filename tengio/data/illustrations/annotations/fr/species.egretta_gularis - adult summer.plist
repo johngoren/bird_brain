@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>FontScale</key>
+		<real>0.36339506554695539</real>
+		<key>Frame</key>
+		<string>{{0.64045525090532907, 0.89667915637584572}, {0.35954474909467099, 0.094875307387023475}}</string>
+		<key>Text</key>
+		<string>&lt;p class="right"&gt;habituellement à dominante jaune&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>EndPoint</key>
+		<string>{0.83313645744964371, 0.92869420493509347}</string>
+		<key>StartPoint</key>
+		<string>{0.85601503083985953, 0.94343312608405372}</string>
+		<key>Type</key>
+		<string>line</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.28720036182723935</real>
+		<key>Frame</key>
+		<string>{{0.62562997385845964, 0.74845426404124427}, {0.36353666116643008, 0.1200458743413218}}</string>
+		<key>Text</key>
+		<string>&lt;p class="right"&gt;bec moins élégant que chez l’A. garzette, plus épais à l’extrémité&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.48274148670547234</real>
+		<key>Frame</key>
+		<string>{{0.62157268494567952, 0.458519859254858}, {0.22581479565442381, 0.071419630373989351}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;&lt;b&gt;ad. nuptial&lt;/b&gt;&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>EndPoint</key>
+		<string>{0.35783774268793134, 0.15057812744247639}</string>
+		<key>StartPoint</key>
+		<string>{0.31104700594300444, 0.11988298984425103}</string>
+		<key>Type</key>
+		<string>line</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.2540000000000085</real>
+		<key>Frame</key>
+		<string>{{0, 0.01873171716315725}, {0.36730470770822521, 0.1357370808924952}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;parfois comme l’A. garzette, mais pattes souvent entièrement vertes ou marquées de pâle&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+</array>
+</plist>

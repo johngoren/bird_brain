@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>FontScale</key>
+		<real>0.21155488124732705</real>
+		<key>Frame</key>
+		<string>{{0.09800216430527485, 0.059350926604452937}, {0.10210475314821214, 0.25450527622189922}}</string>
+		<key>Text</key>
+		<string>&lt;p class="right"&gt;﻿synger ofte fra toppen av en unggran&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.37725979689051659</real>
+		<key>Frame</key>
+		<string>{{0.25802514232271628, 0.030986115008572734}, {0.085652182278847536, 0.14271818500598762}}</string>
+		<key>Text</key>
+		<string>&lt;p class="right"&gt;&lt;b&gt;juv &lt;/b&gt;→&lt;b&gt; &lt;/b&gt;&lt;/p&gt;&lt;p class="right"&gt;&lt;b&gt;1. vinter&lt;/b&gt;&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.34618107033563661</real>
+		<key>Frame</key>
+		<string>{{0.32807318551245884, 0.69278609818758352}, {0.16810345308942964, 0.15553084238759851}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;﻿kraftig streket også på hals og bryst&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.55999874674759709</real>
+		<key>Frame</key>
+		<string>{{0.60719923678738019, 0.06783450427528076}, {0.069080725664774162, 0.096146346399253055}}</string>
+		<key>Text</key>
+		<string>&lt;p class="right"&gt;&lt;b&gt;ad.&lt;/b&gt;&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.1178495549202434</real>
+		<key>Frame</key>
+		<string>{{0.8627582397407394, 0.1001806002709232}, {0.13085973590035652, 0.45686921367145078}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;﻿kjønnene svært like (♂ ﻿har i snitt en anelse mer blygrått på hode og hals enn ♀, ﻿men mange er helt like)&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.48820387517785541</real>
+		<key>Frame</key>
+		<string>{{0.86830335810551895, 0.58109325793653233}, {0.090538424097957509, 0.1102855512327246}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;﻿blygrå&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>EndPoint</key>
+		<string>{0.87281044060101098, 0.70521671443431067}</string>
+		<key>StartPoint</key>
+		<string>{0.84677099098125208, 0.75257153121795084}</string>
+		<key>Type</key>
+		<string>line</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.23038996543705237</real>
+		<key>Frame</key>
+		<string>{{0.91430627225817318, 0.62452248810316957}, {0.075902089889135133, 0.23369869163269974}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;﻿tynt «sangernebb»&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>EndPoint</key>
+		<string>{0.90981498451154308, 0.83759368708862258}</string>
+		<key>StartPoint</key>
+		<string>{0.88375495729264253, 0.87973929106323379}</string>
+		<key>Type</key>
+		<string>line</string>
+	</dict>
+	<dict>
+		<key>EndPoint</key>
+		<string>{0.69927427206728787, 0.72076746434671779}</string>
+		<key>StartPoint</key>
+		<string>{0.72970104479207243, 0.67569361226328473}</string>
+		<key>Type</key>
+		<string>line</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.3527777877462267</real>
+		<key>Frame</key>
+		<string>{{0.62581659356248054, 0.67683074072190663}, {0.10962943827307114, 0.15262251581064276}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;﻿gråspurvlignende tegnet kropp&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+</array>
+</plist>

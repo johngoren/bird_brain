@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>EndPoint</key>
+		<string>{0.75792847825578136, 0.28834684929135651}</string>
+		<key>StartPoint</key>
+		<string>{0.73074198427528336, 0.35080944518127}</string>
+		<key>Type</key>
+		<string>line</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.42140190792202858</real>
+		<key>Frame</key>
+		<string>{{0.77075140744207504, 0.21995065258131224}, {0.22366232667151784, 0.14592763439007997}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;brun uniforme&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.45392790678597922</real>
+		<key>Frame</key>
+		<string>{{0.74787319966025334, 0.0012637513076246504}, {0.18918820468624936, 0.13547125574617203}}</string>
+		<key>Text</key>
+		<string>&lt;p class="right"&gt;&lt;b&gt;1er hiver&lt;/b&gt;&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.42140190792202858</real>
+		<key>Frame</key>
+		<string>{{0.33733772831328518, 0.13709294703469665}, {0.2038436335499868, 0.14592763439007997}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;densément barré&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>EndPoint</key>
+		<string>{0.39482119563946133, 0.29125208630949129}</string>
+		<key>StartPoint</key>
+		<string>{0.38364866386665109, 0.33483064158151854}</string>
+		<key>Type</key>
+		<string>line</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.34324324324324962</real>
+		<key>Frame</key>
+		<string>{{0.08943866051598881, 0.10192747396101882}, {0.21972645819859582, 0.17915628278499932}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;peu ou pas de blanc à la queue&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+</array>
+</plist>

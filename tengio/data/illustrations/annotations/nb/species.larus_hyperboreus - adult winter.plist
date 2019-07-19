@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>FontScale</key>
+		<real>0.61937825270612545</real>
+		<key>Frame</key>
+		<string>{{0.33277855851532034, 0.024072165601982557}, {0.21492164566311636, 0.042467311003012133}}</string>
+		<key>Text</key>
+		<string>&lt;p class="right"&gt;&lt;b&gt;ad. vint.&lt;/b&gt;&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.57211864431440351</real>
+		<key>Frame</key>
+		<string>{{0.095733778784190038, 0.020564305884190968}, {0.16381186756950586, 0.045975304506452118}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;kort&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>EndPoint</key>
+		<string>{0.13159010607631216, 0.063725685069230362}</string>
+		<key>StartPoint</key>
+		<string>{0.10668155562945957, 0.089897593085597582}</string>
+		<key>Type</key>
+		<string>line</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.36250394110196027</real>
+		<key>Frame</key>
+		<string>{{0.69049664882509332, 0.89284801728696161}, {0.1428852534271586, 0.072560118398202519}}</string>
+		<key>Text</key>
+		<string>&lt;p class="right"&gt;&lt;b&gt;ad. vint.&lt;/b&gt;&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>EndPoint</key>
+		<string>{0.71683753161915276, 0.80084882500282784}</string>
+		<key>StartPoint</key>
+		<string>{0.69623558385444395, 0.83271693922919243}</string>
+		<key>Type</key>
+		<string>line</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.17200146973912131</real>
+		<key>Frame</key>
+		<string>{{0.63322499286721146, 0.64642307957534939}, {0.15075352051764493, 0.15292502399001678}}</string>
+		<key>Text</key>
+		<string>&lt;p class="right"&gt;﻿lang grov hals, «framtung»&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.3755099546197686</real>
+		<key>Frame</key>
+		<string>{{0.50244424669011711, 0.56564899057595075}, {0.33093765556213778, 0.070046954981013265}}</string>
+		<key>Text</key>
+		<string>&lt;p class="right"&gt;﻿bred vinge, butt spiss&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>EndPoint</key>
+		<string>{0.60402763494598133, 0.62189431977095644}</string>
+		<key>StartPoint</key>
+		<string>{0.53730411986352011, 0.62745799109165756}</string>
+		<key>Type</key>
+		<string>line</string>
+	</dict>
+</array>
+</plist>

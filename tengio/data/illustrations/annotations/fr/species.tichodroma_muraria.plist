@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>EndPoint</key>
+		<string>{0.78516717745274123, 0.60566571082637921}</string>
+		<key>StartPoint</key>
+		<string>{0.75690341965026708, 0.63584780866493806}</string>
+		<key>Type</key>
+		<string>line</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.55506369139036948</real>
+		<key>Frame</key>
+		<string>{{0.33416091457634334, 0.79966814213511861}, {0.20341421052544223, 0.069227484307278819}}</string>
+		<key>Text</key>
+		<string>&lt;p class="right"&gt;&lt;b&gt;ad. intern. /&lt;/b&gt; ♀ &lt;b&gt;ad. nuptiale&lt;/b&gt;&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.18087878118790021</real>
+		<key>Frame</key>
+		<string>{{0.38532228866357876, 0.2005910890666826}, {0.14637809790074666, 0.2124387544681085}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;en plumage internuptial, aucun des deux sexes n’a de noir sur la gorge et la poitrine&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>EndPoint</key>
+		<string>{0.66124973886786043, 0.73571909791997181}</string>
+		<key>StartPoint</key>
+		<string>{0.62805648615703058, 0.68944129082451722}</string>
+		<key>Type</key>
+		<string>line</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.30322584625255244</real>
+		<key>Frame</key>
+		<string>{{0.66619377631882815, 0.68383259239251415}, {0.11613070965679004, 0.12672291448817613}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;ventre et bas de la poitrine gris sale&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.20844231227967897</real>
+		<key>Frame</key>
+		<string>{{0.77358974675707293, 0.77243745583338397}, {0.1902899041965484, 0.18434675073892456}}</string>
+		<key>Text</key>
+		<string>&lt;p class="right"&gt;en été, la plupart des ♀♀ ont une tache sombre sur le bas de la gorge blanc grisâtre&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.11663617401456527</real>
+		<key>Frame</key>
+		<string>{{0.040318424331865443, 0.55784198754364844}, {0.1317061891261555, 0.32944893220235894}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;fréquente les falaises abruptes, ce qui le rend difficile à détecter malgré l’étendue du rouge sur les ailes&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.56969661846947084</real>
+		<key>Frame</key>
+		<string>{{0.81636105028354489, 0.62158123616219896}, {0.11909117082940655, 0.067449343632230513}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;♂ &lt;b&gt;ad. nuptial&lt;/b&gt;&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+</array>
+</plist>

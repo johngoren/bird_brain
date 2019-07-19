@@ -1,0 +1,120 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>FontScale</key>
+		<real>0.31469571667784674</real>
+		<key>Frame</key>
+		<string>{{0.35049726725595642, 0.040208105763775107}, {0.21942128610577552, 0.11887590915913114}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;wirkt etwas größer und schwerer als Atlantiksturmtaucher oder Mittelmeer-Sturmtaucher&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.36337693925605125</real>
+		<key>Frame</key>
+		<string>{{0.055723787107924541, 0.25185316493915916}, {0.18704895251918399, 0.10295022987741895}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;oberseits und unterseits düster bräunlich, ohne starke Kontraste&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.31036168132942532</real>
+		<key>Frame</key>
+		<string>{{0.54420555421037997, 0.60948418780819924}, {0.097686542871590981, 0.12053594782809474}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;Dunkler St. (zum Vergleich)&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.24245895379915788</real>
+		<key>Frame</key>
+		<string>{{0.74014858830400565, 0.66975216172224572}, {0.23134928984001704, 0.154293082777021}}</string>
+		<key>Text</key>
+		<string>&lt;p class="center"&gt;extrem dunkler Balearen-St. (l.) wie Dunkler St.; in Größe, Gestalt und &lt;/p&gt;&lt;p class="center"&gt;Flugweise aber deutlich &lt;/p&gt;&lt;p class="center"&gt;unterschieden&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>EndPoint</key>
+		<string>{0.44550051348854347, 0.40376007743883974}</string>
+		<key>StartPoint</key>
+		<string>{0.4337389476964324, 0.44538209461408329}</string>
+		<key>Type</key>
+		<string>line</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.31545245033520924</real>
+		<key>Frame</key>
+		<string>{{0.37271783098005956, 0.26945753411076484}, {0.13416600259229416, 0.11859073970993303}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;bräunlicher Bauch und Steiß wirken verölt&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.23728925743034571</real>
+		<key>Frame</key>
+		<string>{{0.34677904532928494, 0.48762936990837497}, {0.075920260071314763, 0.15765458509871522}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;verwaschen braune Armbinde&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>EndPoint</key>
+		<string>{0.46311836432248077, 0.56689010653756744}</string>
+		<key>StartPoint</key>
+		<string>{0.41648330022993207, 0.60948418780819824}</string>
+		<key>Type</key>
+		<string>line</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.12375328797582809</real>
+		<key>Frame</key>
+		<string>{{0.83832024626146873, 0.0043491444595238019}, {0.13404133957920999, 0.3022928929037455}}</string>
+		<key>Text</key>
+		<string>&lt;p class="right"&gt;oberseits viel brauner als Atlantikst. und Mittelmeer-St.,im ausgeblichenen Gefieder ähneln sich die Arten stärker&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.38195488721804355</real>
+		<key>Frame</key>
+		<string>{{0.63253966686603669, 0.31650996075584215}, {0.12886279633427697, 0.097942821732262791}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;Schwanz kurz, meist von Zehen überragt&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.14111111111111069</real>
+		<key>Frame</key>
+		<string>{{0.61882927244054653, 0.0043491444595260215}, {0.17314269531618662, 0.26510838965123734}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;die Hauptabb. illustrieren typische „intermediäre“ Vögel– einige sind jedoch blasser (wie Mittelmeer-St.) oder dunkler (wie Dunkler St., o.)&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>EndPoint</key>
+		<string>{0.72655380006939585, 0.42196418686155823}</string>
+		<key>StartPoint</key>
+		<string>{0.74770157819140837, 0.43751721238776164}</string>
+		<key>Type</key>
+		<string>line</string>
+	</dict>
+</array>
+</plist>

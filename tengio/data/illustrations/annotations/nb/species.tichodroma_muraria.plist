@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>EndPoint</key>
+		<string>{0.78583888158376536, 0.60255484413867044}</string>
+		<key>StartPoint</key>
+		<string>{0.75757512378129122, 0.63273694197722941}</string>
+		<key>Type</key>
+		<string>line</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.55506369139036948</real>
+		<key>Frame</key>
+		<string>{{0.35279052902635727, 0.79655747089043838}, {0.16295929740262541, 0.069227484307278819}}</string>
+		<key>Text</key>
+		<string>&lt;p class="right"&gt;&lt;b&gt;vinter / ad. &lt;/b&gt;♀&lt;b&gt; sommer&lt;/b&gt;&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.18087894759599932</real>
+		<key>Frame</key>
+		<string>{{0.39191408672472866, 0.22471120261473043}, {0.11109241877724736, 0.21243855902507999}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;﻿begge kjønn anlegger vinter-drakt uten svart på strupe og bryst&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>EndPoint</key>
+		<string>{0.66192144374568163, 0.73260823019097943}</string>
+		<key>StartPoint</key>
+		<string>{0.62872801957563551, 0.68633062062112737}</string>
+		<key>Type</key>
+		<string>line</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.284992327051168</real>
+		<key>Frame</key>
+		<string>{{0.66291846788707209, 0.70159866071255328}, {0.10855260645487841, 0.13483051765940368}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;﻿buk og nedre bryst med grå skygge&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.20844231227967897</real>
+		<key>Frame</key>
+		<string>{{0.79236785350823191, 0.76932658914567598}, {0.1800767049784309, 0.18434675073892456}}</string>
+		<key>Text</key>
+		<string>&lt;p class="center"&gt;﻿de fleste ♀♀ h﻿ar på sommeren en mørk flekk i nedre del av den gråhvite strupen&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.1446153212447886</real>
+		<key>Frame</key>
+		<string>{{0.040990043480079674, 0.61847056491752062}, {0.1317061891261555, 0.26570948814077866}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;﻿holder til i fullstendig loddrette stup, overses lett til tross for de rødfargete vingene&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.56969661846947084</real>
+		<key>Frame</key>
+		<string>{{0.81703275441456891, 0.61847056491751828}, {0.11909100086378621, 0.067449343632230513}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;&lt;b&gt;ad. &lt;/b&gt;♂&lt;b&gt; sommer&lt;/b&gt;&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+</array>
+</plist>

@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>FontScale</key>
+		<real>0.6047634720500521</real>
+		<key>Frame</key>
+		<string>{{0.44785639011864081, 0.29088385066486094}, {0.19876647417076718, 0.0618546361773923}}</string>
+		<key>Text</key>
+		<string>&lt;p class="right"&gt;reflets mauves&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>EndPoint</key>
+		<string>{0.69940855711177008, 0.32567735449789881}</string>
+		<key>StartPoint</key>
+		<string>{0.65567917327767178, 0.33449667010913497}</string>
+		<key>Type</key>
+		<string>line</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.19206975466375942</real>
+		<key>Frame</key>
+		<string>{{0.80296986042608076, 0.33153086737301396}, {0.18941072352740235, 0.19475957889631609}}</string>
+		<key>Text</key>
+		<string>&lt;p class="right"&gt;le croissant blanc s’étend au-dessus de l’œil&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>EndPoint</key>
+		<string>{0.94076932469537744, 0.3769150251989446}</string>
+		<key>StartPoint</key>
+		<string>{0.89513177984290426, 0.36132844154641724}</string>
+		<key>Type</key>
+		<string>line</string>
+	</dict>
+	<dict>
+		<key>EndPoint</key>
+		<string>{0.82945484106388578, 0.10709085246051257}</string>
+		<key>StartPoint</key>
+		<string>{0.8396766922004465, 0.066652174375887038}</string>
+		<key>Type</key>
+		<string>line</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.59467176422193713</real>
+		<key>Frame</key>
+		<string>{{0.73796376581784495, 0}, {0.23849692611278137, 0.062904322666094706}}</string>
+		<key>Text</key>
+		<string>&lt;p class="right"&gt;« écharpe » noire&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.61935093654903883</real>
+		<key>Frame</key>
+		<string>{{0.18787300098732701, 0.11678524478782915}, {0.1366544296048314, 0.060397784728417364}}</string>
+		<key>Text</key>
+		<string>&lt;p class="right"&gt;♂ &lt;b&gt;ad.&lt;/b&gt;&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.2634502569037484</real>
+		<key>Frame</key>
+		<string>{{0.19514827952401778, 0.85391635095584195}, {0.22036909019815554, 0.14199046520838784}}</string>
+		<key>Text</key>
+		<string>&lt;p class="right"&gt;un peu moins de blanc aux ailes que chez le G. à œil d’or&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.61935093654903883</real>
+		<key>Frame</key>
+		<string>{{0.62260214651827472, 0.68000498957420408}, {0.1366544296048314, 0.060397784728417364}}</string>
+		<key>Text</key>
+		<string>&lt;p class="right"&gt;♂ &lt;b&gt;ad.&lt;/b&gt;&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+</array>
+</plist>

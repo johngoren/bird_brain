@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>FontScale</key>
+		<real>0.24229062678464269</real>
+		<key>Frame</key>
+		<string>{{0.00331927252242048, 0.20677929747445695}, {0.40307798883238394, 0.32786445199593273}}</string>
+		<key>Text</key>
+		<string>&lt;p class="center"&gt;manche, vor allem Jungvögel, zeigen weniger Weiß auf dem Bürzel und sind Birkenzeisig sehr ähnlich&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.48205248911380488</real>
+		<key>Frame</key>
+		<string>{{0.81143641713155024, 0.098445244679392585}, {0.18856358286844985, 0.16479218626281958}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;&lt;b&gt;1er W&lt;/b&gt;&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+</array>
+</plist>

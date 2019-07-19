@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>FontScale</key>
+		<real>0.35178488674812564</real>
+		<key>Frame</key>
+		<string>{{0.065086088021349603, 0.2141846321974222}, {0.25306991334501522, 0.15468226170266136}}</string>
+		<key>Text</key>
+		<string>&lt;p class="right"&gt;svartnar maj–juli&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>EndPoint</key>
+		<string>{0.33273688405163382, 0.27982681371342616}</string>
+		<key>StartPoint</key>
+		<string>{0.40534061093181628, 0.25846683354003691}</string>
+		<key>Type</key>
+		<string>line</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.58995733035666342</real>
+		<key>Frame</key>
+		<string>{{0.036283819851509212, 0.08413337440114875}, {0.35191088163517653, 0.092235284002857812}}</string>
+		<key>Text</key>
+		<string>&lt;p class="right"&gt;&lt;b&gt;ad. sommar&lt;/b&gt;&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+</array>
+</plist>

@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>FontScale</key>
+		<real>0.26818349224536503</real>
+		<key>Frame</key>
+		<string>{{0.19396060369994145, 0.34429395863386336}, {0.35365054762195258, 0.10989384367639453}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;retains brown &lt;/p&gt;&lt;p&gt;plumage all the year around&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.58686502653620154</real>
+		<key>Frame</key>
+		<string>{{0.75219554252315246, 0.026784530018189073}, {0.17520927686144441, 0.050218897771690113}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;&lt;b&gt;ad. &lt;/b&gt;♂&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.5722601902411194</real>
+		<key>Frame</key>
+		<string>{{0.41035728038921332, 0.64630479264894336}, {0.1948559432478679, 0.051500550406946753}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;&lt;b&gt;ad. &lt;/b&gt;♂&lt;b&gt; &lt;/b&gt;&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+</array>
+</plist>

@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>FontScale</key>
+		<real>0.35760456339519953</real>
+		<key>Frame</key>
+		<string>{{0.26490129055846789, 0.084334809723240811}, {0.20411365414994878, 0.094273433882075569}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;svart når pre-&lt;/p&gt;&lt;p&gt;cis till benen&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.55294142462401841</real>
+		<key>Frame</key>
+		<string>{{0.63315634158733036, 0.084850918465059003}, {0.15320554787677285, 0.060969586762448277}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;&lt;b&gt;adult&lt;/b&gt;&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.6332334582725001</real>
+		<key>Frame</key>
+		<string>{{0.75732548119521703, 0.26723235619900254}, {0.20882863231228146, 0.053238832728668382}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;omisskännlig!&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>EndPoint</key>
+		<string>{0.45540736776508667, 0.16450180396951319}</string>
+		<key>StartPoint</key>
+		<string>{0.49498344603484012, 0.19791441701029461}</string>
+		<key>Type</key>
+		<string>line</string>
+	</dict>
+	<dict>
+		<key>EndPoint</key>
+		<string>{0.32107022556699755, 0.77083869078736544}</string>
+		<key>StartPoint</key>
+		<string>{0.32088622969896391, 0.72721113178536134}</string>
+		<key>Type</key>
+		<string>line</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.55294142462401841</real>
+		<key>Frame</key>
+		<string>{{0.62043624957045973, 0.9321363520402185}, {0.068004338997860944, 0.060969586762448277}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;&lt;b&gt;ad.&lt;/b&gt;&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.41297957400345509</real>
+		<key>Frame</key>
+		<string>{{0.22292250788805451, 0.63409829644418614}, {0.32277926901280957, 0.081632633392381276}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;variation; utan rela-&lt;/p&gt;&lt;p&gt;tion till kön eller ålder&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+</array>
+</plist>

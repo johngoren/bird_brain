@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>FontScale</key>
+		<real>0.18419124945550214</real>
+		<key>Frame</key>
+		<string>{{0.45343129415161398, 0.78423312181074301}, {0.42434854184236315, 0.21576687818925702}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;culmen fortement arqué comme un perroquet, mandibule inférieure très grosse et plus épaisse en son centre&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.21333194445348624</real>
+		<key>Frame</key>
+		<string>{{0.2010488556983705, 0.4905171693361236}, {0.31288373450441981, 0.18629357636337299}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;plumages identiques à ceux du B.-c. des sapins&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.61935093654903894</real>
+		<key>Frame</key>
+		<string>{{0.3118978059025555, 0.15870774934959678}, {0.13013295106141895, 0.06416777393804049}}</string>
+		<key>Text</key>
+		<string>&lt;p class="right"&gt;♀ &lt;b&gt;ad.&lt;/b&gt;&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+</array>
+</plist>

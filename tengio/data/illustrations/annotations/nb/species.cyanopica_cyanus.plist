@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>FontScale</key>
+		<real>0.22282045438559625</real>
+		<key>Frame</key>
+		<string>{{0.33484755764535068, 0.54594047383828148}, {0.12071461962139, 0.26169710649211469}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;﻿sees vanligvis i familiegrupper&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.48831118512474753</real>
+		<key>Frame</key>
+		<string>{{0.64836997707614186, 0.28422758515653346}, {0.12284726839980632, 0.11941456586760775}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;﻿umiskjennelig!&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.24102565359917866</real>
+		<key>Frame</key>
+		<string>{{0.68607517151607122, 0.049791607361821304}, {0.30697134196423981, 0.24193054684933954}}</string>
+		<key>Text</key>
+		<string>&lt;p class="center"&gt;﻿usannsynlig vakre farger i direkte sollys; i skygge inne blant greiner og blader kan den derimot se forbausende «dagligdags» ut&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+</array>
+</plist>

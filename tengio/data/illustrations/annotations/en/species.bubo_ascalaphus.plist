@@ -1,0 +1,180 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>FontScale</key>
+		<real>0.60453134560168409</real>
+		<key>Frame</key>
+		<string>{{0.1612924727609738, 0.064895885537138959}, {0.20039714457046848, 0.072344246965385675}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;spotted at day-roost&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>EndPoint</key>
+		<string>{0.38285834612581149, 0.81150440467306573}</string>
+		<key>StartPoint</key>
+		<string>{0.35569310932633058, 0.81150440467306573}</string>
+		<key>Type</key>
+		<string>line</string>
+	</dict>
+	<dict>
+		<key>EndPoint</key>
+		<string>{0.46576082771565297, 0.89449638858211455}</string>
+		<key>StartPoint</key>
+		<string>{0.44546774903509073, 0.89449638858211455}</string>
+		<key>Type</key>
+		<string>line</string>
+	</dict>
+	<dict>
+		<key>EndPoint</key>
+		<string>{0.69366483967236958, 0.52234266876862223}</string>
+		<key>StartPoint</key>
+		<string>{0.66906764680684805, 0.51503692217156483}</string>
+		<key>Type</key>
+		<string>line</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.57199880135342462</real>
+		<key>Frame</key>
+		<string>{{0.49578811624936425, 0.49074867321928606}, {0.060151595770277559, 0.076458840230161113}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;variation&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.29237410071945991</real>
+		<key>Frame</key>
+		<string>{{0.48626163179762899, 0.63075833557168892}, {0.098340119147886484, 0.14958358095640403}}</string>
+		<key>Text</key>
+		<string>&lt;p class="center"&gt;iris colour vari-&lt;/p&gt;&lt;p class="center"&gt;able, often yellow-orange&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.23879807139017836</real>
+		<key>Frame</key>
+		<string>{{0.30582549605871323, 0.69089308739791}, {0.059823008968876219, 0.18314371096015444}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;face&lt;/p&gt;&lt;p&gt;framed&lt;/p&gt;&lt;p&gt;dark&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>EndPoint</key>
+		<string>{0.49268351775799391, 0.54757870397718589}</string>
+		<key>StartPoint</key>
+		<string>{0.47716052530114994, 0.54757870397718589}</string>
+		<key>Type</key>
+		<string>line</string>
+	</dict>
+	<dict>
+		<key>EndPoint</key>
+		<string>{0.38824777114462916, 0.67080774626087658}</string>
+		<key>StartPoint</key>
+		<string>{0.33738401421042208, 0.65422830122522813}</string>
+		<key>Type</key>
+		<string>line</string>
+	</dict>
+	<dict>
+		<key>EndPoint</key>
+		<string>{0.57551883842449369, 0.54703202441512933}</string>
+		<key>StartPoint</key>
+		<string>{0.55322318833969375, 0.54703202441512933}</string>
+		<key>Type</key>
+		<string>line</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.55529100753255645</real>
+		<key>Frame</key>
+		<string>{{0.46978710388414752, 0.83646503448196519}, {0.059445521790110201, 0.078759361076022882}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;short&lt;/p&gt;&lt;p&gt;tufts&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.23879807139017836</real>
+		<key>Frame</key>
+		<string>{{0.30283679539111807, 0.48682919792125406}, {0.059823008968876219, 0.18314371096015444}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;bold streak-&lt;/p&gt;&lt;p&gt;ing&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>EndPoint</key>
+		<string>{0.64431209519501109, 0.26129328488945747}</string>
+		<key>StartPoint</key>
+		<string>{0.62847536013672789, 0.28185561510334506}</string>
+		<key>Type</key>
+		<string>line</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.2219148678651062</real>
+		<key>Frame</key>
+		<string>{{0.65013351188383395, 0.083246603824186777}, {0.068196857143638212, 0.19707721877882312}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;barred&lt;/p&gt;&lt;p&gt;rufous, &lt;/p&gt;&lt;p&gt;un-&lt;/p&gt;&lt;p&gt;streaked&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.30563424306772236</real>
+		<key>Frame</key>
+		<string>{{0.69937938240307274, 0.40261647109140342}, {0.10381001205515623, 0.14309379906372108}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;rather sparse wedge-shaped breast-spots&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.14158305462653326</real>
+		<key>Frame</key>
+		<string>{{0.73883365489755648, 0.046327751788848043}, {0.092654459066724135, 0.30889547537936185}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;white &lt;/p&gt;&lt;p&gt;throat &lt;/p&gt;&lt;p&gt;puffed out when calling in all three species&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.30766634271527632</real>
+		<key>Frame</key>
+		<string>{{0.55747335969340883, 0.82355973387495662}, {0.15175590283758369, 0.1421486815182714}}</string>
+		<key>Text</key>
+		<string>&lt;p class="center"&gt;much lighter build than Eagle Owl—adaptation to smaller prey&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.14158305462653326</real>
+		<key>Frame</key>
+		<string>{{0.73883365489755648, 0.046327751788848043}, {0.092654459066724135, 0.30889547537936185}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;white &lt;/p&gt;&lt;p&gt;throat &lt;/p&gt;&lt;p&gt;puffed out when calling in all three species&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>EndPoint</key>
+		<string>{0.83461072154118565, 0.25562012299490616}</string>
+		<key>StartPoint</key>
+		<string>{0.81030338070099817, 0.24769695243666515}</string>
+		<key>Type</key>
+		<string>line</string>
+	</dict>
+</array>
+</plist>

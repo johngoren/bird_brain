@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>FontScale</key>
+		<real>0.61935093654903883</real>
+		<key>Frame</key>
+		<string>{{0.37933081263726076, 0.39571649055917435}, {0.21075695928483762, 0.15233601687922688}}</string>
+		<key>Text</key>
+		<string>&lt;p class="right"&gt;&lt;b&gt; &lt;/b&gt;♀&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.24358666986332661</real>
+		<key>Frame</key>
+		<string>{{0.019929819703473944, 0.5017401581463995}, {0.3201725116701743, 0.38733422800696626}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;Kopfform und Schnabel-muster kennzeichnend&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.26485922836286652</real>
+		<key>Frame</key>
+		<string>{{0.51123931755556218, 0.56428381735575572}, {0.35973593893556177, 0.35622490976616938}}</string>
+		<key>Text</key>
+		<string>&lt;p class="right"&gt;Spitze schwarz, davor schmales Band&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>EndPoint</key>
+		<string>{0.63727737718691813, 0.72264727220151181}</string>
+		<key>StartPoint</key>
+		<string>{0.62077394750880721, 0.6507067529281606}</string>
+		<key>Type</key>
+		<string>line</string>
+	</dict>
+</array>
+</plist>

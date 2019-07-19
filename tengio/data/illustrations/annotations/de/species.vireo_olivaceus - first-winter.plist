@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>FontScale</key>
+		<real>0.24011611041086334</real>
+		<key>Frame</key>
+		<string>{{0.45548227535037078, 0.78598864912872912}, {0.38128606760098938, 0.2140113508712711}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;ad. und 1er W sehr ähnlich; Iris bei ad. leuchtend rot, im 1en W matter gefärbt&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.41794229200707578</real>
+		<key>Frame</key>
+		<string>{{0.75295410827150167, 0.74545012562112689}, {0.15372496043477182, 0.12295375255805448}}</string>
+		<key>Text</key>
+		<string>&lt;p class="right"&gt;bleigrau&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>EndPoint</key>
+		<string>{0.84226435834020519, 0.81625977366932845}</string>
+		<key>StartPoint</key>
+		<string>{0.81038746908491488, 0.78753128788977289}</string>
+		<key>Type</key>
+		<string>line</string>
+	</dict>
+	<dict>
+		<key>EndPoint</key>
+		<string>{0.88718029334602344, 0.59094402418543157}</string>
+		<key>StartPoint</key>
+		<string>{0.8804756560906376, 0.63613970975723111}</string>
+		<key>Type</key>
+		<string>line</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.24297500896807539</real>
+		<key>Frame</key>
+		<string>{{0.84055103259577535, 0.34374446332765629}, {0.12159103109819734, 0.21149324522398097}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;kräftig, mit Hakenspitze&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.52500060081550581</real>
+		<key>Frame</key>
+		<string>{{0.74428520401810006, 0.21224154537700743}, {0.22850951980712395, 0.097880979707759663}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;&lt;b&gt;1er W&lt;/b&gt;&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.27468329229318406</real>
+		<key>Frame</key>
+		<string>{{0, 0.027490872732351707}, {0.35311898873316838, 0.18707935501273759}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;Größe und Gestalt ähnlich Gelbspötter, aber kurzschwänziger&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+</array>
+</plist>

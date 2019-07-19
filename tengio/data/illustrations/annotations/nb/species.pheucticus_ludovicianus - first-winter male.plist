@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>EndPoint</key>
+		<string>{0.75923702848704799, 0.30140560571057129}</string>
+		<key>StartPoint</key>
+		<string>{0.64683319675989681, 0.4593841857110324}</string>
+		<key>Type</key>
+		<string>line</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.24696159455517216</real>
+		<key>Frame</key>
+		<string>{{0.70827030938622482, 0.12643057400607621}, {0.20039041906971491, 0.20209075812248439}}</string>
+		<key>Text</key>
+		<string>&lt;p class="right"&gt;﻿stor hvit håndbasisflekk hos ♂♂ &lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.24411340701585293</real>
+		<key>Frame</key>
+		<string>{{0.19669506133163014, 0.63440834010830938}, {0.40269467085363803, 0.20444864737622231}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;﻿høstgjester har ofte blitt sett mens de eter bjørnebær&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.7175141242937535</real>
+		<key>Frame</key>
+		<string>{{0.27668476483978888, 0.12692180093394373}, {0.25094808943736008, 0.069557732985280618}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;&lt;b&gt;1. vinter &lt;/b&gt;♂&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+</array>
+</plist>

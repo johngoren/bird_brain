@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>EndPoint</key>
+		<string>{0.38288797242517658, 0.71704472082118753}</string>
+		<key>StartPoint</key>
+		<string>{0.46022840052551495, 0.60455997006069639}</string>
+		<key>Type</key>
+		<string>line</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.21233019853711033</real>
+		<key>Frame</key>
+		<string>{{0.1624159183935589, 0.59844615726379058}, {0.28243687297261227, 0.22855181842426101}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;﻿klart gulgrønn vinge i kontrast mot ellers ganske farge-dempet drakt&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.65463917525781556</real>
+		<key>Frame</key>
+		<string>{{0.42509486980815925, 0.19803865593658199}, {0.12032898073782715, 0.07413007778358062}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;&lt;b&gt;vår&lt;/b&gt;&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>EndPoint</key>
+		<string>{0.66863653234724341, 0.44832318885572175}</string>
+		<key>StartPoint</key>
+		<string>{0.74597696044758743, 0.33583843809523772}</string>
+		<key>Type</key>
+		<string>line</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.68648648648660671</real>
+		<key>Frame</key>
+		<string>{{0.70507602760336507, 0.26027544160156846}, {0.16646819775276636, 0.07069105355650393}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;﻿silkehvit&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.27965868428296847</real>
+		<key>Frame</key>
+		<string>{{0.79814092555963589, 0.54112908681258631}, {0.15204969243559754, 0.17352743079109295}}</string>
+		<key>Text</key>
+		<string>&lt;p class="right"&gt;﻿lysebrune øredekkere&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.25837268861670354</real>
+		<key>Frame</key>
+		<string>{{0.77716855418920916, 0.78127308371807003}, {0.22283144581079076, 0.18782346246368553}}</string>
+		<key>Text</key>
+		<string>&lt;p class="right"&gt;﻿ubrutt lys øyering og lys tøyle&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>EndPoint</key>
+		<string>{0.86345232570876873, 0.8883445015127136}</string>
+		<key>StartPoint</key>
+		<string>{0.78714662771363486, 0.81584057306950397}</string>
+		<key>Type</key>
+		<string>line</string>
+	</dict>
+</array>
+</plist>

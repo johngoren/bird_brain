@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>FontScale</key>
+		<real>0.61935093654903894</real>
+		<key>Frame</key>
+		<string>{{0.098430656888649076, 0.1202017633242157}, {0.25606661063401848, 0.057386029268312599}}</string>
+		<key>Text</key>
+		<string>&lt;p class="right"&gt;&lt;b&gt;ad. vinter&lt;/b&gt;&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>EndPoint</key>
+		<string>{0.17098388130181655, 0.23592380447969669}</string>
+		<key>StartPoint</key>
+		<string>{0.23335754280059118, 0.2246227421405585}</string>
+		<key>Type</key>
+		<string>line</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.36771290384118926</real>
+		<key>Frame</key>
+		<string>{{0.0073165864507103735, 0.19847144652973259}, {0.17618133942795766, 0.096657176294009411}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;stjärten sticker ut&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.45804599843441313</real>
+		<key>Frame</key>
+		<string>{{0.23066269713623297, 0.0096725274352784888}, {0.30025241924611823, 0.077595025594900335}}</string>
+		<key>Text</key>
+		<string>&lt;p class="right"&gt;orangegula&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>EndPoint</key>
+		<string>{0.54006481777293847, 0.071272398309129056}</string>
+		<key>StartPoint</key>
+		<string>{0.60892322668805632, 0.083180978026427696}</string>
+		<key>Type</key>
+		<string>line</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.28630301159290739</real>
+		<key>Frame</key>
+		<string>{{0.45450405742286648, 0.65830017153316778}, {0.18562241540285457, 0.1241415197640221}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;ser mörk ut i flykten&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.61935093654903894</real>
+		<key>Frame</key>
+		<string>{{0.63727104586751615, 0.92130076198648725}, {0.25606639690445593, 0.057386029268312599}}</string>
+		<key>Text</key>
+		<string>&lt;p class="right"&gt;&lt;b&gt;ad. vinter&lt;/b&gt;&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+</array>
+</plist>

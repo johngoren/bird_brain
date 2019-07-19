@@ -1,0 +1,178 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>EndPoint</key>
+		<string>{0.43999965056100798, 0.43604020896902645}</string>
+		<key>StartPoint</key>
+		<string>{0.41870797151758726, 0.47828591418094524}</string>
+		<key>Type</key>
+		<string>line</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.62006976289446625</real>
+		<key>Frame</key>
+		<string>{{0.026880766960493182, 0.094959214513409898}, {0.16434936982101062, 0.056690901180239048}}</string>
+		<key>Text</key>
+		<string>&lt;p class="right"&gt;&lt;b&gt;juv. &lt;/b&gt;→&lt;b&gt; 1. vinter&lt;/b&gt;&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.28487637505940722</real>
+		<key>Frame</key>
+		<string>{{0.41737620822626653, 0.30240266786489933}, {0.056046390552075068, 0.12339497666583935}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;﻿tydelig streket&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.17604882113299397</real>
+		<key>Frame</key>
+		<string>{{0.0017706827891188911, 0.17544514997887767}, {0.17713873442654299, 0.19967366680944176}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;﻿plystresnipe ligner gluttsnipe i størrelse og form, men beina er friskere gule og oversiden tydeligere lysflekket&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.21620658655471856</real>
+		<key>Frame</key>
+		<string>{{0.44557804127504952, 0.43858898130503493}, {0.16108239249177397, 0.16258669179908605}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;﻿lengre, grovere og tydeligere oppadbøyd enn gulbeinsnipas; lysere basis&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>EndPoint</key>
+		<string>{0.4741888509260403, 0.60653822415546388}</string>
+		<key>StartPoint</key>
+		<string>{0.4741888509260403, 0.64307449209238365}</string>
+		<key>Type</key>
+		<string>line</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.65654944875132126</real>
+		<key>Frame</key>
+		<string>{{0.069963146274798826, 0.49111190424860701}, {0.093997574443439591, 0.053540999417423858}}</string>
+		<key>Text</key>
+		<string>&lt;p class="center"&gt;&lt;b&gt;vinter&lt;/b&gt;&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>EndPoint</key>
+		<string>{0.77646735528084354, 0.72824606226915489}</string>
+		<key>StartPoint</key>
+		<string>{0.80366167084866325, 0.67428873020586855}</string>
+		<key>Type</key>
+		<string>line</string>
+	</dict>
+	<dict>
+		<key>EndPoint</key>
+		<string>{0.53745041058853937, 0.7715181241477429}</string>
+		<key>StartPoint</key>
+		<string>{0.56731597764235764, 0.71226008602661217}</string>
+		<key>Type</key>
+		<string>line</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.32571674233557163</real>
+		<key>Frame</key>
+		<string>{{0.85743921846843696, 0.78778143500059195}, {0.12220504688506249, 0.10792295600478702}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;﻿GLUTTSNIPE (for sammenligning)&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.28418067481712084</real>
+		<key>Frame</key>
+		<string>{{0.71786948909008996, 0.67518926258264833}, {0.059198391105626712, 0.12369705883669276}}</string>
+		<key>Text</key>
+		<string>&lt;p class="right"&gt;﻿hvit ryggkile&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.27818822785320524</real>
+		<key>Frame</key>
+		<string>{{0.48255883380936637, 0.74147166599872794}, {0.050220168342748284, 0.12636161466779847}}</string>
+		<key>Text</key>
+		<string>&lt;p class="right"&gt;﻿hvit overgump&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.55524239326280334</real>
+		<key>Frame</key>
+		<string>{{0.7894141813757426, 0.029275649632959682}, {0.14684718420025886, 0.063309851840629178}}</string>
+		<key>Text</key>
+		<string>&lt;p class="center"&gt;﻿GLUTTSNIPE&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.59499840361705647</real>
+		<key>Frame</key>
+		<string>{{0.64842565937483998, 0.38470647073154574}, {0.083744374928065343, 0.059079677255283243}}</string>
+		<key>Text</key>
+		<string>&lt;p class="right"&gt;&lt;b&gt;ad. som.&lt;/b&gt;&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.59499840361705647</real>
+		<key>Frame</key>
+		<string>{{0.81184823670292006, 0.40854095089590309}, {0.083744374928065343, 0.059079677255283243}}</string>
+		<key>Text</key>
+		<string>&lt;p class="right"&gt;&lt;b&gt;ad. som.&lt;/b&gt;.&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.52741734290121278</real>
+		<key>Frame</key>
+		<string>{{0.62006427720274404, 0.025935600543636701}, {0.16655844303094708, 0.066649900929952183}}</string>
+		<key>Text</key>
+		<string>&lt;p class="center"&gt;﻿PLYSTRESNIPE&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.5550354858197899</real>
+		<key>Frame</key>
+		<string>{{0.46374119169265421, 0.02925204883644017}, {0.15167047005116888, 0.063333452637148638}}</string>
+		<key>Text</key>
+		<string>&lt;p class="center"&gt;﻿GULBEINSNIPE&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.59499840361705647</real>
+		<key>Frame</key>
+		<string>{{0.49194145524760446, 0.35979538301987318}, {0.083744374928065343, 0.059079677255283243}}</string>
+		<key>Text</key>
+		<string>&lt;p class="right"&gt;&lt;b&gt;ad. som.&lt;/b&gt;&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+</array>
+</plist>

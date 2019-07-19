@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>FontScale</key>
+		<real>0.40695395149455382</real>
+		<key>Frame</key>
+		<string>{{0.043189251342500401, 0.05677521616447305}, {0.14325438300320562, 0.12669582474804236}}</string>
+		<key>Text</key>
+		<string>&lt;p class="center"&gt;on a Scottish moor&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.62507709818334423</real>
+		<key>Frame</key>
+		<string>{{0.39195315348189186, 0.076742272811039861}, {0.073226362497411324, 0.082484811343950748}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;&lt;b&gt;ad. &lt;/b&gt;♀&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.26818349224536503</real>
+		<key>Frame</key>
+		<string>{{0.5325602109183396, 0.62743054587661451}, {0.12355705407112781, 0.19225406488444449}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;retains brown &lt;/p&gt;&lt;p&gt;plumage all the year around&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.58686502653620154</real>
+		<key>Frame</key>
+		<string>{{0.72759416458919413, 0.071962866811232762}, {0.061213936300968108, 0.087855578689688393}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;&lt;b&gt;ad. &lt;/b&gt;♂&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.5722601902411194</real>
+		<key>Frame</key>
+		<string>{{0.85459897853170375, 0.38122701810644277}, {0.068078012257722115, 0.090097769158733548}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;&lt;b&gt;ad. &lt;/b&gt;♂&lt;b&gt; &lt;/b&gt;&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+</array>
+</plist>

@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>FontScale</key>
+		<real>0.61935093654903883</real>
+		<key>Frame</key>
+		<string>{{0.72676319661016098, 0.69110285384541459}, {0.19721777780728023, 0.1013359897426056}}</string>
+		<key>Text</key>
+		<string>&lt;p class="right"&gt;&lt;b&gt;ad. &lt;/b&gt;♂&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>EndPoint</key>
+		<string>{0.69845516742514713, 0.41291998496659449}</string>
+		<key>StartPoint</key>
+		<string>{0.6491084935650645, 0.52747504238805121}</string>
+		<key>Type</key>
+		<string>line</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.26458333333332995</real>
+		<key>Frame</key>
+		<string>{{0.15037559643020371, 0.70570793180128666}, {0.35177431446047641, 0.23721275018535071}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;saknar krickans diagnostiska &lt;/p&gt;&lt;p&gt;vita skulderlinje&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.23518518518523909</real>
+		<key>Frame</key>
+		<string>{{0.52920896347253044, 0.73313565604154496}, {0.39477201094491288, 0.26686434395845499}}</string>
+		<key>Text</key>
+		<string>&lt;p class="right"&gt;otydliga beige kantlin-&lt;/p&gt;&lt;p class="right"&gt;jer längs gröna ögon-&lt;/p&gt;&lt;p class="right"&gt;fältet&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.86750613114482089</real>
+		<key>Frame</key>
+		<string>{{0.56233163947686793, 0.33333333333333309}, {0.39521721349653888, 0.07234823812758627}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;typiskt vitt tvärfält&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>EndPoint</key>
+		<string>{0.48831853691621974, 0.62373579455145356}</string>
+		<key>StartPoint</key>
+		<string>{0.4259717893920702, 0.75401193024527724}</string>
+		<key>Type</key>
+		<string>line</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.12153110047846861</real>
+		<key>Frame</key>
+		<string>{{0.42873938128399097, 0.075858660736261116}, {0.1024766276235503, 0.5164319248826853}}</string>
+		<key>Text</key>
+		<string></string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+</array>
+</plist>

@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>EndPoint</key>
+		<string>{0.68170755545068162, 0.33866428520685393}</string>
+		<key>StartPoint</key>
+		<string>{0.64796064610050286, 0.39393953795987968}</string>
+		<key>Type</key>
+		<string>line</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.27661969294493721</real>
+		<key>Frame</key>
+		<string>{{0.15861229692516984, 0.0090179496941364488}, {0.3005137209430892, 0.12428928972769117}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;white ‘speculum’ often looks like &lt;/p&gt;&lt;p&gt;a thin line&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.213030523019579</real>
+		<key>Frame</key>
+		<string>{{0.59653815120522824, 0.36987099942981039}, {0.33039764210872113, 0.16138938530258606}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;head pattern variable, a pale cheek patch usually visible in summer&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.5525335131945005</real>
+		<key>Frame</key>
+		<string>{{0.81194058036729444, 0.14474350037843783}, {0.13283622296489941, 0.062224035899729517}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;worn&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.63999791667344863</real>
+		<key>Frame</key>
+		<string>{{0.10364661335272587, 0.2311454292370764}, {0.14270491561831186, 0.053720276683901613}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;&lt;b&gt;ad. &lt;/b&gt;♀&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.63373076885884727</real>
+		<key>Frame</key>
+		<string>{{0.46765688105998837, 0.6367881112217223}, {0.13462774192964702, 0.054251532117854329}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;&lt;b&gt;ad. &lt;/b&gt;♀&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>EndPoint</key>
+		<string>{0.25528688974372143, 0.80320844524990076}</string>
+		<key>StartPoint</key>
+		<string>{0.31293716682459111, 0.83203964319971435}</string>
+		<key>Type</key>
+		<string>line</string>
+	</dict>
+</array>
+</plist>

@@ -1,0 +1,118 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>FontScale</key>
+		<real>0.25139180997154281</real>
+		<key>Frame</key>
+		<string>{{0.085923217550274697, 0.14926882458275767}, {0.15448579224880835, 0.18949680585586948}}</string>
+		<key>Text</key>
+		<string>&lt;p class="right"&gt;&lt;b&gt;1er hiv.&lt;/b&gt;&lt;/p&gt;&lt;p class="right"&gt;&lt;b&gt;type &lt;/b&gt;♀&lt;b&gt;, en automne&lt;/b&gt;&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.37740427067576804</real>
+		<key>Frame</key>
+		<string>{{0.040828762949421331, 0.047800310942937109}, {0.17734751802762547, 0.12622524096675986}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;se nourrit souvent au sol&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>EndPoint</key>
+		<string>{0.12102376599634408, 0.62911796750713422}</string>
+		<key>StartPoint</key>
+		<string>{0.13223644119439409, 0.65462489869248541}</string>
+		<key>Type</key>
+		<string>line</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.40000000000000002</real>
+		<key>Frame</key>
+		<string>{{0.04204753199268689, 0.50167708706269243}, {0.17274792051499338, 0.11909486251983267}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;nettes taches blanches&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.36238033272754866</real>
+		<key>Frame</key>
+		<string>{{0.59561243144424258, 0.86854158268089821}, {0.22853591904150225, 0.13145841731910188}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;petite tache jaune, souvent masquée&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>EndPoint</key>
+		<string>{0.85720190454234535, 0.96286812569551017}</string>
+		<key>StartPoint</key>
+		<string>{0.8270689675628754, 0.98000649801054374}</string>
+		<key>Type</key>
+		<string>line</string>
+	</dict>
+	<dict>
+		<key>EndPoint</key>
+		<string>{0.90347349177331182, 0.58476216437967943}</string>
+		<key>StartPoint</key>
+		<string>{0.87324801950030462, 0.61477031871538435}</string>
+		<key>Type</key>
+		<string>line</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.39759270044651518</real>
+		<key>Frame</key>
+		<string>{{0.88226691042047534, 0.48911117243461055}, {0.092149061365338694, 0.11981594469524574}}</string>
+		<key>Text</key>
+		<string>&lt;p class="right"&gt;tache jaune&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>EndPoint</key>
+		<string>{0.64021937842778598, 0.72204947046553247}</string>
+		<key>StartPoint</key>
+		<string>{0.62559414990859208, 0.81169883154344469}</string>
+		<key>Type</key>
+		<string>line</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.67200098437644162</real>
+		<key>Frame</key>
+		<string>{{0.52029250457038201, 0.78736409388684014}, {0.15019230723453686, 0.070889695276468878}}</string>
+		<key>Text</key>
+		<string>&lt;p class="center"&gt;jaune&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.60000000000000009</real>
+		<key>Frame</key>
+		<string>{{0.44359490648169381, 0.72290907905327062}, {0.1724928448894221, 0.079396575013221782}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;♂ &lt;b&gt;1er hiv.&lt;/b&gt;&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.14545454545454548</real>
+		<key>Frame</key>
+		<string>{{0.61243144424131724, 0.0058392244062932495}, {0.38756855575868282, 0.32751087192953982}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;les ind. les plus colorés avec les couv. alaires et sus-caudales gris-bleu sont prob. des ♂♂, mais l’identification du sexe et de l’âge nécessite beaucoup de précautions&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+</array>
+</plist>

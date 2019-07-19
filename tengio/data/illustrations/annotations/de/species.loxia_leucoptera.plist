@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>FontScale</key>
+		<real>0.27390893664685639</real>
+		<key>Frame</key>
+		<string>{{0.050310606883014031, 0.37728042913792659}, {0.0928224726039759, 0.13639973997968038}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;spezialisiert auf Lärchenzapfen&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.58181473831239439</real>
+		<key>Frame</key>
+		<string>{{0.21901004716062011, 0.10369119106214147}, {0.051108483194994413, 0.064214783979366336}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;&lt;b&gt;JK&lt;/b&gt;&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.11125240159237945</real>
+		<key>Frame</key>
+		<string>{{0.34057955716085453, 0.61353699042202348}, {0.17124290019638966, 0.33582293237704919}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;sehr selten zeigen auch Fichtenkreuzschnäbel weiße, aber schmalere Flügelbinden und gleichmäßig weiß gesäumte Schirmfedern, aber ohne breit weiße Spitzen&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.16652098790527492</real>
+		<key>Frame</key>
+		<string>{{0.4733423967117929, 0.40762834798036307}, {0.13658295608853488, 0.2243627557506129}}</string>
+		<key>Text</key>
+		<string>&lt;p class="center"&gt;Fichtenkreuz­schnabel ♀&lt;/p&gt;&lt;p class="center"&gt;Variante mit Flügelbinde zum Vergleich&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>EndPoint</key>
+		<string>{0.65739758916303237, 0.84469947199958983}</string>
+		<key>StartPoint</key>
+		<string>{0.67761285416439532, 0.80005788429012192}</string>
+		<key>Type</key>
+		<string>line</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.23000911926821269</real>
+		<key>Frame</key>
+		<string>{{0.59991300402051306, 0.77089972236437831}, {0.069856337802251783, 0.16243315854435894}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;kräftig schwarz gefleckt&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.29412399549732748</real>
+		<key>Frame</key>
+		<string>{{0.80964723770416192, 0.72509127712752364}, {0.17795101554276843, 0.12702502450903039}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;breit weiße Flügelbinden, untere innen am breitesten&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>EndPoint</key>
+		<string>{0.8094977034648988, 0.8075945211887896}</string>
+		<key>StartPoint</key>
+		<string>{0.78581780242344268, 0.75530239203231331}</string>
+		<key>Type</key>
+		<string>line</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.61935288762321228</real>
+		<key>Frame</key>
+		<string>{{0.66314159925691629, 0.35353238737478515}, {0.054585853710262033, 0.060322811895035286}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;&lt;b&gt;ad. &lt;/b&gt;♀&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.66895312755185365</real>
+		<key>Frame</key>
+		<string>{{0.93490434381156673, 0.22638058697599267}, {0.054585853710262033, 0.055850112957048594}}</string>
+		<key>Text</key>
+		<string>&lt;p class="center"&gt;&lt;b&gt;ad. &lt;/b&gt;♂&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.28870357399306573</real>
+		<key>Frame</key>
+		<string>{{0.88496079689407026, 0.077234707137087327}, {0.10364082532608342, 0.12940992458111836}}</string>
+		<key>Text</key>
+		<string>&lt;p class="right"&gt;eher leuchtend rot als ziegelrot&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+</array>
+</plist>

@@ -1,0 +1,180 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>FontScale</key>
+		<real>0.70555810748736791</real>
+		<key>Frame</key>
+		<string>{{0.15059318332670993, 0.63813305745504845}, {0.037873676012558359, 0.088609814046053184}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;&lt;b&gt;juv.&lt;/b&gt;&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>EndPoint</key>
+		<string>{0.10399650927059695, 0.40999269729365201}</string>
+		<key>StartPoint</key>
+		<string>{0.11744903568507187, 0.5324612170410381}</string>
+		<key>Type</key>
+		<string>line</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.36153936683535365</real>
+		<key>Frame</key>
+		<string>{{0.054523086620817944, 0.22152922525462537}, {0.10253633622829389, 0.17292549149042577}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;pointe des primaires pâle chez le juv.&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.21290133951292367</real>
+		<key>Frame</key>
+		<string>{{0.36302139289863511, 0.56600402775377245}, {0.096437021901931472, 0.29365420079635424}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;pas de large tache blanche à la gorge chez le juv.&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>EndPoint</key>
+		<string>{0.35843696248771373, 0.63251385663393522}</string>
+		<key>StartPoint</key>
+		<string>{0.33257200439810736, 0.63251385663393522}</string>
+		<key>Type</key>
+		<string>line</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.72451762208693871</real>
+		<key>Frame</key>
+		<string>{{0.52971482131545333, 0.040013182049995648}, {0.048035048352945864, 0.086291031159541426}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;&lt;b&gt;ad.&lt;/b&gt;&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>EndPoint</key>
+		<string>{0.55008748598421187, 0.77547701329123797}</string>
+		<key>StartPoint</key>
+		<string>{0.5689572822762512, 0.72895669265778618}</string>
+		<key>Type</key>
+		<string>line</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.63867739443060323</real>
+		<key>Frame</key>
+		<string>{{0.48609126045966944, 0.7396152934163327}, {0.096199454394261613, 0.097888814052794912}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;ailes pointues&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>EndPoint</key>
+		<string>{0.70688846116486503, 0.68539850426514348}</string>
+		<key>StartPoint</key>
+		<string>{0.71562342451841765, 0.61620982158030346}</string>
+		<key>Type</key>
+		<string>line</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.26458345949655859</real>
+		<key>Frame</key>
+		<string>{{0.68468716675442953, 0.35640817038980582}, {0.092668663039767382, 0.23629357943274629}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;silhouette frontale en vol plané&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.29488219202098959</real>
+		<key>Frame</key>
+		<string>{{0.76520288543509685, 0.58749694216018555}, {0.087284347533206921, 0.21201474485339819}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;bras noirâtre, non barré&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>EndPoint</key>
+		<string>{0.80231237143331069, 0.81483261748899627}</string>
+		<key>StartPoint</key>
+		<string>{0.8223277754199011, 0.88688837521664099}</string>
+		<key>Type</key>
+		<string>line</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.24906340814337552</real>
+		<key>Frame</key>
+		<string>{{0.74276348777706247, 0.076933786001799523}, {0.11043373413333726, 0.25101789608191277}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;queue légèrement échancrée (voir l’E. d’Europe)&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>EndPoint</key>
+		<string>{0.79186775425702427, 0.34301307894469046}</string>
+		<key>StartPoint</key>
+		<string>{0.81188315824361168, 0.41506883667233607}</string>
+		<key>Type</key>
+		<string>line</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.29376345543873622</real>
+		<key>Frame</key>
+		<string>{{0.87376070354102353, 0.069391772423049544}, {0.064406457739441744, 0.21282215859616738}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;bord de fuite blanc&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>EndPoint</key>
+		<string>{0.92435686292865915, 0.18745306497466782}</string>
+		<key>StartPoint</key>
+		<string>{0.94437226691524667, 0.25950882270231251}</string>
+		<key>Type</key>
+		<string>line</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.55294064707735235</real>
+		<key>Frame</key>
+		<string>{{0.92623550239210273, 0.52654108144482636}, {0.044340003865532183, 0.11306705888524574}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;&lt;b&gt;juv.&lt;/b&gt;&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.28533107237067562</real>
+		<key>Frame</key>
+		<string>{{0.92093740825462667, 0.66022230357372924}, {0.065636830273541974, 0.21911168728907837}}</string>
+		<key>Text</key>
+		<string>&lt;p class="right"&gt;panneau alaire pâle&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>EndPoint</key>
+		<string>{0.93531777018486628, 0.81672304757808223}</string>
+		<key>StartPoint</key>
+		<string>{0.90637444129798472, 0.71252709166407457}</string>
+		<key>Type</key>
+		<string>line</string>
+	</dict>
+</array>
+</plist>

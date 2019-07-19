@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>FontScale</key>
+		<real>0.51444764543806187</real>
+		<key>Frame</key>
+		<string>{{0.31994311579149759, 0}, {0.24743469103591295, 0.1212079789789845}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;&lt;b&gt;ad. &lt;/b&gt;♀&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.6510500486777534</real>
+		<key>Frame</key>
+		<string>{{0.77535441649238246, 0.098236963014096165}, {0.16739626735976187, 0.095776291731618099}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;hellgelb&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>EndPoint</key>
+		<string>{0.7658642225120823, 0.17247024372224443}</string>
+		<key>StartPoint</key>
+		<string>{0.72535613780343189, 0.2387621085986123}</string>
+		<key>Type</key>
+		<string>line</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.68732039853172522</real>
+		<key>Frame</key>
+		<string>{{0.8314567752389006, 0.47177130386147376}, {0.10081528186720569, 0.090722113772921137}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;rosa&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>EndPoint</key>
+		<string>{0.85805699400838664, 0.56585761299810267}</string>
+		<key>StartPoint</key>
+		<string>{0.83303306766630514, 0.63024614100399845}</string>
+		<key>Type</key>
+		<string>line</string>
+	</dict>
+	<dict>
+		<key>EndPoint</key>
+		<string>{0.6518528178815477, 0.80310851742707967}</string>
+		<key>StartPoint</key>
+		<string>{0.6767837045813403, 0.73542689369268655}</string>
+		<key>Type</key>
+		<string>line</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.29415338144793918</real>
+		<key>Frame</key>
+		<string>{{0.56650598369532701, 0.714771080938849}, {0.26720634319856046, 0.21198178680492447}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;markante Kopfzeichnung&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+</array>
+</plist>

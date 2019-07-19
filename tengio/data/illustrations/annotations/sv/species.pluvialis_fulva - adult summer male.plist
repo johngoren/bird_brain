@@ -1,0 +1,142 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>FontScale</key>
+		<real>0.21272258684376202</real>
+		<key>Frame</key>
+		<string>{{0, 0.13193155896042533}, {0.35062285052862352, 0.10605490578925755}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;längre tertialer än amerikansk, och måttlig hand­-&lt;/p&gt;&lt;p&gt;penne­projektion&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.27920253004571333</real>
+		<key>Frame</key>
+		<string>{{0.3902901271262092, 0.14206089336765512}, {0.15281679191568281, 0.080802541091832464}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;mycket lång­bent&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.68717385909664397</real>
+		<key>Frame</key>
+		<string>{{0.23380299721074385, 0.090572892757451312}, {0.31172170765599561, 0.032830518228123495}}</string>
+		<key>Text</key>
+		<string>&lt;p class="right"&gt;&lt;b&gt;ad. sommar &lt;/b&gt;♂&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>EndPoint</key>
+		<string>{0.5397238381933358, 0.40314989194706985}</string>
+		<key>StartPoint</key>
+		<string>{0.56192219253949982, 0.33395354927741222}</string>
+		<key>Type</key>
+		<string>line</string>
+	</dict>
+	<dict>
+		<key>EndPoint</key>
+		<string>{0.30313248947021237, 0.33918716339691701}</string>
+		<key>StartPoint</key>
+		<string>{0.32013036889178909, 0.29853543011962147}</string>
+		<key>Type</key>
+		<string>line</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.39999755860865044</real>
+		<key>Frame</key>
+		<string>{{0.22234749738644424, 0.33224264180534946}, {0.21765844326173039, 0.056401029009866675}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;grovt såg­tandad&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.2750373859361735</real>
+		<key>Frame</key>
+		<string>{{0.40213562172745004, 0.38986860023801284}, {0.25303132573457338, 0.082026208292271155}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;grövre fläc-&lt;/p&gt;&lt;p&gt;kad än ljung-&lt;/p&gt;&lt;p&gt;piparen&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>EndPoint</key>
+		<string>{0.17392017796717665, 0.24489095909274158}</string>
+		<key>StartPoint</key>
+		<string>{0.17204420458673297, 0.27268321279693103}</string>
+		<key>Type</key>
+		<string>line</string>
+	</dict>
+	<dict>
+		<key>EndPoint</key>
+		<string>{0.13844944613592053, 0.2448865222740447}</string>
+		<key>StartPoint</key>
+		<string>{0.13717024469728784, 0.27384499276862795}</string>
+		<key>Type</key>
+		<string>line</string>
+	</dict>
+	<dict>
+		<key>EndPoint</key>
+		<string>{0.56252172441570869, 0.16337764875894562}</string>
+		<key>StartPoint</key>
+		<string>{0.49526524719480308, 0.16337764875894562}</string>
+		<key>Type</key>
+		<string>line</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.63999583336045995</real>
+		<key>Frame</key>
+		<string>{{0.44031989972188412, 0.65400949377529205}, {0.34925979355370707, 0.035250657474602473}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;gråbrun&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.68717385909664397</real>
+		<key>Frame</key>
+		<string>{{0.45259974562113553, 0.91223825207737019}, {0.36804412957756133, 0.032830518228123495}}</string>
+		<key>Text</key>
+		<string>&lt;p class="right"&gt;&lt;b&gt;ad. sommar &lt;/b&gt;♂&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.39395190215322351</real>
+		<key>Frame</key>
+		<string>{{0.18098832041269697, 0.63199358194624455}, {0.21233151991205437, 0.057266569303650046}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;utstickan­-&lt;/p&gt;&lt;p&gt;de tår&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>EndPoint</key>
+		<string>{0.57132363677733333, 0.75916692452966161}</string>
+		<key>StartPoint</key>
+		<string>{0.54708105295194731, 0.69463790396331215}</string>
+		<key>Type</key>
+		<string>line</string>
+	</dict>
+	<dict>
+		<key>EndPoint</key>
+		<string>{0.28261521057752698, 0.69600156036043559}</string>
+		<key>StartPoint</key>
+		<string>{0.29405745688478163, 0.72155729095645171}</string>
+		<key>Type</key>
+		<string>line</string>
+	</dict>
+</array>
+</plist>

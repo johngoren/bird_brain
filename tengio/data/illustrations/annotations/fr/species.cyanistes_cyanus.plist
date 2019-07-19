@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>EndPoint</key>
+		<string>{0.82056480154517986, 0.27957750007152399}</string>
+		<key>StartPoint</key>
+		<string>{0.83003554723058404, 0.33156202463143375}</string>
+		<key>Type</key>
+		<string>line</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.352775255778567</real>
+		<key>Frame</key>
+		<string>{{0.78799643242800432, 0.13566730016604317}, {0.092810213751926274, 0.1338224971562694}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;blanc très visible sur la queue étalée&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.23420931304749804</real>
+		<key>Frame</key>
+		<string>{{0.28202709074314275, 0.34643601085514841}, {0.15620228731313524, 0.20156869532192934}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;&lt;b&gt;hybride&lt;/b&gt;  Mésange bleue × &lt;/p&gt;&lt;p&gt;Mésange azurée (Mésange de Pleske – « &lt;i&gt;pleskii&lt;/i&gt; ») &lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>EndPoint</key>
+		<string>{0.54892424507724058, 0.56724155261859233}</string>
+		<key>StartPoint</key>
+		<string>{0.53446273945831579, 0.59846657872655629}</string>
+		<key>Type</key>
+		<string>line</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.25083917984284299</real>
+		<key>Frame</key>
+		<string>{{0.5033430438226506, 0.50839706482363645}, {0.11587510198455737, 0.18820531024223283}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;beaucoup de blanc à l’aile&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>EndPoint</key>
+		<string>{0.73124905009559515, 0.73005776018154311}</string>
+		<key>StartPoint</key>
+		<string>{0.71440780304570706, 0.71611801638334627}</string>
+		<key>Type</key>
+		<string>line</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.3602836879432843</real>
+		<key>Frame</key>
+		<string>{{0.73491019075861508, 0.65199519491164515}, {0.052903482580627416, 0.13103359170305029}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;calotte blanche&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+</array>
+</plist>

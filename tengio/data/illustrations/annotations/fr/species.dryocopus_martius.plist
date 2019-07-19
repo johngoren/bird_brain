@@ -1,0 +1,138 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>FontScale</key>
+		<real>0.60645169250510489</real>
+		<key>Frame</key>
+		<string>{{0.31567380787476335, 0.30348141552289876}, {0.043897638084106676, 0.034528937992024417}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;♂&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.12122265130875015</real>
+		<key>Frame</key>
+		<string>{{0.4601281707657775, 0.090398269689708724}, {0.1548751374332005, 0.17274108971872915}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;dimorphisme sexuel déjà visible chez les jeunes au nid&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.5874998505910618</real>
+		<key>Frame</key>
+		<string>{{0.31964843005973254, 0.084715243606751756}, {0.043897638084106676, 0.035642788444286304}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;♀&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.3615383695944992</real>
+		<key>Frame</key>
+		<string>{{0.12379419792592661, 0.51944002665621802}, {0.27149253198027928, 0.057919531221965304}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;rouge uniquement en arrière de la calotte&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>EndPoint</key>
+		<string>{0.17199693212120304, 0.53470265624604618}</string>
+		<key>StartPoint</key>
+		<string>{0.18596593515482729, 0.506687892149151}</string>
+		<key>Type</key>
+		<string>line</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.62666700665527697</real>
+		<key>Frame</key>
+		<string>{{0.41607969005232881, 0.42117268835983562}, {0.043897638084106676, 0.033415087539762522}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;♀&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>EndPoint</key>
+		<string>{0.61640723400153796, 0.711799084457578}</string>
+		<key>StartPoint</key>
+		<string>{0.63091972096452487, 0.68412357661484291}</string>
+		<key>Type</key>
+		<string>line</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.64138737601354467</real>
+		<key>Frame</key>
+		<string>{{0.52378343595527821, 0.7037405613944443}, {0.23642652012461632, 0.032648183716707288}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;calotte toute rouge&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>EndPoint</key>
+		<string>{0.74987352462994383, 0.60917128985555069}</string>
+		<key>StartPoint</key>
+		<string>{0.70344380057256506, 0.59588316976720201}</string>
+		<key>Type</key>
+		<string>line</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.66073841066279515</real>
+		<key>Frame</key>
+		<string>{{0.76032061487645841, 0.58972586656256021}, {0.14027942818213393, 0.03169201691280777}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;cou mince&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.67142840067549925</real>
+		<key>Frame</key>
+		<string>{{0.78254504579052653, 0.55832327368054502}, {0.043897800280482333, 0.031187439888750512}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;♂&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.25707592690711617</real>
+		<key>Frame</key>
+		<string>{{0.3247371255092017, 0.57737714034276899}, {0.13708724131323452, 0.081455051577944457}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;arrière de la calotte anguleux&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>EndPoint</key>
+		<string>{0.44136247196299527, 0.60521604402392892}</string>
+		<key>StartPoint</key>
+		<string>{0.48028827180990602, 0.60803721976450154}</string>
+		<key>Type</key>
+		<string>line</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.13303943145889119</real>
+		<key>Frame</key>
+		<string>{{0.8590336126131255, 0.72705734525706633}, {0.12350637658482563, 0.15739794327170942}}</string>
+		<key>Text</key>
+		<string>&lt;p class="right"&gt;vol capricieux et un peu irrégulier, trajectoire rectiligne&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+</array>
+</plist>

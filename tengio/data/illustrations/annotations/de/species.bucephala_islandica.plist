@@ -1,0 +1,186 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>FontScale</key>
+		<real>0.48205130719835732</real>
+		<key>Frame</key>
+		<string>{{0.48906842334450595, 0.17436067799913713}, {0.069486657812829755, 0.069964661023633481}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;kurz&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>EndPoint</key>
+		<string>{0.52354261705972738, 0.24740798333588671}</string>
+		<key>StartPoint</key>
+		<string>{0.51707354826022223, 0.3010341182359566}</string>
+		<key>Type</key>
+		<string>line</string>
+	</dict>
+	<dict>
+		<key>EndPoint</key>
+		<string>{0.45501677632498483, 0.49071803845232131}</string>
+		<key>StartPoint</key>
+		<string>{0.45928526301302514, 0.43999483748766666}</string>
+		<key>Type</key>
+		<string>line</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.31999843750762891</real>
+		<key>Frame</key>
+		<string>{{0.4223590210234926, 0.45929302385457327}, {0.12166625078998888, 0.10539600307682258}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;Scheitel gerundet, nicht so spitz&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.61935093654903883</real>
+		<key>Frame</key>
+		<string>{{0.087376560151352825, 0.1061270482952526}, {0.075817420331438928, 0.054454678783652864}}</string>
+		<key>Text</key>
+		<string>&lt;p class="right"&gt;♀&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.59322555533428378</real>
+		<key>Frame</key>
+		<string>{{0.043536302542156541, 0.30998189083914052}, {0.081748967774915873, 0.05685283784702682}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;&lt;b&gt;JK&lt;/b&gt;&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.6047634720500521</real>
+		<key>Frame</key>
+		<string>{{0.7276358476286896, 0.27002303678555772}, {0.073900906337594274, 0.055768176920151624}}</string>
+		<key>Text</key>
+		<string>&lt;p class="right"&gt;violett&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>EndPoint</key>
+		<string>{0.83418585079337693, 0.3016146620424997}</string>
+		<key>StartPoint</key>
+		<string>{0.80992429495086171, 0.30956616226491124}</string>
+		<key>Type</key>
+		<string>line</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.17800432334313321</real>
+		<key>Frame</key>
+		<string>{{0.91993765684179174, 0.31200935722891177}, {0.08006234315820776, 0.18947043347435374}}</string>
+		<key>Text</key>
+		<string>&lt;p class="right"&gt;weißer Halbmond reicht bis über das Auge&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>EndPoint</key>
+		<string>{0.96212458166505743, 0.33944657519090948}</string>
+		<key>StartPoint</key>
+		<string>{0.9428474447099503, 0.32618875635801731}</string>
+		<key>Type</key>
+		<string>line</string>
+	</dict>
+	<dict>
+		<key>EndPoint</key>
+		<string>{0.91027146262880609, 0.10500755964033411}</string>
+		<key>StartPoint</key>
+		<string>{0.92939191020569734, 0.068984462508508884}</string>
+		<key>Type</key>
+		<string>line</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>1.1758858697375767</real>
+		<key>Frame</key>
+		<string>{{0.89574157767568119, 0.036068082358407715}, {0.10185872290562212, 0.028681828034602758}}</string>
+		<key>Text</key>
+		<string>&lt;p class="right"&gt;schwarze Boa&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.61935093654903883</real>
+		<key>Frame</key>
+		<string>{{0.55038014917569511, 0.10531067964545611}, {0.075817596352195302, 0.054454678783652864}}</string>
+		<key>Text</key>
+		<string>&lt;p class="right"&gt;♂&lt;b&gt; PK&lt;/b&gt;&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.80436230496247807</real>
+		<key>Frame</key>
+		<string>{{0.56673001313897919, 0.31744353052320695}, {0.087614067382915509, 0.041929558478881919}}</string>
+		<key>Text</key>
+		<string>&lt;p class="right"&gt;♂&lt;b&gt; SK&lt;/b&gt;&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.25396726978209533</real>
+		<key>Frame</key>
+		<string>{{0.68190796283353283, 0.83626252893417097}, {0.10382161856478836, 0.1327988300739302}}</string>
+		<key>Text</key>
+		<string>&lt;p class="right"&gt;etwas weniger Weiß im Flügel als bei Schellente&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.61935093654903883</real>
+		<key>Frame</key>
+		<string>{{0.90062272950929279, 0.68902422532089891}, {0.075817420331438928, 0.054454678783652864}}</string>
+		<key>Text</key>
+		<string>&lt;p class="right"&gt;♂&lt;b&gt; PK&lt;/b&gt;&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.61935093654903883</real>
+		<key>Frame</key>
+		<string>{{0.58614580663429905, 0.63990905283811395}, {0.075817596352195302, 0.054454678783652864}}</string>
+		<key>Text</key>
+		<string>&lt;p class="right"&gt;♀&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.25396726978209533</real>
+		<key>Frame</key>
+		<string>{{0.68190796283353283, 0.83626252893417097}, {0.10382161856478836, 0.1327988300739302}}</string>
+		<key>Text</key>
+		<string>&lt;p class="right"&gt;etwas weniger Weiß im Flügel als bei Schellente&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.39999674481815739</real>
+		<key>Frame</key>
+		<string>{{0.051051596739822958, 0.56644561840557217}, {0.36139375927197509, 0.084317076928875787}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;zwei Spatelenten-♂ (r. außen) mit vier Schellenten&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+</array>
+</plist>

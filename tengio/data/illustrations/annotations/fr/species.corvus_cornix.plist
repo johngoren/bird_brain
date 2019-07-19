@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>FontScale</key>
+		<real>0.24736804690994435</real>
+		<key>Frame</key>
+		<string>{{0.10708980872249638, 0.51715650463015517}, {0.37658288301897408, 0.12984447555420836}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;inventive – pille ici une lignede pêche sans surveillance&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.24736804690994435</real>
+		<key>Frame</key>
+		<string>{{0.75794829333300651, 0.51604898913514696}, {0.24205170666699241, 0.12984447555420836}}</string>
+		<key>Text</key>
+		<string>&lt;p class="right"&gt;plumage gris pâle et noir la rendant impossible à confondre&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+</array>
+</plist>

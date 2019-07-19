@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>EndPoint</key>
+		<string>{0.44958494703864804, 0.75878731877188565}</string>
+		<key>StartPoint</key>
+		<string>{0.38242408443778714, 0.7413020613061887}</string>
+		<key>Type</key>
+		<string>line</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.39197530864197089</real>
+		<key>Frame</key>
+		<string>{{0.40646933154179815, 0.73955353555961734}, {0.30098016202606553, 0.094420390314774449}}</string>
+		<key>Text</key>
+		<string>&lt;p class="right"&gt;large bord d’attaque noir&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.26179902584323256</real>
+		<key>Frame</key>
+		<string>{{0.76963547745754834, 0.52186208011166746}, {0.15753782585386161, 0.14136974542407676}}</string>
+		<key>Text</key>
+		<string>&lt;p class="right"&gt;bec trapu et pâle&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>EndPoint</key>
+		<string>{0.80155761585424767, 0.60054573870731554}</string>
+		<key>StartPoint</key>
+		<string>{0.7443465106757492, 0.60928836744016079}</string>
+		<key>Type</key>
+		<string>line</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.16450777202072581</real>
+		<key>Frame</key>
+		<string>{{0.57466761177675052, 0.29601083784638688}, {0.36245544895700738, 0.22497697939199032}}</string>
+		<key>Text</key>
+		<string>&lt;p class="right"&gt;le jizz évoque un fulmar gigantesque plutôt qu’un Fou de Bassan&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.2760869565217382</real>
+		<key>Frame</key>
+		<string>{{0.69667058969365703, 0.012166824986548558}, {0.24045247104010689, 0.13405364057035773}}</string>
+		<key>Text</key>
+		<string>&lt;p class="right"&gt;ailes immenses et étroites&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+</array>
+</plist>

@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>EndPoint</key>
+		<string>{0.25619647238746268, 0.16288075701723473}</string>
+		<key>StartPoint</key>
+		<string>{0.25505300403532011, 0.11992984459994969}</string>
+		<key>Type</key>
+		<string>line</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.57407878071918661</real>
+		<key>Frame</key>
+		<string>{{0.20637559393865706, 0.052699310996240124}, {0.12797264374953121, 0.054916634938439519}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;weiß!&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.11296289176836165</real>
+		<key>Frame</key>
+		<string>{{0.66904312308849812, 0}, {0.29717964286005721, 0.27908700222819455}}</string>
+		<key>Text</key>
+		<string>&lt;p class="right"&gt;diese außergewöhnliche Morphe kommt nur in schwarzen Basaltwüsten in N-Jordanien und S-Syrien vor&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+</array>
+</plist>

@@ -1,0 +1,118 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>FontScale</key>
+		<real>0.33509234828494211</real>
+		<key>Frame</key>
+		<string>{{0, 0.22698525553810453}, {0.21298670632559105, 0.14216363116541433}}</string>
+		<key>Text</key>
+		<string>&lt;p class="right"&gt;&lt;b&gt;1. vinter&lt;/b&gt; ♀&lt;b&gt;-farget, høst&lt;/b&gt;&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.37740427067576804</real>
+		<key>Frame</key>
+		<string>{{0.040828762949421331, 0.047800310942937109}, {0.17734751802762547, 0.12622524096675986}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;﻿søker ofte føde på bakken&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>EndPoint</key>
+		<string>{0.12102376599634408, 0.62911796750713422}</string>
+		<key>StartPoint</key>
+		<string>{0.13223644119439409, 0.65462489869248541}</string>
+		<key>Type</key>
+		<string>line</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.40000000000000002</real>
+		<key>Frame</key>
+		<string>{{0.04204753199268689, 0.50167708706269243}, {0.17274792051499338, 0.11909486251983267}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;﻿iøynefallende hvite flekker&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.35768350642494007</real>
+		<key>Frame</key>
+		<string>{{0.66127764371318365, 0.86681537126473596}, {0.19905142392849826, 0.13318462873526404}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;﻿liten gul flekk, ofte skjult&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>EndPoint</key>
+		<string>{0.85720190454234535, 0.96286812569551017}</string>
+		<key>StartPoint</key>
+		<string>{0.8270689675628754, 0.98000649801054374}</string>
+		<key>Type</key>
+		<string>line</string>
+	</dict>
+	<dict>
+		<key>EndPoint</key>
+		<string>{0.90347349177331182, 0.58476216437967943}</string>
+		<key>StartPoint</key>
+		<string>{0.87324801950030462, 0.61477031871538435}</string>
+		<key>Type</key>
+		<string>line</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.39759270044651518</real>
+		<key>Frame</key>
+		<string>{{0.85886654478976299, 0.48911117243461055}, {0.092149061365338694, 0.11981594469524574}}</string>
+		<key>Text</key>
+		<string>&lt;p class="right"&gt;﻿gul flekk&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>EndPoint</key>
+		<string>{0.64021937842778598, 0.72204947046553247}</string>
+		<key>StartPoint</key>
+		<string>{0.62559414990859208, 0.81169883154344469}</string>
+		<key>Type</key>
+		<string>line</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.59366512084606404</real>
+		<key>Frame</key>
+		<string>{{0.56489945155393084, 0.77800998952751166}, {0.10558536025099066, 0.080243799635797503}}</string>
+		<key>Text</key>
+		<string>&lt;p class="center"&gt;gul&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.56501992770413656</real>
+		<key>Frame</key>
+		<string>{{0.41681901279707523, 0.71799368085609294}, {0.19926873857404029, 0.084311973210399585}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;&lt;b&gt;1. vint.&lt;/b&gt; ♂&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.15001845699520414</real>
+		<key>Frame</key>
+		<string>{{0.59488117001828045, 0.015802869400576607}, {0.37830591102985983, 0.31754722693525628}}</string>
+		<key>Text</key>
+		<string>&lt;p class="right"&gt;﻿klarere fargete fugler med blågrått på vingedekkerne og øvre stjertdekkere er trolig ♂♂, men ﻿sikker alders- og kjønns-bestemmelse krever kunnskap og kritiske vurderinger&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+</array>
+</plist>

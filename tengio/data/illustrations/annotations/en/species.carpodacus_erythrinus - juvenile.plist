@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>EndPoint</key>
+		<string>{0.59268073141456312, 0.77155570968716713}</string>
+		<key>StartPoint</key>
+		<string>{0.60835037403952796, 0.70743777647023576}</string>
+		<key>Type</key>
+		<string>line</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.28228199771714052</real>
+		<key>Frame</key>
+		<string>{{0.51141974807708657, 0.74734627514829266}, {0.20305134576081291, 0.21053733863869378}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;two buff-&lt;/p&gt;&lt;p&gt;white wing-&lt;/p&gt;&lt;p&gt;bars obvious&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.39999755860865038</real>
+		<key>Frame</key>
+		<string>{{0.14706912379588796, 0.13521789936303741}, {0.35239790618224054, 0.14857815820602693}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;juv. is somewhat richer olive-brown than ad. ♀&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.58181473831239439</real>
+		<key>Frame</key>
+		<string>{{0.80586251283860799, 0.12212761235487023}, {0.11720652877585858, 0.10214746487406838}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;&lt;b&gt;juv.&lt;/b&gt;&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+</array>
+</plist>

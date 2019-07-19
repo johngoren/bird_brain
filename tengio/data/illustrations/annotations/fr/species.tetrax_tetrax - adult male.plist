@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>FontScale</key>
+		<real>0.25832697686244382</real>
+		<key>Frame</key>
+		<string>{{0.57698124201723333, 0.17939546916312807}, {0.28809205168135393, 0.11456593055586596}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;cou noir acquis par les ind. de 3e année civ.&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.63682210842378417</real>
+		<key>Frame</key>
+		<string>{{0.56537220087067552, 0.37588169121271936}, {0.19458377512798064, 0.046473685665816611}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;♂&lt;b&gt; ad.&lt;/b&gt;&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.63682210842378417</real>
+		<key>Frame</key>
+		<string>{{0.51941603331615049, 0.87662219077129189}, {0.19458377512798064, 0.046473685665816611}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;♂&lt;b&gt; ad.&lt;/b&gt;&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.23639710188692417</real>
+		<key>Frame</key>
+		<string>{{0.12153820998982748, 0.60469924092664451}, {0.45988826493721724, 0.12519388036358386}}</string>
+		<key>Text</key>
+		<string>&lt;p class="center"&gt;impossible à confondre en raison de sa taille de perdrix et de l’étendue du blanc à l’aile&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+</array>
+</plist>

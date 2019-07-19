@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>EndPoint</key>
+		<string>{0.49125042806352881, 0.64682355820996495}</string>
+		<key>StartPoint</key>
+		<string>{0.44933077312207603, 0.70715597737684843}</string>
+		<key>Type</key>
+		<string>line</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.36448813839603855</real>
+		<key>Frame</key>
+		<string>{{0.37449239343404878, 0.65643159091017644}, {0.13631253072942842, 0.17613526394286916}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;varmt brun&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.57072525022642306</real>
+		<key>Frame</key>
+		<string>{{0.26385490473468409, 0.075416062402668002}, {0.17791760097583093, 0.11248707576011681}}</string>
+		<key>Text</key>
+		<string>&lt;p class="right"&gt;&lt;b&gt;ad.&lt;/b&gt; ♀&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.34931264074763396</real>
+		<key>Frame</key>
+		<string>{{0.81967657415290263, 0.51813983340170811}, {0.18032342584709743, 0.18378726381909816}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;brun &lt;/p&gt;&lt;p&gt;”mask”&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+</array>
+</plist>

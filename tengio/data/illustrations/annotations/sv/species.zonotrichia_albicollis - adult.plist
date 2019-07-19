@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>EndPoint</key>
+		<string>{0.81544336020365049, 0.74525299725684757}</string>
+		<key>StartPoint</key>
+		<string>{0.90453966907085759, 0.8388648476624645}</string>
+		<key>Type</key>
+		<string>line</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.28830874006811613</real>
+		<key>Frame</key>
+		<string>{{0.82053457785320283, 0.77159731581362845}, {0.15061518879932115, 0.2253334431894578}}</string>
+		<key>Text</key>
+		<string>&lt;p class="right"&gt;gult framom ögat&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>EndPoint</key>
+		<string>{0.7249331141447839, 0.77054588094935694}</string>
+		<key>StartPoint</key>
+		<string>{0.6589212552433481, 0.83486844011442207}</string>
+		<key>Type</key>
+		<string>line</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.42996191282267132</real>
+		<key>Frame</key>
+		<string>{{0.55876113703861319, 0.78994881927429561}, {0.2087399236317351, 0.1510961765768232}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;”vitbrynad” varietet&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.24411340701585293</real>
+		<key>Frame</key>
+		<string>{{0, 0.055441083202384375}, {0.41875265167585979, 0.26612877144000563}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;provianterar mest på mar-&lt;/p&gt;&lt;p&gt;ken som en järnsparv, men &lt;/p&gt;&lt;p&gt;slår även ibland följe med gråsparvsflockar&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.57304004512126794</real>
+		<key>Frame</key>
+		<string>{{0.82039076038278402, 0.14937264621184423}, {0.17960923961721603, 0.11337008932319005}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;&lt;b&gt;adult&lt;/b&gt;&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+</array>
+</plist>

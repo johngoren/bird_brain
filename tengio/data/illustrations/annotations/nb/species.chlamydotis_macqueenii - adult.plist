@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>FontScale</key>
+		<real>0.58565530553520329</real>
+		<key>Frame</key>
+		<string>{{0.72104523953143829, 0.64920932067049586}, {0.093310671958292235, 0.065952184513685286}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;&lt;b&gt;ad.&lt;/b&gt;&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.32410695475923107</real>
+		<key>Frame</key>
+		<string>{{0.59802218099301185, 0.88082561572685181}, {0.18822847077358315, 0.11917438427314819}}</string>
+		<key>Text</key>
+		<string>&lt;p class="right"&gt;﻿svart og hvit topp&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.1508313539192396</real>
+		<key>Frame</key>
+		<string>{{0.69439366065693653, 0.1824814584134512}, {0.297397531763051, 0.2560823447408539}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;oversidens flekking i snitt ikke så tydelig (og litt mer uregel-messig) enn hos kragetrappe&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.18287301814390247</real>
+		<key>Frame</key>
+		<string>{{0.88617430304003386, 0.68784057720610914}, {0.11382569695996628, 0.21121348115817895}}</string>
+		<key>Text</key>
+		<string>&lt;p class="right"&gt;jevnt grå&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>EndPoint</key>
+		<string>{0.70099771597089, 0.85734242032478269}</string>
+		<key>StartPoint</key>
+		<string>{0.69962594856544291, 0.9186905229955401}</string>
+		<key>Type</key>
+		<string>line</string>
+	</dict>
+</array>
+</plist>

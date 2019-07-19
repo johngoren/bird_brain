@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>FontScale</key>
+		<real>0.52916763111572607</real>
+		<key>Frame</key>
+		<string>{{0, 0.1823768925211845}, {0.32255224007729322, 0.10425770836608222}}</string>
+		<key>Text</key>
+		<string>&lt;p class="center"&gt;♂&lt;b&gt; 1er W&lt;/b&gt;&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.36363636363636354</real>
+		<key>Frame</key>
+		<string>{{0.58760391795075018, 0.47241859592824847}, {0.14867096141336883, 0.15171696254449338}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;rot-braun&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>EndPoint</key>
+		<string>{0.58147714422090013, 0.58610526063272728}</string>
+		<key>StartPoint</key>
+		<string>{0.53285216724563311, 0.49993248056254558}</string>
+		<key>Type</key>
+		<string>line</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.30391863595580948</real>
+		<key>Frame</key>
+		<string>{{0.52535719961768379, 0.062826243974185778}, {0.41068511726405221, 0.18152820536367431}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;Alter an hellen Spitzen der juv. Großen Armdecken erkennbar&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+</array>
+</plist>

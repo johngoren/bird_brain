@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>FontScale</key>
+		<real>0.20349070100143074</real>
+		<key>Frame</key>
+		<string>{{0.32702093938694093, 0.52802115988292708}, {0.11863317422889443, 0.28238265711765692}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;habituellement rencontrée en groupes familiaux&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.48831118512474758</real>
+		<key>Frame</key>
+		<string>{{0.63605838822079974, 0.3336255452834706}, {0.1205829003143301, 0.1176754631021588}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;impossible à confondre !&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.24102565359917863</real>
+		<key>Frame</key>
+		<string>{{0.70448993692987461, 0.075537360584104929}, {0.28989653166470131, 0.23840717363255182}}</string>
+		<key>Text</key>
+		<string>&lt;p class="center"&gt;couleurs remarquables sous lumière ; à l’ombre du feuillage, elle peut en revanche être étonnamment terne&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+</array>
+</plist>

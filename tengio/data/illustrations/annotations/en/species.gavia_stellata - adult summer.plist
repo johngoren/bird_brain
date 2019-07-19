@@ -1,0 +1,134 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>EndPoint</key>
+		<string>{0.37021909812486553, 0.27025895151247015}</string>
+		<key>StartPoint</key>
+		<string>{0.39600322877841004, 0.21724063383116737}</string>
+		<key>Type</key>
+		<string>line</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.55199435563378652</real>
+		<key>Frame</key>
+		<string>{{0.32875283575992686, 0.25272538636615027}, {0.18467339853883041, 0.054564741446145482}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;plain&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.50092633974832945</real>
+		<key>Frame</key>
+		<string>{{0.66243665502934979, 0.052840326121534095}, {0.25854466569992918, 0.060127461674348265}}</string>
+		<key>Text</key>
+		<string>&lt;p class="right"&gt;&lt;b&gt;ad. summer&lt;/b&gt;&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.28389682326013055</real>
+		<key>Frame</key>
+		<string>{{0.71083572928854188, 0.17801791327140279}, {0.191656268786914, 0.10609287187159275}}</string>
+		<key>Text</key>
+		<string>&lt;p class="right"&gt;narrow rusty strip&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>EndPoint</key>
+		<string>{0.72917370914913271, 0.27683386819458877}</string>
+		<key>StartPoint</key>
+		<string>{0.78613982516038772, 0.26682078421830668}</string>
+		<key>Type</key>
+		<string>line</string>
+	</dict>
+	<dict>
+		<key>EndPoint</key>
+		<string>{0.77590802042957452, 0.44805386382749596}</string>
+		<key>StartPoint</key>
+		<string>{0.83009450284315123, 0.42977228800814404}</string>
+		<key>Type</key>
+		<string>line</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.28389682326013055</real>
+		<key>Frame</key>
+		<string>{{0.71977297960415232, 0.31621927711100489}, {0.19165626878691561, 0.10609287187159275}}</string>
+		<key>Text</key>
+		<string>&lt;p class="right"&gt;uniform, grey&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>EndPoint</key>
+		<string>{0.53233017580508191, 0.45567097486190483}</string>
+		<key>StartPoint</key>
+		<string>{0.58651665821865306, 0.43738939904255242}</string>
+		<key>Type</key>
+		<string>line</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.28389682326012916</real>
+		<key>Frame</key>
+		<string>{{0.32875283575992686, 0.40893664778820438}, {0.19165626878691561, 0.10609287187159325}}</string>
+		<key>Text</key>
+		<string>&lt;p class="right"&gt;finely striped&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.60476161181175037</real>
+		<key>Frame</key>
+		<string>{{0.31474828758583384, 0.91462196473641444}, {0.24176251817400071, 0.049803804849082901}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;plain grey-brown&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>EndPoint</key>
+		<string>{0.44312313183674618, 0.93384909016531115}</string>
+		<key>StartPoint</key>
+		<string>{0.46573368304344825, 0.900497597537119}</string>
+		<key>Type</key>
+		<string>line</string>
+	</dict>
+	<dict>
+		<key>EndPoint</key>
+		<string>{0.6186575709183777, 0.91110422292125492}</string>
+		<key>StartPoint</key>
+		<string>{0.60373799100190184, 0.87919617504242076}</string>
+		<key>Type</key>
+		<string>line</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.29777089839549592</real>
+		<key>Frame</key>
+		<string>{{0.59039905295625161, 0.89885032601512005}, {0.11503745262257696, 0.10114967398488001}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;often lowered head&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.43838548704295988</real>
+		<key>Frame</key>
+		<string>{{0.60082314413276061, 0.72365778601255626}, {0.15332000404944446, 0.068705352218782892}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;&lt;b&gt;ad. summer&lt;/b&gt;&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+</array>
+</plist>

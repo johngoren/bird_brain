@@ -1,0 +1,126 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>EndPoint</key>
+		<string>{0.43409756809809102, 0.16201658691911738}</string>
+		<key>StartPoint</key>
+		<string>{0.43009528156979393, 0.22030184644132089}</string>
+		<key>Type</key>
+		<string>line</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.46331699793834041</real>
+		<key>Frame</key>
+		<string>{{0.42323969674273904, 0.11823977610965106}, {0.1339595209302458, 0.039664550439160839}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;Sprenkel recht groß&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>EndPoint</key>
+		<string>{0.39431418973379601, 0.31256399885104641}</string>
+		<key>StartPoint</key>
+		<string>{0.41462508550795091, 0.29029986843568872}</string>
+		<key>Type</key>
+		<string>line</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.21726227777478035</real>
+		<key>Frame</key>
+		<string>{{0.29359636903189129, 0.2817797054371155}, {0.16456372878258574, 0.084585601431907229}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;Bänderung etwas deutlicher als bei Eistaucher&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.4760401584646104</real>
+		<key>Frame</key>
+		<string>{{0.10105474865882649, 0.24317527237138548}, {0.16829995914431359, 0.03860443306572859}}</string>
+		<key>Text</key>
+		<string>&lt;p class="center"&gt;&lt;b&gt;SK&lt;/b&gt;&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>EndPoint</key>
+		<string>{0.71934680705331033, 0.3211206202768162}</string>
+		<key>StartPoint</key>
+		<string>{0.77512270417818807, 0.34341785974529637}</string>
+		<key>Type</key>
+		<string>line</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.26211768376320244</real>
+		<key>Frame</key>
+		<string>{{0.78134290920593052, 0.28247828488470583}, {0.20469883167233455, 0.07011072343614913}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;Kragen oft ausgedehnter als bei Eistaucher&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.44342465922903074</real>
+		<key>Frame</key>
+		<string>{{0.83254918686771673, 0.36556817702387873}, {0.15349255401054876, 0.041443929767004568}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;aufgerichtet, gelblich weiß&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>EndPoint</key>
+		<string>{0.82247037222103925, 0.44260702938827767}</string>
+		<key>StartPoint</key>
+		<string>{0.8426280015143941, 0.4111545526491851}</string>
+		<key>Type</key>
+		<string>line</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.49318202341892176</real>
+		<key>Frame</key>
+		<string>{{0.36755921119447366, 0.6460448529634486}, {0.11641897174918613, 0.037262632377895406}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;&lt;b&gt;SK&lt;/b&gt;&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.6688939543428708</real>
+		<key>Frame</key>
+		<string>{{0.5492717072776413, 0.7773837677575568}, {0.069322850892306456, 0.027474101559341973}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;hell&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>EndPoint</key>
+		<string>{0.57149396281011677, 0.75539888095009022}</string>
+		<key>StartPoint</key>
+		<string>{0.56323861926775542, 0.78554486215895791}</string>
+		<key>Type</key>
+		<string>line</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.23698617918126222</real>
+		<key>Frame</key>
+		<string>{{0.62760998336682794, 0.63094007376930361}, {0.10095148529820805, 0.07754570539740116}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;Schnabel, Gesicht und Halsseiten hell&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+</array>
+</plist>

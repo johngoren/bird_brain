@@ -1,0 +1,172 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>EndPoint</key>
+		<string>{0.12902092617770883, 0.23112377310805365}</string>
+		<key>StartPoint</key>
+		<string>{0.11370976480451316, 0.21300848181149729}</string>
+		<key>Type</key>
+		<string>line</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.39937106918232868</real>
+		<key>Frame</key>
+		<string>{{0.094635690890447904, 0.099873360695302699}, {0.036331569360125208, 0.108691747779309}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;long tail&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.26112106501284649</real>
+		<key>Frame</key>
+		<string>{{0.41227741158182879, 0.091545645804322881}, {0.070068026623099092, 0.16623836732506836}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;stout bill especially in ♂&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>EndPoint</key>
+		<string>{0.40708718738752397, 0.22907298541410565}</string>
+		<key>StartPoint</key>
+		<string>{0.39008920315117901, 0.2106158961685598}</string>
+		<key>Type</key>
+		<string>line</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.29090779959250856</real>
+		<key>Frame</key>
+		<string>{{0.20051626445424092, 0.22907298541409551}, {0.21331821438587797, 0.14921682946529177}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;swimming, looks long, low and almost uniformly dark brown&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>EndPoint</key>
+		<string>{0.67814664593503049, 0.19728577615788684}</string>
+		<key>StartPoint</key>
+		<string>{0.66685790831242131, 0.21779365309737392}</string>
+		<key>Type</key>
+		<string>line</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.28916211293260052</real>
+		<key>Frame</key>
+		<string>{{0.80712595341116189, 0.022558664633434738}, {0.19255508136097668, 0.15011765919706252}}</string>
+		<key>Text</key>
+		<string>&lt;p class="right"&gt;often looks slightly longer-necked and smaller-headed than any of the storm petrels&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.25049309664693353</real>
+		<key>Frame</key>
+		<string>{{0.57576947370239195, 0.20959050232157686}, {0.1265117147361508, 0.17329156013868943}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;long, pointed tail, usually held tightly folded; sometimes difficult to see&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.29090779959250856</real>
+		<key>Frame</key>
+		<string>{{0.21316743592785559, 0.7004245121377406}, {0.18905391627750903, 0.14921682946529177}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;returning to Selvagem Grande&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.29090779959250856</real>
+		<key>Frame</key>
+		<string>{{0.44906312555895411, 0.50182774870930191}, {0.10588057356379355, 0.14921682946529177}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;seldom spreads tail to reveal its graduated shape&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>EndPoint</key>
+		<string>{0.46171429703257066, 0.65837120934740101}</string>
+		<key>StartPoint</key>
+		<string>{0.47456010191347009, 0.69665257963444627}</string>
+		<key>Type</key>
+		<string>line</string>
+	</dict>
+	<dict>
+		<key>EndPoint</key>
+		<string>{0.63383510687616218, 0.74997305967712158}</string>
+		<key>StartPoint</key>
+		<string>{0.61685964743310695, 0.73643786089706076}</string>
+		<key>Type</key>
+		<string>line</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.46540225485023229</real>
+		<key>Frame</key>
+		<string>{{0.58297090977198696, 0.8320045674350679}, {0.067245372346083743, 0.093270582747579406}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;plain underwing&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.46540225485023229</real>
+		<key>Frame</key>
+		<string>{{0.63863606425589303, 0.67721035386903616}, {0.067245372346083743, 0.093270582747579406}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;rather heavy&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>EndPoint</key>
+		<string>{0.57888399700889315, 0.85989528007277949}</string>
+		<key>StartPoint</key>
+		<string>{0.54167887735053866, 0.82913346466354565}</string>
+		<key>Type</key>
+		<string>line</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.11938334273359615</real>
+		<key>Frame</key>
+		<string>{{0.89681412881010503, 0.22681711895075024}, {0.10286690596203218, 0.36360465813714321}}</string>
+		<key>Text</key>
+		<string>&lt;p class="right"&gt;extraordinarily long-winged, can look a much bigger bird than it actually is&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>EndPoint</key>
+		<string>{0.82996070361841057, 0.64538288728571858}</string>
+		<key>StartPoint</key>
+		<string>{0.86265911604252443, 0.67819549038890747}</string>
+		<key>Type</key>
+		<string>line</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.20780004877803579</real>
+		<key>Frame</key>
+		<string>{{0.74795516134841478, 0.45260884405451585}, {0.097965481667480883, 0.20889475135920585}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;well-defined but usually not conspicuous carpal-bar&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+</array>
+</plist>

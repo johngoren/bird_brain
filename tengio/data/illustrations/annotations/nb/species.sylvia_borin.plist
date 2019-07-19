@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>FontScale</key>
+		<real>0.20409803133788734</real>
+		<key>Frame</key>
+		<string>{{0.58958602147250239, 0.72941475270676182}, {0.24129031571317058, 0.15865830489430491}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;﻿sitter som regel godt skjult i løvverket når den synger&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>EndPoint</key>
+		<string>{0.23226695220287377, 0.17729737854316727}</string>
+		<key>StartPoint</key>
+		<string>{0.17911614615247798, 0.094327657015927449}</string>
+		<key>Type</key>
+		<string>line</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.48380952380952791</real>
+		<key>Frame</key>
+		<string>{{0.14140262816462698, 0.020711243741365813}, {0.11460420900618028, 0.0669309843869101}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;﻿uflekket&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.31839548730805012</real>
+		<key>Frame</key>
+		<string>{{0.7044420162820868, 0.1145580454210119}, {0.2433942502334763, 0.10170322437077832}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;﻿anonym og karakterløs – en god feltkarakter!&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>EndPoint</key>
+		<string>{0.70148512997069923, 0.55178487463743475}</string>
+		<key>StartPoint</key>
+		<string>{0.75028369988455779, 0.46116349195266632}</string>
+		<key>Type</key>
+		<string>line</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.41741988496302085</real>
+		<key>Frame</key>
+		<string>{{0.63050381692325974, 0.51416645720762988}, {0.14972485370162175, 0.077576198094162732}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;grå halsside&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>EndPoint</key>
+		<string>{0.89187599331967526, 0.57800669782907255}</string>
+		<key>StartPoint</key>
+		<string>{0.86673636387470665, 0.5371054749745815}</string>
+		<key>Type</key>
+		<string>line</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.31849529780564362</real>
+		<key>Frame</key>
+		<string>{{0.8105433323619996, 0.58388766951122195}, {0.16396022900016241, 0.1016713524734497}}</string>
+		<key>Text</key>
+		<string>&lt;p class="right"&gt;﻿kort nebb og «mildt oppsyn»&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+</array>
+</plist>

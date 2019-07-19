@@ -1,0 +1,138 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>EndPoint</key>
+		<string>{0.3867088283587804, 0.34510161320613275}</string>
+		<key>StartPoint</key>
+		<string>{0.38364087733854746, 0.45336317659927566}</string>
+		<key>Type</key>
+		<string>line</string>
+	</dict>
+	<dict>
+		<key>EndPoint</key>
+		<string>{0.38671175038028566, 0.37530629769006379}</string>
+		<key>StartPoint</key>
+		<string>{0.27073602641745048, 0.30323827877648746}</string>
+		<key>Type</key>
+		<string>line</string>
+	</dict>
+	<dict>
+		<key>EndPoint</key>
+		<string>{0.27040283824534861, 0.27943486742699597}</string>
+		<key>StartPoint</key>
+		<string>{0.26948122028085769, 0.34310935058598635}</string>
+		<key>Type</key>
+		<string>line</string>
+	</dict>
+	<dict>
+		<key>EndPoint</key>
+		<string>{0.33010223550906836, 0.34004641947040831}</string>
+		<key>StartPoint</key>
+		<string>{0.33018012196176599, 0.25311652204248114}</string>
+		<key>Type</key>
+		<string>line</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.23059464366773094</real>
+		<key>Frame</key>
+		<string>{{0.21591290778024838, 0.05616958380667017}, {0.35575771249698335, 0.18612561282560944}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;﻿middels lang håndsvingfjærprojeksjon (knapt ¾ ﻿av tertiærlengden)&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.2305423190378845</real>
+		<key>Frame</key>
+		<string>{{0.21822970909173556, 0.56630415041631865}, {0.18261324830925729, 0.18616785649625822}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;﻿mørke vinge- og stjertfjær (jf. bleksanger)&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>EndPoint</key>
+		<string>{0.34393793426420466, 0.56625704210007877}</string>
+		<key>StartPoint</key>
+		<string>{0.3456531129087918, 0.44826593634387168}</string>
+		<key>Type</key>
+		<string>line</string>
+	</dict>
+	<dict>
+		<key>EndPoint</key>
+		<string>{0.24391503434069126, 0.56629766929263325}</string>
+		<key>StartPoint</key>
+		<string>{0.24527728730770423, 0.41825158096709569}</string>
+		<key>Type</key>
+		<string>line</string>
+	</dict>
+	<dict>
+		<key>EndPoint</key>
+		<string>{0.49356545505246224, 0.7101004117045614}</string>
+		<key>StartPoint</key>
+		<string>{0.49382406295218012, 0.55415835596784202}</string>
+		<key>Type</key>
+		<string>line</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.19500959692898567</real>
+		<key>Frame</key>
+		<string>{{0.41979142319096724, 0.67867231431009944}, {0.24197702586625408, 0.2200895240175742}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;﻿lyse armsving-fjærkanter danner antydning til lyst vingefelt&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>EndPoint</key>
+		<string>{0.64236471558870301, 0.54021360884562519}</string>
+		<key>StartPoint</key>
+		<string>{0.77067534715627872, 0.38966093454104733}</string>
+		<key>Type</key>
+		<string>line</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.27840766127309219</real>
+		<key>Frame</key>
+		<string>{{0.75528631786844991, 0.33104914864016755}, {0.2228542213905019, 0.1541608775085371}}</string>
+		<key>Text</key>
+		<string>&lt;p class="right"&gt;﻿aldri tydelige lyse bremmer på stordekkerne&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.3766694973928445</real>
+		<key>Frame</key>
+		<string>{{0.82131515524578724, 0.61213853305720867}, {0.15450858270168191, 0.11394490306231733}}</string>
+		<key>Text</key>
+		<string>&lt;p class="right"&gt;﻿nokså kraftig&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>EndPoint</key>
+		<string>{0.92205637131559726, 0.78289987807762285}</string>
+		<key>StartPoint</key>
+		<string>{0.94327819571469618, 0.73729399050900724}</string>
+		<key>Type</key>
+		<string>line</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.70702853166330515</real>
+		<key>Frame</key>
+		<string>{{0.66471041897656824, 0.22358125054020422}, {0.14475880345662004, 0.060704154705029982}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;&lt;b&gt;sommer&lt;/b&gt;&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+</array>
+</plist>

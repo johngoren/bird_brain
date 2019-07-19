@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>EndPoint</key>
+		<string>{0.6993735751999558, 0.43018187672547831}</string>
+		<key>StartPoint</key>
+		<string>{0.6993735751999558, 0.46359761353599765}</string>
+		<key>Type</key>
+		<string>line</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.29613786268257414</real>
+		<key>Frame</key>
+		<string>{{0.62921698161181205, 0.42866789794260135}, {0.10916733693419274, 0.096425663066337097}}</string>
+		<key>Text</key>
+		<string>&lt;p class="right"&gt;red ‘face’&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.55153608893788675</real>
+		<key>Frame</key>
+		<string>{{0.33565642031105392, 0.059867703850261147}, {0.14093937159545902, 0.051774109330189187}}</string>
+		<key>Text</key>
+		<string>&lt;p class="right"&gt;&lt;b&gt;ad.&lt;/b&gt;&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>EndPoint</key>
+		<string>{0.39396353273027185, 0.68205459190659434}</string>
+		<key>StartPoint</key>
+		<string>{0.37960386711350247, 0.7320391462344098}</string>
+		<key>Type</key>
+		<string>line</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.49387268600797107</real>
+		<key>Frame</key>
+		<string>{{0.32858886664704873, 0.61600265191802939}, {0.14493796438890721, 0.057819131483117125}}</string>
+		<key>Text</key>
+		<string>&lt;p class="center"&gt;white&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.55153608893788675</real>
+		<key>Frame</key>
+		<string>{{0.14210355595938218, 0.88781410572561004}, {0.14093979157159564, 0.051774109330189187}}</string>
+		<key>Text</key>
+		<string>&lt;p class="right"&gt;&lt;b&gt;ad.&lt;/b&gt;&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>EndPoint</key>
+		<string>{0.48672805378971207, 0.92010210390419356}</string>
+		<key>StartPoint</key>
+		<string>{0.42531429768186774, 0.91168899794701519}</string>
+		<key>Type</key>
+		<string>line</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.21261216836122232</real>
+		<key>Frame</key>
+		<string>{{0.4575121257419914, 0.79516325886048389}, {0.39653474825005347, 0.13430694013571431}}</string>
+		<key>Text</key>
+		<string>&lt;p class="right"&gt;black wings with broad yellow bar common &lt;/p&gt;&lt;p class="right"&gt;to all plumages&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+</array>
+</plist>

@@ -1,0 +1,136 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>EndPoint</key>
+		<string>{0.80046430167500449, 0.73761709006984288}</string>
+		<key>StartPoint</key>
+		<string>{0.83223466132036727, 0.70051654901369553}</string>
+		<key>Type</key>
+		<string>line</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.15222657143730942</real>
+		<key>Frame</key>
+		<string>{{0.70737255840987623, 0.59735624766875928}, {0.1358363390473451, 0.36479467954776418}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;sans aucune tache à partir de mars ; le plumage a des reflets pourpres (verts sous certains angles)&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.25051461074021725</real>
+		<key>Frame</key>
+		<string>{{0.91946499882044774, 0.11347846603387617}, {0.070880931902123814, 0.22166947940499179}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;♂ &lt;b&gt;ad.&lt;/b&gt; &lt;/p&gt;&lt;p&gt;&lt;b&gt;nuptial&lt;/b&gt;&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>EndPoint</key>
+		<string>{0.82834159066319535, 0.19661109540383809}</string>
+		<key>StartPoint</key>
+		<string>{0.80272951872024423, 0.169024617121042}</string>
+		<key>Type</key>
+		<string>line</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.40000000000000002</real>
+		<key>Frame</key>
+		<string>{{0.71438741602066669, 0.055158647327421276}, {0.10612388290623108, 0.13882860836532029}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;souvent rose assez pâle&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.25402863197064446</real>
+		<key>Frame</key>
+		<string>{{0.23493331011493479, 0.34943512990999293}, {0.10136255349836085, 0.21860308783045101}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;pas de liserés chamois sur les ailes&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.55096267421803991</real>
+		<key>Frame</key>
+		<string>{{0.20667254531081289, 0.21944404556221042}, {0.17363727792242528, 0.10078984647179913}}</string>
+		<key>Text</key>
+		<string>&lt;p class="right"&gt;petites taches pâles&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>EndPoint</key>
+		<string>{0.38457908845606253, 0.3005347730014844}</string>
+		<key>StartPoint</key>
+		<string>{0.42076822818435483, 0.31688397516308731}</string>
+		<key>Type</key>
+		<string>line</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.52916763111572618</real>
+		<key>Frame</key>
+		<string>{{0.3035593605309872, 0.069649388617503291}, {0.091807029425228323, 0.1049411189967205}}</string>
+		<key>Text</key>
+		<string>&lt;p class="right"&gt;&lt;b&gt;ad. internuptial&lt;/b&gt; &lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>EndPoint</key>
+		<string>{0.59816532219705154, 0.52665331401647131}</string>
+		<key>StartPoint</key>
+		<string>{0.57258354593016858, 0.49248236051600658}</string>
+		<key>Type</key>
+		<string>line</string>
+	</dict>
+	<dict>
+		<key>EndPoint</key>
+		<string>{0.65911008113044645, 0.49450607305895006}</string>
+		<key>StartPoint</key>
+		<string>{0.64234373082719076, 0.38284701564932977}</string>
+		<key>Type</key>
+		<string>line</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.55147343442333507</real>
+		<key>Frame</key>
+		<string>{{0.58997766834152021, 0.46257442959540712}, {0.14700646799378175, 0.10069649756419591}}</string>
+		<key>Text</key>
+		<string>&lt;p class="right"&gt;pas de taches pâles&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.3889272986774831</real>
+		<key>Frame</key>
+		<string>{{0.14278298987641661, 0.67692668214774743}, {0.094776636363523015, 0.14278103783138507}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;à l’entrée de son nid&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.48846153846153989</real>
+		<key>Frame</key>
+		<string>{{0.23703169937400723, 0.8662675245484297}, {0.49208393613744683, 0.1136864194487659}}</string>
+		<key>Text</key>
+		<string>&lt;p class="center"&gt;même la jeune ♀ (à dr.) paraît plus sombre qu’un Sansonnet ♂ ad. (à g.)&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+</array>
+</plist>

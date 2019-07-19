@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>EndPoint</key>
+		<string>{0.19930303781399486, 0.88028276512976866}</string>
+		<key>StartPoint</key>
+		<string>{0.15183088590572938, 0.83141858763171672}</string>
+		<key>Type</key>
+		<string>line</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.26444560124935002</real>
+		<key>Frame</key>
+		<string>{{0.10435873399747048, 0.82617021301154792}, {0.35762354437556776, 0.17382978698845217}}</string>
+		<key>Text</key>
+		<string>&lt;p class="right"&gt;longue queue souvent relevée (contrairement à la F. à lunettes)&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.27245910431750753</real>
+		<key>Frame</key>
+		<string>{{0.66927734170578379, 0.17808643663919665}, {0.24210797473213191, 0.16871714619467701}}</string>
+		<key>Text</key>
+		<string>&lt;p class="right"&gt;♀ &lt;b&gt;ad./ &lt;/b&gt;♂ &lt;b&gt;internuptial&lt;/b&gt;&lt;/p&gt;&lt;p class="right"&gt;&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.24242424242424246</real>
+		<key>Frame</key>
+		<string>{{0.76111745205838932, 0.4563407807253459}, {0.21849630912229934, 0.18962015545773159}}</string>
+		<key>Text</key>
+		<string>&lt;p class="right"&gt;bande pectorale latérale chamois rosé&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>EndPoint</key>
+		<string>{0.77879959666461163, 0.67392878489367469}</string>
+		<key>StartPoint</key>
+		<string>{0.86631940647094119, 0.62737208244413323}</string>
+		<key>Type</key>
+		<string>line</string>
+	</dict>
+	<dict>
+		<key>EndPoint</key>
+		<string>{0.8417594936391265, 0.85313599985307209}</string>
+		<key>StartPoint</key>
+		<string>{0.81327620249416976, 0.80427182235502082}</string>
+		<key>Type</key>
+		<string>line</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.26444560124935002</real>
+		<key>Frame</key>
+		<string>{{0.54110253155347543, 0.82273162274317213}, {0.34179949373948104, 0.17382978698845217}}</string>
+		<key>Text</key>
+		<string>&lt;p class="right"&gt;cercle orbitaire rouge entouré d’un cercle oculaire blanc&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+</array>
+</plist>

@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>FontScale</key>
+		<real>0.64090788054999581</real>
+		<key>Frame</key>
+		<string>{{0.71943879969420366, 0.12557954073306418}, {0.19991948239389459, 0.040013585468505468}}</string>
+		<key>Text</key>
+		<string>&lt;p class="right"&gt;&lt;b&gt;ad. som.&lt;/b&gt;&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.67733333333336576</real>
+		<key>Frame</key>
+		<string>{{0.67350977754251906, 0.047634827420092597}, {0.32649022245748077, 0.037861745456434143}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;gul&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.31079840929947705</real>
+		<key>Frame</key>
+		<string>{{0.046949788129074153, 0.027492378837257823}, {0.46217944854502613, 0.082513363931393524}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;fåglar i Medelhavet är större än dem som häckar på de atlantiska öarna&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.15987411487018061</real>
+		<key>Frame</key>
+		<string>{{0.21802739228189622, 0.35726818176280883}, {0.70352319995657542, 0.16040759491710066}}</string>
+		<key>Text</key>
+		<string>&lt;p class="right"&gt;liknande grå ton ovan som nordliga grå-trutar &lt;i&gt;L. a. argentatus&lt;/i&gt;, av vilka en del även är gulbenta; huvudets streckning i vinterdräkt oftast mycket svagare; har mörkröd (snarare än orange) orbitalring&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.69039298640459823</real>
+		<key>Frame</key>
+		<string>{{0.24813182955119376, 0.81019499903375625}, {0.20930638282170941, 0.037145542844198201}}</string>
+		<key>Text</key>
+		<string>&lt;p class="right"&gt;&lt;b&gt;ad. som.&lt;/b&gt;&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>EndPoint</key>
+		<string>{0.56430787334928934, 0.72996873612404101}</string>
+		<key>StartPoint</key>
+		<string>{0.49296225322302217, 0.73478235111491996}</string>
+		<key>Type</key>
+		<string>line</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.15805849408836609</real>
+		<key>Frame</key>
+		<string>{{0.2312688481210764, 0.6375201985887694}, {0.25177737797948901, 0.16225019986264411}}</string>
+		<key>Text</key>
+		<string>&lt;p class="right"&gt;oftast ett brett svart band på hp 5 (vanl. smalt hos &lt;i&gt;argentatus&lt;/i&gt;)&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+</array>
+</plist>

@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>FontScale</key>
+		<real>0.2900108082071014</real>
+		<key>Frame</key>
+		<string>{{0.29530002893245361, 0.66565759918041811}, {0.20280383745712469, 0.15036961196907267}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;aspect bigarré&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.73182606624133639</real>
+		<key>Frame</key>
+		<string>{{0.86026525347704619, 0.631560252746592}, {0.1397347465229537, 0.059589039948951469}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;gris&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.20345617795219004</real>
+		<key>Frame</key>
+		<string>{{0.78452826338250614, 0.39250161098817593}, {0.17718700326814432, 0.21434007625556883}}</string>
+		<key>Text</key>
+		<string>&lt;p class="right"&gt;barres alaires pâles&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.37062353080894755</real>
+		<key>Frame</key>
+		<string>{{0.66889950944185639, 0.11803699074119632}, {0.25031657697036785, 0.11766336746551279}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;♂ &lt;b&gt;ad. nuptial&lt;/b&gt;&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>EndPoint</key>
+		<string>{0.8469314344147475, 0.67165628886481932}</string>
+		<key>StartPoint</key>
+		<string>{0.77348562429473811, 0.67165628886481932}</string>
+		<key>Type</key>
+		<string>line</string>
+	</dict>
+	<dict>
+		<key>EndPoint</key>
+		<string>{0.8151605105056321, 0.53458379687209712}</string>
+		<key>StartPoint</key>
+		<string>{0.70698742922916236, 0.53458379687209712}</string>
+		<key>Type</key>
+		<string>line</string>
+	</dict>
+</array>
+</plist>

@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>EndPoint</key>
+		<string>{0.07441102299304668, 0.41063041703951952}</string>
+		<key>StartPoint</key>
+		<string>{0.10598378696290137, 0.48795903537096774}</string>
+		<key>Type</key>
+		<string>line</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.27396351667890545</real>
+		<key>Frame</key>
+		<string>{{0.014593075312586521, 0.16075502833940186}, {0.20711574064885477, 0.24939492883519052}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;short-tailed, chicken-&lt;/p&gt;&lt;p&gt;like look&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.44659340659340463</real>
+		<key>Frame</key>
+		<string>{{0.83460709276129474, 0.83654035997988074}, {0.14171421876290916, 0.15299176104447038}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;pale iris&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>EndPoint</key>
+		<string>{0.78318493430750002, 0.89981186973462945}</string>
+		<key>StartPoint</key>
+		<string>{0.82706344373943697, 0.95928570853682094}</string>
+		<key>Type</key>
+		<string>line</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.17167645805536735</real>
+		<key>Frame</key>
+		<string>{{0.78054019046966105, 0.29006544319833855}, {0.21945980953033883, 0.39798765957495835}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;orange-brown in &lt;/p&gt;&lt;p&gt;♀ Caper­-­caillie fashion&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>EndPoint</key>
+		<string>{0.76816762298377239, 0.51664315508944414}</string>
+		<key>StartPoint</key>
+		<string>{0.71082975476300592, 0.54729607031371963}</string>
+		<key>Type</key>
+		<string>line</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.27400624077860608</real>
+		<key>Frame</key>
+		<string>{{0.5775589314949886, 0.031635574071637487}, {0.26873334745394234, 0.24935604222525751}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;&lt;b&gt;ad.&lt;/b&gt; ♀ &lt;/p&gt;&lt;p&gt;(♂ has slightly &lt;/p&gt;&lt;p&gt;duller colours)&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+</array>
+</plist>

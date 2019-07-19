@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>FontScale</key>
+		<real>0.31678175660396773</real>
+		<key>Frame</key>
+		<string>{{0.23509343913327452, 0.013927431823062768}, {0.60418772533527654, 0.15704977549319166}}</string>
+		<key>Text</key>
+		<string>&lt;p class="center"&gt;grosse tête et queue courte créant une silhouette compacte&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.78067389071366855</real>
+		<key>Frame</key>
+		<string>{{0.64163306961347422, 0.29339148466787757}, {0.25755599475668978, 0.063727638834586361}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;&lt;b&gt;1er hiv.&lt;/b&gt;&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>EndPoint</key>
+		<string>{0.41649684043422486, 0.60641250210679865}</string>
+		<key>StartPoint</key>
+		<string>{0.30714603101766924, 0.57196492547707534}</string>
+		<key>Type</key>
+		<string>line</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.22708985248100208</real>
+		<key>Frame</key>
+		<string>{{0.1186472323930218, 0.42756115030634462}, {0.24103140147047458, 0.21907849783448186}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;barre alaire pâle chez le 1er hiv.&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>EndPoint</key>
+		<string>{0.748684278729283, 0.88771569818656526}</string>
+		<key>StartPoint</key>
+		<string>{0.69514659266644252, 0.82607658492772162}</string>
+		<key>Type</key>
+		<string>line</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.28863636363636436</real>
+		<key>Frame</key>
+		<string>{{0.74487485324333125, 0.81789888761120411}, {0.22576607937734516, 0.17236395001729474}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;lunettes pâles&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>EndPoint</key>
+		<string>{0.81554402470800735, 0.72630870065759456}</string>
+		<key>StartPoint</key>
+		<string>{0.70810922382847452, 0.75948459419090908}</string>
+		<key>Type</key>
+		<string>line</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.19992153773723015</real>
+		<key>Frame</key>
+		<string>{{0.8278438126966543, 0.49861231265722189}, {0.16365313508480372, 0.24885014550249376}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;tache latérale sombre sur la gorge&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+</array>
+</plist>

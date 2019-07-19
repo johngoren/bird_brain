@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>FontScale</key>
+		<real>0.20566140703431821</real>
+		<key>Frame</key>
+		<string>{{0.69817565602391141, 0.15409774291493197}, {0.25820129426079436, 0.24860876865888909}}</string>
+		<key>Text</key>
+		<string>&lt;p class="center"&gt;bedeutendere Größe ohne direkten Vergleich mit Felsenkleiber nicht immer auffällig&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.25753397024333075</real>
+		<key>Frame</key>
+		<string>{{0.76710877838688951, 0.56961695844685267}, {0.12575991411575227, 0.19853392201093717}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;lang und kräftig&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>EndPoint</key>
+		<string>{0.49117478536855358, 0.86552439351563815}</string>
+		<key>StartPoint</key>
+		<string>{0.54381373423456092, 0.81219867551947722}</string>
+		<key>Type</key>
+		<string>line</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.32564121462874446</real>
+		<key>Frame</key>
+		<string>{{0.31437092715512199, 0.81710432195482763}, {0.26017478784290721, 0.15701092756869739}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;schwarzer Augenstreif hinter dem Auge &lt;i&gt;breit&lt;/i&gt;&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>EndPoint</key>
+		<string>{0.37473119878508843, 0.68065899062427093}</string>
+		<key>StartPoint</key>
+		<string>{0.42737014765110148, 0.62733327262811067}</string>
+		<key>Type</key>
+		<string>line</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.39952811639796776</real>
+		<key>Frame</key>
+		<string>{{0.18216606795020351, 0.66141443503777708}, {0.29868034039300473, 0.12797404504199372}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;meist etwas heller als Felsenkleiber&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>EndPoint</key>
+		<string>{0.82858013418037102, 0.76816278065530985}</string>
+		<key>StartPoint</key>
+		<string>{0.82764188982263431, 0.84562677713369128}</string>
+		<key>Type</key>
+		<string>line</string>
+	</dict>
+</array>
+</plist>

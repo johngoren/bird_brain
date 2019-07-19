@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>FontScale</key>
+		<real>0.60023538283292854</real>
+		<key>Frame</key>
+		<string>{{0.132331729470128, 0.0075221703523210984}, {0.16818400281251028, 0.067354283503363171}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;&lt;b&gt;ad. &lt;/b&gt;♀&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.60023538283292854</real>
+		<key>Frame</key>
+		<string>{{0.15301501457826316, 0.49784857087918477}, {0.16818400281251028, 0.067354283503363171}}</string>
+		<key>Text</key>
+		<string>&lt;p class="right"&gt;&lt;b&gt;ad. &lt;/b&gt;♀&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>EndPoint</key>
+		<string>{0.47716554269321154, 0.73808139855030175}</string>
+		<key>StartPoint</key>
+		<string>{0.38370020432569524, 0.73066707545454979}</string>
+		<key>Type</key>
+		<string>line</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.29287627123230159</real>
+		<key>Frame</key>
+		<string>{{0.48981087236262938, 0.62309242438323664}, {0.21917354928637284, 0.13803926133712641}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;﻿bredt hvitt vingebånd, bredest utover&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.24574602319493069</real>
+		<key>Frame</key>
+		<string>{{0.34217052202014503, 0.81829686393261136}, {0.51447402827698308, 0.16451303511841636}}</string>
+		<key>Text</key>
+		<string>&lt;p class="right"&gt;﻿jevnt brede hvite vingebånd hos juv. ♀; ﻿fremre båndet bredere (og kileformet) hos ad. ♀ och ♂♂&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+</array>
+</plist>

@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>EndPoint</key>
+		<string>{0.40920604983894415, 0.73170185538542709}</string>
+		<key>StartPoint</key>
+		<string>{0.50327310866843666, 0.69376490921690281}</string>
+		<key>Type</key>
+		<string>line</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.25051461074021725</real>
+		<key>Frame</key>
+		<string>{{0.76154847542319326, 0.093492473319664038}, {0.20986733752948106, 0.22666685897289821}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;&lt;b&gt;ad.&lt;/b&gt; &lt;/p&gt;&lt;p&gt;&lt;b&gt;summer&lt;/b&gt; &lt;/p&gt;&lt;p&gt;♂&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>EndPoint</key>
+		<string>{0.49174633621060532, 0.17849926824708082}</string>
+		<key>StartPoint</key>
+		<string>{0.41591300271686754, 0.15029087257948739}</string>
+		<key>Type</key>
+		<string>line</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.40000000000000002</real>
+		<key>Frame</key>
+		<string>{{0.17943537944065222, 0.033857876091646553}, {0.2519404571111607, 0.14195839985825826}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;often quite light pink&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.15222657143730942</real>
+		<key>Frame</key>
+		<string>{{0.15239310824215827, 0.61547831125192565}, {0.42011040043462722, 0.37301871419135302}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;entirely spotless from &lt;i&gt;c&lt;/i&gt;. Mar; plu­­m­age has some purple gloss (green at certain angles) &lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+</array>
+</plist>

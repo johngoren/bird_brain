@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>FontScale</key>
+		<real>0.27813746023864222</real>
+		<key>Frame</key>
+		<string>{{0.27088716856319367, 0.86470670282769424}, {0.15731746827153761, 0.13529329717230576}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;stries blanches sur le manteau&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>EndPoint</key>
+		<string>{0.8247583228122477, 0.51449928978566883}</string>
+		<key>StartPoint</key>
+		<string>{0.788672762125747, 0.56187258368698911}</string>
+		<key>Type</key>
+		<string>line</string>
+	</dict>
+	<dict>
+		<key>EndPoint</key>
+		<string>{0.42249473999330028, 0.63779572503094484}</string>
+		<key>StartPoint</key>
+		<string>{0.34321908352095321, 0.63673485960397025}</string>
+		<key>Type</key>
+		<string>line</string>
+	</dict>
+	<dict>
+		<key>EndPoint</key>
+		<string>{0.28350358304705525, 0.88213400629427718}</string>
+		<key>StartPoint</key>
+		<string>{0.23064308901030559, 0.81273831329586899}</string>
+		<key>Type</key>
+		<string>line</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.14315906283415009</real>
+		<key>Frame</key>
+		<string>{{0.75656631031994592, 0.0030251569916975719}, {0.18055392991464592, 0.26285540934569784}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;parties inf. blanc crème, sans contraste entre la poitrine et le ventre&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.61683747182224757</real>
+		<key>Frame</key>
+		<string>{{0.053543734178843942, 0.46211673020729305}, {0.12959697524284386, 0.061004941790664721}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;&lt;b&gt;1er hiver&lt;/b&gt;&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.2280306193458595</real>
+		<key>Frame</key>
+		<string>{{0.79828863881859602, 0.34714278289652606}, {0.15861111898378458, 0.16502228591390386}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;bec fin à base jaune terne (voir P. farlouse)&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.24582160904076628</real>
+		<key>Frame</key>
+		<string>{{0.43402996640166691, 0.51121746345487495}, {0.16662645278236654, 0.15307903243191504}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;strié (voir P. farlouse)&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>EndPoint</key>
+		<string>{0.75115425382957757, 0.2774899175167358}</string>
+		<key>StartPoint</key>
+		<string>{0.72242754853196078, 0.31520294353840878}</string>
+		<key>Type</key>
+		<string>line</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.54208127579675136</real>
+		<key>Frame</key>
+		<string>{{0.35693748755022531, 0.063805719237357977}, {0.14522671577925331, 0.069417882046392779}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;&lt;b&gt;1er hiver&lt;/b&gt;&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+</array>
+</plist>

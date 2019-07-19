@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>FontScale</key>
+		<real>0.59793074504126664</real>
+		<key>Frame</key>
+		<string>{{0.78876310774160308, 0.082832452987756447}, {0.086491552748390599, 0.10464869065688603}}</string>
+		<key>Text</key>
+		<string>&lt;p class="center"&gt;lang, schmal&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.17505227756543618</real>
+		<key>Frame</key>
+		<string>{{0.83200888411579843, 0.5651859714669033}, {0.13534991738645749, 0.3574513307813128}}</string>
+		<key>Text</key>
+		<string>&lt;p class="center"&gt;Bulwersturmvogel(zum Vergleich)&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>EndPoint</key>
+		<string>{0.81864098320505374, 0.24559259953722129}</string>
+		<key>StartPoint</key>
+		<string>{0.82353289357118187, 0.19612430759155369}</string>
+		<key>Type</key>
+		<string>line</string>
+	</dict>
+	<dict>
+		<key>EndPoint</key>
+		<string>{0.65586525194594592, 0.65588728602606872}</string>
+		<key>StartPoint</key>
+		<string>{0.66443857017823582, 0.5825831244912314}</string>
+		<key>Type</key>
+		<string>line</string>
+	</dict>
+	<dict>
+		<key>EndPoint</key>
+		<string>{0.43530804265078482, 0.47296185454048084}</string>
+		<key>StartPoint</key>
+		<string>{0.40373440979790143, 0.58526936380051775}</string>
+		<key>Type</key>
+		<string>line</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.27562279321111449</real>
+		<key>Frame</key>
+		<string>{{0.32369684584932173, 0.52911560917049627}, {0.10805679608325477, 0.22702284104688356}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;einfarbig, oberseits ganz ohne Weiß&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.25806349993896482</real>
+		<key>Frame</key>
+		<string>{{0.50143201649414226, 0.7070572747881676}, {0.12165487275458363, 0.24247004937491781}}</string>
+		<key>Text</key>
+		<string>&lt;p class="center"&gt;Flügelhaltung wie Wellenläufer&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>EndPoint</key>
+		<string>{0.59482735738934167, 0.22678085993241873}</string>
+		<key>StartPoint</key>
+		<string>{0.56912568941269492, 0.25265125530064475}</string>
+		<key>Type</key>
+		<string>line</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.2589398202162877</real>
+		<key>Frame</key>
+		<string>{{0.60023169912474095, 0.069195152209069966}, {0.13137607080242555, 0.2416494671225117}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;weiße Schäfte (im Freiland schwer zu sehen)&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.61920659116390986</real>
+		<key>Frame</key>
+		<string>{{0, 0.39157027840009079}, {0.066487625345097667, 0.10105297725343709}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;gegabelt&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>EndPoint</key>
+		<string>{0.070505605620153858, 0.35722477951513548}</string>
+		<key>StartPoint</key>
+		<string>{0.046387546283628754, 0.42591577728504526}</string>
+		<key>Type</key>
+		<string>line</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.28533433297571026</real>
+		<key>Frame</key>
+		<string>{{0.016609004674283011, 0.63426365142324515}, {0.16954690731278485, 0.21929597086864253}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;Vorsicht: manche Wellen-läufer zeigen sehr wenig Weiß auf dem Bürzel&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+</array>
+</plist>

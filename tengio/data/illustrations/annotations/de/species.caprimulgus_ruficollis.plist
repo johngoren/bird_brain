@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>FontScale</key>
+		<real>0.40844226116447407</real>
+		<key>Frame</key>
+		<string>{{0.37410318736554343, 0.53601862041691051}, {0.060636655322863289, 0.12441413181736642}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;rostrot&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>EndPoint</key>
+		<string>{0.38674172672937723, 0.60820298230311454}</string>
+		<key>StartPoint</key>
+		<string>{0.40398265043814663, 0.55504154793036409}</string>
+		<key>Type</key>
+		<string>line</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.37462191209776269</real>
+		<key>Frame</key>
+		<string>{{0.54082344659158299, 0.26940632857045971}, {0.098881597766628471, 0.13564606788681105}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;ohne dunklen Vorderrand&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.30699351777651385</real>
+		<key>Frame</key>
+		<string>{{0.50224630432811057, 0.1001564605354693}, {0.13025673389355438, 0.1655278902575828}}</string>
+		<key>Text</key>
+		<string>&lt;p class="right"&gt;mehrere gleich-breite Binden auf Armdecken&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>EndPoint</key>
+		<string>{0.53299003173040971, 0.33294808235310436}</string>
+		<key>StartPoint</key>
+		<string>{0.48504748459548136, 0.33294808235310436}</string>
+		<key>Type</key>
+		<string>line</string>
+	</dict>
+	<dict>
+		<key>EndPoint</key>
+		<string>{0.53176319875573075, 0.24669752430799866}</string>
+		<key>StartPoint</key>
+		<string>{0.47864022448900345, 0.24669752430799866}</string>
+		<key>Type</key>
+		<string>line</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.24513778617538337</real>
+		<key>Frame</key>
+		<string>{{0.73196858243179685, 0.057947412734388803}, {0.17245884964809621, 0.20729561979459124}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;weiße Flecke auf Schwanz und Flügeln bei beiden Geschlechtern, deutlicher ausgeprägt  bei ♂&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.2944927536231623</real>
+		<key>Frame</key>
+		<string>{{0.70666423654663557, 0.66043275223428299}, {0.11722046826633158, 0.17255429444394765}}</string>
+		<key>Text</key>
+		<string>&lt;p class="right"&gt;Handschwingen rotbraun gebändert&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.22048611111107264</real>
+		<key>Frame</key>
+		<string>{{0.91221338465994362, 0.63372434839861658}, {0.05625350739085748, 0.23047251849210987}}</string>
+		<key>Text</key>
+		<string>&lt;p class="right"&gt;ohne dunklen Vorderrand&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>EndPoint</key>
+		<string>{0.95372920765824942, 0.65996404390993313}</string>
+		<key>StartPoint</key>
+		<string>{0.92928686613493594, 0.59102945830311349}</string>
+		<key>Type</key>
+		<string>line</string>
+	</dict>
+	<dict>
+		<key>EndPoint</key>
+		<string>{0.87820878088984944, 0.70947232200604271}</string>
+		<key>StartPoint</key>
+		<string>{0.83026623375492103, 0.70947232200604271}</string>
+		<key>Type</key>
+		<string>line</string>
+	</dict>
+</array>
+</plist>

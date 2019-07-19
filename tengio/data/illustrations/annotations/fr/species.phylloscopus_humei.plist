@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>FontScale</key>
+		<real>0.25363734174112551</real>
+		<key>Frame</key>
+		<string>{{0.033295045351047811, 0.66683688738957747}, {0.36131664678755104, 0.10985975625893279}}</string>
+		<key>Text</key>
+		<string>&lt;p class="center"&gt;les deux espèces peuvent présenter une vague bande pâle au centre de la calotte&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.47037038366163375</real>
+		<key>Frame</key>
+		<string>{{0.35489672187187077, 0.14930564742535513}, {0.12132151633759089, 0.059239564202427257}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;sombre&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>EndPoint</key>
+		<string>{0.5049410166197954, 0.50044714536688117}</string>
+		<key>StartPoint</key>
+		<string>{0.52221306012816693, 0.46809411044036947}</string>
+		<key>Type</key>
+		<string>line</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.88989088212401302</real>
+		<key>Frame</key>
+		<string>{{0.42948196975227604, 0.49399215766898574}, {0.17355866408691112, 0.031312307049754171}}</string>
+		<key>Text</key>
+		<string>&lt;p class="right"&gt;plus terne&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.20604339890489937</real>
+		<key>Frame</key>
+		<string>{{0.60602672182916262, 0.13361813192110619}, {0.30159488698795578, 0.13523624969273948}}</string>
+		<key>Text</key>
+		<string>&lt;p class="right"&gt;barres alaires chamois, la barre sup. étant peu nette&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>EndPoint</key>
+		<string>{0.42579052869241618, 0.21147370964243151}</string>
+		<key>StartPoint</key>
+		<string>{0.45731291986772521, 0.22563754561195104}</string>
+		<key>Type</key>
+		<string>line</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.44840890026754954</real>
+		<key>Frame</key>
+		<string>{{0.73442850539829696, 0.47106425161683824}, {0.19409571934868344, 0.062140908722413672}}</string>
+		<key>Text</key>
+		<string>&lt;p class="right"&gt;à dominante sombre&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>EndPoint</key>
+		<string>{0.34504263150493319, 0.29290674238867936}</string>
+		<key>StartPoint</key>
+		<string>{0.40147969451555199, 0.32055187313098193}</string>
+		<key>Type</key>
+		<string>line</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.18589981115405615</real>
+		<key>Frame</key>
+		<string>{{0.40595882650052278, 0}, {0.47180205733469649, 0.14989007449153463}}</string>
+		<key>Text</key>
+		<string>&lt;p class="right"&gt;dans l’ensemble, rappelle un Pouillot à grands sourcils « vu à travers des jumelles embuées »&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>EndPoint</key>
+		<string>{0.87808175192094928, 0.44673712486711548}</string>
+		<key>StartPoint</key>
+		<string>{0.87670111814251317, 0.47746063669997296}</string>
+		<key>Type</key>
+		<string>line</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.36599423631112921</real>
+		<key>Frame</key>
+		<string>{{0.23276572308169435, 0.21216540815719578}, {0.157862367778702, 0.076133812441123355}}</string>
+		<key>Text</key>
+		<string>&lt;p class="right"&gt;blanc cassé, sale&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+</array>
+</plist>

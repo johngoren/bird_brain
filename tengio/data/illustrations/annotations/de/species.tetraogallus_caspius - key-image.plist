@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>FontScale</key>
+		<real>0.38941601938491138</real>
+		<key>Frame</key>
+		<string>{{0.71825648254322205, 0.21694833088251203}, {0.26550310182421466, 0.10173220016977179}}</string>
+		<key>Text</key>
+		<string>&lt;p class="right"&gt;schwache Flankenstreifung&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.31232708269289472</real>
+		<key>Frame</key>
+		<string>{{0.012420063861203008, 0.10408519934665948}, {0.50548840552865848, 0.12684186107656678}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;manche Vögel in Armenien mit einfarbiger, gelblicher Brust ähneln der iranischen Nominatform &lt;i&gt;caspius&lt;/i&gt;&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.21127053441464141</real>
+		<key>Frame</key>
+		<string>{{0.86290007930422452, 0.39284247023584218}, {0.12611397336650165, 0.18751383643319861}}</string>
+		<key>Text</key>
+		<string>&lt;p class="right"&gt;hell-grau, spärlich gefleckt&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>EndPoint</key>
+		<string>{0.6101589301687993, 0.75556001093238634}</string>
+		<key>StartPoint</key>
+		<string>{0.65268738954989469, 0.7355912496754734}</string>
+		<key>Type</key>
+		<string>line</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.38399812500915553</real>
+		<key>Frame</key>
+		<string>{{0.56895424467606415, 0.87216084519903947}, {0.11317760529398789, 0.103167556957308}}</string>
+		<key>Text</key>
+		<string>&lt;p class="right"&gt;dunkelgrau&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>EndPoint</key>
+		<string>{0.79603853611574404, 0.29002011372277275}</string>
+		<key>StartPoint</key>
+		<string>{0.71490113766493613, 0.36670609004466109}</string>
+		<key>Type</key>
+		<string>line</string>
+	</dict>
+	<dict>
+		<key>EndPoint</key>
+		<string>{0.69508971394729768, 0.910919268095287}</string>
+		<key>StartPoint</key>
+		<string>{0.74142325113913976, 0.88704939072206912}</string>
+		<key>Type</key>
+		<string>line</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.49559890504171605</real>
+		<key>Frame</key>
+		<string>{{0.4265649827237214, 0.69936046992863254}, {0.17350068987887746, 0.079935907909334317}}</string>
+		<key>Text</key>
+		<string>&lt;p class="right"&gt;hell&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.39687500000000187</real>
+		<key>Frame</key>
+		<string>{{0.78900171596315327, 0.098411823759009504}, {0.17724504918074951, 0.09982021652505535}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;&lt;b&gt;&lt;i&gt;„tauricus“&lt;/i&gt;&lt;/b&gt;&lt;/p&gt;&lt;p&gt;(Türkei)&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>EndPoint</key>
+		<string>{0.92297810871507635, 0.60023939834644469}</string>
+		<key>StartPoint</key>
+		<string>{0.88632823350901135, 0.61999053851368457}</string>
+		<key>Type</key>
+		<string>line</string>
+	</dict>
+</array>
+</plist>

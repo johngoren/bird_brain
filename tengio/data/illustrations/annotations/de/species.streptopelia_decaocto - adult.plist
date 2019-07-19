@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>FontScale</key>
+		<real>0.60476254192947076</real>
+		<key>Frame</key>
+		<string>{{0.87805202088272971, 0.20342385726017376}, {0.0884847278201214, 0.056081248300055217}}</string>
+		<key>Text</key>
+		<string>&lt;p class="right"&gt;&lt;b&gt;ad.&lt;/b&gt;&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.29335942038794183</real>
+		<key>Frame</key>
+		<string>{{0.34237887772338493, 0.21287082793001508}, {0.19854898223734635, 0.11561189421382313}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;Geschlechter sehr ähnlich&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>EndPoint</key>
+		<string>{0.42164467936880584, 0.78413176295153098}</string>
+		<key>StartPoint</key>
+		<string>{0.47619199043411581, 0.75280119305123105}</string>
+		<key>Type</key>
+		<string>line</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.24902970279359005</real>
+		<key>Frame</key>
+		<string>{{0.11852488950110307, 0.7387568374943686}, {0.29844474959022843, 0.13619193974074079}}</string>
+		<key>Text</key>
+		<string>&lt;p class="right"&gt;ohne kon­trastreiches Muster der Schwanz-oberseite&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.68800828655813895</real>
+		<key>Frame</key>
+		<string>{{0.69247418568993491, 0.71776603588539001}, {0.10029902565516632, 0.04929568282700212}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;&lt;b&gt;ad.&lt;/b&gt;&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+</array>
+</plist>

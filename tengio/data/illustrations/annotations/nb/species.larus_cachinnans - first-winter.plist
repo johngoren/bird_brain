@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>FontScale</key>
+		<real>0.36494252873565358</real>
+		<key>Frame</key>
+		<string>{{0.55166257842361233, 0.021746559648450021}, {0.20069798262906074, 0.09159510774618583}}</string>
+		<key>Text</key>
+		<string>&lt;p class="right"&gt;﻿GULBEINMÅKE&lt;b&gt;﻿1. vinter&lt;/b&gt;&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.39563562292210563</real>
+		<key>Frame</key>
+		<string>{{0.098035738081194437, 0.071492178510608101}, {0.19503607950879431, 0.084489232778942519}}</string>
+		<key>Text</key>
+		<string>&lt;p class="right"&gt;KASPIMÅKE&lt;b&gt;1. vinter&lt;/b&gt;&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.17104377104377355</real>
+		<key>Frame</key>
+		<string>{{0, 0.25139298185846504}, {0.31495827627367196, 0.19542921695846543}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;﻿adult sammen med gråmåke; langt nebb, lang hals og lange bein gir et karakteristisk inntrykk&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.25579053373615884</real>
+		<key>Frame</key>
+		<string>{{0.5211276007167216, 0.21178072980157386}, {0.25465578612036893, 0.13068095113788192}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;﻿sammenlign med gulbeinmåke&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.41412430806561684</real>
+		<key>Frame</key>
+		<string>{{0.33909332656856933, 0.90987287845395404}, {0.14679753404244811, 0.080717189475898385}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;&lt;b&gt;﻿1. vinter&lt;/b&gt;&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>EndPoint</key>
+		<string>{0.40428520781538163, 0.71225148620111878}</string>
+		<key>StartPoint</key>
+		<string>{0.46180979758699697, 0.74386890665516558}</string>
+		<key>Type</key>
+		<string>line</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.41412430806561684</real>
+		<key>Frame</key>
+		<string>{{0.27919828567305671, 0.64483827651290526}, {0.14679753404244869, 0.080717189475898385}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;﻿utydelige vingebånd&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>EndPoint</key>
+		<string>{0.4837378130849409, 0.70553977571970916}</string>
+		<key>StartPoint</key>
+		<string>{0.44014074250112989, 0.68461503127769274}</string>
+		<key>Type</key>
+		<string>line</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.32104302942268925</real>
+		<key>Frame</key>
+		<string>{{0.5794883886661959, 0.70711900171529729}, {0.14679753404244869, 0.10411984431126636}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;﻿lys undervinge&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>EndPoint</key>
+		<string>{0.58355976234369855, 0.65985105316539494}</string>
+		<key>StartPoint</key>
+		<string>{0.59705241136891118, 0.74380461246054397}</string>
+		<key>Type</key>
+		<string>line</string>
+	</dict>
+</array>
+</plist>

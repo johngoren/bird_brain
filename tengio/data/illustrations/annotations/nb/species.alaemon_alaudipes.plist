@@ -1,0 +1,120 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>FontScale</key>
+		<real>0.39585715896461193</real>
+		<key>Frame</key>
+		<string>{{0.25754789655961347, 0.17024001047048581}, {0.064554225621357625, 0.098655720946975611}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;♀&lt;b&gt; høst&lt;/b&gt;&lt;/p&gt;&lt;p&gt;(fersk)&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>EndPoint</key>
+		<string>{0.41945606878631925, 0.46826635723723387}</string>
+		<key>StartPoint</key>
+		<string>{0.38706395343128763, 0.41580675763079278}</string>
+		<key>Type</key>
+		<string>line</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.39654539513757647</real>
+		<key>Frame</key>
+		<string>{{0.42432659248983234, 0.39723890591422234}, {0.059034670786511048, 0.098484496071694821}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;﻿meget lange&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.25405390737359496</real>
+		<key>Frame</key>
+		<string>{{0.47827605560680947, 0.68826713185057276}, {0.046187199720474803, 0.15372160110982155}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;﻿langt, svakt buet&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>EndPoint</key>
+		<string>{0.49000872471431356, 0.84780258589335622}</string>
+		<key>StartPoint</key>
+		<string>{0.48344233044932405, 0.89169067242056532}</string>
+		<key>Type</key>
+		<string>line</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.38484786795909737</real>
+		<key>Frame</key>
+		<string>{{0.46025202256204623, 0.1663304420304928}, {0.064554404543034863, 0.10147795183790918}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;♂&lt;b&gt; vår&lt;/b&gt;&lt;/p&gt;&lt;p&gt;(slitt)&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>EndPoint</key>
+		<string>{0.39447387864637906, 0.12825172636693033}</string>
+		<key>StartPoint</key>
+		<string>{0.38150367642568928, 0.17133276261624447}</string>
+		<key>Type</key>
+		<string>line</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.57058611843098106</real>
+		<key>Frame</key>
+		<string>{{0.38177965855539775, 0.059535779042055328}, {0.043513036325822957, 0.068444660934034438}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;lang&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.36905126149953299</real>
+		<key>Frame</key>
+		<string>{{0.57496121502818065, 0.83426874866224321}, {0.1040442080244756, 0.10582154156848679}}</string>
+		<key>Text</key>
+		<string>&lt;p class="center"&gt;﻿kontrastrike hodetegninger&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.37638770567908747</real>
+		<key>Frame</key>
+		<string>{{0.67117938887079442, 0.06338218099672889}, {0.13719571107399151, 0.1037588975952707}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;﻿sammenlign med markpiplerke (t.v.)&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.18989887282315812</real>
+		<key>Frame</key>
+		<string>{{0.0041042665914141118, 0.60784113250076854}, {0.071154825232765298, 0.20565458251057475}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;﻿eiendommelig fluktspill under sangen&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.59104863415430653</real>
+		<key>Frame</key>
+		<string>{{0.69173568492265458, 0.92399283244024444}, {0.19508977166242572, 0.066075059061010383}}</string>
+		<key>Text</key>
+		<string>&lt;p class="right"&gt;﻿iøynefallende vingemønster&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+</array>
+</plist>

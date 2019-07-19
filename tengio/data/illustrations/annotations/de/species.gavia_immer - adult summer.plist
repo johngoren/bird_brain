@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>FontScale</key>
+		<real>0.4760408601592343</real>
+		<key>Frame</key>
+		<string>{{0.05518824238102877, 0.18796387930864461}, {0.20079108966619044, 0.067000089699062099}}</string>
+		<key>Text</key>
+		<string>&lt;p class="center"&gt;&lt;b&gt;PK&lt;/b&gt;&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>EndPoint</key>
+		<string>{0.58896647426992621, 0.96007754754160424}</string>
+		<key>StartPoint</key>
+		<string>{0.59401081467938854, 0.907995358708233}</string>
+		<key>Type</key>
+		<string>line</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.73371915164495727</real>
+		<key>Frame</key>
+		<string>{{0.49785972626539282, 0.95200946794700692}, {0.15022473605874065, 0.043470012006066719}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;helles Halsband&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.43838548704295982</real>
+		<key>Frame</key>
+		<string>{{0.5685937520815697, 0.72457491701906307}, {0.090248181103256414, 0.072755100873040143}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;&lt;b&gt;PK&lt;/b&gt;&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+</array>
+</plist>

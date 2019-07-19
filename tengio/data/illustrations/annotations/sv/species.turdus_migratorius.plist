@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>FontScale</key>
+		<real>0.40692632847451021</real>
+		<key>Frame</key>
+		<string>{{0.80750757076215662, 0.8014600822342629}, {0.16456429075274148, 0.10552748690866154}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;♂♂ i genomsnitt svar-&lt;/p&gt;&lt;p&gt;tare på huvudet än  ♀♀&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.52191086995763292</real>
+		<key>Frame</key>
+		<string>{{0.90672142114377308, 0.34992137744329083}, {0.057924556137613659, 0.082278249549332952}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;&lt;b&gt;ad.&lt;/b&gt; ♂&lt;b&gt;vinter&lt;/b&gt;&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.21334438714679521</real>
+		<key>Frame</key>
+		<string>{{0.84057885422269452, 0.12566370565989174}, {0.11168984354337747, 0.20127978699217744}}</string>
+		<key>Text</key>
+		<string>&lt;p class="right"&gt;undersidan &lt;/p&gt;&lt;p class="right"&gt;mer mättat färgad hos ♂♂&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.41120843477726071</real>
+		<key>Frame</key>
+		<string>{{0.53580816412826804, 0.63966712731124564}, {0.073073674233167032, 0.10442857969132839}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;vita hörn&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>EndPoint</key>
+		<string>{0.57442433343848009, 0.75834910678456235}</string>
+		<key>StartPoint</key>
+		<string>{0.58234559893800952, 0.77863662464324934}</string>
+		<key>Type</key>
+		<string>line</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.48605508557182991</real>
+		<key>Frame</key>
+		<string>{{0.28292176305576405, 0.17001108888268679}, {0.084538144954493522, 0.088347831502192081}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;&lt;b&gt;1:a vint.&lt;/b&gt; ♀&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>EndPoint</key>
+		<string>{0.48590419148122849, 0.54228704158957208}</string>
+		<key>StartPoint</key>
+		<string>{0.47105181866961005, 0.5631240130569285}</string>
+		<key>Type</key>
+		<string>line</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.21334438714679521</real>
+		<key>Frame</key>
+		<string>{{0.46194236334515032, 0.41460247606645906}, {0.11168984354337747, 0.20127978699217744}}</string>
+		<key>Text</key>
+		<string>&lt;p class="right"&gt;ljusa bräm ka-&lt;/p&gt;&lt;p class="right"&gt;rakteristiskt i fräsch dräkt (höst–vinter)&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.1732083966519983</real>
+		<key>Frame</key>
+		<string>{{0.47303213504449299, 0.02961443065440306}, {0.24060843954823222, 0.24792050287931672}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;kontrast mellan bytta inre större täckare och behållna (juv.) yttre &lt;/p&gt;&lt;p&gt;är bästa ålderskaraktären för 1:a &lt;/p&gt;&lt;p&gt;årets fåglar; könsbestämning svå-&lt;/p&gt;&lt;p&gt;rare, ♀♀ är som regel brunare på huvudet och har ljusare undersida&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.16905815065294089</real>
+		<key>Frame</key>
+		<string>{{0.025876697596007477, 0.01785470494254757}, {0.16099972127795287, 0.25400675823692725}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;i Europa påträffade fåglar för det mesta funna i förortsparker och trädgårdar, där de uppträder likt koltrastar&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+</array>
+</plist>

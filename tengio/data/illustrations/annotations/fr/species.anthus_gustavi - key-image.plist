@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>EndPoint</key>
+		<string>{0.52411632737043712, 0.64828718465889323}</string>
+		<key>StartPoint</key>
+		<string>{0.46013572874433195, 0.64547281634848819}</string>
+		<key>Type</key>
+		<string>line</string>
+	</dict>
+	<dict>
+		<key>EndPoint</key>
+		<string>{0.12149473860344605, 0.48164349904936965}</string>
+		<key>StartPoint</key>
+		<string>{0.20472718953162899, 0.56778237414589749}</string>
+		<key>Type</key>
+		<string>line</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.12211538461538421</real>
+		<key>Frame</key>
+		<string>{{0.62210868976419686, 0.059476046090070782}, {0.33120731224399802, 0.38902571027472965}}</string>
+		<key>Text</key>
+		<string>&lt;p class="right"&gt;tertiaires n’atteignant pas la pointe des ailes et créant une projection primaire diagnostique&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>EndPoint</key>
+		<string>{0.65512730929119911, 0.38640726799402764}</string>
+		<key>StartPoint</key>
+		<string>{0.59657389326677612, 0.34039749649038414}</string>
+		<key>Type</key>
+		<string>line</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.253567647351297</real>
+		<key>Frame</key>
+		<string>{{0.047906103031357394, 0.28391395586396229}, {0.2114434868354714, 0.18735049495354578}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;larges barres alaires blanches&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>EndPoint</key>
+		<string>{0.18025657636895218, 0.40583593329814205}</string>
+		<key>StartPoint</key>
+		<string>{0.26978630479329946, 0.49849224522853947}</string>
+		<key>Type</key>
+		<string>line</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.16872282470824232</real>
+		<key>Frame</key>
+		<string>{{0.50937252936755484, 0.38865164709177125}, {0.28490950319157943, 0.28156252313591634}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt; larges   stries     blanches        sur le          manteau&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+</array>
+</plist>

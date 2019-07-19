@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>FontScale</key>
+		<real>0.46265938069216661</real>
+		<key>Frame</key>
+		<string>{{0.73210510131903817, 0.058872738680316374}, {0.15088118538637449, 0.114817525881}}</string>
+		<key>Text</key>
+		<string>&lt;p class="right"&gt;&lt;b&gt;ad.&lt;/b&gt;&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.31377393452748437</real>
+		<key>Frame</key>
+		<string>{{0.3281285334830481, 0}, {0.29959760394394791, 0.16929833734183938}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;&lt;b&gt;&lt;i&gt;hutchinsii&lt;/i&gt;&lt;/b&gt;&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.33432050016449966</real>
+		<key>Frame</key>
+		<string>{{0.84321994247295606, 0.56148698107286887}, {0.13124979280822735, 0.15889365261948438}}</string>
+		<key>Text</key>
+		<string>&lt;p class="right"&gt;Schnabel klein&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>EndPoint</key>
+		<string>{0.91680415174288798, 0.7336444925775083}</string>
+		<key>StartPoint</key>
+		<string>{0.88025603058931179, 0.79312533170816268}</string>
+		<key>Type</key>
+		<string>line</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.31377393452748437</real>
+		<key>Frame</key>
+		<string>{{0.84321994247295606, 0.80623235386383063}, {0.11062029738628233, 0.16929833734183938}}</string>
+		<key>Text</key>
+		<string>&lt;p class="right"&gt;steile Stirn&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>EndPoint</key>
+		<string>{0.84191042001774963, 0.8720101732685922}</string>
+		<key>StartPoint</key>
+		<string>{0.87557634988452437, 0.9080387037482579}</string>
+		<key>Type</key>
+		<string>line</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.14159589511598689</real>
+		<key>Frame</key>
+		<string>{{0.012829764205616677, 0.27843410795537449}, {0.53540862420591528, 0.37516204387984831}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;Fast alle als Wildvögel anerkannten Nachweise betreffen allein oder zu zweit am äußersten Westrand Europas zusammen mit grönländischen Weißwangengänsen eingetroffene Vögel.&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+</array>
+</plist>

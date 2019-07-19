@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>EndPoint</key>
+		<string>{0.48708038398959902, 0.8858437609214227}</string>
+		<key>StartPoint</key>
+		<string>{0.55856136378710775, 0.79686683958810423}</string>
+		<key>Type</key>
+		<string>line</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>1.0071884311479433</real>
+		<key>Frame</key>
+		<string>{{0.24648586662238445, 0.89506857408906093}, {0.41493837053186811, 0.065996582284783806}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;entièrement gris sombre&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>EndPoint</key>
+		<string>{0.71372739310364575, 0.4121725032352167}</string>
+		<key>StartPoint</key>
+		<string>{0.64747672890107788, 0.50114942456854572}</string>
+		<key>Type</key>
+		<string>line</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>1.0071884311479433</real>
+		<key>Frame</key>
+		<string>{{0.70325616426062243, 0.33723729549382142}, {0.25629606180517955, 0.065996582284783806}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;ventre blanc&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.35462478184992063</real>
+		<key>Frame</key>
+		<string>{{0.64050297477449025, 0}, {0.35949702522550969, 0.18744035266172818}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;♂&lt;b&gt; internuptial&lt;/b&gt;&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+</array>
+</plist>

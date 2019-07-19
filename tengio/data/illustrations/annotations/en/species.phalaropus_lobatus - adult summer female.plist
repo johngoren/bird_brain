@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>FontScale</key>
+		<real>0.41217178017001982</real>
+		<key>Frame</key>
+		<string>{{0.721350516862729, 0.13099208473750099}, {0.1180241680174476, 0.092980522738765461}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;all dark&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.59249972877514856</real>
+		<key>Frame</key>
+		<string>{{0.70915131090872918, 0.046260784433652578}, {0.28421484988202633, 0.064681797673733221}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;&lt;b&gt;ad. summer&lt;/b&gt; ♀&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>EndPoint</key>
+		<string>{0.75078866121788701, 0.2330255084790214}</string>
+		<key>StartPoint</key>
+		<string>{0.75078866121788701, 0.27547310876237402}</string>
+		<key>Type</key>
+		<string>line</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.59249794321774307</real>
+		<key>Frame</key>
+		<string>{{0.23184255885099531, 0.50358862379520364}, {0.28421524235398732, 0.064681992599410446}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;&lt;b&gt;ad. summer&lt;/b&gt; ♀&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+</array>
+</plist>

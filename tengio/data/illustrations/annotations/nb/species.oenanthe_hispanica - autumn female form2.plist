@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>FontScale</key>
+		<real>0.25735652026568689</real>
+		<key>Frame</key>
+		<string>{{0.10927170883294728, 0.01450330674290321}, {0.74546892003672072, 0.1740466447976575}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;﻿enkelte har svakt lyst skjellmønster på oversiden (dog mindre enn svartstrupesteinskvett)&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.35337920845199761</real>
+		<key>Frame</key>
+		<string>{{0.090929245940228318, 0.55970355077228251}, {0.21942135909245, 0.12675346426083703}}</string>
+		<key>Text</key>
+		<string>&lt;p class="right"&gt;﻿gråere gulbrun&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.31671939738773508</real>
+		<key>Frame</key>
+		<string>{{0.30553269669948385, 0.67811385016341963}, {0.2300555436747875, 0.14142499398042147}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;♀&lt;b&gt; høst&lt;/b&gt;&lt;/p&gt;&lt;p&gt;(﻿fersk)&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>EndPoint</key>
+		<string>{0.32253107895550942, 0.66343833352224024}</string>
+		<key>StartPoint</key>
+		<string>{0.41852802190899346, 0.66343833352224024}</string>
+		<key>Type</key>
+		<string>line</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.5657132991885826</real>
+		<key>Frame</key>
+		<string>{{0.04163108321870871, 0.91995299569234401}, {0.95729167225104739, 0.079177984560888953}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;&lt;b&gt;&lt;i&gt;melanoleuca&lt;/i&gt;  &lt;/b&gt;(﻿SØ-Europa, V-Asia)&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+</array>
+</plist>

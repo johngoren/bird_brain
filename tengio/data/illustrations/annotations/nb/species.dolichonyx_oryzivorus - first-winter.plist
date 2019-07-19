@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>EndPoint</key>
+		<string>{0.7372110402988018, 0.63469013551934172}</string>
+		<key>StartPoint</key>
+		<string>{0.77333887301460624, 0.68075831354711547}</string>
+		<key>Type</key>
+		<string>line</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.46734130634774079</real>
+		<key>Frame</key>
+		<string>{{0.78467736106075836, 0.59861587914020287}, {0.19843918292521504, 0.1104376329008195}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;﻿framtredende issestripe&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>1.0071884311479433</real>
+		<key>Frame</key>
+		<string>{{0.82908837936270108, 0.5107649092757387}, {0.17091162063729895, 0.051243705779062967}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;﻿rosa tone&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>EndPoint</key>
+		<string>{0.79720844045670247, 0.50984452352744125}</string>
+		<key>StartPoint</key>
+		<string>{0.81908406411418455, 0.53626014869231653}</string>
+		<key>Type</key>
+		<string>line</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.17223258179352313</real>
+		<key>Frame</key>
+		<string>{{0.6267388605309907, 0.068271404676296124}, {0.34572368704996342, 0.29966494778377711}}</string>
+		<key>Text</key>
+		<string>&lt;p class="right"&gt;﻿livlige fugler med gulbeige hode og bryst; mangler mustasje- og underskjeggstriper som flertallet av de europeiske arter har&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.18513119533527209</real>
+		<key>Frame</key>
+		<string>{{0.073012136700956673, 0.036166260245147061}, {0.28361514554909267, 0.27878644404770314}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;﻿vanskelig å alders- og kjønnsbestemme på høsten, da nesten alle funn gjøres&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.54918918918916915</real>
+		<key>Frame</key>
+		<string>{{0.073012136700956673, 0.42061520495230792}, {0.19688061291734485, 0.093978666451941681}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;&lt;b&gt;1. vinter / &lt;/b&gt;&lt;/p&gt;&lt;p&gt;&lt;b&gt;ad. høst &lt;/b&gt;&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.40617671007493228</real>
+		<key>Frame</key>
+		<string>{{0.12906842232325597, 0.87293198662153804}, {0.14663054364782194, 0.12706801337846213}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;﻿spisse stjertfjær&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>EndPoint</key>
+		<string>{0.11648993872020331, 0.94242540051681201}</string>
+		<key>StartPoint</key>
+		<string>{0.073012136700956673, 0.87415116932145598}</string>
+		<key>Type</key>
+		<string>line</string>
+	</dict>
+</array>
+</plist>

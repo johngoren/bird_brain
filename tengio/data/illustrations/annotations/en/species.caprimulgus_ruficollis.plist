@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>FontScale</key>
+		<real>0.38367327822401232</real>
+		<key>Frame</key>
+		<string>{{0.37146266747778472, 0.58416851816233806}, {0.045560801292997707, 0.13244599560209805}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;rusty­-&lt;br/&gt;red&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>EndPoint</key>
+		<string>{0.38568002500368337, 0.61110966268181977}</string>
+		<key>StartPoint</key>
+		<string>{0.40292094871245004, 0.55794822830906954}</string>
+		<key>Type</key>
+		<string>line</string>
+	</dict>
+	<dict>
+		<key>EndPoint</key>
+		<string>{0.53192833000471307, 0.33585476273180143}</string>
+		<key>StartPoint</key>
+		<string>{0.4839857828697875, 0.33585476273180143}</string>
+		<key>Type</key>
+		<string>line</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.40106175317773235</real>
+		<key>Frame</key>
+		<string>{{0.53595722622905217, 0.28681519296004271}, {0.098881597766628471, 0.12670365328448743}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;lacks Nightjar’s dark ‘forearm’&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.354716810926133</real>
+		<key>Frame</key>
+		<string>{{0.53367876744557008, 0.12773387559967433}, {0.11878586469987679, 0.14325791097304971}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;several equal-&lt;br/&gt;width pale &lt;br/&gt;wing-bars&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>EndPoint</key>
+		<string>{0.53070149703003699, 0.2496042046867038}</string>
+		<key>StartPoint</key>
+		<string>{0.47757852276330959, 0.2496042046867038}</string>
+		<key>Type</key>
+		<string>line</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.23456699845895701</real>
+		<key>Frame</key>
+		<string>{{0.73196858243179685, 0.048605612712263956}, {0.14798911652509181, 0.21663741981671614}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;both sexes have white wing and tail patches, more prominent in ♂♂&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.30528846153847417</real>
+		<key>Frame</key>
+		<string>{{0.77732175621058486, 0.66653467221174278}, {0.05735568009654525, 0.16645237446648786}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;rufous-barred remiges&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>EndPoint</key>
+		<string>{0.87820878088984944, 0.70947232200604271}</string>
+		<key>StartPoint</key>
+		<string>{0.83026623375492103, 0.70947232200604271}</string>
+		<key>Type</key>
+		<string>line</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.25663046223792041</real>
+		<key>Frame</key>
+		<string>{{0.9303157244085577, 0.63372434839861946}, {0.041188595228555322, 0.19801230484161661}}</string>
+		<key>Text</key>
+		<string>&lt;p class="center"&gt;lacks dark ‘fore-arm’ &lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>EndPoint</key>
+		<string>{0.94670265830075917, 0.62729950166126502}</string>
+		<key>StartPoint</key>
+		<string>{0.92847005465093446, 0.59731121456072345}</string>
+		<key>Type</key>
+		<string>line</string>
+	</dict>
+</array>
+</plist>

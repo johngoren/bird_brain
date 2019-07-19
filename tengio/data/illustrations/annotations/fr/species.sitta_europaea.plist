@@ -1,0 +1,222 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>FontScale</key>
+		<real>0.19242431063810597</real>
+		<key>Frame</key>
+		<string>{{0.13801738940927541, 0.12472550100957601}, {0.15340751942692296, 0.15641038716402694}}</string>
+		<key>Text</key>
+		<string>&lt;p class="center"&gt;toutes les sittelles peuvent descendre les troncs la tête en bas&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.20524319702858343</real>
+		<key>Frame</key>
+		<string>{{0.38551230940655218, 0.31440781828799941}, {0.11950481779428483, 0.14664145444238835}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;&lt;b&gt;&lt;i&gt;caesia&lt;/i&gt;&lt;/b&gt;&lt;/p&gt;&lt;p&gt;(G-B,&lt;/p&gt;&lt;p&gt;Europe continentale)&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.29580659308915008</real>
+		<key>Frame</key>
+		<string>{{0.34161019737727905, 0.058527223568841311}, {0.13570553872435626, 0.10174607878873909}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;les ♂♂ sont toujours reconnaissables à leur bas-ventre brun-roux&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>EndPoint</key>
+		<string>{0.4458193494961632, 0.15963906111074247}</string>
+		<key>StartPoint</key>
+		<string>{0.46910227853587017, 0.2055570694429584}</string>
+		<key>Type</key>
+		<string>line</string>
+	</dict>
+	<dict>
+		<key>EndPoint</key>
+		<string>{0.59951582287826655, 0.24385706616317002}</string>
+		<key>StartPoint</key>
+		<string>{0.63580810342962313, 0.24300854583259407}</string>
+		<key>Type</key>
+		<string>line</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.17669786164742918</real>
+		<key>Frame</key>
+		<string>{{0.64224683985278563, 0.17796147706865315}, {0.056811412152158715, 0.17033121196865961}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;poitrine et ventre brun-roux&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>EndPoint</key>
+		<string>{0.62532072220366197, 0.34960519013071778}</string>
+		<key>StartPoint</key>
+		<string>{0.63656250161392036, 0.33257187326616744}</string>
+		<key>Type</key>
+		<string>line</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.58749897281508212</real>
+		<key>Frame</key>
+		<string>{{0.6383152251750055, 0.36178649138912022}, {0.040290495633806822, 0.051229299657261466}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;♂&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.58749897281508212</real>
+		<key>Frame</key>
+		<string>{{0.8663486725145022, 0.34365950690531805}, {0.040290664943656705, 0.051229299657261466}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;♀&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.52222208941427883</real>
+		<key>Frame</key>
+		<string>{{0.865106446146926, 0.28585701595863594}, {0.095601314587681452, 0.057632876005750629}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;&lt;b&gt;&lt;i&gt;europaea&lt;/i&gt;&lt;/b&gt;&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.46999988047284846</real>
+		<key>Frame</key>
+		<string>{{0.84275897111634124, 0.11189443677169086}, {0.1218804042960473, 0.064036528895278805}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;bas-ventre chamois roussâtre&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>EndPoint</key>
+		<string>{0.83759334751673165, 0.16294201943216399}</string>
+		<key>StartPoint</key>
+		<string>{0.78778474822378575, 0.19424960241540595}</string>
+		<key>Type</key>
+		<string>line</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.1566975306797056</real>
+		<key>Frame</key>
+		<string>{{0.33007662910451097, 0.69460178343269519}, {0.056417883282895404, 0.1920716988718644}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;brun-roux peu étendu&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>EndPoint</key>
+		<string>{0.38276058905326621, 0.83817237807289269}</string>
+		<key>StartPoint</key>
+		<string>{0.41421336387257973, 0.82536512210770607}</string>
+		<key>Type</key>
+		<string>line</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.31083900190906888</real>
+		<key>Frame</key>
+		<string>{{0.36703377774637147, 0.51845987356083656}, {0.095256091804052923, 0.096825561598867849}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;petite sous-espèce pâle&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.58749897281508212</real>
+		<key>Frame</key>
+		<string>{{0.60049716127701624, 0.63186774494903397}, {0.040290664943656705, 0.051229299657261466}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;♂&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>EndPoint</key>
+		<string>{0.61245999645955518, 0.8072430951092574}</string>
+		<key>StartPoint</key>
+		<string>{0.60039854450545971, 0.75652530476154012}</string>
+		<key>Type</key>
+		<string>line</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.1721518291950935</real>
+		<key>Frame</key>
+		<string>{{0.56164887094000226, 0.78591475337866057}, {0.081013215317339612, 0.17482916717991484}}</string>
+		<key>Text</key>
+		<string>&lt;p class="right"&gt;sourcil blanc et front souvent blanc&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.25201533565000239</real>
+		<key>Frame</key>
+		<string>{{0.49913598559271216, 0.8442279821827966}, {0.090427036269645308, 0.1194259105266353}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;&lt;b&gt;&lt;i&gt;asiatica&lt;/i&gt;&lt;/b&gt;&lt;/p&gt;&lt;p&gt;(E Russie, &lt;/p&gt;&lt;p&gt;Sibérie)&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>EndPoint</key>
+		<string>{0.68942636446224081, 0.84990143895162495}</string>
+		<key>StartPoint</key>
+		<string>{0.72699814952616726, 0.83016816009716099}</string>
+		<key>Type</key>
+		<string>line</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.27246365162657349</real>
+		<key>Frame</key>
+		<string>{{0.65793397868430914, 0.75492483887492645}, {0.049577479511982457, 0.11046303147961539}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;brun-roux sombre&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.23007264078357295</real>
+		<key>Frame</key>
+		<string>{{0.80579043338749967, 0.83283798681043686}, {0.12835786052756565, 0.13081590589899494}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;&lt;b&gt;&lt;i&gt;europaea&lt;/i&gt;&lt;/b&gt;&lt;/p&gt;&lt;p&gt;(Scandinavie, &lt;/p&gt;&lt;p&gt;O Russie)&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.58749897281508212</real>
+		<key>Frame</key>
+		<string>{{0.91157624336685283, 0.59803522826993583}, {0.040290664943656705, 0.051229299657261466}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;♂&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+</array>
+</plist>

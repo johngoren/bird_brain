@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>FontScale</key>
+		<real>0.45460914684480414</real>
+		<key>Frame</key>
+		<string>{{0.067583028640998077, 0.15015804944991579}, {0.16012297979586071, 0.090056161423868186}}</string>
+		<key>Text</key>
+		<string>&lt;p class="center"&gt;espèce de haute montagne&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.55826112275470996</real>
+		<key>Frame</key>
+		<string>{{0.45139160165257958, 0.26091239315907799}, {0.024609937937009153, 0.073335493095067553}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;♀ &lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.24645673269818347</real>
+		<key>Frame</key>
+		<string>{{0.32283294614710933, 0.70142161868038744}, {0.10345496511209683, 0.16611578943213198}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;terne et sans détails remarquables&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.32999325270143798</real>
+		<key>Frame</key>
+		<string>{{0.6799916761867022, 0.20889420865306188}, {0.084958401041205348, 0.1240642176101205}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;♂ &lt;b&gt;ad. printemps&lt;/b&gt;&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.45972850678732702</real>
+		<key>Frame</key>
+		<string>{{0.76701593500398713, 0.48414761020339386}, {0.069593583831626199, 0.089053330625768493}}</string>
+		<key>Text</key>
+		<string>&lt;p class="center"&gt;roux sombre uni&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>EndPoint</key>
+		<string>{0.80050602651078018, 0.35184949614727162}</string>
+		<key>StartPoint</key>
+		<string>{0.80000510136573078, 0.47802267524633385}</string>
+		<key>Type</key>
+		<string>line</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.27924575467142376</real>
+		<key>Frame</key>
+		<string>{{0.80165096139180847, 0.048559491949807125}, {0.089523880476574932, 0.14661048208663155}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;grande plage alaire blanche&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>EndPoint</key>
+		<string>{0.88390116005254293, 0.27768295343102384}</string>
+		<key>StartPoint</key>
+		<string>{0.85618976517622281, 0.19885039183642744}</string>
+		<key>Type</key>
+		<string>line</string>
+	</dict>
+</array>
+</plist>

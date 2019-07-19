@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>FontScale</key>
+		<real>0.19632850241548813</real>
+		<key>Frame</key>
+		<string>{{0.85551717826758267, 0.45315289162639866}, {0.06808632758829046, 0.18744862277745053}}</string>
+		<key>Text</key>
+		<string>&lt;p class="right"&gt;ohne dunkles „Komma“&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>EndPoint</key>
+		<string>{0.89628788114153624, 0.67555570203287529}</string>
+		<key>StartPoint</key>
+		<string>{0.91121763751601614, 0.65161298905588516}</string>
+		<key>Type</key>
+		<string>line</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.24242424242425123</real>
+		<key>Frame</key>
+		<string>{{0.18721391087732928, 0.018634306343547121}, {0.083843758814710734, 0.15180621798268279}}</string>
+		<key>Text</key>
+		<string>&lt;p class="right"&gt;4 Wochen alter Jungvogel&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.16232625019973151</real>
+		<key>Frame</key>
+		<string>{{0.40878622814988969, 0.36038846207407838}, {0.10499235341997104, 0.22671322318146844}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;&lt;b&gt;&lt;i&gt;alba&lt;/i&gt; &lt;/b&gt;u. a.&lt;/p&gt;&lt;p&gt;„hellbäuchig“ (z. B. W- u. S-Europa, N-Afrika)&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.16922105580089336</real>
+		<key>Frame</key>
+		<string>{{0.63769071889005069, 0.25389591116281202}, {0.14121378180789168, 0.21747593534130599}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;&lt;b&gt;&lt;i&gt;guttata &lt;/i&gt;&lt;/b&gt;u.a.(z. B. N-, O- u. Mitteleuropa)&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.20629441624367209</real>
+		<key>Frame</key>
+		<string>{{0.66308306044034437, 0.48879529642116182}, {0.058501963375680789, 0.17839313375439686}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;helles herz-förmiges „Gesicht“&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.45115452930739425</real>
+		<key>Frame</key>
+		<string>{{0.68405575845087629, 0.033376642473096817}, {0.25274180723014911, 0.081571845119763606}}</string>
+		<key>Text</key>
+		<string>&lt;p class="center"&gt;sehr helle, „geisterhafte“ Erscheinung; Beine beim Jagdflug oft baumelnd&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+</array>
+</plist>

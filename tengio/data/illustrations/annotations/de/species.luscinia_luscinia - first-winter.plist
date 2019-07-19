@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>EndPoint</key>
+		<string>{0.54086332266036674, 0.76834227821383039}</string>
+		<key>StartPoint</key>
+		<string>{0.57528458983982167, 0.73476359283361037}</string>
+		<key>Type</key>
+		<string>line</string>
+	</dict>
+	<dict>
+		<key>EndPoint</key>
+		<string>{0.22730048377881551, 0.39747939040161928}</string>
+		<key>StartPoint</key>
+		<string>{0.32982864315311244, 0.4754838940647762}</string>
+		<key>Type</key>
+		<string>line</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.21393176659535859</real>
+		<key>Frame</key>
+		<string>{{0.15930178109822443, 0.21650736687844466}, {0.16717847025308838, 0.20422932151151371}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;hell beigeweiß, oft dunkel gefleckt&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>EndPoint</key>
+		<string>{0.18879947517522042, 0.56640338915390898}</string>
+		<key>StartPoint</key>
+		<string>{0.21934058412133695, 0.53742304932939489}</string>
+		<key>Type</key>
+		<string>line</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.5599979492262589</real>
+		<key>Frame</key>
+		<string>{{0.30364546276590232, 0.21197820674764339}, {0.23340926517281768, 0.078020177755823969}}</string>
+		<key>Text</key>
+		<string>&lt;p class="center"&gt;&lt;b&gt;1er W&lt;/b&gt;&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.34473632031215229</real>
+		<key>Frame</key>
+		<string>{{0.0027960965614788626, 0.49703331030865905}, {0.26859876546122941, 0.12673784851554978}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;dunkler braun mit Rotstich&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.27121106865262906</real>
+		<key>Frame</key>
+		<string>{{0.22704960451184203, 0.75155293552371771}, {0.35186964014116445, 0.16109644697978689}}</string>
+		<key>Text</key>
+		<string>&lt;p class="right"&gt;düster graubraun, doch manche wärmer braun ähnlich Nachtigall&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+</array>
+</plist>

@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>EndPoint</key>
+		<string>{0.61952656558938235, 0.91788689623379793}</string>
+		<key>StartPoint</key>
+		<string>{0.65903217101073031, 0.83681070999735074}</string>
+		<key>Type</key>
+		<string>line</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.48205071624280499</real>
+		<key>Frame</key>
+		<string>{{0.43609486870874653, 0.81739388411027281}, {0.17489019095266287, 0.12948514882481638}}</string>
+		<key>Text</key>
+		<string>&lt;p class="right"&gt;warm braun&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.66101899051779611</real>
+		<key>Frame</key>
+		<string>{{0.63620047023295156, 0.85098028959572314}, {0.12494019372144852, 0.094427557497122297}}</string>
+		<key>Text</key>
+		<string>&lt;p class="right"&gt;rostgelb&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>EndPoint</key>
+		<string>{0.76757664316601881, 0.9022386033751546}</string>
+		<key>StartPoint</key>
+		<string>{0.79346010630455122, 0.8443326208348525}</string>
+		<key>Type</key>
+		<string>line</string>
+	</dict>
+	<dict>
+		<key>EndPoint</key>
+		<string>{0.89493938484042124, 0.60253281465867414}</string>
+		<key>StartPoint</key>
+		<string>{0.8679353342404541, 0.66447124705388794}</string>
+		<key>Type</key>
+		<string>line</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.24737702276200227</real>
+		<key>Frame</key>
+		<string>{{0.75123520116596232, 0.33153955060279178}, {0.19255555077378489, 0.25232096351107258}}</string>
+		<key>Text</key>
+		<string>&lt;p class="right"&gt;unge-zeich­net rost-gelblich&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.19331963304195665</real>
+		<key>Frame</key>
+		<string>{{0.34076647403510746, 0.19918409599640494}, {0.18550966812385114, 0.32287671847722837}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;beachte dunkle Wangen und rostgelben Überaugenstreif&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>EndPoint</key>
+		<string>{0.18188646578455858, 0.58330883056176031}</string>
+		<key>StartPoint</key>
+		<string>{0.20662258821355303, 0.52796996551707498}</string>
+		<key>Type</key>
+		<string>line</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.300524474400858</real>
+		<key>Frame</key>
+		<string>{{0.053119594764867793, 0.56778592430213704}, {0.16910615379926205, 0.20769825438759915}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;manche zeigen kälter braune Grundtönung&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+</array>
+</plist>

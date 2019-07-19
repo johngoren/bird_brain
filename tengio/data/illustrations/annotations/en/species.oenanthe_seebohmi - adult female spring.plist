@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>FontScale</key>
+		<real>0.1977709630248678</real>
+		<key>Frame</key>
+		<string>{{0.73941886482067765, 0.25925615157426701}, {0.215190031475093, 0.15622312246557679}}</string>
+		<key>Text</key>
+		<string>&lt;p class="right"&gt;distinct dark &lt;/p&gt;&lt;p class="right"&gt;lores (and &lt;/p&gt;&lt;p class="right"&gt;throat on &lt;/p&gt;&lt;p class="right"&gt;some ♀♀)  &lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.28329131926108042</real>
+		<key>Frame</key>
+		<string>{{0.56956058499000251, 0.074090636193214016}, {0.15499710858214547, 0.10906228068462256}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;&lt;b&gt;ad. &lt;/b&gt;♀ &lt;b&gt; spring&lt;/b&gt;&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>EndPoint</key>
+		<string>{0.81019143800805438, 0.43768115519974693}</string>
+		<key>StartPoint</key>
+		<string>{0.75363803248420613, 0.46743195152097228}</string>
+		<key>Type</key>
+		<string>line</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>1.3219788532333716</real>
+		<key>Frame</key>
+		<string>{{0.64820318033416469, 0.82358680708634902}, {0.028174838300439084, 0.023371324965751759}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;♀&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>EndPoint</key>
+		<string>{0.29370106764030762, 0.93309388445167141}</string>
+		<key>StartPoint</key>
+		<string>{0.29422921558940895, 0.90612035642687394}</string>
+		<key>Type</key>
+		<string>line</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.44155945162217464</real>
+		<key>Frame</key>
+		<string>{{0.22790379100769162, 0.93002890717600173}, {0.12707571775121521, 0.069971092823998313}}</string>
+		<key>Text</key>
+		<string>&lt;p class="center"&gt;thin band&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+</array>
+</plist>

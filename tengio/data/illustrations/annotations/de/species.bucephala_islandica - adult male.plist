@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>FontScale</key>
+		<real>0.6047634720500521</real>
+		<key>Frame</key>
+		<string>{{0.50908685992748004, 0.28415725076707288}, {0.13320007669340797, 0.0618546361773923}}</string>
+		<key>Text</key>
+		<string>&lt;p class="right"&gt;violett&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>EndPoint</key>
+		<string>{0.70113414725552903, 0.31919674092861267}</string>
+		<key>StartPoint</key>
+		<string>{0.65740476342143062, 0.3280160565398425}</string>
+		<key>Type</key>
+		<string>line</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.17800432334313321</real>
+		<key>Frame</key>
+		<string>{{0.85569445927752819, 0.33072589831618504}, {0.14430554072247093, 0.21014896624124932}}</string>
+		<key>Text</key>
+		<string>&lt;p class="right"&gt;weißer Halbmond reicht bis über das Auge&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>EndPoint</key>
+		<string>{0.93173279088131011, 0.36115757509825203}</string>
+		<key>StartPoint</key>
+		<string>{0.89698739670279026, 0.34645281683461943}</string>
+		<key>Type</key>
+		<string>line</string>
+	</dict>
+	<dict>
+		<key>EndPoint</key>
+		<string>{0.83827196915783553, 0.1011322198955984}</string>
+		<key>StartPoint</key>
+		<string>{0.87273494410457986, 0.061177613341716897}</string>
+		<key>Type</key>
+		<string>line</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>1.1758858697375767</real>
+		<key>Frame</key>
+		<string>{{0.81208309156462433, 0.024668786428181315}, {0.18359165503251024, 0.031812121822146537}}</string>
+		<key>Text</key>
+		<string>&lt;p class="right"&gt;schwarze Boa&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.61935093654903883</real>
+		<key>Frame</key>
+		<string>{{0.18959859113108579, 0.10146842198557807}, {0.13665474686722248, 0.060397784728417364}}</string>
+		<key>Text</key>
+		<string>&lt;p class="right"&gt;♂&lt;b&gt; PK&lt;/b&gt;&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.25396726978209533</real>
+		<key>Frame</key>
+		<string>{{0.23011303566625127, 0.83859943302159157}, {0.1871296069372908, 0.14729230490656611}}</string>
+		<key>Text</key>
+		<string>&lt;p class="right"&gt;etwas weniger Weiß im Flügel als bei Schellente&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.61935093654903883</real>
+		<key>Frame</key>
+		<string>{{0.62432773666203378, 0.67529175103630401}, {0.1366544296048314, 0.060397784728417364}}</string>
+		<key>Text</key>
+		<string>&lt;p class="right"&gt;♂&lt;b&gt; PK&lt;/b&gt;&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+</array>
+</plist>

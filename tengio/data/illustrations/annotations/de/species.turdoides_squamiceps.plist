@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>FontScale</key>
+		<real>0.24892809016293044</real>
+		<key>Frame</key>
+		<string>{{0.67677179344064586, 0.25070944423085151}, {0.1094522176116155, 0.18213973897084962}}</string>
+		<key>Text</key>
+		<string>&lt;p class="right"&gt;Iris hell (im JK dunkel)&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>EndPoint</key>
+		<string>{0.54824504671100804, 0.49210414470550984}</string>
+		<key>StartPoint</key>
+		<string>{0.52582534080638088, 0.53135089615571052}</string>
+		<key>Type</key>
+		<string>line</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.78912621359223234</real>
+		<key>Frame</key>
+		<string>{{0.3880443918100232, 0.51812886987897511}, {0.16917395399866675, 0.057455571217682029}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;dünn gestrichelt&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.29152454076230777</real>
+		<key>Frame</key>
+		<string>{{0.17291417098719622, 0.090162877381266285}, {0.23239587573925574, 0.15552617713153566}}</string>
+		<key>Text</key>
+		<string>&lt;p class="center"&gt;farblose, merkmalsarme Gesamterscheinung &lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.39456310679611728</real>
+		<key>Frame</key>
+		<string>{{0.52391611022442375, 0.84802425646283019}, {0.46527914684935739, 0.11491114243536375}}</string>
+		<key>Text</key>
+		<string>&lt;p class="center"&gt;„die Manguste unter den Vögeln“ schlägt sofort Alarm, wenn z. B. eine Schlange gesichtet wurde&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+</array>
+</plist>

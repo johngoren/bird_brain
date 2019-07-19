@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>FontScale</key>
+		<real>0.26654583445435703</real>
+		<key>Frame</key>
+		<string>{{0.019935110311362872, 0.55159973281419317}, {0.094566049891824128, 0.19286726833569057}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;POUILLOT À PATTES SOMBRES&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>EndPoint</key>
+		<string>{0.25006976853819063, 0.69415110223778109}</string>
+		<key>StartPoint</key>
+		<string>{0.24053151597528069, 0.73718440627054904}</string>
+		<key>Type</key>
+		<string>line</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.3413155564814323</real>
+		<key>Frame</key>
+		<string>{{0.25416625087032829, 0.60790301193070762}, {0.074668659601852677, 0.15061712248754663}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;rose jaunâtre, fort&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.31865773726555457</real>
+		<key>Frame</key>
+		<string>{{0.019935110311362872, 0.24798057945896815}, {0.075852767119616513, 0.16132659265896945}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;P. À GRANDS SOURCILS&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.30239754892611709</real>
+		<key>Frame</key>
+		<string>{{0.8383470743594561, 0.14524099604091825}, {0.11577571498151912, 0.17000126872731111}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;P. À PATTES SOMBRES&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.22926816753853485</real>
+		<key>Frame</key>
+		<string>{{0.72975807047768937, 0.56680085417616255}, {0.10801419944082355, 0.22422636133657112}}</string>
+		<key>Text</key>
+		<string>&lt;p class="right"&gt;noter les zones plus sombres sur le P. à grands sourcils&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>EndPoint</key>
+		<string>{0.88129696733682239, 0.76005843925218008}</string>
+		<key>StartPoint</key>
+		<string>{0.84236142137484937, 0.77245251256565162}</string>
+		<key>Type</key>
+		<string>line</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.42333364913398847</real>
+		<key>Frame</key>
+		<string>{{0.70660279914962676, 0.82527352576651036}, {0.13573663016845092, 0.12143605187689203}}</string>
+		<key>Text</key>
+		<string>&lt;p class="right"&gt;POUILLOT À GRANDS SOURCILS&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>EndPoint</key>
+		<string>{0.45267004640885994, 0.87930830707840713}</string>
+		<key>StartPoint</key>
+		<string>{0.46763702243202088, 0.82820853427539443}</string>
+		<key>Type</key>
+		<string>line</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.27600923175408948</real>
+		<key>Frame</key>
+		<string>{{0.54292037195576248, 0.3516729757415249}, {0.12395933776962585, 0.18625452000558804}}</string>
+		<key>Text</key>
+		<string>&lt;p class="right"&gt;barre alaire inférieure large, barre sup. étroite&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.20452179366084511</real>
+		<key>Frame</key>
+		<string>{{0.31287887883478044, 0.71193223464741906}, {0.16829479375642015, 0.25135691437714436}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;vert plus pur (et blanc plus pur dessous) donnant l’impression d’un oiseau plus coloré&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+</array>
+</plist>

@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>FontScale</key>
+		<real>0.311752071187479</real>
+		<key>Frame</key>
+		<string>{{0.52112915016704242, 0.74054994210565994}, {0.12067893331503704, 0.1629500363611068}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;﻿lyst gråbrun&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>EndPoint</key>
+		<string>{0.57031559407962795, 0.71312653915020874}</string>
+		<key>StartPoint</key>
+		<string>{0.54598454022943388, 0.79259995372027636}</string>
+		<key>Type</key>
+		<string>line</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.16211903622151849</real>
+		<key>Frame</key>
+		<string>{{0.25053624322743479, 0.12469980468322828}, {0.30820644379635947, 0.31335006992169151}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;﻿svært kort håndsvingfjær-projeksjon (maks. ¹/³ ﻿av tertiærlengden)&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.22324763788192045</real>
+		<key>Frame</key>
+		<string>{{0.67677324054368415, 0.77244994922401344}, {0.29291137154192276, 0.22755005077598656}}</string>
+		<key>Text</key>
+		<string>&lt;p class="right"&gt;﻿som regel svak eller ingen øyenbryn-stripe bak øyet&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>EndPoint</key>
+		<string>{0.86400180143958705, 0.64067491981930391}</string>
+		<key>StartPoint</key>
+		<string>{0.86189656616775634, 0.68567492986070733}</string>
+		<key>Type</key>
+		<string>line</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.10199779138640769</real>
+		<key>Frame</key>
+		<string>{{0.77235389260578602, 0.12709980521877703}, {0.20912003700208479, 0.49805011113622716}}</string>
+		<key>Text</key>
+		<string>&lt;p class="right"&gt;﻿ganske langt nebb med bare antydning til mørk spiss på undernebbet&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>EndPoint</key>
+		<string>{0.7821959158457501, 0.78019995095331351}</string>
+		<key>StartPoint</key>
+		<string>{0.82420903575092141, 0.83414996299185928}</string>
+		<key>Type</key>
+		<string>line</string>
+	</dict>
+	<dict>
+		<key>EndPoint</key>
+		<string>{0.27251973900306986, 0.47554947708754181}</string>
+		<key>StartPoint</key>
+		<string>{0.27145039629353956, 0.57344829701998834}</string>
+		<key>Type</key>
+		<string>line</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.36363636363636365</real>
+		<key>Frame</key>
+		<string>{{0.6534782742562798, 0.2423998309471353}, {0.10073171287570472, 0.13970003117303767}}</string>
+		<key>Text</key>
+		<string>&lt;p class="right"&gt;&lt;b&gt;ung&lt;/b&gt;&lt;/p&gt;&lt;p class="right"&gt;&lt;b&gt;høst&lt;/b&gt;&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>EndPoint</key>
+		<string>{0.29272732559483566, 0.43908425474245111}</string>
+		<key>StartPoint</key>
+		<string>{0.30861144169797083, 0.49506107267540217}</string>
+		<key>Type</key>
+		<string>line</string>
+	</dict>
+	<dict>
+		<key>EndPoint</key>
+		<string>{0.33946480536403795, 0.4752562228456893}</string>
+		<key>StartPoint</key>
+		<string>{0.33656759829803229, 0.60316095073021425}</string>
+		<key>Type</key>
+		<string>line</string>
+	</dict>
+	<dict>
+		<key>EndPoint</key>
+		<string>{0.27160593486311579, 0.49320200357843003}</string>
+		<key>StartPoint</key>
+		<string>{0.33807032939444009, 0.49320200357843003}</string>
+		<key>Type</key>
+		<string>line</string>
+	</dict>
+</array>
+</plist>

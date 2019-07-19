@@ -1,0 +1,244 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>FontScale</key>
+		<real>0.29120855435009463</real>
+		<key>Frame</key>
+		<string>{{0.63388776583928375, 0.038804280115714164}, {0.19945404017073953, 0.14355402672062176}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;♂ im PK (mit reduzierter schwarzer Schnabelbinde) weniger auffällig als ♀ im SK&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.24248739571606237</real>
+		<key>Frame</key>
+		<string>{{0.88144142018056659, 0.051349992538750902}, {0.10383527140172673, 0.17239725169631986}}</string>
+		<key>Text</key>
+		<string>&lt;p class="right"&gt;der Schnabelgröße nach wahrscheinlich ♂&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.66955480993321292</real>
+		<key>Frame</key>
+		<string>{{0.88311125933295209, 0.62106692316658663}, {0.10383527140172731, 0.062435755777211166}}</string>
+		<key>Text</key>
+		<string>&lt;p class="right"&gt;Iris dunkel&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>EndPoint</key>
+		<string>{0.9257808041451977, 0.61455407737087564}</string>
+		<key>StartPoint</key>
+		<string>{0.94155562966647799, 0.63940615709314796}</string>
+		<key>Type</key>
+		<string>line</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.60765550239239829</real>
+		<key>Frame</key>
+		<string>{{0.91302921081320954, 0.24029163175185445}, {0.072359696603410587, 0.068795823337170672}}</string>
+		<key>Text</key>
+		<string>&lt;p class="center"&gt;&lt;b&gt;PK&lt;/b&gt;&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.25747592498734562</real>
+		<key>Frame</key>
+		<string>{{0.30790434471113998, 0.048840097070118868}, {0.19804889933258576, 0.162361434741915}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;kleiner und kompakter als Mittelmeermöwe – kann sogar an Ringschnabelmöwe erinnern&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.63381160324397434</real>
+		<key>Frame</key>
+		<string>{{0.53661963521277645, 0.13002081444107466}, {0.068074199370126293, 0.065956761249691673}}</string>
+		<key>Text</key>
+		<string>&lt;p class="center"&gt;&lt;b&gt;2er W&lt;/b&gt;&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.32253968253965498</real>
+		<key>Frame</key>
+		<string>{{0.0097419127017475075, 0.049374992825719222}, {0.15909564919792391, 0.12960935616753905}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;... einzelne Individuen, besonders im 1en KJ, aber schwieriger&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.39486980178777753</real>
+		<key>Frame</key>
+		<string>{{0.29073582002387943, 0.35578796913670868}, {0.10383527140172703, 0.10586821378383027}}</string>
+		<key>Text</key>
+		<string>&lt;p class="right"&gt;recht kurz, kräftig&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>EndPoint</key>
+		<string>{0.33135056254241718, 0.47528954968112863}</string>
+		<key>StartPoint</key>
+		<string>{0.32224077424939285, 0.51621898776683905}</string>
+		<key>Type</key>
+		<string>line</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.63381160324397434</real>
+		<key>Frame</key>
+		<string>{{0.20265180473549649, 0.13002081444107466}, {0.080255907908889118, 0.065956761249691673}}</string>
+		<key>Text</key>
+		<string>&lt;p class="center"&gt;&lt;b&gt;1er W&lt;/b&gt;&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.60189573459704604</real>
+		<key>Frame</key>
+		<string>{{0.83677322285422939, 0.63957074040253392}, {0.066793566095456114, 0.069454156574865811}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;&lt;b&gt;SK&lt;/b&gt;&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.18886513616507986</real>
+		<key>Frame</key>
+		<string>{{0.74587135399619631, 0.76023087912044007}, {0.23951755342042377, 0.22134397825497917}}</string>
+		<key>Text</key>
+		<string>&lt;p class="right"&gt;dunkles Auge, runder Kopf, kurzer Schnabel (besonders bei ♀) mit schwarzer Binde vermitteln typischen Gesichts-ausdruck &lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.15987411487018061</real>
+		<key>Frame</key>
+		<string>{{0.7153531832777873, 0.38565983979628721}, {0.16385296682791536, 0.26148173283956894}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;Flügelspitze ausgedehnter schwarz als bei meisten Mittelmeermöwen; meist nur ein Subterminal-fleck&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.67733333333336576</real>
+		<key>Frame</key>
+		<string>{{0.5500792917534536, 0.65421865494088338}, {0.088400531754890987, 0.061718741032153232}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;viel Schwarz&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.60503156851944095</real>
+		<key>Frame</key>
+		<string>{{0.55394421641878377, 0.73634572634099615}, {0.080361009208595513, 0.069094180812325434}}</string>
+		<key>Text</key>
+		<string>&lt;p class="center"&gt;&lt;b&gt;PK&lt;/b&gt;&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.35051928011786893</real>
+		<key>Frame</key>
+		<string>{{0.43506490263384717, 0.85237283907423678}, {0.13147268405918525, 0.11926351263299884}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;etwas dunkler grau als Mittelmeer-möwe&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>EndPoint</key>
+		<string>{0.56408667040406213, 0.72655301943055983}</string>
+		<key>StartPoint</key>
+		<string>{0.55442734118876924, 0.79390873881032886}</string>
+		<key>Type</key>
+		<string>line</string>
+	</dict>
+	<dict>
+		<key>EndPoint</key>
+		<string>{0.60045947675969358, 0.93207642706763272}</string>
+		<key>StartPoint</key>
+		<string>{0.56166722249857237, 0.93207642706763272}</string>
+		<key>Type</key>
+		<string>line</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.75036927621860072</real>
+		<key>Frame</key>
+		<string>{{0.52088431906787402, 0.59151241405219801}, {0.047462260040243787, 0.055711450238360452}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;hell&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.45276292335128526</real>
+		<key>Frame</key>
+		<string>{{0.32374664931537167, 0.68203323423269946}, {0.065787987224701416, 0.092331236584079823}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;helles „Fenster“&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>EndPoint</key>
+		<string>{0.38257697340513208, 0.83464310789154195}</string>
+		<key>StartPoint</key>
+		<string>{0.35168494908598352, 0.78407488607252884}</string>
+		<key>Type</key>
+		<string>line</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.61631786472548089</real>
+		<key>Frame</key>
+		<string>{{0.43642928606959286, 0.7422707254800619}, {0.075142761857387691, 0.067828896394342628}}</string>
+		<key>Text</key>
+		<string>&lt;p class="right"&gt;&lt;b&gt;1er W&lt;/b&gt;&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>EndPoint</key>
+		<string>{0.51404530062369569, 0.62990147097422067}</string>
+		<key>StartPoint</key>
+		<string>{0.4710784484816104, 0.62990147097422067}</string>
+		<key>Type</key>
+		<string>line</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.2488366397257068</real>
+		<key>Frame</key>
+		<string>{{0.0085330032705776999, 0.27078068982176118}, {0.14715457530405132, 0.16799841308951904}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;im Trupp eine recht auffällige Vogelart...&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+</array>
+</plist>

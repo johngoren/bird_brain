@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>EndPoint</key>
+		<string>{0.44964786250148853, 0.8289478128962845}</string>
+		<key>StartPoint</key>
+		<string>{0.50261439384444739, 0.78419641736521528}</string>
+		<key>Type</key>
+		<string>line</string>
+	</dict>
+	<dict>
+		<key>EndPoint</key>
+		<string>{0.59278176556790585, 0.89141489204597646}</string>
+		<key>StartPoint</key>
+		<string>{0.5519721200208304, 0.92389286972378137}</string>
+		<key>Type</key>
+		<string>line</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.28896473265071937</real>
+		<key>Frame</key>
+		<string>{{0.7597431523846423, 0.4160799793431979}, {0.20213534830743166, 0.19928362748908737}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;﻿kontrastløst «ansikt»&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.45822321041518255</real>
+		<key>Frame</key>
+		<string>{{0.81180944583247716, 0.64869078194183138}, {0.18274489026757765, 0.12567224625499163}}</string>
+		<key>Text</key>
+		<string>&lt;p class="center"&gt;lyst&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.33560016386726754</real>
+		<key>Frame</key>
+		<string>{{0.27226847804992504, 0.77300086795478995}, {0.2645717847010754, 0.17159091782155794}}</string>
+		<key>Text</key>
+		<string>&lt;p class="right"&gt;﻿kraftig streket&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.8654173764893649</real>
+		<key>Frame</key>
+		<string>{{0.55901746307953704, 0.13829583306209067}, {0.21487001011482337, 0.066541233979668477}}</string>
+		<key>Text</key>
+		<string>&lt;p class="right"&gt;♀ &lt;b&gt;sommer&lt;/b&gt;&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>EndPoint</key>
+		<string>{0.89746868758056109, 0.78318094634762558}</string>
+		<key>StartPoint</key>
+		<string>{0.85271385126975485, 0.82221763515802537}</string>
+		<key>Type</key>
+		<string>line</string>
+	</dict>
+</array>
+</plist>

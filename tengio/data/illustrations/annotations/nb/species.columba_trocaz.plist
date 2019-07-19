@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>FontScale</key>
+		<real>0.20144437814579474</real>
+		<key>Frame</key>
+		<string>{{0.019511299209566148, 0.4233427828657168}, {0.16602404877216409, 0.22473192907243733}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;﻿mangler adults fargerike nebb og halssider; matt grålige øyne&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.57204706539576144</real>
+		<key>Frame</key>
+		<string>{{0.19413182713290011, 0.20687629318803988}, {0.044522614173603078, 0.079138564709150289}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;&lt;b&gt;juv.&lt;/b&gt;&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.22019148182606246</real>
+		<key>Frame</key>
+		<string>{{0.1505388983671799, 0.70851433374132777}, {0.17392330907934081, 0.20559825169469201}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;﻿lengre stjert enn kanaridue med mer kontrastrike tegninger&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>EndPoint</key>
+		<string>{0.40552527399318594, 0.24711546330527073}</string>
+		<key>StartPoint</key>
+		<string>{0.4240336252982192, 0.20001781208626349}</string>
+		<key>Type</key>
+		<string>line</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.26722777485533944</real>
+		<key>Frame</key>
+		<string>{{0.37032721163810095, 0.049857167328326957}, {0.1167181316526625, 0.16940972444203789}}</string>
+		<key>Text</key>
+		<string>&lt;p class="right"&gt;﻿tydelig lysegrått bånd&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.68800828655813884</real>
+		<key>Frame</key>
+		<string>{{0.60974633141273227, 0.33262258324341987}, {0.056656598245888382, 0.065800055880106692}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;&lt;b&gt;ad.&lt;/b&gt; &lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>EndPoint</key>
+		<string>{0.5963910012681326, 0.8585637209123268}</string>
+		<key>StartPoint</key>
+		<string>{0.62996087862655215, 0.81940639457572761}</string>
+		<key>Type</key>
+		<string>line</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.27866154690071343</real>
+		<key>Frame</key>
+		<string>{{0.52833629842581098, 0.80324475829781339}, {0.10924898546147591, 0.16245866788944496}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;﻿tydelig sølvgrått halsfelt&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.41503267973856567</real>
+		<key>Frame</key>
+		<string>{{0.63377210768201664, 0.84753546479317965}, {0.11929881634860286, 0.10907811820991724}}</string>
+		<key>Text</key>
+		<string>&lt;p class="right"&gt;﻿lysegule øyne&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.17133833674369314</real>
+		<key>Frame</key>
+		<string>{{0.6711807615142269, 0.32032456011190646}, {0.096514042460053642, 0.26421981537747352}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;﻿ikke like tydelig rødfarget som hos kanaridue&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+</array>
+</plist>

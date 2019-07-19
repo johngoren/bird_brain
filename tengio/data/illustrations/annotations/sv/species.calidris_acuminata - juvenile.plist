@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>EndPoint</key>
+		<string>{0.60704960826023746, 0.55429299785176644}</string>
+		<key>StartPoint</key>
+		<string>{0.56369080549558093, 0.58414663036058057}</string>
+		<key>Type</key>
+		<string>line</string>
+	</dict>
+	<dict>
+		<key>EndPoint</key>
+		<string>{0.60685194639556905, 0.68687235026222271}</string>
+		<key>StartPoint</key>
+		<string>{0.56354899712415385, 0.71736114606004764}</string>
+		<key>Type</key>
+		<string>line</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.37919781516883838</real>
+		<key>Frame</key>
+		<string>{{0.61770405740357237, 0.42553057576160291}, {0.34332526317891526, 0.14801347267918502}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;orangebeige, streckad bara på sidorna&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.64864864864864868</real>
+		<key>Frame</key>
+		<string>{{0.61969969592304619, 0.61959778484633654}, {0.32128702480161958, 0.086528177577228402}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;streckad ”krage”&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.61077353215284247</real>
+		<key>Frame</key>
+		<string>{{0.16175753865343229, 0.25560227352593201}, {0.10559833664003063, 0.091893938589097543}}</string>
+		<key>Text</key>
+		<string>&lt;p class="right"&gt;&lt;b&gt;juv.&lt;/b&gt;&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+</array>
+</plist>

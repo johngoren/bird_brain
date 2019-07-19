@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>FontScale</key>
+		<real>0.63537122137552604</real>
+		<key>Frame</key>
+		<string>{{0.47459392963582892, 0.38891625500727184}, {0.21145590534450637, 0.046053378641618598}}</string>
+		<key>Text</key>
+		<string>&lt;p class="right"&gt;speckled white&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>EndPoint</key>
+		<string>{0.69188087504498275, 0.42266605332654417}</string>
+		<key>StartPoint</key>
+		<string>{0.75307212917940625, 0.42956033871220056}</string>
+		<key>Type</key>
+		<string>line</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.34887286355118963</real>
+		<key>Frame</key>
+		<string>{{0.66421416259311217, 0.51602797958692315}, {0.24886142848343534, 0.083872936227100237}}</string>
+		<key>Text</key>
+		<string>&lt;p class="right"&gt;black supercilium and forehead&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.73399537071604581</real>
+		<key>Frame</key>
+		<string>{{0.81454753891297516, 0.046937431720559475}, {0.075361940395910057, 0.039865362376126902}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;♂&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.73399263050612129</real>
+		<key>Frame</key>
+		<string>{{0.61464891792194842, 0.9247673236295002}, {0.075361607860034818, 0.039865511205225572}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;♂&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.73399537071604581</real>
+		<key>Frame</key>
+		<string>{{0.37439634837933766, 0.046937431720559475}, {0.075361607860034818, 0.039865362376126902}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;♀&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.37546979558162985</real>
+		<key>Frame</key>
+		<string>{{0.071382397808275933, 0.3837283327847596}, {0.21881791709250359, 0.077931678607242913}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;very similar to ♀ Sand Partridge&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+</array>
+</plist>

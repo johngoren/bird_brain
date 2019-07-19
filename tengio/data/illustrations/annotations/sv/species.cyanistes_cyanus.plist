@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>EndPoint</key>
+		<string>{0.82056480154517986, 0.27957750007152399}</string>
+		<key>StartPoint</key>
+		<string>{0.83003554723058404, 0.33156202463143375}</string>
+		<key>Type</key>
+		<string>line</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.36182011112940216</real>
+		<key>Frame</key>
+		<string>{{0.75632786363727678, 0.13901262313796917}, {0.12018703397223858, 0.13047717418434343}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;massor av vitt när stjärten breds ut&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.40705252958567628</real>
+		<key>Frame</key>
+		<string>{{0.28202709074314275, 0.43202639322743935}, {0.15620228731313524, 0.11597831294963837}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;&lt;b&gt;hybrid&lt;/b&gt;  blåmes × azurmes (‘&lt;i&gt;pleskii&lt;/i&gt;’) &lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>EndPoint</key>
+		<string>{0.54892424507724058, 0.56724155261859233}</string>
+		<key>StartPoint</key>
+		<string>{0.53446273945831579, 0.59846657872655629}</string>
+		<key>Type</key>
+		<string>line</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.25083917984284299</real>
+		<key>Frame</key>
+		<string>{{0.50883475481718066, 0.50839706482363645}, {0.10031969477957016, 0.18820531024223283}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;mycket vitt i vingen&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>EndPoint</key>
+		<string>{0.73124905009559515, 0.73005776018154311}</string>
+		<key>StartPoint</key>
+		<string>{0.71440780304570706, 0.71611801638334627}</string>
+		<key>Type</key>
+		<string>line</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.43400256300727441</real>
+		<key>Frame</key>
+		<string>{{0.73491019075861508, 0.64748801108355269}, {0.04013173675673528, 0.10877646743859948}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;helvit hjässa&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+</array>
+</plist>

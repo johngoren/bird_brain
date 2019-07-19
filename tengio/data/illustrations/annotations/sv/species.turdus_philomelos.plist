@@ -1,0 +1,136 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>EndPoint</key>
+		<string>{0.25182123523523603, 0.38246973911780191}</string>
+		<key>StartPoint</key>
+		<string>{0.2960323701600564, 0.36248478522225669}</string>
+		<key>Type</key>
+		<string>line</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.50105124735276696</real>
+		<key>Frame</key>
+		<string>{{0.09114119225652427, 0.34899872825344025}, {0.1527537978162285, 0.05021654714735807}}</string>
+		<key>Text</key>
+		<string>&lt;p class="right"&gt;jämnbrun&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.25052562367638348</real>
+		<key>Frame</key>
+		<string>{{0.11774019146462762, 0.059592811172450445}, {0.23513832797096357, 0.10043309429471614}}</string>
+		<key>Text</key>
+		<string>&lt;p class="center"&gt;åldersbestämning &lt;/p&gt;&lt;p class="center"&gt;i fält vansklig;könen lika&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.35259146874554376</real>
+		<key>Frame</key>
+		<string>{{0.84331823788485449, 0.097412492942936968}, {0.14417251223631047, 0.071360386782616372}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;”pilspets­fläckar”&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>EndPoint</key>
+		<string>{0.88122134637365535, 0.17582979147885969}</string>
+		<key>StartPoint</key>
+		<string>{0.84882950663964474, 0.20076965677545444}</string>
+		<key>Type</key>
+		<string>line</string>
+	</dict>
+	<dict>
+		<key>EndPoint</key>
+		<string>{0.89790148740103759, 0.2743072716923407}</string>
+		<key>StartPoint</key>
+		<string>{0.87322179539164368, 0.28360605407198036}</string>
+		<key>Type</key>
+		<string>line</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.37333232060459787</real>
+		<key>Frame</key>
+		<string>{{0.9025769172310445, 0.2194928624587292}, {0.096114786539152897, 0.06739588885630203}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;gul­beige&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.23219447326417789</real>
+		<key>Frame</key>
+		<string>{{0.090278847626839853, 0.41672968946286804}, {0.32267133028882711, 0.10836202615945101}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;jämför med juv. koltrast (ovan) som har mörkare rödbrunt bröst&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>EndPoint</key>
+		<string>{0.84346189431799889, 0.66064744928270491}</string>
+		<key>StartPoint</key>
+		<string>{0.80799642995879351, 0.63334099113142306}</string>
+		<key>Type</key>
+		<string>line</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.50105124735276696</real>
+		<key>Frame</key>
+		<string>{{0.84854067518478649, 0.62642681551167045}, {0.15145932481521351, 0.05021654714735807}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;rostgul&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.55999874674759698</real>
+		<key>Frame</key>
+		<string>{{0.52936365741526314, 0.58281772224957362}, {0.1167106697571514, 0.044930571241569947}}</string>
+		<key>Text</key>
+		<string>&lt;p class="right"&gt;kort&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>EndPoint</key>
+		<string>{0.62616942525868258, 0.59735390184870496}</string>
+		<key>StartPoint</key>
+		<string>{0.63568044962941506, 0.57109310670913582}</string>
+		<key>Type</key>
+		<string>line</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.54109290264164167</real>
+		<key>Frame</key>
+		<string>{{0.64264167996941435, 0.7519456722375476}, {0.20939314152088551, 0.046500450224157934}}</string>
+		<key>Text</key>
+		<string>&lt;p class="center"&gt;sjungande&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.31748348862370129</real>
+		<key>Frame</key>
+		<string>{{0.092035893607030739, 0.68289059644511352}, {0.49254797416894358, 0.079251565790103368}}</string>
+		<key>Text</key>
+		<string>&lt;p class="center"&gt;har för vana att krossa snäckor &lt;/p&gt;&lt;p class="center"&gt;mot ”städ” i form av en sten&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+</array>
+</plist>

@@ -1,0 +1,128 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>FontScale</key>
+		<real>0.67142954716207903</real>
+		<key>Frame</key>
+		<string>{{0.47878892729215938, 0.6256243612413751}, {0.051680160241234813, 0.049343055402993614}}</string>
+		<key>Text</key>
+		<string>&lt;p class="center"&gt;&lt;b&gt;ad. &lt;/b&gt;♂&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.2334241188776148</real>
+		<key>Frame</key>
+		<string>{{0.023968618291305695, 0.32283904911548}, {0.063312324348829052, 0.14193214267714888}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;unge, ca 7 veckor gammal&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.33975547587160276</real>
+		<key>Frame</key>
+		<string>{{0.63450131365994411, 0.14155429075968254}, {0.072782766917870736, 0.097512439673954537}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;fint tvär-&lt;/p&gt;&lt;p&gt;­bandad&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>EndPoint</key>
+		<string>{0.63069126039927859, 0.22563011525205304}</string>
+		<key>StartPoint</key>
+		<string>{0.61120202755831454, 0.264174815758287}</string>
+		<key>Type</key>
+		<string>line</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.67142954716207903</real>
+		<key>Frame</key>
+		<string>{{0.5996320860855876, 0.045842280687224783}, {0.051679989836556993, 0.049343055402993614}}</string>
+		<key>Text</key>
+		<string>&lt;p class="center"&gt;&lt;b&gt;ad. &lt;/b&gt;♀&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.17403527655965884</real>
+		<key>Frame</key>
+		<string>{{0.26274285478445802, 0.020249200458881081}, {0.094343350925224792, 0.19036591890879301}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;vita tertia-&lt;/p&gt;&lt;p&gt;­ler med distinkta tvärband&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>EndPoint</key>
+		<string>{0.33526130334770454, 0.19021617965293053}</string>
+		<key>StartPoint</key>
+		<string>{0.36169622910369664, 0.13793404687634223}</string>
+		<key>Type</key>
+		<string>line</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.671427254192835</real>
+		<key>Frame</key>
+		<string>{{0.79361220932447918, 0.36494721222771798}, {0.051679989836556993, 0.049343223912847428}}</string>
+		<key>Text</key>
+		<string>&lt;p class="center"&gt;&lt;b&gt;ad. &lt;/b&gt;♀&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>EndPoint</key>
+		<string>{0.10537406101426694, 0.85242755090653022}</string>
+		<key>StartPoint</key>
+		<string>{0.12913593426579176, 0.80543224721782003}</string>
+		<key>Type</key>
+		<string>line</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.69629766045006058</real>
+		<key>Frame</key>
+		<string>{{0.033482353711745551, 0.83745044524392753}, {0.11711112594762318, 0.047580779351479002}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;tätt mörkbandad&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.28059679339154298</real>
+		<key>Frame</key>
+		<string>{{0.023705742911490905, 0.71677066714691007}, {0.087848671824766869, 0.11807114737264818}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;tertial­spet-­sar grå­me-­lerade&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>EndPoint</key>
+		<string>{0.054172993094325321, 0.73340887177527858}</string>
+		<key>StartPoint</key>
+		<string>{0.068545484263495299, 0.7049836927008899}</string>
+		<key>Type</key>
+		<string>line</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.671427254192835</real>
+		<key>Frame</key>
+		<string>{{0.2135175074311903, 0.669078301100968}, {0.088038383889132613, 0.049343223912847428}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;&lt;b&gt;1:a vint. &lt;/b&gt;♀&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+</array>
+</plist>

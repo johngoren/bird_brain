@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>FontScale</key>
+		<real>0.33571420033775001</real>
+		<key>Frame</key>
+		<string>{{0.13614538559449804, 0.32163097112068245}, {0.26543841775482652, 0.088773471484587904}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;tache ventrale blanc pur&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>EndPoint</key>
+		<string>{0.3888027602088216, 0.452541179294564}</string>
+		<key>StartPoint</key>
+		<string>{0.34884671105257936, 0.41706567092737007}</string>
+		<key>Type</key>
+		<string>line</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.2231838850690854</real>
+		<key>Frame</key>
+		<string>{{0.71375678474822735, 0.34807142650769202}, {0.2862432152517726, 0.13353345373224088}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;gorge blanche et collier sombre&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>EndPoint</key>
+		<string>{0.7486796867016986, 0.48239802533603277}</string>
+		<key>StartPoint</key>
+		<string>{0.69957861398609333, 0.51172184982286184}</string>
+		<key>Type</key>
+		<string>line</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.11907246996420062</real>
+		<key>Frame</key>
+		<string>{{0.53516877052008371, 0.056804089701627952}, {0.43615633772959439, 0.25028887869391359}}</string>
+		<key>Text</key>
+		<string>&lt;p class="right"&gt;très grand et à ailes longues ; battements d’ailes nettement plus lents que ceux de ses congénères de plus petite taille (rappelle le Faucon hobereau !)&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+</array>
+</plist>

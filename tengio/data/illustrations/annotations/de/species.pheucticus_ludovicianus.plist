@@ -1,0 +1,118 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>FontScale</key>
+		<real>0.7175141242937535</real>
+		<key>Frame</key>
+		<string>{{0.56126046199219104, 0.088232681150203884}, {0.19391802784875622, 0.040551733334086716}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;♀&lt;b&gt; 1er W&lt;/b&gt;&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.42575047135784383</real>
+		<key>Frame</key>
+		<string>{{0.81630834897691507, 0.10850854781724761}, {0.1683398071517278, 0.068341536625911192}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;mächtiger Schnabel&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>EndPoint</key>
+		<string>{0.84728955306910803, 0.18033322804456553}</string>
+		<key>StartPoint</key>
+		<string>{0.83813231286513568, 0.20699541994713122}</string>
+		<key>Type</key>
+		<string>line</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.37121767899379671</real>
+		<key>Frame</key>
+		<string>{{0.11282502259194301, 0.19366432399585334}, {0.19230204428334954, 0.078381076867535898}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;bei ♀ 1er W ohne Weiß&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>EndPoint</key>
+		<string>{0.27361538734986979, 0.23030693896827792}</string>
+		<key>StartPoint</key>
+		<string>{0.37246118993537375, 0.27555534198229764}</string>
+		<key>Type</key>
+		<string>line</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.50648055832502858</real>
+		<key>Frame</key>
+		<string>{{0.090171672881542153, 0.12278294737662925}, {0.21654179776444399, 0.057448288889953215}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;etwas größer als Kernbeißer!&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.36363636363636365</real>
+		<key>Frame</key>
+		<string>{{0.78194626943307466, 0.32782011128647226}, {0.21598658234543408, 0.080015213937452853}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;kräftige Kopfzeichnung&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>EndPoint</key>
+		<string>{0.81766346378303834, 0.32206764268138205}</string>
+		<key>StartPoint</key>
+		<string>{0.84324987023530518, 0.34383269729572125}</string>
+		<key>Type</key>
+		<string>line</string>
+	</dict>
+	<dict>
+		<key>EndPoint</key>
+		<string>{0.81294990230422459, 0.59272373652678423}</string>
+		<key>StartPoint</key>
+		<string>{0.72609078566363572, 0.68482428342114665}</string>
+		<key>Type</key>
+		<string>line</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.16500203004465533</real>
+		<key>Frame</key>
+		<string>{{0.76642156898671066, 0.46056546576161844}, {0.18058910976119386, 0.17633989972078845}}</string>
+		<key>Text</key>
+		<string>&lt;p class="right"&gt;bei ♂ deutlicher weißer Hand-basisfleck&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.22520696464715953</real>
+		<key>Frame</key>
+		<string>{{0.36922774830307598, 0.78878105743437354}, {0.22424626881434734, 0.1291986749938554}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;als Irrgast oft in Brombeeren beobachtet &lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.7175141242937535</real>
+		<key>Frame</key>
+		<string>{{0.44006169458671884, 0.49100074443450387}, {0.19391802784875622, 0.040551733334086716}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;♂&lt;b&gt; 1er W&lt;/b&gt;&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+</array>
+</plist>

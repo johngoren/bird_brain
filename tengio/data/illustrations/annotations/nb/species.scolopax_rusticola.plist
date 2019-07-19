@@ -1,0 +1,118 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>FontScale</key>
+		<real>0.58181559918501713</real>
+		<key>Frame</key>
+		<string>{{0.17784177111543226, 0.44876744187342393}, {0.16627707657633958, 0.06342265747157258}}</string>
+		<key>Text</key>
+		<string>&lt;p class="center"&gt;﻿rugdetrekk&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>EndPoint</key>
+		<string>{0.82700501992189479, 0.26876383399311754}</string>
+		<key>StartPoint</key>
+		<string>{0.8141855979875724, 0.189820575880287}</string>
+		<key>Type</key>
+		<string>line</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.29603729603730289</real>
+		<key>Frame</key>
+		<string>{{0.74502385755420619, 0.061822839056107123}, {0.13546492884387396, 0.12464744122672772}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;﻿iøynefallende rødbrun overgump i oppflukt&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>EndPoint</key>
+		<string>{0.90778137108595369, 0.57986325265121619}</string>
+		<key>StartPoint</key>
+		<string>{0.91092857081070211, 0.62058042347177655}</string>
+		<key>Type</key>
+		<string>line</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.57207286503441257</real>
+		<key>Frame</key>
+		<string>{{0.7988824425358344, 0.89763409294607788}, {0.18260657369397512, 0.064502782274963172}}</string>
+		<key>Text</key>
+		<string>&lt;p class="right"&gt;﻿bredvinget, avrundet spiss&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.57380340882558956</real>
+		<key>Frame</key>
+		<string>{{0.89242776402753199, 0.50917371392890542}, {0.068599764963442347, 0.064308247199599919}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;﻿buktung&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>EndPoint</key>
+		<string>{0.9314208803325329, 0.92222856409887555}</string>
+		<key>StartPoint</key>
+		<string>{0.92737986453777765, 0.87959866686013977}</string>
+		<key>Type</key>
+		<string>line</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.35933971225242456</real>
+		<key>Frame</key>
+		<string>{{0.59397356943650181, 0.88367409989168311}, {0.16947139037089648, 0.10268915513798774}}</string>
+		<key>Text</key>
+		<string>&lt;p class="center"&gt;﻿slår ofte raske dobbeltslag under «trekket»&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.61287260655086151</real>
+		<key>Frame</key>
+		<string>{{0.41023331307892985, 0.91656624373164808}, {0.15912998974217737, 0.060208746588295753}}</string>
+		<key>Text</key>
+		<string>&lt;p class="center"&gt;﻿hodet holdes høyt&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.38049417718579265</real>
+		<key>Frame</key>
+		<string>{{0.56703311951202084, 0.65054851301817729}, {0.08127976991223676, 0.096979911050546624}}</string>
+		<key>Text</key>
+		<string>&lt;p class="right"&gt;﻿bredt tverrbåndet&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>EndPoint</key>
+		<string>{0.65207077303285399, 0.69045211288577801}</string>
+		<key>StartPoint</key>
+		<string>{0.66149439844267199, 0.64999974217204559}</string>
+		<key>Type</key>
+		<string>line</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.61346255253690485</real>
+		<key>Frame</key>
+		<string>{{0.48446423271629219, 0.067627124592116533}, {0.050129956416121391, 0.060150845892927171}}</string>
+		<key>Text</key>
+		<string>&lt;p class="right"&gt;&lt;b&gt;ad.&lt;/b&gt;&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+</array>
+</plist>

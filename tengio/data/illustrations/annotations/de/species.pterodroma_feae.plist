@@ -1,0 +1,118 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>FontScale</key>
+		<real>0.11349168054635006</real>
+		<key>Frame</key>
+		<string>{{0.7771308551641809, 0.095566035602107274}, {0.22286914483581899, 0.24549329866124156}}</string>
+		<key>Text</key>
+		<string>&lt;p class="right"&gt;Schnabel kräftiger als bei Madeira­sturmvogel, aber nicht immer so ausgeprägt; auf See extrem schwer zu bestimmen&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.92028985507244809</real>
+		<key>Frame</key>
+		<string>{{0.094593724977983545, 0.7064940223482048}, {0.072904167241057943, 0.030274643227201491}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;spitz&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>EndPoint</key>
+		<string>{0.11301251936680785, 0.66568906843328313}</string>
+		<key>StartPoint</key>
+		<string>{0.11178459974088671, 0.70627464087554537}</string>
+		<key>Type</key>
+		<string>line</string>
+	</dict>
+	<dict>
+		<key>EndPoint</key>
+		<string>{0.23948824083674453, 0.56301853922799017}</string>
+		<key>StartPoint</key>
+		<string>{0.2689583118588651, 0.59855833779905421}</string>
+		<key>Type</key>
+		<string>line</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.14345419631763418</real>
+		<key>Frame</key>
+		<string>{{0.12638652197085623, 0.39844952751143731}, {0.16699706912535212, 0.19421841774667173}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;schwarze Unterflügel kontrastieren zu weißer Körperunter-seite&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>EndPoint</key>
+		<string>{0.62137124449839765, 0.7358911396847615}</string>
+		<key>StartPoint</key>
+		<string>{0.65391111458532269, 0.72097319954382122}</string>
+		<key>Type</key>
+		<string>line</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.33866666666666984</real>
+		<key>Frame</key>
+		<string>{{0.43936453610297438, 0.70122886700434406}, {0.18909962239194378, 0.082268052247827975}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;schwaches „w“-Muster bei gutem Licht erkennbar&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.16011094301563331</real>
+		<key>Frame</key>
+		<string>{{0.82367100286899586, 0.60948353513756515}, {0.16134008433938554, 0.1740133841146069}}</string>
+		<key>Text</key>
+		<string>&lt;p class="right"&gt;oberseits grauer als Sepiasturm-taucher, Oberflügel dunkler&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.1814285714285713</real>
+		<key>Frame</key>
+		<string>{{0.72574441270174128, 0.44367501810047588}, {0.24026294013868194, 0.15356703086261375}}</string>
+		<key>Text</key>
+		<string>&lt;p class="right"&gt;weißes Gesicht mit „Maske“; Schnabel kurz und dunkel&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.13041692339289387</real>
+		<key>Frame</key>
+		<string>{{0.46419753238041489, 0.41585744736707753}, {0.15103411398837011, 0.21363367807716155}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;auffällig hellgrau, aber je nach Licht nicht immer so gut sichtbar&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>EndPoint</key>
+		<string>{0.53050519218019065, 0.63497566226075752}</string>
+		<key>StartPoint</key>
+		<string>{0.55465427815664969, 0.67336741997641092}</string>
+		<key>Type</key>
+		<string>line</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.33866666666666984</real>
+		<key>Frame</key>
+		<string>{{0.22194978105352026, 0.82265651212214053}, {0.25558692194529964, 0.082268052247827975}}</string>
+		<key>Text</key>
+		<string>&lt;p class="right"&gt;schnelle, effiziente Flugweise typisch für diese Gattung&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+</array>
+</plist>

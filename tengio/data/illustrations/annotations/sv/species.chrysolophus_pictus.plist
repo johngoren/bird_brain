@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>FontScale</key>
+		<real>0.54231004749847145</real>
+		<key>Frame</key>
+		<string>{{0.52856386700310787, 0.35498455919576405}, {0.04166284387366169, 0.069424486472061453}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;♀&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.30128308270849552</real>
+		<key>Frame</key>
+		<string>{{0.46554905436335664, 0.043817560485117521}, {0.073756711322994842, 0.12496419054716144}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;gul-bruna&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>EndPoint</key>
+		<string>{0.65546945767843201, 0.19235891108395717}</string>
+		<key>StartPoint</key>
+		<string>{0.62632888361774108, 0.21694330360002598}</string>
+		<key>Type</key>
+		<string>line</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.60099958732633285</real>
+		<key>Frame</key>
+		<string>{{0.65891676580634018, 0.1456402555415906}, {0.093922408098486648, 0.062644962409562396}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;vattrad&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.36949306711870916</real>
+		<key>Frame</key>
+		<string>{{0.69766658697848416, 0.23589201135696936}, {0.055172586926342644, 0.10189527194599494}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;gul-brun&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>EndPoint</key>
+		<string>{0.69338537294353086, 0.31964453510899171}</string>
+		<key>StartPoint</key>
+		<string>{0.66329013007251014, 0.34189990382518454}</string>
+		<key>Type</key>
+		<string>line</string>
+	</dict>
+	<dict>
+		<key>EndPoint</key>
+		<string>{0.50980855760385979, 0.11269158536334059}</string>
+		<key>StartPoint</key>
+		<string>{0.54353211710132265, 0.086893483439824767}</string>
+		<key>Type</key>
+		<string>line</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.34167827416045909</real>
+		<key>Frame</key>
+		<string>{{0.86782375034406767, 0.65564265409877009}, {0.13217606424299008, 0.11019019763176284}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;omisskännlig!&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.54231004749847145</real>
+		<key>Frame</key>
+		<string>{{0.81055562636899792, 0.50019492523070508}, {0.04166284387366169, 0.069424486472061453}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;♂&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.40192367645029664</real>
+		<key>Frame</key>
+		<string>{{0.10193221473650896, 0.47777058132643824}, {0.20277834521649024, 0.093673497636998559}}</string>
+		<key>Text</key>
+		<string>&lt;p class="center"&gt;springer kvickt i skydd&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+</array>
+</plist>

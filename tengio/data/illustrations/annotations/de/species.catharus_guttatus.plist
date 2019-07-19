@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>FontScale</key>
+		<real>0.24895858858116607</real>
+		<key>Frame</key>
+		<string>{{0.71507464342489213, 0.28931141288983109}, {0.18399060573768708, 0.13480486381037499}}</string>
+		<key>Text</key>
+		<string>&lt;p class="right"&gt;Brustfleckung vergleichs-weise breit und  kräftig&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>EndPoint</key>
+		<string>{0.74845347012951524, 0.34358350091747564}</string>
+		<key>StartPoint</key>
+		<string>{0.69553581803681652, 0.35785345954674891}</string>
+		<key>Type</key>
+		<string>line</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.1703840348817659</real>
+		<key>Frame</key>
+		<string>{{0.62424449731247134, 0.019939450809499635}, {0.29145414537208769, 0.19697167432028498}}</string>
+		<key>Text</key>
+		<string>&lt;p class="right"&gt;Einsiedlerdrossel zeigt (anders als andere &lt;i&gt;Catharus&lt;/i&gt;-Arten) oft helle Spitzen der Mittleren Armdecken&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>EndPoint</key>
+		<string>{0.60803934102076707, 0.50719254047949336}</string>
+		<key>StartPoint</key>
+		<string>{0.56392011924216223, 0.52909296309803366}</string>
+		<key>Type</key>
+		<string>line</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.37981308411207232</real>
+		<key>Frame</key>
+		<string>{{0.41759033678837498, 0.48822118324417668}, {0.29226826309659215, 0.088361433641934245}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;deutlicher weißer Augenring&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.4843246517854144</real>
+		<key>Frame</key>
+		<string>{{0.22497561868356497, 0.38025322437304898}, {0.25726120094296123, 0.069294074758302363}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;Oberseite recht warm olivbraun&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.29812206572769961</real>
+		<key>Frame</key>
+		<string>{{0.11914046908866617, 0.06135543024960928}, {0.25726120094296123, 0.11257411807538341}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;leuchtend rötlicher Schwanz&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>EndPoint</key>
+		<string>{0.18752635794692354, 0.21673942421281137}</string>
+		<key>StartPoint</key>
+		<string>{0.17252276683235804, 0.18416956493396056}</string>
+		<key>Type</key>
+		<string>line</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.14545454545454545</real>
+		<key>Frame</key>
+		<string>{{0.54492403900375341, 0.75519527875327408}, {0.25563296549395481, 0.23073069681823746}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;Stelzen des Schwanzes und langsames Absenken stärker ausgeprägt als bei anderen &lt;i&gt;Catharus&lt;/i&gt;-Arten&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+</array>
+</plist>

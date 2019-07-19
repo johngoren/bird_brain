@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>FontScale</key>
+		<real>0.28727165134296934</real>
+		<key>Frame</key>
+		<string>{{0.69884260959609623, 0.056044733161216685}, {0.17674809444613895, 0.16300260676816355}}</string>
+		<key>Text</key>
+		<string>&lt;p class="right"&gt;ljust runt näbbfästet&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.22828652159954285</real>
+		<key>Frame</key>
+		<string>{{0.53377016776304154, 0.75649141282486332}, {0.21008326191524443, 0.20511954753789888}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;ofta &lt;/p&gt;&lt;p&gt;resta,verkar ”sitta löst”&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.57454456192028913</real>
+		<key>Frame</key>
+		<string>{{0.10558111691723199, 0.058557620117725251}, {0.26523174336493122, 0.081501124756961044}}</string>
+		<key>Text</key>
+		<string>&lt;p class="right"&gt;&lt;b&gt;ad. &lt;/b&gt;♂&lt;b&gt; vinter&lt;/b&gt;&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>EndPoint</key>
+		<string>{0.8516813646848288, 0.23043112601721016}</string>
+		<key>StartPoint</key>
+		<string>{0.87848307591708952, 0.27918065369952322}</string>
+		<key>Type</key>
+		<string>line</string>
+	</dict>
+	<dict>
+		<key>EndPoint</key>
+		<string>{0.60757640014688841, 0.76507912600428152}</string>
+		<key>StartPoint</key>
+		<string>{0.61689532973753847, 0.70602349935345876}</string>
+		<key>Type</key>
+		<string>line</string>
+	</dict>
+</array>
+</plist>

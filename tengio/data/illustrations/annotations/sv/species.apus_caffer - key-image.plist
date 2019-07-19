@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>FontScale</key>
+		<real>0.22005631362356479</real>
+		<key>Frame</key>
+		<string>{{0.011311181653920225, 0.61420970055736657}, {0.24146195563567632, 0.23429282371562404}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;ljust ändband längs arm-pennorna&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>EndPoint</key>
+		<string>{0.33764475099599323, 0.64129574542942591}</string>
+		<key>StartPoint</key>
+		<string>{0.22493822571809283, 0.66955980737373988}</string>
+		<key>Type</key>
+		<string>line</string>
+	</dict>
+	<dict>
+		<key>EndPoint</key>
+		<string>{0.12896643542079461, 0.40531551587721343}</string>
+		<key>StartPoint</key>
+		<string>{0.11312690613403825, 0.45570176239146259}</string>
+		<key>Type</key>
+		<string>line</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.35471649093940116</real>
+		<key>Frame</key>
+		<string>{{0.087447834331835242, 0.25065446210822395}, {0.21454780469959453, 0.14534879660873706}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;djupt kluven&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.58420026742565956</real>
+		<key>Frame</key>
+		<string>{{0.060256172661149562, 0.057022088602086456}, {0.21535796043181887, 0.088253323338090953}}</string>
+		<key>Text</key>
+		<string>&lt;p class="right"&gt;spetsig&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>EndPoint</key>
+		<string>{0.38310321131155306, 0.092148784440904213}</string>
+		<key>StartPoint</key>
+		<string>{0.28885604173398527, 0.1172972832221082}</string>
+		<key>Type</key>
+		<string>line</string>
+	</dict>
+	<dict>
+		<key>EndPoint</key>
+		<string>{0.67108898102345871, 0.5185624102218277}</string>
+		<key>StartPoint</key>
+		<string>{0.60901518352740724, 0.55768827044407299}</string>
+		<key>Type</key>
+		<string>line</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.25786802030456935</real>
+		<key>Frame</key>
+		<string>{{0.68566439108689037, 0.33409352405526155}, {0.31433560891310963, 0.19993799554679545}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;välavgränsad ljus strupfläck&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.35723582639882784</real>
+		<key>Frame</key>
+		<string>{{0.66173572881669185, 0.0028226708650713373}, {0.30889727657897331, 0.14432375278552162}}</string>
+		<key>Text</key>
+		<string>&lt;p class="right"&gt;lockas inte av urbana miljöer&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+</array>
+</plist>

@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>FontScale</key>
+		<real>0.58749897281508212</real>
+		<key>Frame</key>
+		<string>{{0.48060760698767391, 0.77963308368962214}, {0.09705951533108069, 0.10707693350733115}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;♂&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.31127450980391835</real>
+		<key>Frame</key>
+		<string>{{0, 0.67454684106576812}, {0.22606624130574199, 0.2020968195801621}}</string>
+		<key>Text</key>
+		<string>&lt;p class="right"&gt;plumes à centres gris diffus&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>EndPoint</key>
+		<string>{0.25006477471931737, 0.75549287085119965}</string>
+		<key>StartPoint</key>
+		<string>{0.31757343161207469, 0.74985703164276452}</string>
+		<key>Type</key>
+		<string>line</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.5874998505910618</real>
+		<key>Frame</key>
+		<string>{{0.60833159910632373, 0.078366052501404437}, {0.38172364951246401, 0.10707677352506031}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;chamois grisâtre pâle&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>EndPoint</key>
+		<string>{0.63132370677073923, 0.19724057284168967}</string>
+		<key>StartPoint</key>
+		<string>{0.61167407868559687, 0.27698104147415215}</string>
+		<key>Type</key>
+		<string>line</string>
+	</dict>
+	<dict>
+		<key>EndPoint</key>
+		<string>{0.76021349803262628, 0.58876783961032719}</string>
+		<key>StartPoint</key>
+		<string>{0.78488544475689204, 0.67849132860333394}</string>
+		<key>Type</key>
+		<string>line</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.32982468501430579</real>
+		<key>Frame</key>
+		<string>{{0.73243795513824472, 0.61969458416107792}, {0.26756204486175517, 0.1907303828548107}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;calotte entièrement noire&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+</array>
+</plist>

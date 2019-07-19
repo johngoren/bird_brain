@@ -1,0 +1,166 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>FontScale</key>
+		<real>0.37986011824259053</real>
+		<key>Frame</key>
+		<string>{{0.47806033933838316, 0.016986313880124334}, {0.067284075479489211, 0.098764661329412182}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;&lt;b&gt;spring&lt;/b&gt;&lt;/p&gt;&lt;p&gt;(worn)&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.28719632707496778</real>
+		<key>Frame</key>
+		<string>{{0.74319716527988466, 0.059235916605188128}, {0.10448387929797713, 0.13063104362399036}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;diffusely &lt;/p&gt;&lt;p&gt;set-off black terminal band&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>EndPoint</key>
+		<string>{0.76959159441214153, 0.196116099428401}</string>
+		<key>StartPoint</key>
+		<string>{0.79240108295971046, 0.25538070888135511}</string>
+		<key>Type</key>
+		<string>line</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.32564094494970697</real>
+		<key>Frame</key>
+		<string>{{0.85299803002910346, 0.69501359477618951}, {0.11448633555392504, 0.11520896408335297}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;&lt;b&gt;&lt;i&gt;annae&lt;/i&gt;&lt;/b&gt;&lt;/p&gt;&lt;p&gt;(N Jordan)&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.33069205345353886</real>
+		<key>Frame</key>
+		<string>{{0.62011995322640556, 0.75880894835432589}, {0.092515231532252135, 0.11344922122856786}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;&lt;b&gt;&lt;i&gt;payni&lt;/i&gt;&lt;/b&gt;&lt;/p&gt;&lt;p&gt;(S Morocco)&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.24543525847363223</real>
+		<key>Frame</key>
+		<string>{{0.39946677153169957, 0.78941154422893767}, {0.097116792346473815, 0.15285805374540531}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;examples of geographical variation:&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>EndPoint</key>
+		<string>{0.2300900506762743, 0.40967281972769298}</string>
+		<key>StartPoint</key>
+		<string>{0.21723556878583244, 0.43767759038778919}</string>
+		<key>Type</key>
+		<string>line</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.37599972460957559</real>
+		<key>Frame</key>
+		<string>{{0.1417781838324482, 0.37297037961860879}, {0.083973404713984012, 0.099778679278916912}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;plain sand-&lt;/p&gt;&lt;p&gt;brown&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.38484862127621194</real>
+		<key>Frame</key>
+		<string>{{0.068485823093874826, 0.21202252550651379}, {0.089493070455392384, 0.097484449356656386}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;dark grey-&lt;/p&gt;&lt;p&gt;brown&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>EndPoint</key>
+		<string>{0.12090420917790067, 0.26099306566928232}</string>
+		<key>StartPoint</key>
+		<string>{0.1685358291410097, 0.26099306566928232}</string>
+		<key>Type</key>
+		<string>line</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.37233683939413337</real>
+		<key>Frame</key>
+		<string>{{0.17141127911759871, 0.014990717396135039}, {0.06524387150420223, 0.10076025781340144}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;&lt;b&gt;autumn&lt;/b&gt;&lt;/p&gt;&lt;p&gt;(fresh)&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.37025465742009378</real>
+		<key>Frame</key>
+		<string>{{0.38577949521169586, 0.22531579886248793}, {0.076789728534998075, 0.1013268980657632}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;diffusely streaked&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>EndPoint</key>
+		<string>{0.39829752387619438, 0.33783220445291201}</string>
+		<key>StartPoint</key>
+		<string>{0.37203837770888221, 0.39504055956782441}</string>
+		<key>Type</key>
+		<string>line</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.26757815556872627</real>
+		<key>Frame</key>
+		<string>{{0.39295388698672507, 0.38203366594503435}, {0.14132194171699178, 0.14020859008852798}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;longish and strong, yellowish with dark culmen and tip&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>EndPoint</key>
+		<string>{0.41685839102285643, 0.5288822636755276}</string>
+		<key>StartPoint</key>
+		<string>{0.39936571340224852, 0.56699167341957524}</string>
+		<key>Type</key>
+		<string>line</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.24414482936324342</real>
+		<key>Frame</key>
+		<string>{{0.28578278586408679, 0.63883215354339984}, {0.13923084869737246, 0.15366598599948952}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;&lt;b&gt;&lt;i&gt;deserti&lt;/i&gt;&lt;/b&gt;&lt;/p&gt;&lt;p&gt;(NE Egypt, Israel, &lt;/p&gt;&lt;p&gt;S Jordan)&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.23770362972939693</real>
+		<key>Frame</key>
+		<string>{{0.031875008565513695, 0.70867717179261525}, {0.10826508419271516, 0.15782996655746989}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;prefers sloping, stony terrain&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+</array>
+</plist>

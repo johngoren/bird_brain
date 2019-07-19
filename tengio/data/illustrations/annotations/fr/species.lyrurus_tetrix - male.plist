@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>FontScale</key>
+		<real>0.58730329426103167</real>
+		<key>Frame</key>
+		<string>{{0.68904113704188241, 0.18711876101386687}, {0.22330318381426453, 0.053666117728394004}}</string>
+		<key>Text</key>
+		<string>&lt;p class="right"&gt;♂&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>EndPoint</key>
+		<string>{0.29876904298062534, 0.092319361124917343}</string>
+		<key>StartPoint</key>
+		<string>{0.32946178539545257, 0.13141895600709175}</string>
+		<key>Type</key>
+		<string>line</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.79828733376505301</real>
+		<key>Frame</key>
+		<string>{{0.22706981222898245, 0.047476393296229692}, {0.52535429358841379, 0.039482384849366059}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;sous-caudales blanches&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.27031917263150312</real>
+		<key>Frame</key>
+		<string>{{0.025258099147650041, 0.10163719579522983}, {0.21812275134268, 0.1165965677730585}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;queue en forme de lyre&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>EndPoint</key>
+		<string>{0.094006232220089248, 0.079383844522657523}</string>
+		<key>StartPoint</key>
+		<string>{0.093662559032653969, 0.12312830945334033}</string>
+		<key>Type</key>
+		<string>line</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.58730329426103167</real>
+		<key>Frame</key>
+		<string>{{0.5575462687108601, 0.61244153301178994}, {0.22330318381426453, 0.053666117728394004}}</string>
+		<key>Text</key>
+		<string>&lt;p class="right"&gt;♂&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+</array>
+</plist>

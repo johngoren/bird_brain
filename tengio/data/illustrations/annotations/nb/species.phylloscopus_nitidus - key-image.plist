@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>EndPoint</key>
+		<string>{0.45722564231056523, 0.77810395885710104}</string>
+		<key>StartPoint</key>
+		<string>{0.40185704768637204, 0.79989658679338416}</string>
+		<key>Type</key>
+		<string>line</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.48474926464605517</real>
+		<key>Frame</key>
+		<string>{{0.16624271785800734, 0.71959499352134615}, {0.22739573925474413, 0.11156085907184841}}</string>
+		<key>Text</key>
+		<string>&lt;p class="right"&gt;﻿mosegrønn&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.21617021276594442</real>
+		<key>Frame</key>
+		<string>{{0.6275767216078304, 0.13132451226567887}, {0.2736558967471775, 0.25016880774833727}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;﻿ett tydelig vingebånd, iblant antydning til bånd nr. 2&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.28059679339154298</real>
+		<key>Frame</key>
+		<string>{{0.76442766725894828, 0.45680273121883652}, {0.18839134211475078, 0.19272866145301654}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;strupe og kinn lysegule&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>EndPoint</key>
+		<string>{0.78695949510663887, 0.65985832028637259}</string>
+		<key>StartPoint</key>
+		<string>{0.75319980493819916, 0.72516125037718715}</string>
+		<key>Type</key>
+		<string>line</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.21860441327228411</real>
+		<key>Frame</key>
+		<string>{{0.72791410000438028, 0.65953675885139218}, {0.22906587158098873, 0.24738313188124988}}</string>
+		<key>Text</key>
+		<string>&lt;p class="right"&gt;﻿kraftig gult øyenbryn-stripe&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+</array>
+</plist>

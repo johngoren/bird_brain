@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>EndPoint</key>
+		<string>{0.73961350618270827, 0.22278933917542929}</string>
+		<key>StartPoint</key>
+		<string>{0.59779875154020434, 0.29735020788293753}</string>
+		<key>Type</key>
+		<string>line</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.20685447423438136</real>
+		<key>Frame</key>
+		<string>{{0.595376668255158, 0.14124472757600404}, {0.30017918941745148, 0.11855553642774305}}</string>
+		<key>Text</key>
+		<string>&lt;p class="right"&gt;white-fringed&lt;/p&gt;&lt;p class="right"&gt;wing-coverts characteristic&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.50825412706352402</real>
+		<key>Frame</key>
+		<string>{{0.21004923533181696, 0.075630814913958525}, {0.2894950617258355, 0.048250947408973503}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;&lt;b&gt;ad. spring&lt;/b&gt; ♂&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.50825412706352402</real>
+		<key>Frame</key>
+		<string>{{0.73278225500582561, 0.83666421146990999}, {0.062910601293606858, 0.048250947408973503}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;♂&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>EndPoint</key>
+		<string>{0.39823293817955674, 0.78999355225175316}</string>
+		<key>StartPoint</key>
+		<string>{0.39682534209004622, 0.82321322286182474}</string>
+		<key>Type</key>
+		<string>line</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.18912364272730067</real>
+		<key>Frame</key>
+		<string>{{0.31993143401652552, 0.65425680298087052}, {0.31000257127227865, 0.129670425133979}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;tail mainly dark with rufous base and reddish-&lt;/p&gt;&lt;p&gt;buff rump&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+</array>
+</plist>

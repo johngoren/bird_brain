@@ -1,0 +1,166 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>FontScale</key>
+		<real>0.38764757385239329</real>
+		<key>Frame</key>
+		<string>{{0.44501250345191234, 0.015486118649696113}, {0.099067305475983095, 0.096780577156573108}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;&lt;b&gt;Frühjahr&lt;/b&gt;&lt;/p&gt;&lt;p&gt;(abgetragen)&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.29072994813223041</real>
+		<key>Frame</key>
+		<string>{{0.72765635033312492, 0.083926044447227427}, {0.13190282631346348, 0.12904331380995698}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;schwarze Endbinde diffus abgesetzt&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>EndPoint</key>
+		<string>{0.76629305438170336, 0.21921849745641403}</string>
+		<key>StartPoint</key>
+		<string>{0.78910254292926962, 0.27848310690935568}</string>
+		<key>Type</key>
+		<string>line</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.35513681061826691</real>
+		<key>Frame</key>
+		<string>{{0.85173342413913045, 0.7092538300996164}, {0.11448633555392504, 0.10564029075292426}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;&lt;b&gt;&lt;i&gt;annae&lt;/i&gt;&lt;/b&gt;&lt;/p&gt;&lt;p&gt;(N-Jordanien)&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.38484824461728723</real>
+		<key>Frame</key>
+		<string>{{0.61885534733643255, 0.77128934541292293}, {0.092515231532252135, 0.097484544766700182}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;&lt;b&gt;&lt;i&gt;payni&lt;/i&gt;&lt;/b&gt;&lt;/p&gt;&lt;p&gt;(S-Marokko)&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.24543525847363223</real>
+		<key>Frame</key>
+		<string>{{0.41348554286728284, 0.80802216058380083}, {0.087935217542308874, 0.15285805374540531}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;Beispiele geografischer Variation&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>EndPoint</key>
+		<string>{0.2288254452928494, 0.40618854142798766}</string>
+		<key>StartPoint</key>
+		<string>{0.21597087480058852, 0.43419330988095417}</string>
+		<key>Type</key>
+		<string>line</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.37599972460957559</real>
+		<key>Frame</key>
+		<string>{{0.13519913290884814, 0.3854289754821143}, {0.074626024469334112, 0.099778679278916912}}</string>
+		<key>Text</key>
+		<string>&lt;p class="right"&gt;einfarbig sandbraun&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.38768991375939782</real>
+		<key>Frame</key>
+		<string>{{0.028576468535074027, 0.18709712325686637}, {0.084759316198254109, 0.09677000767696782}}</string>
+		<key>Text</key>
+		<string>&lt;p class="right"&gt;dunkel graubraun&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.37233683939413337</real>
+		<key>Frame</key>
+		<string>{{0.15919475528395352, 0.015486118649697156}, {0.063203404762765716, 0.10076025781340144}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;&lt;b&gt;Herbst&lt;/b&gt;(frisch)&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.37025465742009378</real>
+		<key>Frame</key>
+		<string>{{0.38451471414428751, 0.22183151945921464}, {0.076789903712431384, 0.1013268980657632}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;diffus gestrichelt&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>EndPoint</key>
+		<string>{0.39703291848808259, 0.33434792614300235}</string>
+		<key>StartPoint</key>
+		<string>{0.37077359613960997, 0.39155627907119428}</string>
+		<key>Type</key>
+		<string>line</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.26757815556872627</real>
+		<key>Frame</key>
+		<string>{{0.39372321523721415, 0.36521402007730464}, {0.13007082071748594, 0.14020859008852798}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;recht lang und kräftig, gelblich, First und Spitze dunkel&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>EndPoint</key>
+		<string>{0.42054260605270305, 0.51461642721119472}</string>
+		<key>StartPoint</key>
+		<string>{0.39825332957689025, 0.56317557276194952}</string>
+		<key>Type</key>
+		<string>line</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.26822483584516749</real>
+		<key>Frame</key>
+		<string>{{0.28451817997411383, 0.64914330783760787}, {0.13190282631346348, 0.1398705523020114}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;&lt;b&gt;&lt;i&gt;deserti&lt;/i&gt;&lt;/b&gt;&lt;/p&gt;&lt;p&gt;(NO-Ägypten, Israel, S-Jordanien)&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>EndPoint</key>
+		<string>{0.11760566914746097, 0.26193989917122634}</string>
+		<key>StartPoint</key>
+		<string>{0.16523720152185353, 0.26193989917122634}</string>
+		<key>Type</key>
+		<string>line</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.23770362972939693</real>
+		<key>Frame</key>
+		<string>{{0.031875069256907605, 0.71094392362215286}, {0.095506298614726107, 0.15782996655746989}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;bevorzugt steinige Wüstenhänge&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+</array>
+</plist>

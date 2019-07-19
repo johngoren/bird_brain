@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>FontScale</key>
+		<real>0.46547964154402433</real>
+		<key>Frame</key>
+		<string>{{0.65383712920901371, 0.13742344484823726}, {0.1845925404363177, 0.11534600887142347}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;&lt;b&gt;JK&lt;/b&gt;&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.17476776739356231</real>
+		<key>Frame</key>
+		<string>{{0.44991501082504665, 0.62409343367921077}, {0.24197035007034043, 0.30721465212802052}}</string>
+		<key>Text</key>
+		<string>&lt;p class="right"&gt;im JK dunkle Flügeldecken mit deutlichem hellem Band (ältere Vögel zeigen mehrere helle Bänder)&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>EndPoint</key>
+		<string>{0.59243789972965188, 0.6552207579956133}</string>
+		<key>StartPoint</key>
+		<string>{0.57695590176408329, 0.59296610936280858}</string>
+		<key>Type</key>
+		<string>line</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.31242312423124263</real>
+		<key>Frame</key>
+		<string>{{0.44681745769165049, 0.18935462829091337}, {0.1845925404363177, 0.17185417691189861}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;ohne die für Gänsegeier typische rostrote Unterseite&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.15438852419158786</real>
+		<key>Frame</key>
+		<string>{{0.85395614500913708, 0.2020375933766636}, {0.14491377006215647, 0.34776690265123683}}</string>
+		<key>Text</key>
+		<string>&lt;p class="right"&gt;geringere Größe des Sperbergeiers in Gesellschaft von Gänsegeiern auffällig &lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.2942880315143111</real>
+		<key>Frame</key>
+		<string>{{0.79702573534185917, 0.79813695240686733}, {0.20184417972943228, 0.18244445275849783}}</string>
+		<key>Text</key>
+		<string>&lt;p class="right"&gt;Flügeldecken oberseits dunkler als bei Gänsegeier&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+</array>
+</plist>

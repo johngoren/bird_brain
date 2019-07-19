@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>FontScale</key>
+		<real>0.52916620687242</real>
+		<key>Frame</key>
+		<string>{{0.042979988272949674, 0.069852750049231624}, {0.27180367458702032, 0.05674276224978099}}</string>
+		<key>Text</key>
+		<string>&lt;p class="right"&gt;♂ &lt;b&gt;1er hiver&lt;/b&gt;&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.22623023825427596</real>
+		<key>Frame</key>
+		<string>{{0.49135686301113213, 0.01089357418283206}, {0.28469945927571177, 0.13272475199991365}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;toujours plus marquée que la G. à gorge rousse&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>EndPoint</key>
+		<string>{0.59525825227145723, 0.15055120545213471}</string>
+		<key>StartPoint</key>
+		<string>{0.57411777868963554, 0.17404623503124295}</string>
+		<key>Type</key>
+		<string>line</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.17305168542490543</real>
+		<key>Frame</key>
+		<string>{{0.092909860368614705, 0.49391591813444341}, {0.49693685378092767, 0.1735108918093137}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;sexes semblables - les ♀♀ ont souvent la gorge plus striée de noir et des taches rouges plus pâles et plus réduites sur les parties inf.&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.52191086995763292</real>
+		<key>Frame</key>
+		<string>{{0.65463814339304849, 0.32128371252299676}, {0.21565667920681197, 0.057531570993372097}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;&lt;b&gt;ad.&lt;/b&gt; &lt;b&gt;internuptial&lt;/b&gt;&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>EndPoint</key>
+		<string>{0.59005928219536019, 0.78472232198193126}</string>
+		<key>StartPoint</key>
+		<string>{0.55037991364251571, 0.80954725889573731}</string>
+		<key>Type</key>
+		<string>line</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.3386666666666488</real>
+		<key>Frame</key>
+		<string>{{0.45415744490185456, 0.77550163112821269}, {0.13391786886586757, 0.088660488977898841}}</string>
+		<key>Text</key>
+		<string>&lt;p class="center"&gt;rouille&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>EndPoint</key>
+		<string>{0.51224128325149321, 0.78306077000893737}</string>
+		<key>StartPoint</key>
+		<string>{0.48881423668912993, 0.8075622237426282}</string>
+		<key>Type</key>
+		<string>line</string>
+	</dict>
+</array>
+</plist>

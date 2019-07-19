@@ -1,0 +1,158 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>EndPoint</key>
+		<string>{0.46431025636730766, 0.19102339903745791}</string>
+		<key>StartPoint</key>
+		<string>{0.46179526632693368, 0.25094920359205647}</string>
+		<key>Type</key>
+		<string>line</string>
+	</dict>
+	<dict>
+		<key>EndPoint</key>
+		<string>{0.46431265172985908, 0.20774253704255358}</string>
+		<key>StartPoint</key>
+		<string>{0.36924014608420463, 0.1678508720721433}</string>
+		<key>Type</key>
+		<string>line</string>
+	</dict>
+	<dict>
+		<key>EndPoint</key>
+		<string>{0.3689670110410177, 0.15467501785800872}</string>
+		<key>StartPoint</key>
+		<string>{0.36821150354222182, 0.18992062593263234}</string>
+		<key>Type</key>
+		<string>line</string>
+	</dict>
+	<dict>
+		<key>EndPoint</key>
+		<string>{0.41790631565976694, 0.18822520785770777}</string>
+		<key>StartPoint</key>
+		<string>{0.41797016402355203, 0.14010707728628821}</string>
+		<key>Type</key>
+		<string>line</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.23059464366773094</real>
+		<key>Frame</key>
+		<string>{{0.32429822998271046, 0.031091436292013292}, {0.29163669752726173, 0.10302573459325096}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;﻿middels lang håndsvingfjærprojeksjon (knapt ¾ ﻿av tertiærlengden)&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.2305423190378845</real>
+		<key>Frame</key>
+		<string>{{0.32619745594345384, 0.31346519274869222}, {0.14969942404857689, 0.10304911764695558}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;﻿mørke vinge- og stjertfjær (jf. bleksanger)&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>EndPoint</key>
+		<string>{0.42924829743890885, 0.31343911697753751}</string>
+		<key>StartPoint</key>
+		<string>{0.430654335925231, 0.24812773848717959}</string>
+		<key>Type</key>
+		<string>line</string>
+	</dict>
+	<dict>
+		<key>EndPoint</key>
+		<string>{0.34725331268916687, 0.31346160526538702}</string>
+		<key>StartPoint</key>
+		<string>{0.34837003607292133, 0.23151395296840455}</string>
+		<key>Type</key>
+		<string>line</string>
+	</dict>
+	<dict>
+		<key>EndPoint</key>
+		<string>{0.55190727147942009, 0.39306044686809666}</string>
+		<key>StartPoint</key>
+		<string>{0.55211926844021353, 0.30674215567563029}</string>
+		<key>Type</key>
+		<string>line</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.19500959692898567</real>
+		<key>Frame</key>
+		<string>{{0.49143011452800245, 0.37566411558527402}, {0.19836360034415704, 0.12182570976641881}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;﻿lyse armsving-fjærkanter danner antydning til lyst vingefelt&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>EndPoint</key>
+		<string>{0.67388726913767427, 0.29902334796199448}</string>
+		<key>StartPoint</key>
+		<string>{0.77907146482344536, 0.21568823018999578}</string>
+		<key>Type</key>
+		<string>line</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.27840766127309219</real>
+		<key>Frame</key>
+		<string>{{0.76645612150972653, 0.18324496670471563}, {0.18268744955708116, 0.085332359204847191}}</string>
+		<key>Text</key>
+		<string>&lt;p class="right"&gt;﻿aldri tydelige lyse bremmer på stordekkerne&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.3766694973928445</real>
+		<key>Frame</key>
+		<string>{{0.82058406139087414, 0.33883580601098534}, {0.12666028371519397, 0.06307169208437273}}</string>
+		<key>Text</key>
+		<string>&lt;p class="right"&gt;﻿nokså kraftig&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>EndPoint</key>
+		<string>{0.90316789450940083, 0.43335698847362331}</string>
+		<key>StartPoint</key>
+		<string>{0.9205647423242157, 0.40811285362724853}</string>
+		<key>Type</key>
+		<string>line</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.70702853166330515</real>
+		<key>Frame</key>
+		<string>{{0.69220543037786375, 0.12375847809707168}, {0.11866778398639666, 0.03360144816397645}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;&lt;b&gt;sommer&lt;/b&gt;&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.27706498108300015</real>
+		<key>Frame</key>
+		<string>{{0.68135271060219538, 0.59827055770930715}, {0.24599498158181238, 0.085745886991109882}}</string>
+		<key>Text</key>
+		<string>&lt;p class="center"&gt;﻿slår ofte med stjerten, dels sidelengs, og spiler den noe ut&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.27706498108300015</real>
+		<key>Frame</key>
+		<string>{{0.16087689112886663, 0.65796772288089789}, {0.28307257438058558, 0.085745886991109882}}</string>
+		<key>Text</key>
+		<string>&lt;p class="center"&gt;﻿begge artene glideflyr ofte den siste biten før de lander (ulikt bleksanger)&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+</array>
+</plist>

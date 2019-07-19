@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>FontScale</key>
+		<real>0.44118221250833001</real>
+		<key>Frame</key>
+		<string>{{0.09214479967652256, 0.80410506509402357}, {0.40266189574765671, 0.154113699475462}}</string>
+		<key>Text</key>
+		<string>&lt;p class="right"&gt;olive-brown, streaked dark&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>EndPoint</key>
+		<string>{0.41756254767627682, 0.31148191968128019}</string>
+		<key>StartPoint</key>
+		<string>{0.4822166992502967, 0.415517435678048}</string>
+		<key>Type</key>
+		<string>line</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.26958970829002554</real>
+		<key>Frame</key>
+		<string>{{0.080690902546347046, 0.081753410459595208}, {0.32339144537433134, 0.25220630024675089}}</string>
+		<key>Text</key>
+		<string>&lt;p class="right"&gt;some have long and diffuse streaks on flanks&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.48779931075719846</real>
+		<key>Frame</key>
+		<string>{{0.67185634769561309, 0.097747446578502734}, {0.20039997488124839, 0.1393856477715919}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;&lt;b&gt;imm. autumn&lt;/b&gt;&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>EndPoint</key>
+		<string>{0.85060885960219412, 0.37686385292871316}</string>
+		<key>StartPoint</key>
+		<string>{0.81472979391840017, 0.43367348340207967}</string>
+		<key>Type</key>
+		<string>line</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.24799083253290424</real>
+		<key>Frame</key>
+		<string>{{0.86224522701939899, 0.25842605303515259}, {0.13575215799931031, 0.27417232410559667}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;often tinged yellow&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+</array>
+</plist>

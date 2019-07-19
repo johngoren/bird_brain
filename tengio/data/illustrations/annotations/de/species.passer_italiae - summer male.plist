@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>EndPoint</key>
+		<string>{0.61587820043821728, 0.68918214487407425}</string>
+		<key>StartPoint</key>
+		<string>{0.74863609012202026, 0.6147544919720016}</string>
+		<key>Type</key>
+		<string>line</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.62055638563265714</real>
+		<key>Frame</key>
+		<string>{{0.3981192459129323, 0.6428888993066092}, {0.19935286746768041, 0.07288415980492928}}</string>
+		<key>Text</key>
+		<string>&lt;p class="right"&gt;weißlich&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.29753192960010622</real>
+		<key>Frame</key>
+		<string>{{0.30082833957975608, 0.84798696785515093}, {0.4117989940507174, 0.15201303214484904}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;♀ von Haussperling-♀ nicht unterscheidbar&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.66374157530784816</real>
+		<key>Frame</key>
+		<string>{{0.57157187611450622, 0.74528940666224641}, {0.22253499156589837, 0.068142078876771414}}</string>
+		<key>Text</key>
+		<string>&lt;p class="right"&gt;rotbraun&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>EndPoint</key>
+		<string>{0.7334702558305578, 0.76726790894726427}</string>
+		<key>StartPoint</key>
+		<string>{0.7942515961807699, 0.71787345234376165}</string>
+		<key>Type</key>
+		<string>line</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.41182773063037981</real>
+		<key>Frame</key>
+		<string>{{0.2822983636952428, 0.019522538929316123}, {0.25633874028971276, 0.10982439358609686}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;♂&lt;b&gt; PK&lt;/b&gt;&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+</array>
+</plist>

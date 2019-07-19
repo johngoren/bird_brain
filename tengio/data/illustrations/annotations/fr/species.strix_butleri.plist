@@ -1,0 +1,126 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>FontScale</key>
+		<real>0.30676328502415356</real>
+		<key>Frame</key>
+		<string>{{0.25065636699871041, 0.17588964846018681}, {0.12189957147076361, 0.12639751689330311}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;rémiges et rectrices fortement barrées&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>EndPoint</key>
+		<string>{0.24896987987553398, 0.29350438539629686}</string>
+		<key>StartPoint</key>
+		<string>{0.22974776167730998, 0.33203660130306795}</string>
+		<key>Type</key>
+		<string>line</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.26814462918980425</real>
+		<key>Frame</key>
+		<string>{{0.26172683828534149, 0.72727591780635426}, {0.058959588650144903, 0.14460150709802072}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;éclairée par une torche&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.26849894291753779</real>
+		<key>Frame</key>
+		<string>{{0.84093638374820967, 0.31835399947548765}, {0.083401696603211464, 0.14441068959066267}}</string>
+		<key>Text</key>
+		<string>&lt;p class="right"&gt;Grand-duc ascalaphe&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.14301801801800099</real>
+		<key>Frame</key>
+		<string>{{0.60192615254303417, 0.086319910492593799}, {0.14953132564525909, 0.27111351449581189}}</string>
+		<key>Text</key>
+		<string>&lt;p class="right"&gt;attention à la confusion avec le Grand-duc ascalaphe : le ♂ n’est qu’un peu plus grand qu’une C. hulotte!&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>EndPoint</key>
+		<string>{0.77818298190433266, 0.33744134752776805}</string>
+		<key>StartPoint</key>
+		<string>{0.75430061688148731, 0.33744134752776805}</string>
+		<key>Type</key>
+		<string>line</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.3148435079021345</real>
+		<key>Frame</key>
+		<string>{{0.67904628959596569, 0.60106921842043348}, {0.05895958865014464, 0.12315361926769695}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;barres épaisses&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>EndPoint</key>
+		<string>{0.73079141381212787, 0.70564280978216587}</string>
+		<key>StartPoint</key>
+		<string>{0.71797952007591348, 0.70564280978216587}</string>
+		<key>Type</key>
+		<string>line</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.30676328502415356</real>
+		<key>Frame</key>
+		<string>{{0.25065636699871041, 0.17588964846018681}, {0.12189957147076361, 0.12639751689330311}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;rémiges et rectrices fortement barrées&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.37258350029344262</real>
+		<key>Frame</key>
+		<string>{{0.4791558698474781, 0.68701557786528433}, {0.058959588650144903, 0.10406826247149308}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;yeux jaunâtres&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>EndPoint</key>
+		<string>{0.65125425233598044, 0.52520864954632873}</string>
+		<key>StartPoint</key>
+		<string>{0.63780337813373322, 0.54259426969233271}</string>
+		<key>Type</key>
+		<string>line</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.39595286988511486</real>
+		<key>Frame</key>
+		<string>{{0.65348782805392314, 0.44032455019743583}, {0.069467184735082455, 0.097926092851242263}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;ocre doré&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>EndPoint</key>
+		<string>{0.39233352200401561, 0.25767962943990097}</string>
+		<key>StartPoint</key>
+		<string>{0.36720728380289952, 0.25767962943990097}</string>
+		<key>Type</key>
+		<string>line</string>
+	</dict>
+</array>
+</plist>

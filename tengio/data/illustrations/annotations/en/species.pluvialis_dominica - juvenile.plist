@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>FontScale</key>
+		<real>0.67664965360113749</real>
+		<key>Frame</key>
+		<string>{{0.03247270194466808, 0.87596585812381789}, {0.41522685253884795, 0.1013292024193162}}</string>
+		<key>Text</key>
+		<string>&lt;p class="right"&gt;prominent supercilium&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>EndPoint</key>
+		<string>{0.45180079956128305, 0.93617335662418266}</string>
+		<key>StartPoint</key>
+		<string>{0.58518054834858924, 0.91894179357854044}</string>
+		<key>Type</key>
+		<string>line</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.13655874843373628</real>
+		<key>Frame</key>
+		<string>{{0.51116775253799263, 0.027718923643907142}, {0.46743199897894949, 0.50208698090097093}}</string>
+		<key>Text</key>
+		<string>&lt;p class="right"&gt;usually greyer, less &lt;/p&gt;&lt;p class="right"&gt;yellowish-brown than &lt;/p&gt;&lt;p class="right"&gt;Golden and Pacific Golden; stronger head pattern and more attenuated rear end&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.68459208189700205</real>
+		<key>Frame</key>
+		<string>{{0.13862323337207166, 0.048684083894283303}, {0.16082348241327452, 0.10015361195343983}}</string>
+		<key>Text</key>
+		<string>&lt;p class="right"&gt;&lt;b&gt;juv.&lt;/b&gt;&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+</array>
+</plist>

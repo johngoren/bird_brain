@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>EndPoint</key>
+		<string>{0.75290634751982599, 0.48873196495054749}</string>
+		<key>StartPoint</key>
+		<string>{0.7151894712777993, 0.51665040895278935}</string>
+		<key>Type</key>
+		<string>line</string>
+	</dict>
+	<dict>
+		<key>EndPoint</key>
+		<string>{0.22152736833752792, 0.746166317787057}</string>
+		<key>StartPoint</key>
+		<string>{0.16701533317431111, 0.78193829699896633}</string>
+		<key>Type</key>
+		<string>line</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.15232373281673914</real>
+		<key>Frame</key>
+		<string>{{0.011919910697906185, 0.76405230739300956}, {0.4373092264712814, 0.23594769260699044}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;manche Vögel der ssp. &lt;i&gt;diomedea&lt;/i&gt; zeigen mehr Schwarz auf den Handschwingen als dieser Vogel&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.13655913978494671</real>
+		<key>Frame</key>
+		<string>{{0.0081889798679086502, 0.06961690227322416}, {0.51686991721387809, 0.26318585005728867}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;beste Bestimmungs-merkmale von &lt;i&gt;diomedea:&lt;/i&gt; ausge-dehnteres Weiß auf den Handschwingen, entsprechend dunkler Hinterrand schmaler&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.17001338688085757</real>
+		<key>Frame</key>
+		<string>{{0.71250050181672164, 0.07766139998803584}, {0.26855417088146155, 0.21139766665891868}}</string>
+		<key>Text</key>
+		<string>&lt;p class="center"&gt;geringere Größe von &lt;i&gt;diomedea&lt;/i&gt; schwer einschätzbar&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.20749014547543998</real>
+		<key>Frame</key>
+		<string>{{0.62996238615113498, 0.31715953403202163}, {0.34580948031311681, 0.17321513368762601}}</string>
+		<key>Text</key>
+		<string>&lt;p class="right"&gt;Schnabel meist etwas kleiner als bei &lt;i&gt;borealis&lt;/i&gt;&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>EndPoint</key>
+		<string>{0.4825120542832082, 0.24394215349396167}</string>
+		<key>StartPoint</key>
+		<string>{0.55854108896197574, 0.20290780052804236}</string>
+		<key>Type</key>
+		<string>line</string>
+	</dict>
+</array>
+</plist>

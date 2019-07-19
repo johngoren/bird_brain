@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>FontScale</key>
+		<real>0.3853049193949834</real>
+		<key>Frame</key>
+		<string>{{0.81485661404011112, 0.15810131254947266}, {0.10610505271529247, 0.093875079653087085}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;mörk­röd&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.6047653322997989</real>
+		<key>Frame</key>
+		<string>{{0.6565224737323635, 0.011281153043741412}, {0.16178342713818705, 0.059809198819947638}}</string>
+		<key>Text</key>
+		<string>&lt;p class="right"&gt;&lt;b&gt;ad. som.&lt;/b&gt;&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>EndPoint</key>
+		<string>{0.85232897526908347, 0.26052061188733616}</string>
+		<key>StartPoint</key>
+		<string>{0.85232897526908347, 0.30650038916518224}</string>
+		<key>Type</key>
+		<string>line</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.19999979654968628</real>
+		<key>Frame</key>
+		<string>{{0.69320379189859982, 0.63877239060763991}, {0.20694641456206453, 0.18085283396748086}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;handen tyd­-ligt ljusare än armen i fräsch dräkt&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.64865506877245571</real>
+		<key>Frame</key>
+		<string>{{0.30772723698078508, 0.57833897487551544}, {0.14855203162645825, 0.055762348496530091}}</string>
+		<key>Text</key>
+		<string>&lt;p class="center"&gt;grå&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>EndPoint</key>
+		<string>{0.39197061688924661, 0.59557194330812624}</string>
+		<key>StartPoint</key>
+		<string>{0.42681704412475424, 0.56350390250396953}</string>
+		<key>Type</key>
+		<string>line</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.60250061289531753</real>
+		<key>Frame</key>
+		<string>{{0.57863278697487242, 0.82134757820188498}, {0.16178342713818705, 0.060034013617202543}}</string>
+		<key>Text</key>
+		<string>&lt;p class="right"&gt;&lt;b&gt;ad. som.&lt;/b&gt;&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>EndPoint</key>
+		<string>{0.59704310282562256, 0.80228162376655521}</string>
+		<key>StartPoint</key>
+		<string>{0.6877650516818371, 0.80066359685309541}</string>
+		<key>Type</key>
+		<string>line</string>
+	</dict>
+</array>
+</plist>

@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>FontScale</key>
+		<real>0.26522699863210014</real>
+		<key>Frame</key>
+		<string>{{0.19368749703753893, 0.17693677578123981}, {0.3560888218005821, 0.31759940342133786}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;lacks promi-&lt;/p&gt;&lt;p&gt;­nent wing ‘flashes’&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>EndPoint</key>
+		<string>{0.49124771705440046, 0.42348842176389045}</string>
+		<key>StartPoint</key>
+		<string>{0.69513727422306704, 0.42348842176389045}</string>
+		<key>Type</key>
+		<string>line</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.65931147343076169</real>
+		<key>Frame</key>
+		<string>{{0.76966845670286888, 0.54476044269282442}, {0.16829024283544147, 0.12776349256969682}}</string>
+		<key>Text</key>
+		<string>&lt;p class="right"&gt;&lt;b&gt;ad.&lt;/b&gt;&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+</array>
+</plist>

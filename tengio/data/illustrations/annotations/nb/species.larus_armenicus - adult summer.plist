@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>FontScale</key>
+		<real>0.31909547738694499</real>
+		<key>Frame</key>
+		<string>{{0.12700485301625156, 0.035968770632911658}, {0.44472655272471051, 0.091766478922432448}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;♂♂ ﻿sommerstid (når det svarte i nebbet er redusert) ikke like karakteristiske som ♀♀ ﻿vinterstid&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.31242312423126534</real>
+		<key>Frame</key>
+		<string>{{0.59819987913288475, 0.063406486692638653}, {0.16612963999279376, 0.093726315783837319}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;﻿trolig en ♂&lt;/p&gt;&lt;p&gt;﻿ut fra nebb-størrelse&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.66955480993321292</real>
+		<key>Frame</key>
+		<string>{{0.56822962186123904, 0.43503440998963189}, {0.17420057687424637, 0.043733937782917988}}</string>
+		<key>Text</key>
+		<string>&lt;p class="right"&gt;﻿mørke øyne&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>EndPoint</key>
+		<string>{0.6398147318235079, 0.43047240238239265}</string>
+		<key>StartPoint</key>
+		<string>{0.66627957049346198, 0.44788036509254675}</string>
+		<key>Type</key>
+		<string>line</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.34794520547942931</real>
+		<key>Frame</key>
+		<string>{{0.61842185747059153, 0.16831540103863057}, {0.12139517449703398, 0.084157700519324419}}</string>
+		<key>Text</key>
+		<string>&lt;p class="right"&gt;&lt;b&gt;﻿ad. sommer&lt;/b&gt;&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.19890368050114662</real>
+		<key>Frame</key>
+		<string>{{0.60843117743421438, 0.60561738818421995}, {0.27489003455818756, 0.14721833364819917}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;﻿mer omfattende svart i vingespissen enn de fleste gulbeinmåker; ofte kun en hvit subterminalflekk&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.67733333333336576</real>
+		<key>Frame</key>
+		<string>{{0.3311573103067133, 0.75779295624657561}, {0.14830628764009735, 0.043231695472250808}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;﻿mye svart&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.52697095435698726</real>
+		<key>Frame</key>
+		<string>{{0.32083278819540206, 0.81531993235498323}, {0.13481867936930184, 0.055567139246987508}}</string>
+		<key>Text</key>
+		<string>&lt;p class="right"&gt;&lt;b&gt;﻿ad. sommer&lt;/b&gt;&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.36363636363636359</real>
+		<key>Frame</key>
+		<string>{{0.11667878800759808, 0.88748804266331316}, {0.24437896761517261, 0.080526238099649691}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;﻿litt mørkere grå enn gulbeinmåke&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>EndPoint</key>
+		<string>{0.35465696903049654, 0.80846050334004849}</string>
+		<key>StartPoint</key>
+		<string>{0.33845187129436943, 0.85564069366544027}</string>
+		<key>Type</key>
+		<string>line</string>
+	</dict>
+	<dict>
+		<key>EndPoint</key>
+		<string>{0.41567827483680908, 0.9524220492626454}</string>
+		<key>StartPoint</key>
+		<string>{0.3505979511730396, 0.9524220492626454}</string>
+		<key>Type</key>
+		<string>line</string>
+	</dict>
+</array>
+</plist>

@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>EndPoint</key>
+		<string>{0.33337530301587037, 0.49652824259628758}</string>
+		<key>StartPoint</key>
+		<string>{0.38301178745918546, 0.4217698704494483}</string>
+		<key>Type</key>
+		<string>line</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.41402445508828234</real>
+		<key>Frame</key>
+		<string>{{0.24855796036599881, 0.47675182116232784}, {0.10977938737735567, 0.1397730443853821}}</string>
+		<key>Text</key>
+		<string>&lt;p class="right"&gt;﻿lyst felt&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.40535912630356574</real>
+		<key>Frame</key>
+		<string>{{0.34964375490879868, 0.63096828556527473}, {0.18109605891583599, 0.14276096128732718}}</string>
+		<key>Text</key>
+		<string>&lt;p class="right"&gt;﻿beigehvite vingebånd&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.64134134705560941</real>
+		<key>Frame</key>
+		<string>{{0.48866463679197669, 0}, {0.15309442005766083, 0.090231915973242829}}</string>
+		<key>Text</key>
+		<string>&lt;p class="right"&gt;&lt;b&gt;juv.&lt;/b&gt;&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>EndPoint</key>
+		<string>{0.81468931358251173, 0.81401112805579534}</string>
+		<key>StartPoint</key>
+		<string>{0.78727150856569639, 0.74265074105985029}</string>
+		<key>Type</key>
+		<string>line</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.28637661653823165</real>
+		<key>Frame</key>
+		<string>{{0.75274307960559039, 0.78693458775905378}, {0.22240460881018964, 0.20207466390665479}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;﻿noe mindre enn trompeterfinkens&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+</array>
+</plist>

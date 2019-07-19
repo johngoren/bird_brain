@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>EndPoint</key>
+		<string>{0.45160841750600655, 0.44353802749555227}</string>
+		<key>StartPoint</key>
+		<string>{0.51120698462995395, 0.39858313746242402}</string>
+		<key>Type</key>
+		<string>line</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.46861355594464149</real>
+		<key>Frame</key>
+		<string>{{0.32959560292155171, 0.44390162285714396}, {0.26342253815414102, 0.064570792622936066}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;etwas dunkler als bei Kuckuck&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>EndPoint</key>
+		<string>{0.66432463136947051, 0.28385184762333365}</string>
+		<key>StartPoint</key>
+		<string>{0.71461855803509988, 0.25643225031414163}</string>
+		<key>Type</key>
+		<string>line</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.19307335406549581</real>
+		<key>Frame</key>
+		<string>{{0.675924284318978, 0.17208896642135349}, {0.22384658675687474, 0.15672151596296138}}</string>
+		<key>Text</key>
+		<string>&lt;p class="right"&gt;Bänderung spärlicher, breiter, lückiger als bei Kuckuck&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.63965123183160222</real>
+		<key>Frame</key>
+		<string>{{0.81503230094686174, 0.40803845618264822}, {0.12784453648054028, 0.047305073820547522}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;&lt;b&gt;ad. &lt;/b&gt;♂&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.18919070936784044</real>
+		<key>Frame</key>
+		<string>{{0.33241128325811137, 0}, {0.56735958781773821, 0.15993781535205573}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;große Überschneidungen mit Kuckuck, doch gelbliche Tönung von Steiß und Unterschwanzdecken und deren Bänderung charakteristisch für Hopfkuckuck&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>EndPoint</key>
+		<string>{0.40601492986113746, 0.16824646715389507}</string>
+		<key>StartPoint</key>
+		<string>{0.35472233660523145, 0.21000628177231481}</string>
+		<key>Type</key>
+		<string>line</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.21700782484651523</real>
+		<key>Frame</key>
+		<string>{{0.63467413584008237, 0.54323935871563378}, {0.26509673523577204, 0.1394362104804259}}</string>
+		<key>Text</key>
+		<string>&lt;p class="right"&gt;ad. ♂, kritisch beäugt von zwei Wanderlaubsängern&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+</array>
+</plist>

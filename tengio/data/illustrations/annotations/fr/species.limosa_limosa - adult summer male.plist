@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>FontScale</key>
+		<real>0.66085056679243381</real>
+		<key>Frame</key>
+		<string>{{0.17877453397923074, 0.32217790467617347}, {0.14398089197831865, 0.069456629188888785}}</string>
+		<key>Text</key>
+		<string>&lt;p class="center"&gt;blanc&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>EndPoint</key>
+		<string>{0.25810694172371912, 0.38715572366715417}</string>
+		<key>StartPoint</key>
+		<string>{0.28075015371763656, 0.43477846621304062}</string>
+		<key>Type</key>
+		<string>line</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.61935191208458873</real>
+		<key>Frame</key>
+		<string>{{0.56683940549227052, 0.34389732057896871}, {0.24785120836232311, 0.074110456222665447}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;barré&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>EndPoint</key>
+		<string>{0.6274142436893555, 0.42077502573588771}</string>
+		<key>StartPoint</key>
+		<string>{0.57520108296127181, 0.47500709260036805}</string>
+		<key>Type</key>
+		<string>line</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.36922903569600918</real>
+		<key>Frame</key>
+		<string>{{0.71519516051863929, 0.59013552525575819}, {0.17460286653160528, 0.12431430989831325}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;base orangée&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>EndPoint</key>
+		<string>{0.7620010167486716, 0.71751013962909871}</string>
+		<key>StartPoint</key>
+		<string>{0.7581569264440261, 0.78497010679817791}</string>
+		<key>Type</key>
+		<string>line</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.36466874835723279</real>
+		<key>Frame</key>
+		<string>{{0.47153638091437822, 0.87413110398480165}, {0.39294786212769622, 0.12586889601519829}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;♂ &lt;b&gt;ad. nuptial&lt;/b&gt;&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+</array>
+</plist>

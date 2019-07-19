@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>EndPoint</key>
+		<string>{0.73173395229529392, 0.82823173520177507}</string>
+		<key>StartPoint</key>
+		<string>{0.73791776455141356, 0.73515954432405217}</string>
+		<key>Type</key>
+		<string>line</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.1748958984755497</real>
+		<key>Frame</key>
+		<string>{{0.69249926093481573, 0.47245568099624025}, {0.16233533937688915, 0.25095094720260708}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;﻿mindre gult på nebbet enn hos sangsvane&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.31075369677053893</real>
+		<key>Frame</key>
+		<string>{{0.71694245812921398, 0.26666645558733121}, {0.28305754187078613, 0.14123819552402256}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;&lt;b&gt;&lt;i&gt;bewickii&lt;/i&gt;&lt;/b&gt; (Europa, Sibir)&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.5818147383123945</real>
+		<key>Frame</key>
+		<string>{{0.3265231361803077, 0.55469294893254228}, {0.20028045298729216, 0.075436884791880487}}</string>
+		<key>Text</key>
+		<string>&lt;p class="right"&gt;&lt;b&gt;ad.&lt;/b&gt;&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+</array>
+</plist>

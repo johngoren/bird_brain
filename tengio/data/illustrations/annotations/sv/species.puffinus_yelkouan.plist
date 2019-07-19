@@ -1,0 +1,182 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>FontScale</key>
+		<real>0.34642662302236327</real>
+		<key>Frame</key>
+		<string>{{0.32335731002938589, 0.095280445566185229}, {0.1679479464441056, 0.11272194000699652}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;jämnstor med mindre lira men aningen slankare&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.72737686139748303</real>
+		<key>Frame</key>
+		<string>{{0.036256446627098537, 0.090668254894870237}, {0.081485940036367485, 0.053685899414133278}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;mörk&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>EndPoint</key>
+		<string>{0.053292585062497719, 0.14896634498031527}</string>
+		<key>StartPoint</key>
+		<string>{0.072615695755703799, 0.17762342301810535}</string>
+		<key>Type</key>
+		<string>line</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.25890185832876828</real>
+		<key>Frame</key>
+		<string>{{0.036256446627098537, 0.25305835877110017}, {0.19922124428201779, 0.15082889427377336}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;lik mindre lira men saknar oftast ljus halvmåne bakom mörka kinden&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.68648648648648181</real>
+		<key>Frame</key>
+		<string>{{0.61183022056860148, 0.92633570866194803}, {0.10050245278001264, 0.056883684946247223}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;MINDRE&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>EndPoint</key>
+		<string>{0.58576132496696265, 0.8208702819778243}</string>
+		<key>StartPoint</key>
+		<string>{0.59453772195486598, 0.84688303736405501}</string>
+		<key>Type</key>
+		<string>line</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.29219030106716415</real>
+		<key>Frame</key>
+		<string>{{0.52216694017032561, 0.68582533912165478}, {0.10290353526963719, 0.13364537041281552}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;ringa eller ingen fot-&lt;/p&gt;&lt;p&gt;projektion&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.7091010608598427</real>
+		<key>Frame</key>
+		<string>{{0.78932288356965574, 0.77797690873457048}, {0.12737621082445938, 0.055069556615529633}}</string>
+		<key>Text</key>
+		<string>&lt;p class="right"&gt;MEDELHAVS&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.22222222222222057</real>
+		<key>Frame</key>
+		<string>{{0.59296457243583744, 0.49202108711289955}, {0.14757956035140599, 0.17572446457719085}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;utstickande fötter &lt;/p&gt;&lt;p&gt;kan ge förvånansvärt spetsig, utdragen akter&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>EndPoint</key>
+		<string>{0.68988902733730706, 0.67220560326147538}</string>
+		<key>StartPoint</key>
+		<string>{0.69900856247321064, 0.71342132079338005}</string>
+		<key>Type</key>
+		<string>line</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.15043828476664198</real>
+		<key>Frame</key>
+		<string>{{0.833314054725937, 0.074986806612384799}, {0.1666859452740613, 0.25957409098174}}</string>
+		<key>Text</key>
+		<string>&lt;p class="right"&gt;ovansidan ter sig ofta närmast svart som hos mindre lira, men bleknar och blir brunare med slitage&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.21968517557516282</real>
+		<key>Frame</key>
+		<string>{{0.58370325426156955, 0.16455554944936823}, {0.23338506855218108, 0.1777538284725669}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;uppvisar ofta en ljus gip à la &lt;/p&gt;&lt;p&gt;mindre lira, men hos många är &lt;/p&gt;&lt;p&gt;den något brunsolkig och kon-&lt;/p&gt;&lt;p&gt;trasterar inte som hos mindre lira&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>EndPoint</key>
+		<string>{0.77591161214947013, 0.32408086151159127}</string>
+		<key>StartPoint</key>
+		<string>{0.82544944165489453, 0.39892504952187469}</string>
+		<key>Type</key>
+		<string>line</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.34557823129251397</real>
+		<key>Frame</key>
+		<string>{{0.58239407432445334, 0.34526117995157707}, {0.15986911903434797, 0.11299867144727511}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;kort stjärt, fötterna sticker oftast ut&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>EndPoint</key>
+		<string>{0.74587922584651689, 0.43898089439274912}</string>
+		<key>StartPoint</key>
+		<string>{0.71130363799592033, 0.43898089439274912}</string>
+		<key>Type</key>
+		<string>line</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.16149542217700877</real>
+		<key>Frame</key>
+		<string>{{0.32364139707380135, 0.5784535402933878}, {0.05837092805927787, 0.24180178292826285}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;många har ett tydligt svart armhåleband&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>EndPoint</key>
+		<string>{0.41905759783014912, 0.65114166527334905}</string>
+		<key>StartPoint</key>
+		<string>{0.38201232513307987, 0.66497823728729788}</string>
+		<key>Type</key>
+		<string>line</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.23716153127918016</real>
+		<key>Frame</key>
+		<string>{{0.32569946777919456, 0.33059441361679631}, {0.15510025121273682, 0.16465520696602676}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;oftast mörka undre stjärttäckare på sidorna, så att det vita reduceras till smal kil&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>EndPoint</key>
+		<string>{0.39847689077622267, 0.50124546845553108}</string>
+		<key>StartPoint</key>
+		<string>{0.39436074936543619, 0.54275518449739024}</string>
+		<key>Type</key>
+		<string>line</string>
+	</dict>
+</array>
+</plist>

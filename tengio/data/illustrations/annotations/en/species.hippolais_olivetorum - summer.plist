@@ -1,0 +1,156 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>EndPoint</key>
+		<string>{0.5152187477401341, 0.69616019298168086}</string>
+		<key>StartPoint</key>
+		<string>{0.5145393465358935, 0.54573246846082046}</string>
+		<key>Type</key>
+		<string>line</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.28227515965077316</real>
+		<key>Frame</key>
+		<string>{{0.4654617116469707, 0.67799012128241354}, {0.1692685909019622, 0.14688500982967678}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;contrasting pale wing-&lt;/p&gt;&lt;p&gt;panel&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.43103030303023826</real>
+		<key>Frame</key>
+		<string>{{0.15162001159452448, 0.5168076512988522}, {0.29456132257482204, 0.096192748650130763}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;blackish wing- and &lt;/p&gt;&lt;p&gt;tail-feathers&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>EndPoint</key>
+		<string>{0.27751602254243529, 0.51121051047348787}</string>
+		<key>StartPoint</key>
+		<string>{0.27870692809130332, 0.42654804249052547}</string>
+		<key>Type</key>
+		<string>line</string>
+	</dict>
+	<dict>
+		<key>EndPoint</key>
+		<string>{0.16592259983076837, 0.50489063145642898}</string>
+		<key>StartPoint</key>
+		<string>{0.16607481375354158, 0.36593721374314586}</string>
+		<key>Type</key>
+		<string>line</string>
+	</dict>
+	<dict>
+		<key>EndPoint</key>
+		<string>{0.39317708908252263, 0.38727819783979278}</string>
+		<key>StartPoint</key>
+		<string>{0.23371825307523481, 0.28375572650357961}</string>
+		<key>Type</key>
+		<string>line</string>
+	</dict>
+	<dict>
+		<key>EndPoint</key>
+		<string>{0.23332366516907438, 0.26070453914082031}</string>
+		<key>StartPoint</key>
+		<string>{0.23247147766011647, 0.3222165905770612}</string>
+		<key>Type</key>
+		<string>line</string>
+	</dict>
+	<dict>
+		<key>EndPoint</key>
+		<string>{0.31510330806413417, 0.33626921219761002}</string>
+		<key>StartPoint</key>
+		<string>{0.31506048556040422, 0.23527965367380968}</string>
+		<key>Type</key>
+		<string>line</string>
+	</dict>
+	<dict>
+		<key>EndPoint</key>
+		<string>{0.39442430141149815, 0.35058545559424964}</string>
+		<key>StartPoint</key>
+		<string>{0.39158747570032609, 0.4551703776167742}</string>
+		<key>Type</key>
+		<string>line</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.28395751816659925</real>
+		<key>Frame</key>
+		<string>{{0.14987446301630375, 0.085456046897534887}, {0.30229727650102978, 0.14601476258730875}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;long primary projection; as long as tertial length&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.70702853166330515</real>
+		<key>Frame</key>
+		<string>{{0.63556768754083182, 0.22865498538800236}, {0.13385334148310754, 0.058642597495233859}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;&lt;b&gt;summer&lt;/b&gt;&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>EndPoint</key>
+		<string>{0.63887186031969467, 0.54367211565460227}</string>
+		<key>StartPoint</key>
+		<string>{0.75132637726039042, 0.40657041484065309}</string>
+		<key>Type</key>
+		<string>line</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.27840766127311672</real>
+		<key>Frame</key>
+		<string>{{0.71003687039091334, 0.32647426596984547}, {0.20606541007831755, 0.14892546207377308}}</string>
+		<key>Text</key>
+		<string>&lt;p class="right"&gt;distinct pale fringes to the greater coverts&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.30507534314542667</real>
+		<key>Frame</key>
+		<string>{{0.82143460692830328, 0.6101787459885768}, {0.14286861723499139, 0.13590737675647829}}</string>
+		<key>Text</key>
+		<string>&lt;p class="right"&gt;long and stout (but pointed)&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>EndPoint</key>
+		<string>{0.91458644345931428, 0.79448439890735711}</string>
+		<key>StartPoint</key>
+		<string>{0.93420951328551927, 0.75042732042409488}</string>
+		<key>Type</key>
+		<string>line</string>
+	</dict>
+	<dict>
+		<key>EndPoint</key>
+		<string>{0.88677366393581003, 0.91134949721675307}</string>
+		<key>StartPoint</key>
+		<string>{0.85285448133628461, 0.85993010066560516}</string>
+		<key>Type</key>
+		<string>line</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.3766694973928445</real>
+		<key>Frame</key>
+		<string>{{0.69508800145842753, 0.88992474865376481}, {0.26207434215759773, 0.1100752513462351}}</string>
+		<key>Text</key>
+		<string>&lt;p class="right"&gt;short and rather thin supercilium&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+</array>
+</plist>

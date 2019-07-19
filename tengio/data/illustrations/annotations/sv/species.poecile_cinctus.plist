@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>EndPoint</key>
+		<string>{0.88223093517040951, 0.64716111962809586}</string>
+		<key>StartPoint</key>
+		<string>{0.86187194545868218, 0.61176166746297489}</string>
+		<key>Type</key>
+		<string>line</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.53714363772966445</real>
+		<key>Frame</key>
+		<string>{{0.69908514292765667, 0.6158810315403912}, {0.20804333681756834, 0.06873424760863836}}</string>
+		<key>Text</key>
+		<string>&lt;p class="right"&gt;matt gråbrun&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.2937499252955309</real>
+		<key>Frame</key>
+		<string>{{0.89895216382057597, 0.55487878027330251}, {0.096138766309442611, 0.12568569595369766}}</string>
+		<key>Text</key>
+		<string>&lt;p class="right"&gt;svart mask&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>EndPoint</key>
+		<string>{0.94763344777195868, 0.6038535022386825}</string>
+		<key>StartPoint</key>
+		<string>{0.90279222490841893, 0.52026884834700715}</string>
+		<key>Type</key>
+		<string>line</string>
+	</dict>
+	<dict>
+		<key>EndPoint</key>
+		<string>{0.60966559562303146, 0.15467453715493701}</string>
+		<key>StartPoint</key>
+		<string>{0.66043257394852861, 0.27014902412739639}</string>
+		<key>Type</key>
+		<string>line</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.46999988047284857</real>
+		<key>Frame</key>
+		<string>{{0.36503240009399507, 0.082914442333932678}, {0.23197724090465727, 0.078553559971061199}}</string>
+		<key>Text</key>
+		<string>&lt;p class="right"&gt;rostbrun&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>EndPoint</key>
+		<string>{0.60776670269985111, 0.54891700858374104}</string>
+		<key>StartPoint</key>
+		<string>{0.63698090438424704, 0.51108592708228695}</string>
+		<key>Type</key>
+		<string>line</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.62666700665527708</real>
+		<key>Frame</key>
+		<string>{{0.50801389132770214, 0.52644127048336242}, {0.191473345272931, 0.058915123031879818}}</string>
+		<key>Text</key>
+		<string>&lt;p class="center"&gt;varmt brun&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.22397761682019451</real>
+		<key>Frame</key>
+		<string>{{0.7804950278640892, 0.75978239082556953}, {0.18779112492967764, 0.16483863129392251}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;haklappen är mycket stor och bred nedtill&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+</array>
+</plist>

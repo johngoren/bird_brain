@@ -1,0 +1,118 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>FontScale</key>
+		<real>0.62933087500960283</real>
+		<key>Frame</key>
+		<string>{{0.58500813089791803, 0.21902710891022592}, {0.12373918682485362, 0.067250074071196833}}</string>
+		<key>Text</key>
+		<string>&lt;p class="right"&gt;short&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>EndPoint</key>
+		<string>{0.67127611282724509, 0.29001856640183865}</string>
+		<key>StartPoint</key>
+		<string>{0.64404913507050676, 0.3295560097007979}</string>
+		<key>Type</key>
+		<string>line</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.40141366996808892</real>
+		<key>Frame</key>
+		<string>{{0.52222095948338754, 0.04098865817492886}, {0.10610781339665305, 0.10543374858920825}}</string>
+		<key>Text</key>
+		<string>&lt;p class="right"&gt;rather short&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>EndPoint</key>
+		<string>{0.52214186271876972, 0.11741976218288552}</string>
+		<key>StartPoint</key>
+		<string>{0.4421717344927934, 0.10354767069998656}</string>
+		<key>Type</key>
+		<string>line</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.624953909140612</real>
+		<key>Frame</key>
+		<string>{{0.12990732533319777, 0.026305581533177892}, {0.25100133787475731, 0.067721070851265774}}</string>
+		<key>Text</key>
+		<string>&lt;p class="right"&gt;&lt;b&gt;1st-winter&lt;/b&gt;&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.63830864830819378</real>
+		<key>Frame</key>
+		<string>{{0.53169166437560478, 0.66776481634399987}, {0.10639743310977438, 0.066304205766067506}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;white&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>EndPoint</key>
+		<string>{0.52285705637658053, 0.70811490383944098}</string>
+		<key>StartPoint</key>
+		<string>{0.43758537009104514, 0.70811490383944098}</string>
+		<key>Type</key>
+		<string>line</string>
+	</dict>
+	<dict>
+		<key>EndPoint</key>
+		<string>{0.19519699720157091, 0.68392541890818459}</string>
+		<key>StartPoint</key>
+		<string>{0.20665065932290702, 0.64424822567720352}</string>
+		<key>Type</key>
+		<string>line</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.37019365650213182</real>
+		<key>Frame</key>
+		<string>{{0.12933908691932594, 0.66184485178792829}, {0.12908109264084888, 0.11432542729008967}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;neat band&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.67428493037931259</real>
+		<key>Frame</key>
+		<string>{{0.10131677067637011, 0.78006332147635482}, {0.15879346058475216, 0.062766563588895194}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;&lt;b&gt;1st-w.&lt;/b&gt;&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.18879908120238817</real>
+		<key>Frame</key>
+		<string>{{0.66019593108781904, 0.61172287268772774}, {0.21176028024434149, 0.22416712883426657}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;small size and compact shape recall Little Gull&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.61175416324396981</real>
+		<key>Frame</key>
+		<string>{{0.23208811614296671, 0.93081771975974525}, {0.62505525361180991, 0.069182280240254801}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;&lt;b&gt;FRANKLIN’S GULL&lt;/b&gt;&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+</array>
+</plist>

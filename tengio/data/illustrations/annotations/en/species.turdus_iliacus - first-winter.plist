@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>EndPoint</key>
+		<string>{0.73852622908789067, 0.4559033952223191}</string>
+		<key>StartPoint</key>
+		<string>{0.66791280360641914, 0.52388941479736073}</string>
+		<key>Type</key>
+		<string>line</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.51608906505318786</real>
+		<key>Frame</key>
+		<string>{{0.74788951373131152, 0.37560828957388132}, {0.19914231757575954, 0.097734086260365505}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;rusty-red&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.5599979492262589</real>
+		<key>Frame</key>
+		<string>{{0.24517651788838438, 0.27693085316144694}, {0.26139450971137312, 0.090070853423001224}}</string>
+		<key>Text</key>
+		<string>&lt;p class="right"&gt;&lt;b&gt;1st-winter&lt;/b&gt;&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.21679090838420695</real>
+		<key>Frame</key>
+		<string>{{0.18141134786117327, 0.04530101100096931}, {0.53553981513754267, 0.23266424582966561}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;juvenile tertials and &lt;/p&gt;&lt;p&gt;retained outer greater &lt;/p&gt;&lt;p&gt;coverts have white tips, &lt;/p&gt;&lt;p&gt;revealing age&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+</array>
+</plist>

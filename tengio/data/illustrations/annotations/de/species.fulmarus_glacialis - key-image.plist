@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>FontScale</key>
+		<real>0.26090937928252089</real>
+		<key>Frame</key>
+		<string>{{0.58637077752296796, 0.081502667880282431}, {0.41276603419440638, 0.17790609092589849}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;lange Gleitstrecken auf steifen Flügeln&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.38207507294791276</real>
+		<key>Frame</key>
+		<string>{{0.73965217088177282, 0.56523439783177742}, {0.19758503100205552, 0.12148755844216995}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;Hals dick&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.36324633535931511</real>
+		<key>Frame</key>
+		<string>{{0.5910799597827302, 0.29016506995159363}, {0.4033476696748674, 0.12778482048040726}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;(helle Morphe)&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.24255260632644082</real>
+		<key>Frame</key>
+		<string>{{0.11837492484693073, 0.6928638846011963}, {0.27731000975669323, 0.19137031119585174}}</string>
+		<key>Text</key>
+		<string>&lt;p class="right"&gt;helle Handwurzel&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>EndPoint</key>
+		<string>{0.58049046081615163, 0.79870110349740919}</string>
+		<key>StartPoint</key>
+		<string>{0.42495169839982372, 0.79870110349740919}</string>
+		<key>Type</key>
+		<string>line</string>
+	</dict>
+</array>
+</plist>

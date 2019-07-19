@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>EndPoint</key>
+		<string>{0.62066835170229473, 0.82897196822091057}</string>
+		<key>StartPoint</key>
+		<string>{0.6588117682711826, 0.79260307740147651}</string>
+		<key>Type</key>
+		<string>line</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.47037207165824529</real>
+		<key>Frame</key>
+		<string>{{0.68242466894268605, 0.17980459072178606}, {0.26765093517726141, 0.11814675343150886}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;BERGERONNETTE GRISE&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.24562485797677702</real>
+		<key>Frame</key>
+		<string>{{0.27221902592958552, 0.037192047859490436}, {0.27566204971513364, 0.22625125823595979}}</string>
+		<key>Text</key>
+		<string>&lt;p class="center"&gt;♂ &lt;b&gt;ad. nuptial&lt;/b&gt;&lt;/p&gt;&lt;p class="center"&gt;&lt;b&gt;&lt;i&gt;alba&lt;/i&gt;&lt;/b&gt;&lt;/p&gt;&lt;p class="center"&gt;(Europe continentale)&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.32115228478985919</real>
+		<key>Frame</key>
+		<string>{{0.40779084662525722, 0.74388722165168797}, {0.20335617725586835, 0.173042309842628}}</string>
+		<key>Text</key>
+		<string>&lt;p class="right"&gt;délimitation nette&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+</array>
+</plist>

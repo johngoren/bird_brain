@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>EndPoint</key>
+		<string>{0.81612409388955731, 0.51756446768010078}</string>
+		<key>StartPoint</key>
+		<string>{0.76642921002714626, 0.49276106916499529}</string>
+		<key>Type</key>
+		<string>line</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.17116172978363464</real>
+		<key>Frame</key>
+		<string>{{0.66286665758847618, 0.40302222664319465}, {0.30845017978645967, 0.12979555522533984}}</string>
+		<key>Text</key>
+		<string>&lt;p class="right"&gt;very big, con­ical, &lt;/p&gt;&lt;p class="right"&gt;bluish-&lt;/p&gt;&lt;p class="right"&gt;black&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.64713704527800087</real>
+		<key>Frame</key>
+		<string>{{0.21017699108806628, 0.064702135757885498}, {0.28182668797471405, 0.034329717194682849}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;&lt;b&gt;ad.&lt;/b&gt; &lt;b&gt;summer&lt;/b&gt; ♂&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.50936826396949098</real>
+		<key>Frame</key>
+		<string>{{0.17754016214463003, 0.0020843349287495106}, {0.26196691334960526, 0.043614872229116905}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;white tip&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>EndPoint</key>
+		<string>{0.16646604632757062, 0.039882138950469416}</string>
+		<key>StartPoint</key>
+		<string>{0.12167377572704416, 0.062238690853579699}</string>
+		<key>Type</key>
+		<string>line</string>
+	</dict>
+	<dict>
+		<key>EndPoint</key>
+		<string>{0.18438685139333355, 0.32252846142899833}</string>
+		<key>StartPoint</key>
+		<string>{0.31391675697127797, 0.25787808061554035}</string>
+		<key>Type</key>
+		<string>line</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.28919362976190333</real>
+		<key>Frame</key>
+		<string>{{0.16069156572283386, 0.31308206152903983}, {0.14310438954972265, 0.076820612434952917}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;bluish-black edges&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>EndPoint</key>
+		<string>{0.15577507481655051, 0.88324469631662617}</string>
+		<key>StartPoint</key>
+		<string>{0.22272169784004847, 0.86527322632740511}</string>
+		<key>Type</key>
+		<string>line</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.28481405991282055</real>
+		<key>Frame</key>
+		<string>{{0.088280986048937971, 0.87415080090593555}, {0.19250547139231425, 0.078001878690246551}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;broadly white-&lt;/p&gt;&lt;p&gt;tipped&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.64713704527800087</real>
+		<key>Frame</key>
+		<string>{{0.34683975723116861, 0.65931156567758353}, {0.28182668797471405, 0.034329717194682849}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;&lt;b&gt;ad.&lt;/b&gt; &lt;b&gt;summer&lt;/b&gt; ♂&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+</array>
+</plist>

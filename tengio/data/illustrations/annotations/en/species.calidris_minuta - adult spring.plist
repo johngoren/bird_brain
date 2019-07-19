@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>FontScale</key>
+		<real>0.21312531876711072</real>
+		<key>Frame</key>
+		<string>{{0.76723552789579763, 0.60806001412307742}, {0.22908442896288356, 0.32329220989123575}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;commonly, ♂♂ become more rufous than ♀♀&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.58995733035666342</real>
+		<key>Frame</key>
+		<string>{{0.14288263283347877, 0.85336498896027579}, {0.37714760714005519, 0.11679108257937601}}</string>
+		<key>Text</key>
+		<string>&lt;p class="right"&gt;&lt;b&gt;ad. spring / summer&lt;/b&gt;&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>EndPoint</key>
+		<string>{0.19223309342604833, 0.44243491796974888}</string>
+		<key>StartPoint</key>
+		<string>{0.15838970215967341, 0.38978863252940471}</string>
+		<key>Type</key>
+		<string>line</string>
+	</dict>
+</array>
+</plist>

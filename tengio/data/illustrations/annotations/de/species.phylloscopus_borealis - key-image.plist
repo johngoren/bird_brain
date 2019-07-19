@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>EndPoint</key>
+		<string>{0.23179775808500955, 0.60809515241857037}</string>
+		<key>StartPoint</key>
+		<string>{0.23099748579370324, 0.67710373623327602}</string>
+		<key>Type</key>
+		<string>line</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.33313994437199862</real>
+		<key>Frame</key>
+		<string>{{0.59909276721101379, 0.7607606595497588}, {0.35552128934891769, 0.17860727517233743}}</string>
+		<key>Text</key>
+		<string>&lt;p class="right"&gt;langer, schmaler Überaugenstreif reicht nicht bis Stirn&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>EndPoint</key>
+		<string>{0.71156490855173915, 0.36571140214716685}</string>
+		<key>StartPoint</key>
+		<string>{0.63801881149678241, 0.47894618283885215}</string>
+		<key>Type</key>
+		<string>line</string>
+	</dict>
+	<dict>
+		<key>EndPoint</key>
+		<string>{0.34228953089372677, 0.69643257405268555}</string>
+		<key>StartPoint</key>
+		<string>{0.34424715404520051, 0.62372246288204947}</string>
+		<key>Type</key>
+		<string>line</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.57207036819348078</real>
+		<key>Frame</key>
+		<string>{{0.082094080604087516, 0.70875550334559811}, {0.30835794121283489, 0.10401031240832029}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;Handschwingen-projektion lang&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>EndPoint</key>
+		<string>{0.34250535189933523, 0.67358926727472368}</string>
+		<key>StartPoint</key>
+		<string>{0.23067047321937101, 0.65529523577731297}</string>
+		<key>Type</key>
+		<string>line</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.31864379310065355</real>
+		<key>Frame</key>
+		<string>{{0.69051770672013335, 0.15026831412102717}, {0.16916342967972417, 0.18673270593584554}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;manchmal zweite Flügelbinde&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>EndPoint</key>
+		<string>{0.24919229085048494, 0.72457627747240405}</string>
+		<key>StartPoint</key>
+		<string>{0.28993448657366766, 0.66591747415840441}</string>
+		<key>Type</key>
+		<string>line</string>
+	</dict>
+	<dict>
+		<key>EndPoint</key>
+		<string>{0.87746739225943127, 0.81228364097965478}</string>
+		<key>StartPoint</key>
+		<string>{0.83878935682847611, 0.71704333489280137}</string>
+		<key>Type</key>
+		<string>line</string>
+	</dict>
+</array>
+</plist>

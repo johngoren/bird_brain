@@ -1,0 +1,152 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>EndPoint</key>
+		<string>{0.81771895484616641, 0.20584277156054998}</string>
+		<key>StartPoint</key>
+		<string>{0.82224857638772908, 0.27064407305914251}</string>
+		<key>Type</key>
+		<string>line</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.3009999926706669</real>
+		<key>Frame</key>
+		<string>{{0.76512345463820808, 0.047846447742396665}, {0.10476096120539129, 0.13660398880980387}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;Schwanzseiten schwarz&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>EndPoint</key>
+		<string>{0.67026357951348381, 0.58863653479912437}</string>
+		<key>StartPoint</key>
+		<string>{0.67540639228815258, 0.63434600327974233}</string>
+		<key>Type</key>
+		<string>line</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.24079363135333742</real>
+		<key>Frame</key>
+		<string>{{0.62692846199817565, 0.58998564538830189}, {0.15116049169915222, 0.17075949807907961}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;Kopfmuster bei einigen im Frühjahr schwächer&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.56969661846947073</real>
+		<key>Frame</key>
+		<string>{{0.43542951462584645, 0.089577672737279249}, {0.095556957627307079, 0.072174905550608029}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;&lt;b&gt;Frühjahr&lt;/b&gt;&lt;/p&gt;&lt;p&gt;(abgetragen)&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.2583104077803548</real>
+		<key>Frame</key>
+		<string>{{0.39134951478888924, 0.47524192703277363}, {0.10797056365415543, 0.15917980225364325}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;derb, „geschwollen“, rosa getönt&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>EndPoint</key>
+		<string>{0.41858283313479816, 0.64354631350950142}</string>
+		<key>StartPoint</key>
+		<string>{0.39663417657697575, 0.69531008556837637}</string>
+		<key>Type</key>
+		<string>line</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.27518074939460385</real>
+		<key>Frame</key>
+		<string>{{0.4224829128750614, 0.64419071952584106}, {0.16966579902597217, 0.14942106132421604}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;markantes Kopfmuster mit deutlichem Wangenstreif&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.29194341012504688</real>
+		<key>Frame</key>
+		<string>{{0.20181707332624174, 0.55483182815959209}, {0.072770539965798409, 0.14084167754607999}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;rotbraun gestrichelt&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>EndPoint</key>
+		<string>{0.24848743174614152, 0.54586863306308964}</string>
+		<key>StartPoint</key>
+		<string>{0.23159520252115462, 0.61122374366838161}</string>
+		<key>Type</key>
+		<string>line</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.38484862127621194</real>
+		<key>Frame</key>
+		<string>{{0.1640515645305741, 0.05170608122577295}, {0.063988224948673969, 0.10684148872401424}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;&lt;b&gt;Herbst&lt;/b&gt;(frisch)&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>EndPoint</key>
+		<string>{0.11240241343594357, 0.27262720016789938}</string>
+		<key>StartPoint</key>
+		<string>{0.1288851339389091, 0.25127017007561581}</string>
+		<key>Type</key>
+		<string>line</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.27062428251695181</real>
+		<key>Frame</key>
+		<string>{{0.025877848582908574, 0.20979094318880093}, {0.11905199423849502, 0.15193684486889764}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;sehr kurze Handschwingenprojektion&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>EndPoint</key>
+		<string>{0.39649459032831574, 0.76836122271777119}</string>
+		<key>StartPoint</key>
+		<string>{0.4177950435231923, 0.77170988711312416}</string>
+		<key>Type</key>
+		<string>line</string>
+	</dict>
+	<dict>
+		<key>EndPoint</key>
+		<string>{0.84176962455781745, 0.70041121098937587}</string>
+		<key>StartPoint</key>
+		<string>{0.86371810192136445, 0.75217519652804277}</string>
+		<key>Type</key>
+		<string>line</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.64827649878988913</real>
+		<key>Frame</key>
+		<string>{{0.80461011050527986, 0.62932871740009555}, {0.053787090485741262, 0.063426330751288562}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;schwarz&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+</array>
+</plist>

@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>FontScale</key>
+		<real>0.54754935680885963</real>
+		<key>Frame</key>
+		<string>{{0.22771820759780975, 0.83486681574314059}, {0.4195175784306257, 0.15039144183318437}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;couleur sable&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>EndPoint</key>
+		<string>{0.41850672785099419, 0.90615253245795557}</string>
+		<key>StartPoint</key>
+		<string>{0.50506663034140609, 0.80248506938044151}</string>
+		<key>Type</key>
+		<string>line</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.6224214565209133</real>
+		<key>Frame</key>
+		<string>{{0.68483270028100984, 0.34635727614020917}, {0.14995050798778056, 0.13230060818533221}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;♂&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.35675752691289131</real>
+		<key>Frame</key>
+		<string>{{0.44497636470958973, 0.11144906873290002}, {0.32159064593634223, 0.2308199015669922}}</string>
+		<key>Text</key>
+		<string>&lt;p class="right"&gt;petites taches blanches&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>EndPoint</key>
+		<string>{0.52030739724777653, 0.13159086560453073}</string>
+		<key>StartPoint</key>
+		<string>{0.45873702443027031, 0.20532905447054256}</string>
+		<key>Type</key>
+		<string>line</string>
+	</dict>
+</array>
+</plist>

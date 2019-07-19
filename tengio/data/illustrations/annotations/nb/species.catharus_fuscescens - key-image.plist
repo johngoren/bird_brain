@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>FontScale</key>
+		<real>0.38484848484850614</real>
+		<key>Frame</key>
+		<string>{{0.53689207222626711, 0.85160590134986891}, {0.41202194803710335, 0.13941651972825345}}</string>
+		<key>Text</key>
+		<string>&lt;p class="right"&gt;﻿utydelig øyering&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>EndPoint</key>
+		<string>{0.80273885246315746, 0.84738115832778593}</string>
+		<key>StartPoint</key>
+		<string>{0.83037398888899749, 0.89047353715288236}</string>
+		<key>Type</key>
+		<string>line</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.13517828632250173</real>
+		<key>Frame</key>
+		<string>{{0.73631755965016965, 0.28971507941478247}, {0.21299646845184234, 0.3969146069233675}}</string>
+		<key>Text</key>
+		<string>&lt;p class="right"&gt;﻿svakere tegnet på brystet enn andre skogtrost-arter&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.66145833333348381</real>
+		<key>Frame</key>
+		<string>{{0.6723204016113824, 0.2445103290786127}, {0.18848130103915267, 0.081115066023697127}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;﻿silkehvit&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>EndPoint</key>
+		<string>{0.67329005552105725, 0.33027261242659317}</string>
+		<key>StartPoint</key>
+		<string>{0.64032182259198533, 0.37843468287817866}</string>
+		<key>Type</key>
+		<string>line</string>
+	</dict>
+	<dict>
+		<key>EndPoint</key>
+		<string>{0.57050674109512212, 0.66233741396118295}</string>
+		<key>StartPoint</key>
+		<string>{0.49959396851173932, 0.70970734509612454}</string>
+		<key>Type</key>
+		<string>line</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.34139784946235391</real>
+		<key>Frame</key>
+		<string>{{0.34651668795935603, 0.66994195140089441}, {0.22738384181964044, 0.15716044042095431}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;﻿nokså varmt rustbrun over&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+</array>
+</plist>

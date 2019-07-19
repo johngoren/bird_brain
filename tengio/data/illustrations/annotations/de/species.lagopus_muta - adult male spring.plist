@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>EndPoint</key>
+		<string>{0.62634523540044862, 0.80062708044226938}</string>
+		<key>StartPoint</key>
+		<string>{0.686141615709426, 0.76514178909905273}</string>
+		<key>Type</key>
+		<string>line</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.30878590510952386</real>
+		<key>Frame</key>
+		<string>{{0.41170415724514553, 0.75826041895248919}, {0.20164140071277772, 0.15733297451681821}}</string>
+		<key>Text</key>
+		<string>&lt;p class="right"&gt;gräulich, weiß gefleckt&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.43337858581923078</real>
+		<key>Frame</key>
+		<string>{{0.68648098832495741, 0.086026680169686204}, {0.26609118831156076, 0.11210107404802366}}</string>
+		<key>Text</key>
+		<string>&lt;p class="right"&gt;♂&lt;b&gt; Frühjahr &lt;/b&gt;(Mai/Juni)&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+</array>
+</plist>

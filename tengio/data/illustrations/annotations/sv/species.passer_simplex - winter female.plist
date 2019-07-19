@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>FontScale</key>
+		<real>0.62666500922747426</real>
+		<key>Frame</key>
+		<string>{{0.8314289478792446, 0.53771389477800291}, {0.12853244101853326, 0.1039564621092206}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;ljus&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>EndPoint</key>
+		<string>{0.86184860363776095, 0.64993352044544583}</string>
+		<key>StartPoint</key>
+		<string>{0.83800447402236089, 0.71640666708887624}</string>
+		<key>Type</key>
+		<string>line</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.23941753034913865</real>
+		<key>Frame</key>
+		<string>{{0.42353624949239116, 0.64954485701888098}, {0.21750976508050129, 0.27210153405195164}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;mycket ljus, beige och vit&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.50509279798801232</real>
+		<key>Frame</key>
+		<string>{{0.17435165723489396, 0.14614418081186417}, {0.20777357608700103, 0.12897803640525568}}</string>
+		<key>Text</key>
+		<string>&lt;p class="right"&gt;♀ &lt;b&gt;vinter&lt;/b&gt;&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+</array>
+</plist>

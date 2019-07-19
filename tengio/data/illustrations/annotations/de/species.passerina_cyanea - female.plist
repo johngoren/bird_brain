@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>EndPoint</key>
+		<string>{0.26090098468549744, 0.72288298370309922}</string>
+		<key>StartPoint</key>
+		<string>{0.30845619601671737, 0.66809688668405109}</string>
+		<key>Type</key>
+		<string>line</string>
+	</dict>
+	<dict>
+		<key>EndPoint</key>
+		<string>{0.31994112980173267, 0.80527008749369178}</string>
+		<key>StartPoint</key>
+		<string>{0.38610490208865378, 0.73287417357566309}</string>
+		<key>Type</key>
+		<string>line</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.3358677685950518</real>
+		<key>Frame</key>
+		<string>{{0.1731197672984511, 0.74425934477213351}, {0.23623348556545826, 0.14797137810947306}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;rostbeige Flügel-binden&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.46384765450613696</real>
+		<key>Frame</key>
+		<string>{{0.11276581782830038, 0.89223072288160643}, {0.35694138450576451, 0.10714469739957662}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;recht unscheinbar&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.54918918918916915</real>
+		<key>Frame</key>
+		<string>{{0.65613579773465702, 0.53665916999639018}, {0.34386420226534298, 0.090494892397535082}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;♀&lt;b&gt;/ 1er W&lt;/b&gt;&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.19404125286477902</real>
+		<key>Frame</key>
+		<string>{{0.11184796833059377, 0.012131207197075469}, {0.47968734908019617, 0.25612500356404561}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;Jungvögel beider Geschlechter können im Herbst wie ♀ aussehen; Blau im Gefieder kennzeichnend für ♂&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+</array>
+</plist>

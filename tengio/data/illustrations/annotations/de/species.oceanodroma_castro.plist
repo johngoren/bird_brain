@@ -1,0 +1,180 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>FontScale</key>
+		<real>0.38484786795909737</real>
+		<key>Frame</key>
+		<string>{{0.81103430419226263, 0.11393109403677017}, {0.10733128735142884, 0.1566935912355758}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;weißer Bürzel länger als breit&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.25729922708677466</real>
+		<key>Frame</key>
+		<string>{{0.62777968308928878, 0.088922824027116376}, {0.09430507214320652, 0.234369901505877}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;weißer Bürzel breiter als lang&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.6064498218664689</real>
+		<key>Frame</key>
+		<string>{{0.79485836626797368, 0.48910810615306743}, {0.076923166765899428, 0.099436412272775818}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;gegabelt&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.18089525707519191</real>
+		<key>Frame</key>
+		<string>{{0.86080562812537054, 0.46705156249980545}, {0.13510765287345505, 0.33335973250420659}}</string>
+		<key>Text</key>
+		<string>&lt;p class="right"&gt;Wellenläufer (zum Vergleich)&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>EndPoint</key>
+		<string>{0.69678632218261505, 0.33316268086338779}</string>
+		<key>StartPoint</key>
+		<string>{0.7041290559061204, 0.42579869087170746}</string>
+		<key>Type</key>
+		<string>line</string>
+	</dict>
+	<dict>
+		<key>EndPoint</key>
+		<string>{0.65699198878715148, 0.5869217151929369}</string>
+		<key>StartPoint</key>
+		<string>{0.66215871599791254, 0.50652959382121354}</string>
+		<key>Type</key>
+		<string>line</string>
+	</dict>
+	<dict>
+		<key>EndPoint</key>
+		<string>{0.87681859455315758, 0.27792428519031515}</string>
+		<key>StartPoint</key>
+		<string>{0.88311493219148485, 0.36486982581149219}</string>
+		<key>Type</key>
+		<string>line</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.27720940725283399</real>
+		<key>Frame</key>
+		<string>{{0.59307165191157685, 0.4539133781821606}, {0.079870637348461157, 0.21753660926400312}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;gerade bis leicht gekerbt&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>EndPoint</key>
+		<string>{0.83640648203282197, 0.53089074468431374}</string>
+		<key>StartPoint</key>
+		<string>{0.83921407038231188, 0.45840173007188761}</string>
+		<key>Type</key>
+		<string>line</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.30973693911695399</real>
+		<key>Frame</key>
+		<string>{{0.31517213493557195, 0.53638560574191951}, {0.099717939183016704, 0.19469164601996564}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;helles Feld undeutlich&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.39205942469714283</real>
+		<key>Frame</key>
+		<string>{{0.49752398977252482, 0.72477005805510064}, {0.1520352659741698, 0.15381136305152857}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;Flügel etwas kürzer als bei Wellenläufer&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.25806349993896482</real>
+		<key>Frame</key>
+		<string>{{0.37777777777777616, 0.038632388538362629}, {0.13247863247863251, 0.23367579887945447}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;Weiß seitlich ausgedehnter als bei Wellenläufer&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>EndPoint</key>
+		<string>{0.43719704246923197, 0.29286283289342507}</string>
+		<key>StartPoint</key>
+		<string>{0.44183863481117669, 0.39444892875102883}</string>
+		<key>Type</key>
+		<string>line</string>
+	</dict>
+	<dict>
+		<key>EndPoint</key>
+		<string>{0.39526832342641977, 0.64146272572303376}</string>
+		<key>StartPoint</key>
+		<string>{0.44102166909170254, 0.62600013178076941}</string>
+		<key>Type</key>
+		<string>line</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.29967046255570667</real>
+		<key>Frame</key>
+		<string>{{0.30126869803027273, 0.074001556885627554}, {0.065974579147237297, 0.20123169295891385}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;Schnabel kräftig&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>EndPoint</key>
+		<string>{0.047059225511542881, 0.19820726923904974}</string>
+		<key>StartPoint</key>
+		<string>{0.063146343850825806, 0.21400828032105201}</string>
+		<key>Type</key>
+		<string>line</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.27244043206241181</real>
+		<key>Frame</key>
+		<string>{{0, 0.027912798097627988}, {0.065895548618530322, 0.22134451209522069}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;leicht gekerbt&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>EndPoint</key>
+		<string>{0.29626472650373203, 0.2342946960371165}</string>
+		<key>StartPoint</key>
+		<string>{0.27523241124884795, 0.21179876664552863}</string>
+		<key>Type</key>
+		<string>line</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.25331218619105378</real>
+		<key>Frame</key>
+		<string>{{0.026890636418732895, 0.53184265344353088}, {0.16359050638428874, 0.23805879778868444}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;Oberflügel etwas einfarbiger als bei Wellenläufer&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+</array>
+</plist>

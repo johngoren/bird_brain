@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>EndPoint</key>
+		<string>{0.73961350618270827, 0.22278933917542929}</string>
+		<key>StartPoint</key>
+		<string>{0.59779875154020434, 0.29735020788293753}</string>
+		<key>Type</key>
+		<string>line</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.20685447423438136</real>
+		<key>Frame</key>
+		<string>{{0.62840473393430329, 0.098376452139129891}, {0.30017918941745236, 0.11855553642774305}}</string>
+		<key>Text</key>
+		<string>&lt;p class="right"&gt;﻿hvitkantete vingedekkere&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.50825412706352402</real>
+		<key>Frame</key>
+		<string>{{0.21004923533181696, 0.075630814913958525}, {0.2894950617258355, 0.048250947408973503}}</string>
+		<key>Text</key>
+		<string>&lt;p class="right"&gt;&lt;b&gt;adult &lt;/b&gt;♂&lt;b&gt; vår&lt;/b&gt;&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.50825412706352402</real>
+		<key>Frame</key>
+		<string>{{0.73278225500582561, 0.83666421146990999}, {0.062910601293606858, 0.048250947408973503}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;♂&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>EndPoint</key>
+		<string>{0.39823293817955674, 0.78999355225175316}</string>
+		<key>StartPoint</key>
+		<string>{0.39682534209004622, 0.82321322286182474}</string>
+		<key>Type</key>
+		<string>line</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.16677207702567573</real>
+		<key>Frame</key>
+		<string>{{0.31993143401652552, 0.63687777239834942}, {0.3996624784488591, 0.14704945571650002}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;﻿mørk stjert med rustbeige stjertrot og rosabeige overgump&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+</array>
+</plist>

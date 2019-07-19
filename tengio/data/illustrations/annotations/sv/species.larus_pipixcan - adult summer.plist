@@ -1,0 +1,126 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>FontScale</key>
+		<real>0.41983471074378287</real>
+		<key>Frame</key>
+		<string>{{0.66697772328589666, 0.38918072444745139}, {0.29474867403838445, 0.078043468570342389}}</string>
+		<key>Text</key>
+		<string>&lt;p class="right"&gt;breda ”ögon-&lt;/p&gt;&lt;p class="right"&gt;lock” &lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>EndPoint</key>
+		<string>{0.8820097558277894, 0.32108435222064807}</string>
+		<key>StartPoint</key>
+		<string>{0.86954243083585581, 0.35368113281076813}</string>
+		<key>Type</key>
+		<string>line</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.58442623925424786</real>
+		<key>Frame</key>
+		<string>{{0.84611269014395774, 0.26864428715594446}, {0.14043036603084572, 0.056064144372575002}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;kort&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.51026721757365623</real>
+		<key>Frame</key>
+		<string>{{0.71345748339313364, 0.048897918037819038}, {0.24957085248442726, 0.064212153797518032}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;klarröda&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.61461703664106349</real>
+		<key>Frame</key>
+		<string>{{0.33081060644514865, 0.02901405998436276}, {0.24470372390289524, 0.053310199846943372}}</string>
+		<key>Text</key>
+		<string>&lt;p class="right"&gt;&lt;b&gt;ad. som.&lt;/b&gt;&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.34340569128979742</real>
+		<key>Frame</key>
+		<string>{{0.045485743356309401, 0.036447489254125602}, {0.22598557133582589, 0.095412970383827372}}</string>
+		<key>Text</key>
+		<string>&lt;p class="right"&gt;stora vita spetsar&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>EndPoint</key>
+		<string>{0.71091984327758773, 0.093419489932639169}</string>
+		<key>StartPoint</key>
+		<string>{0.64347070862271638, 0.087289324811878871}</string>
+		<key>Type</key>
+		<string>line</string>
+	</dict>
+	<dict>
+		<key>EndPoint</key>
+		<string>{0.20186536043797149, 0.13266388573627302}</string>
+		<key>StartPoint</key>
+		<string>{0.21104856030397096, 0.18463171205296985}</string>
+		<key>Type</key>
+		<string>line</string>
+	</dict>
+	<dict>
+		<key>EndPoint</key>
+		<string>{0.29499112609640238, 0.73722331617932624}</string>
+		<key>StartPoint</key>
+		<string>{0.31729087474449652, 0.76810605379641639}</string>
+		<key>Type</key>
+		<string>line</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.25160510100266797</real>
+		<key>Frame</key>
+		<string>{{0.23462548536761887, 0.6051505005701816}, {0.17683816471212097, 0.13022532898617095}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;mittre delen ljusgrå&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.61461895800378885</real>
+		<key>Frame</key>
+		<string>{{0.14035738381104351, 0.85448222209437819}, {0.23805980217998746, 0.053310033193719394}}</string>
+		<key>Text</key>
+		<string>&lt;p class="right"&gt;&lt;b&gt;ad. som.&lt;/b&gt;&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.29639367196615812</real>
+		<key>Frame</key>
+		<string>{{0.46266837626689061, 0.5767089194213092}, {0.13002820918696101, 0.11054674964994637}}</string>
+		<key>Text</key>
+		<string>&lt;p class="right"&gt;vitt band&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>EndPoint</key>
+		<string>{0.59292497868085026, 0.66681014825829943}</string>
+		<key>StartPoint</key>
+		<string>{0.68088727458291565, 0.69034642310261607}</string>
+		<key>Type</key>
+		<string>line</string>
+	</dict>
+</array>
+</plist>

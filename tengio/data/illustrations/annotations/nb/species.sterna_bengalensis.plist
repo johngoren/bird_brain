@@ -1,0 +1,220 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>FontScale</key>
+		<real>0.22098359550182908</real>
+		<key>Frame</key>
+		<string>{{0.78049376698422623, 0.37478542776392898}, {0.061629847577996895, 0.16024799179357768}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;﻿mørkere grå enn konge-terne&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>EndPoint</key>
+		<string>{0.80208468312491032, 0.38604483348464824}</string>
+		<key>StartPoint</key>
+		<string>{0.80458333460453413, 0.33352758068835298}</string>
+		<key>Type</key>
+		<string>line</string>
+	</dict>
+	<dict>
+		<key>EndPoint</key>
+		<string>{0.95198923481929509, 0.48639768079580498}</string>
+		<key>StartPoint</key>
+		<string>{0.94775352187630446, 0.43338786592924927}</string>
+		<key>Type</key>
+		<string>line</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.38383881768397976</real>
+		<key>Frame</key>
+		<string>{{0.93555361344823507, 0.46726256534766281}, {0.055858310839353477, 0.092257936839644436}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;﻿relativt smalt&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>EndPoint</key>
+		<string>{0.66291684774157922, 0.19056868517457795}</string>
+		<key>StartPoint</key>
+		<string>{0.67655450239757586, 0.23341377703922245}</string>
+		<key>Type</key>
+		<string>line</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.64827649878988913</real>
+		<key>Frame</key>
+		<string>{{0.69448092230789971, 0.088874801400433204}, {0.1036503280759406, 0.054625113612162164}}</string>
+		<key>Text</key>
+		<string>&lt;p class="right"&gt;&lt;b&gt;ad. sommer&lt;/b&gt;&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.38673128973374454</real>
+		<key>Frame</key>
+		<string>{{0.52488683435704175, 0.10023002651983862}, {0.13684733449610884, 0.091567913790665492}}</string>
+		<key>Text</key>
+		<string>&lt;p class="right"&gt;﻿grå overgump og stjertoverside&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.7758034921574436</real>
+		<key>Frame</key>
+		<string>{{0.49729969747604597, 0.35262688023650762}, {0.072260018558054986, 0.045645808193018236}}</string>
+		<key>Text</key>
+		<string>&lt;p class="right"&gt;&lt;b&gt;ad. vint.&lt;/b&gt;&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>EndPoint</key>
+		<string>{0.39289564241500469, 0.30895225202651333}</string>
+		<key>StartPoint</key>
+		<string>{0.40782443809332308, 0.27549192692558538}</string>
+		<key>Type</key>
+		<string>line</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.18256712736835459</real>
+		<key>Frame</key>
+		<string>{{0.41175422135112549, 0.095818112149591794}, {0.10879040487127407, 0.19396798267545395}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;﻿lys øyering, ofte tydeligere enn hos juv. kongeterne&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.65891374144552961</real>
+		<key>Frame</key>
+		<string>{{0.21759080111651882, 0.088972063850560307}, {0.044821691094879351, 0.053743267397648925}}</string>
+		<key>Text</key>
+		<string>&lt;p class="right"&gt;&lt;b&gt;juv.&lt;/b&gt;&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.36874878089036267</real>
+		<key>Frame</key>
+		<string>{{0.021334505532382243, 0.69328987262684671}, {0.22866451281606892, 0.096033340945529094}}</string>
+		<key>Text</key>
+		<string>&lt;p class="center"&gt;﻿ad. bengalterne (foran) sammen med ad. splitterne&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.67428261786604793</real>
+		<key>Frame</key>
+		<string>{{0.31216692837248833, 0.85220374781280772}, {0.092053501928140241, 0.052518300872954338}}</string>
+		<key>Text</key>
+		<string>&lt;p class="right"&gt;&lt;b&gt;1. vinter&lt;/b&gt;&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>EndPoint</key>
+		<string>{0.34528223084392962, 0.68933760924431342}</string>
+		<key>StartPoint</key>
+		<string>{0.33746434936175279, 0.77744096995807455}</string>
+		<key>Type</key>
+		<string>line</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.13600330492415455</real>
+		<key>Frame</key>
+		<string>{{0.30987970914381391, 0.4176983086045668}, {0.13236389676341379, 0.2603773299350397}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;﻿midten av overgumpen er gråere og stjerten mørkere enn hos 1. vinter kongeterne&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>EndPoint</key>
+		<string>{0.47963577650119715, 0.77046445240573636}</string>
+		<key>StartPoint</key>
+		<string>{0.4517711932416833, 0.75018329503252457}</string>
+		<key>Type</key>
+		<string>line</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.27351873234930013</real>
+		<key>Frame</key>
+		<string>{{0.48437930866501855, 0.73453167310110246}, {0.088196881754008721, 0.12946892921859876}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;svakere tegnet enn kongeterne&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>EndPoint</key>
+		<string>{0.63604429878676916, 0.90145289001500672}</string>
+		<key>StartPoint</key>
+		<string>{0.62807866507385524, 0.86429118851304032}</string>
+		<key>Type</key>
+		<string>line</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.439068836760581</real>
+		<key>Frame</key>
+		<string>{{0.63831915151030683, 0.84723471730504929}, {0.06229880938445622, 0.080652905498283495}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;lys&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>EndPoint</key>
+		<string>{0.58310021688550184, 0.70571875645023119}</string>
+		<key>StartPoint</key>
+		<string>{0.59741634637650176, 0.67619962560606117}</string>
+		<key>Type</key>
+		<string>line</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.68443240721723098</real>
+		<key>Frame</key>
+		<string>{{0.55088391473882659, 0.69384491388881409}, {0.045755487487291621, 0.051739480809319678}}</string>
+		<key>Text</key>
+		<string>&lt;p class="right"&gt;grå&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.60555512535069733</real>
+		<key>Frame</key>
+		<string>{{0.61019255728832322, 0.55572214964593147}, {0.096015554786895066, 0.05847886660687418}}</string>
+		<key>Text</key>
+		<string>&lt;p class="right"&gt;&lt;b&gt;ad. vinter&lt;/b&gt;&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.16707882298353607</real>
+		<key>Frame</key>
+		<string>{{0.75518840263272924, 0.69905789615085967}, {0.21149122148834024, 0.21194892785414168}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;﻿vingeoversiden tydeligere tofarget enn hos kongeterne: ferske håndsvingfjær er nesten sølvhvite, mens armen er mørkere grå&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+</array>
+</plist>

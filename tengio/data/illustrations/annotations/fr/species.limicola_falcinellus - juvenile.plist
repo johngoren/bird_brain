@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>EndPoint</key>
+		<string>{0.31997499241106359, 0.30011066015133725}</string>
+		<key>StartPoint</key>
+		<string>{0.38033987384523282, 0.27933583472992812}</string>
+		<key>Type</key>
+		<string>line</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.65774762387466468</real>
+		<key>Frame</key>
+		<string>{{0.0908119813798344, 0.29232418518810527}, {0.35381133908415807, 0.042766318446289128}}</string>
+		<key>Text</key>
+		<string>&lt;p class="right"&gt;motif marqué&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.6043637839133883</real>
+		<key>Frame</key>
+		<string>{{0.26186236252716488, 0.33367249967294682}, {0.32338532377662504, 0.046543894734673845}}</string>
+		<key>Text</key>
+		<string>&lt;p class="center"&gt;bandes sombres&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>EndPoint</key>
+		<string>{0.62375946460639264, 0.35084687379850477}</string>
+		<key>StartPoint</key>
+		<string>{0.58193135567095711, 0.36427331299644256}</string>
+		<key>Type</key>
+		<string>line</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.73845876480331785</real>
+		<key>Frame</key>
+		<string>{{0.00023447190131580746, 0.11557391865513064}, {0.16279072397181035, 0.038092098950719272}}</string>
+		<key>Text</key>
+		<string>&lt;p class="right"&gt;&lt;b&gt;juv.&lt;/b&gt;&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.40232792279547186</real>
+		<key>Frame</key>
+		<string>{{0.7545884514590836, 0.15677141875943468}, {0.19263187397077636, 0.069916709097553362}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;poitrine striée&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>EndPoint</key>
+		<string>{0.71467972905135158, 0.22725682868180599}</string>
+		<key>StartPoint</key>
+		<string>{0.74693417938852502, 0.21662087551050252}</string>
+		<key>Type</key>
+		<string>line</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.65689274974941525</real>
+		<key>Frame</key>
+		<string>{{0.00023447190131580746, 0.38147066228821275}, {0.93023227920390694, 0.042821974136028208}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;&lt;b&gt;BÉCASSEAU FALCINELLE&lt;/b&gt;&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.20164730915546689</real>
+		<key>Frame</key>
+		<string>{{0.16660417060379118, 0.60163940600393873}, {0.35465132101114127, 0.13949823807580072}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;assez sombre avec des lignes pâles sur le dos comme le B. minute&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.61723348747845541</real>
+		<key>Frame</key>
+		<string>{{0.51948314896049763, 0.93137980828695432}, {0.16279084915702224, 0.045573425471176772}}</string>
+		<key>Text</key>
+		<string>&lt;p class="right"&gt;&lt;b&gt;juv.&lt;/b&gt;&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+</array>
+</plist>

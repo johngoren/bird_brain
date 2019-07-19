@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>FontScale</key>
+		<real>0.24102535812140247</real>
+		<key>Frame</key>
+		<string>{{0.1286916103690223, 0.12777096298362223}, {0.28936785346902316, 0.28080441653255411}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;&lt;b&gt;&lt;i&gt;flammea&lt;/i&gt;&lt;/b&gt;&lt;/p&gt;&lt;p&gt;(N Fenno-Scandia)&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.46904567641459288</real>
+		<key>Frame</key>
+		<string>{{0.76243476417377443, 0.043298134410316678}, {0.19581832236334831, 0.14429508352829715}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;&lt;b&gt;spring &lt;/b&gt;♂ &lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.50810715817874297</real>
+		<key>Frame</key>
+		<string>{{0.82000886594759881, 0.22137243516114521}, {0.093228893098395257, 0.13320218770273917}}</string>
+		<key>Text</key>
+		<string>&lt;p class="right"&gt;red&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>EndPoint</key>
+		<string>{0.87843575036634136, 0.35511742240729277}</string>
+		<key>StartPoint</key>
+		<string>{0.84672940107981554, 0.42243262109984575}</string>
+		<key>Type</key>
+		<string>line</string>
+	</dict>
+	<dict>
+		<key>EndPoint</key>
+		<string>{0.55884687895346297, 0.91590565489008458}</string>
+		<key>StartPoint</key>
+		<string>{0.59461295126927582, 0.84112946475729666}</string>
+		<key>Type</key>
+		<string>line</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.52916620687242011</real>
+		<key>Frame</key>
+		<string>{{0.50374619108928131, 0.86848992486370247}, {0.1754068247439706, 0.12790118525680522}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;streaked&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+</array>
+</plist>

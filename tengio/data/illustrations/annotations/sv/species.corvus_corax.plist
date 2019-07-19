@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>FontScale</key>
+		<real>0.34181816917398411</real>
+		<key>Frame</key>
+		<string>{{0.036052677471966089, 0.44091799052039543}, {0.27414830301169107, 0.093433368202446854}}</string>
+		<key>Text</key>
+		<string>&lt;p class="center"&gt;retsamt närgången uppvaktning av en &lt;/p&gt;&lt;p class="center"&gt;kungsörn med byte i hopp om rester&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>EndPoint</key>
+		<string>{0.70002841950814643, 0.64979123429634711}</string>
+		<key>StartPoint</key>
+		<string>{0.70039054064499551, 0.69475726930900605}</string>
+		<key>Type</key>
+		<string>line</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.35471649093940111</real>
+		<key>Frame</key>
+		<string>{{0.69009917849923086, 0.55709091875613992}, {0.063638044280996883, 0.090035912269371215}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;mycket kraftig&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.35471649093940111</real>
+		<key>Frame</key>
+		<string>{{0.59026716487441744, 0.30247329557146624}, {0.084049746765007108, 0.090035912269371215}}</string>
+		<key>Text</key>
+		<string>&lt;p class="right"&gt;mycket &lt;/p&gt;&lt;p class="right"&gt;stor – som en ormvråk!&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>EndPoint</key>
+		<string>{0.85545642196777483, 0.52347399394348793}</string>
+		<key>StartPoint</key>
+		<string>{0.88164614546975273, 0.52274517706243795}</string>
+		<key>Type</key>
+		<string>line</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.18881248838505263</real>
+		<key>Frame</key>
+		<string>{{0.76465395709499207, 0.3692164104606121}, {0.098197142419369124, 0.16914783090824115}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;ganska långa, smala och spetsiga &lt;/p&gt;&lt;p&gt;vingar&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.36153803718210509</real>
+		<key>Frame</key>
+		<string>{{0.69918315768016581, 0.1542374073791381}, {0.099409994833063897, 0.088337103082275381}}</string>
+		<key>Text</key>
+		<string>&lt;p class="right"&gt;kilformad&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>EndPoint</key>
+		<string>{0.80627447407907948, 0.23038703463290303}</string>
+		<key>StartPoint</key>
+		<string>{0.8324641975810575, 0.22965821775185299}</string>
+		<key>Type</key>
+		<string>line</string>
+	</dict>
+</array>
+</plist>

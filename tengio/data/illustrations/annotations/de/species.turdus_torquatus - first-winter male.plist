@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>EndPoint</key>
+		<string>{0.30232990702848972, 0.55474597938656378}</string>
+		<key>StartPoint</key>
+		<string>{0.35540453221274687, 0.63988139367977892}</string>
+		<key>Type</key>
+		<string>line</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.1704562597210732</real>
+		<key>Frame</key>
+		<string>{{0.098716360333041778, 0.2543759555060579}, {0.26775683366583136, 0.27412552945273533}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;Brustband wenig auffällig heller braun (bei ♀ 1er W noch dunkler und im Freiland oft nicht erkennbar)&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>EndPoint</key>
+		<string>{0.62767785931330033, 0.70329480362352181}</string>
+		<key>StartPoint</key>
+		<string>{0.60505211248936419, 0.60041502700378468}</string>
+		<key>Type</key>
+		<string>line</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.32564094494970697</real>
+		<key>Frame</key>
+		<string>{{0.55645562267833504, 0.64849847015724527}, {0.14326057399761541, 0.14349059345651}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;helle Säume&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.52191086995763292</real>
+		<key>Frame</key>
+		<string>{{0.66070793001138128, 0.26788686995630012}, {0.21628429789290907, 0.089529486995289564}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;♂&lt;b&gt; 1er W&lt;/b&gt;&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+</array>
+</plist>

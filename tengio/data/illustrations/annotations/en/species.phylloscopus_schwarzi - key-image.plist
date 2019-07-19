@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>FontScale</key>
+		<real>0.39703008987894428</real>
+		<key>Frame</key>
+		<string>{{0.74926697925149321, 0.38831120544600262}, {0.16008812326021002, 0.11718638898640743}}</string>
+		<key>Text</key>
+		<string>&lt;p class="right"&gt;mottled &lt;/p&gt;&lt;p class="right"&gt;ear-coverts&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>EndPoint</key>
+		<string>{0.90276108370464769, 0.62753812848826085}</string>
+		<key>StartPoint</key>
+		<string>{0.89983040867929043, 0.68285706475070751}</string>
+		<key>Type</key>
+		<string>line</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.25645678735894334</real>
+		<key>Frame</key>
+		<string>{{0.46682317368256732, 0.75788194919852214}, {0.18923262092198948, 0.18142051544435273}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;wing brighter than back&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>EndPoint</key>
+		<string>{0.52323866792071572, 0.30734772919436742}</string>
+		<key>StartPoint</key>
+		<string>{0.46609050492622567, 0.30734772919436742}</string>
+		<key>Type</key>
+		<string>line</string>
+	</dict>
+	<dict>
+		<key>EndPoint</key>
+		<string>{0.30856672231320365, 0.64292485248179065}</string>
+		<key>StartPoint</key>
+		<string>{0.33274479127241324, 0.6868869210347418}</string>
+		<key>Type</key>
+		<string>line</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.26111139148381146</real>
+		<key>Frame</key>
+		<string>{{0.22284447782146852, 0.45619917984582647}, {0.13198433435276699, 0.1781864907826009}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;apricot-buff, often brightest part below&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>EndPoint</key>
+		<string>{0.56622190162597819, 0.81657502326590181}</string>
+		<key>StartPoint</key>
+		<string>{0.56744301621987803, 0.84734847125296975}</string>
+		<key>Type</key>
+		<string>line</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.31663931482426949</real>
+		<key>Frame</key>
+		<string>{{0.70054450695491144, 0.78909873042029899}, {0.23591933954136168, 0.14693855239575621}}</string>
+		<key>Text</key>
+		<string>&lt;p class="right"&gt;supercilium buff and diffuse in front of eye&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.36363636363636365</real>
+		<key>Frame</key>
+		<string>{{0.82265596634484761, 0.49230897386654165}, {0.11234254263874416, 0.12794793701762125}}</string>
+		<key>Text</key>
+		<string>&lt;p class="right"&gt;stout&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.20659327264683955</real>
+		<key>Frame</key>
+		<string>{{0.35252684769358178, 0.10493903856510904}, {0.12901944715074634, 0.22520831368694635}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;legs pale and sturdy&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>EndPoint</key>
+		<string>{0.83486711228383914, 0.51433580196443396}</string>
+		<key>StartPoint</key>
+		<string>{0.79701255987295971, 0.63706324334139874}</string>
+		<key>Type</key>
+		<string>line</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.19468574348491566</real>
+		<key>Frame</key>
+		<string>{{0.046041298398707811, 0.031729982738825623}, {0.28328230425673961, 0.23898268932808206}}</string>
+		<key>Text</key>
+		<string>&lt;p class="center"&gt;Radde's and Dusky both flick tail and wings nervously, the tail upwards (un-&lt;/p&gt;&lt;p class="center"&gt;like Chiffchaff)&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+</array>
+</plist>

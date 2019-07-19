@@ -1,0 +1,124 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>EndPoint</key>
+		<string>{0.71256823488249155, 0.22556983750079287}</string>
+		<key>StartPoint</key>
+		<string>{0.67001550155472844, 0.33002421440735263}</string>
+		<key>Type</key>
+		<string>line</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.63122612129579092</real>
+		<key>Frame</key>
+		<string>{{0.69611708137464334, 0.12909114167135954}, {0.25007224782933563, 0.089466924035638606}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;beigebraun&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.24479382935476526</real>
+		<key>Frame</key>
+		<string>{{0.82529532976593645, 0.21855806570700123}, {0.16291114808325829, 0.23069968549508285}}</string>
+		<key>Text</key>
+		<string>&lt;p class="right"&gt;Kehlfleck meist recht groß&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>EndPoint</key>
+		<string>{0.9147749002695299, 0.46293169835624626}</string>
+		<key>StartPoint</key>
+		<string>{0.87070249594839177, 0.5522640273510856}</string>
+		<key>Type</key>
+		<string>line</string>
+	</dict>
+	<dict>
+		<key>EndPoint</key>
+		<string>{0.83508827344009295, 0.84969116483719764}</string>
+		<key>StartPoint</key>
+		<string>{0.80943119209798264, 0.78978977430532193}</string>
+		<key>Type</key>
+		<string>line</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.60645075718434471</real>
+		<key>Frame</key>
+		<string>{{0.73816470237730425, 0.81267424723525561}, {0.21908990162399988, 0.093121920904972663}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;matt schwarz&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.32804252573612414</real>
+		<key>Frame</key>
+		<string>{{0.56356431726231015, 0.81984175026128925}, {0.14763759745950808, 0.17215408068376056}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;ganze Wange weiß&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>EndPoint</key>
+		<string>{0.60186839330229869, 0.81874660839298907}</string>
+		<key>StartPoint</key>
+		<string>{0.64744734713073138, 0.71432883667812808}</string>
+		<key>Type</key>
+		<string>line</string>
+	</dict>
+	<dict>
+		<key>EndPoint</key>
+		<string>{0.50707966804462712, 0.76238493111895123}</string>
+		<key>StartPoint</key>
+		<string>{0.54297489099780516, 0.68308215616891199}</string>
+		<key>Type</key>
+		<string>line</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.54868318602840305</real>
+		<key>Frame</key>
+		<string>{{0.33366495874037566, 0.69605295694459013}, {0.16707485714641093, 0.10292617102423458}}</string>
+		<key>Text</key>
+		<string>&lt;p class="right"&gt;braun&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.36862744362770233</real>
+		<key>Frame</key>
+		<string>{{0.13999420592092224, 0.55459187854775849}, {0.29465034418152186, 0.15320036643912346}}</string>
+		<key>Text</key>
+		<string>&lt;p class="right"&gt;helles Arm­schwingenfeld&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>EndPoint</key>
+		<string>{0.4442638802360469, 0.65740170443678358}</string>
+		<key>StartPoint</key>
+		<string>{0.50315131438683625, 0.53802993235479701}</string>
+		<key>Type</key>
+		<string>line</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.22117613442371925</real>
+		<key>Frame</key>
+		<string>{{0.11187734371064263, 0.078035627252241724}, {0.29211986883200025, 0.25533432705307735}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;&lt;b&gt;&lt;i&gt;kleinschmidti&lt;/i&gt;&lt;/b&gt;&lt;/p&gt;&lt;p&gt;(Großbritannien)&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+</array>
+</plist>

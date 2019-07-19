@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>FontScale</key>
+		<real>0.56969661846947084</real>
+		<key>Frame</key>
+		<string>{{0.37398766115641818, 0.55872503240806037}, {0.19386725846020311, 0.1047367739200956}}</string>
+		<key>Text</key>
+		<string>&lt;p class="right"&gt;plain&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>EndPoint</key>
+		<string>{0.58119442513223374, 0.64021480181771218}</string>
+		<key>StartPoint</key>
+		<string>{0.64336314416966489, 0.64507378670744042}</string>
+		<key>Type</key>
+		<string>line</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.40792707407226725</real>
+		<key>Frame</key>
+		<string>{{0.46160926581940648, 0.67017038541356266}, {0.16390545948422305, 0.14627169836025466}}</string>
+		<key>Text</key>
+		<string>&lt;p class="right"&gt;long ‘horns’&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>EndPoint</key>
+		<string>{0.63716091954012155, 0.7865239136518315}</string>
+		<key>StartPoint</key>
+		<string>{0.69129942333279659, 0.78783146380604774}</string>
+		<key>Type</key>
+		<string>line</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.33571448695914913</real>
+		<key>Frame</key>
+		<string>{{0.6869865266751225, 0.82226508461953718}, {0.24132196418098634, 0.17773491538046304}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;&lt;b&gt;&lt;i&gt;flava&lt;/i&gt;&lt;/b&gt;&lt;/p&gt;&lt;p&gt;(N Europe)&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>EndPoint</key>
+		<string>{0.90025604262119419, 0.57775689843383571}</string>
+		<key>StartPoint</key>
+		<string>{0.85556574370447136, 0.61883684125092153}</string>
+		<key>Type</key>
+		<string>line</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.30944200401974897</real>
+		<key>Frame</key>
+		<string>{{0.86616030287233914, 0.3702346509462287}, {0.103007729326704, 0.19282510181737264}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;yel­low&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.54109588098576911</real>
+		<key>Frame</key>
+		<string>{{0.69314188482946648, 0.13564119216625434}, {0.23516660602664222, 0.11027285187049726}}</string>
+		<key>Text</key>
+		<string>&lt;p class="right"&gt;&lt;b&gt;ad. s. &lt;/b&gt;♂&lt;b&gt; &lt;/b&gt;&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+</array>
+</plist>

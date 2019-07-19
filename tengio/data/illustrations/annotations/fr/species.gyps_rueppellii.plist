@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>EndPoint</key>
+		<string>{0.5900777327494815, 0.69193248188794942}</string>
+		<key>StartPoint</key>
+		<string>{0.56910586975852628, 0.57376528718199982}</string>
+		<key>Type</key>
+		<string>line</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.20460770098276065</real>
+		<key>Frame</key>
+		<string>{{0.43682770547829941, 0.16360926721040694}, {0.18761098046025568, 0.26670146045182591}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;tonalité roussâtre typique du V. fauve absente&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.17470303469748991</real>
+		<key>Frame</key>
+		<string>{{0.48066204670733031, 0.60211859852064331}, {0.25949930007586786, 0.31235389108313416}}</string>
+		<key>Text</key>
+		<string>&lt;p class="right"&gt;couv. sombres avec une nette bande pâle chez le juv. (les ind. plus âgés ont plusieurs bandes distinctes)&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.46547964154402427</real>
+		<key>Frame</key>
+		<string>{{0.62619205958771651, 0.10696180316939231}, {0.18761098046025568, 0.11723213606245701}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;&lt;b&gt;juvénile&lt;/b&gt;&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.15438852419158786</real>
+		<key>Frame</key>
+		<string>{{0.85062388668035949, 0.20228033445813318}, {0.14728338652954703, 0.35345355464422573}}</string>
+		<key>Text</key>
+		<string>&lt;p class="right"&gt;taille inférieure évidente quand il est vu en compagnie de V. fauves&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.31242312423124419</real>
+		<key>Frame</key>
+		<string>{{0.82582617364222166, 0.82533567959776666}, {0.16156085767271747, 0.17466432040223329}}</string>
+		<key>Text</key>
+		<string>&lt;p class="right"&gt;couv. sus-alaires plus sombres que le V. fauve&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+</array>
+</plist>

@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>FontScale</key>
+		<real>0.70555810748736802</real>
+		<key>Frame</key>
+		<string>{{0.089644469593674794, 0.90136318377293279}, {0.47325984836497637, 0.098077938650133478}}</string>
+		<key>Text</key>
+		<string>&lt;p class="center"&gt;huvudsakligen nattaktiv&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>EndPoint</key>
+		<string>{0.67532312850877052, 0.38030010054302299}</string>
+		<key>StartPoint</key>
+		<string>{0.6302531747600173, 0.4441768250317491}</string>
+		<key>Type</key>
+		<string>line</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.59584320808810309</real>
+		<key>Frame</key>
+		<string>{{0.22103741052967979, 0.081408443098012623}, {0.10980719193176833, 0.11613740635274357}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;♀&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.63733406810703952</real>
+		<key>Frame</key>
+		<string>{{0.69072945576859024, 0.29453028235268919}, {0.15577301630696591, 0.10857678608925134}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;mörk&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+</array>
+</plist>

@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>FontScale</key>
+		<real>0.20554319239328392</real>
+		<key>Frame</key>
+		<string>{{0.16124547624912602, 0.051307889505924381}, {0.57387526365051622, 0.33022773154565527}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;long tail; broadly white-edged tertials&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.47856806406033209</real>
+		<key>Frame</key>
+		<string>{{0.43160448934670098, 0.85770356695320127}, {0.34639633875663361, 0.14183157476661321}}</string>
+		<key>Text</key>
+		<string>&lt;p class="right"&gt;’mobile’ crest&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>EndPoint</key>
+		<string>{0.62289624389687237, 0.86902737850428946}</string>
+		<key>StartPoint</key>
+		<string>{0.65393902723909092, 0.92861935433650866}</string>
+		<key>Type</key>
+		<string>line</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.47856806406033209</real>
+		<key>Frame</key>
+		<string>{{0.11724837270258294, 0.58730163625702425}, {0.19017473920732705, 0.14183157476661321}}</string>
+		<key>Text</key>
+		<string>&lt;p class="right"&gt;&lt;b&gt;ad. &lt;/b&gt;♀&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+</array>
+</plist>

@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>FontScale</key>
+		<real>0.2481680508060547</real>
+		<key>Frame</key>
+		<string>{{0.31663634286460873, 0.68656374885500593}, {0.1744348414690983, 0.19070516061830978}}</string>
+		<key>Text</key>
+		<string>&lt;p class="right"&gt;andere Arten dieser Gattung kommen in Afrika südlich der Sahara vor&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.25921673682867363</real>
+		<key>Frame</key>
+		<string>{{0.31308182156674808, 0.16112305228085522}, {0.151067155159088, 0.18257666757290339}}</string>
+		<key>Text</key>
+		<string>&lt;p class="center"&gt;Verhalten unauffällig; hüpft leise in dichtem Buschwerk&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.3978073610023633</real>
+		<key>Frame</key>
+		<string>{{0.66655921729846634, 0.22619757826614131}, {0.098736702718357272, 0.11896946268176362}}</string>
+		<key>Text</key>
+		<string>&lt;p class="center"&gt;Geschlechter gleich gefärbt&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.54978354978356259</real>
+		<key>Frame</key>
+		<string>{{0.52947976169114641, 0.78191632916416154}, {0.1744348414690983, 0.086082837523845643}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;unverwechselbar!&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.27169407674822516</real>
+		<key>Frame</key>
+		<string>{{0.80567923142863274, 0.55157020819259461}, {0.12835771353386444, 0.17419197560629446}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;rostfarbene Flügel im Flug auffällig&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+</array>
+</plist>

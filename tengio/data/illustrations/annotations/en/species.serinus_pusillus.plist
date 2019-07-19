@@ -1,0 +1,128 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>FontScale</key>
+		<real>0.61935093654903883</real>
+		<key>Frame</key>
+		<string>{{0.048585449571121389, 0.12647843131403216}, {0.28164484804065532, 0.071784627579705024}}</string>
+		<key>Text</key>
+		<string>&lt;p class="center"&gt;flock feeding on mountainside&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.63999583336045984</real>
+		<key>Frame</key>
+		<string>{{0.43187382016115555, 0.3699815521537132}, {0.058701850229881711, 0.069469009021303249}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;&lt;b&gt;juv.&lt;/b&gt;&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.56124004453198328</real>
+		<key>Frame</key>
+		<string>{{0.59604693458807945, 0.88832145972071608}, {0.08019612072886434, 0.079217220429075516}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;cinnamon &lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>EndPoint</key>
+		<string>{0.59160732581573861, 0.94799754714617002}</string>
+		<key>StartPoint</key>
+		<string>{0.57776689502497036, 0.91187060281506638}</string>
+		<key>Type</key>
+		<string>line</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.71993057310147124</real>
+		<key>Frame</key>
+		<string>{{0.59808301907061467, 0.19795144538069956}, {0.042989407332132738, 0.061755783102501793}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;&lt;b&gt;ad.&lt;/b&gt;&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.23379220246782564</real>
+		<key>Frame</key>
+		<string>{{0.76678047500802171, 0.61783607652461203}, {0.074434776814548118, 0.19016834544527986}}</string>
+		<key>Text</key>
+		<string>&lt;p class="right"&gt;short and chubby, grey-&lt;/p&gt;&lt;p class="right"&gt;black&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>EndPoint</key>
+		<string>{0.77777166246411911, 0.78017128369142497}</string>
+		<key>StartPoint</key>
+		<string>{0.7669651498043154, 0.75929105661824048}</string>
+		<key>Type</key>
+		<string>line</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.61935093654903883</real>
+		<key>Frame</key>
+		<string>{{0.77192824627503864, 0.83969301772502747}, {0.073310236864424783, 0.071784627579705024}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;deep red&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>EndPoint</key>
+		<string>{0.76728399060394592, 0.88429239227821732}</string>
+		<key>StartPoint</key>
+		<string>{0.75433390578075676, 0.8323875393664697}</string>
+		<key>Type</key>
+		<string>line</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.14785321318717048</real>
+		<key>Frame</key>
+		<string>{{0.84825637935908194, 0.66142075843014603}, {0.14358070223042096, 0.30070280762198642}}</string>
+		<key>Text</key>
+		<string>&lt;p class="center"&gt;sexes usually alike, &lt;/p&gt;&lt;p class="center"&gt;but some ♀♀ have less black on head, neck and breast, and &lt;/p&gt;&lt;p class="center"&gt;have streaked rump&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>EndPoint</key>
+		<string>{0.87969797875957956, 0.5477467935915239}</string>
+		<key>StartPoint</key>
+		<string>{0.90545420781021679, 0.49118308282297146}</string>
+		<key>Type</key>
+		<string>line</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.39989423370283866</real>
+		<key>Frame</key>
+		<string>{{0.79303415485619555, 0.50002784278985413}, {0.081575844524204882, 0.11117908830451505}}</string>
+		<key>Text</key>
+		<string>&lt;p class="right"&gt;buffish-yellow&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.71110596711539986</real>
+		<key>Frame</key>
+		<string>{{0.93690453603906765, 0.11792556753318362}, {0.043469356460990136, 0.062522153346097897}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;&lt;b&gt;ad.&lt;/b&gt;&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+</array>
+</plist>

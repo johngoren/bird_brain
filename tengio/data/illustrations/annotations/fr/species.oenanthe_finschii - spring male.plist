@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>FontScale</key>
+		<real>0.49682643888893824</real>
+		<key>Frame</key>
+		<string>{{0.17291398669394784, 0.32630318816268516}, {0.1211898768964121, 0.049358829087611439}}</string>
+		<key>Text</key>
+		<string>&lt;p class="right"&gt;dos blanc&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>EndPoint</key>
+		<string>{0.29867493075493873, 0.36465532343474394}</string>
+		<key>StartPoint</key>
+		<string>{0.41344633382676566, 0.3671541152653659}</string>
+		<key>Type</key>
+		<string>line</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.41559627500531132</real>
+		<key>Frame</key>
+		<string>{{0.64252475966754308, 0.18649948772967273}, {0.28035334201789841, 0.059006234555428409}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;♂ &lt;b&gt;printemps&lt;/b&gt;&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>EndPoint</key>
+		<string>{0.49973416999034292, 0.70478508063523226}</string>
+		<key>StartPoint</key>
+		<string>{0.59127088479009804, 0.73271111053169813}</string>
+		<key>Type</key>
+		<string>line</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.49682643888893824</real>
+		<key>Frame</key>
+		<string>{{0.37474321925209414, 0.66562371454615776}, {0.15887697276054041, 0.049358829087611439}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;assez pâle&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>EndPoint</key>
+		<string>{0.56624080975056912, 0.8671044060700368}</string>
+		<key>StartPoint</key>
+		<string>{0.61196821389733647, 0.94081675423724265}</string>
+		<key>Type</key>
+		<string>line</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.39592478026615707</real>
+		<key>Frame</key>
+		<string>{{0.57980535851278425, 0.92923119300102808}, {0.15887697276054041, 0.061937955151078215}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;dos blanc&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.28395640972495501</real>
+		<key>Frame</key>
+		<string>{{0.18749838141671546, 0.90437050951498021}, {0.28700479747571989, 0.086361041496048299}}</string>
+		<key>Text</key>
+		<string>&lt;p class="center"&gt;bande terminale de largeur constante&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>EndPoint</key>
+		<string>{0.32357377211499699, 0.88752081915414438}</string>
+		<key>StartPoint</key>
+		<string>{0.32496341642161897, 0.92068370299460067}</string>
+		<key>Type</key>
+		<string>line</string>
+	</dict>
+</array>
+</plist>

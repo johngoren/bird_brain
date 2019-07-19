@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>FontScale</key>
+		<real>0.54406407511096555</real>
+		<key>Frame</key>
+		<string>{{0.12965452579367673, 0.31490071500145878}, {0.47082445502365444, 0.076950670353580539}}</string>
+		<key>Text</key>
+		<string>&lt;p class="right"&gt;svartaktig (i fräsch dräkt)&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.64357612122045382</real>
+		<key>Frame</key>
+		<string>{{0.75011125977132476, 0.012081211081288141}, {0.17284146325032207, 0.065052281951816809}}</string>
+		<key>Text</key>
+		<string>&lt;p class="right"&gt;&lt;b&gt;ad. som.&lt;/b&gt;&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>EndPoint</key>
+		<string>{0.61158665969256265, 0.37217692960123444}</string>
+		<key>StartPoint</key>
+		<string>{0.64063074449581225, 0.32860748785936195}</string>
+		<key>Type</key>
+		<string>line</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.23760523854071017</real>
+		<key>Frame</key>
+		<string>{{0.25560937653039317, 0.57566035008716887}, {0.42247156468060104, 0.17620021996239135}}</string>
+		<key>Text</key>
+		<string>&lt;p class="right"&gt;ovansidan &lt;/p&gt;&lt;p class="right"&gt;kan te sig på-&lt;/p&gt;&lt;p class="right"&gt;fallande brunaktig &lt;/p&gt;&lt;p class="right"&gt;på fåglar i sliten dräkt  &lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.6662882375766529</real>
+		<key>Frame</key>
+		<string>{{0.51208772142025305, 0.7436820389734059}, {0.17284146325032207, 0.06283481072299904}}</string>
+		<key>Text</key>
+		<string>&lt;p class="right"&gt;&lt;b&gt;ad. som.&lt;/b&gt;&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+</array>
+</plist>

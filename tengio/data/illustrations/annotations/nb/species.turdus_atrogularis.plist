@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>EndPoint</key>
+		<string>{0.64679024448990674, 0.18422693156743242}</string>
+		<key>StartPoint</key>
+		<string>{0.63834804760059283, 0.22003614735039381}</string>
+		<key>Type</key>
+		<string>line</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.26737338808552247</real>
+		<key>Frame</key>
+		<string>{{0.62034851365089805, 0.0318077247854016}, {0.26508784616951597, 0.14578626932211441}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;﻿mest hvitaktig, aldri tydelig flekket&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>EndPoint</key>
+		<string>{0.8910575416556723, 0.23901719232870702}</string>
+		<key>StartPoint</key>
+		<string>{0.82480196464390199, 0.19758243025567632}</string>
+		<key>Type</key>
+		<string>line</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.29638273045451474</real>
+		<key>Frame</key>
+		<string>{{0.7877051933621001, 0.22881196389202491}, {0.19713079086216653, 0.13151700406169339}}</string>
+		<key>Text</key>
+		<string>&lt;p class="right"&gt;﻿intet rødbrunt i stjerten&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.21534548537511375</real>
+		<key>Frame</key>
+		<string>{{0.051041333401659811, 0.12338351372860457}, {0.3010129918559229, 0.18100852542649506}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;﻿nokså dempet i fargene, rød-brunt bare på vingeundersiden&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.52916620687242</real>
+		<key>Frame</key>
+		<string>{{0, 0.022098475767310537}, {0.28138609318739533, 0.073661863245927148}}</string>
+		<key>Text</key>
+		<string>&lt;p class="right"&gt;&lt;b&gt;1. vinter &lt;/b&gt;♀ &lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.19201604144841325</real>
+		<key>Frame</key>
+		<string>{{0.048587423141960885, 0.36646745122373814}, {0.26093245761423656, 0.20300058511243885}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;﻿øyenbryn-stripen kan være tyde-ligere enn vist&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.52191017723252686</real>
+		<key>Frame</key>
+		<string>{{0.78525128310240822, 0.54172114858449993}, {0.16756077283338497, 0.07468597177333007}}</string>
+		<key>Text</key>
+		<string>&lt;p class="right"&gt;&lt;b&gt;ad.&lt;/b&gt; ♂&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.23928398502168091</real>
+		<key>Frame</key>
+		<string>{{0.46918764165368709, 0.69525992937481884}, {0.14396273523544054, 0.16290003178219545}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;&lt;b&gt;1. vinter &lt;/b&gt;&lt;/p&gt;&lt;p&gt;♂ &lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+</array>
+</plist>

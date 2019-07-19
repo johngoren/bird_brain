@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>FontScale</key>
+		<real>0.28070075247869686</real>
+		<key>Frame</key>
+		<string>{{0, 0.49763053426906551}, {0.29548368962487176, 0.22867810601748495}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;toujours blanc&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>EndPoint</key>
+		<string>{0.1287380612430632, 0.49658889288902719}</string>
+		<key>StartPoint</key>
+		<string>{0.094381371703176287, 0.5989392753928714}</string>
+		<key>Type</key>
+		<string>line</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.16163930253277323</real>
+		<key>Frame</key>
+		<string>{{0.0027635329301232358, 0}, {0.51153293314954762, 0.39711948411492526}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;projection des pattes très courte ou absente, sauf à l’envol&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+</array>
+</plist>

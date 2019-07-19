@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>FontScale</key>
+		<real>0.32542157427453478</real>
+		<key>Frame</key>
+		<string>{{0.038414235460433134, 0.077794922673927014}, {0.19048477461528771, 0.15059869510812995}}</string>
+		<key>Text</key>
+		<string>&lt;p class="center"&gt;préfère s’éloigner à couvert que s’envoler&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.58181473831239439</real>
+		<key>Frame</key>
+		<string>{{0.39474605000971097, 0.085452432743582399}, {0.051156620121713174, 0.084233109301992931}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;♀&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.37552860280775358</real>
+		<key>Frame</key>
+		<string>{{0.4380271316414055, 0.6516048637969617}, {0.050889606964512397, 0.13050421214084537}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;gorge pâle&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.45131373265354063</real>
+		<key>Frame</key>
+		<string>{{0.8745121900701035, 0.85848888661394029}, {0.0864369824493747, 0.10858979219983159}}</string>
+		<key>Text</key>
+		<string>&lt;p class="right"&gt;longues ailes&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.68570950258438479</real>
+		<key>Frame</key>
+		<string>{{0.66654951820073127, 0.095899607898978265}, {0.046746596364074633, 0.071470592519238554}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;♂&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.27825929427482865</real>
+		<key>Frame</key>
+		<string>{{0.74737639483684803, 0.57347069637413495}, {0.072229780020488993, 0.17612372867363951}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;centre de la gorge noir&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>EndPoint</key>
+		<string>{0.75682394462439473, 0.76500769234120425}</string>
+		<key>StartPoint</key>
+		<string>{0.73795912055688673, 0.79869518253671345}</string>
+		<key>Type</key>
+		<string>line</string>
+	</dict>
+</array>
+</plist>

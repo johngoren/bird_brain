@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>EndPoint</key>
+		<string>{0.59188416968830315, 0.76759431466944816}</string>
+		<key>StartPoint</key>
+		<string>{0.60755381231326799, 0.70347638145252711}</string>
+		<key>Type</key>
+		<string>line</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.28228199771714052</real>
+		<key>Frame</key>
+		<string>{{0.5106231863508266, 0.74759651875188349}, {0.20305134576081291, 0.21053733863869378}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;zwei deutliche beigeweiße Flügelbinden&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.36760977360945951</real>
+		<key>Frame</key>
+		<string>{{0.16744708278484133, 0.11816621733716809}, {0.33122338546702895, 0.161668445214187}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;JK etwas stärker olivbraun getönt als ad. ♀&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.58181473831239439</real>
+		<key>Frame</key>
+		<string>{{0.8050663087961093, 0.1181662173371615}, {0.11720617109210155, 0.10214746487406838}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;&lt;b&gt;JK&lt;/b&gt;&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+</array>
+</plist>

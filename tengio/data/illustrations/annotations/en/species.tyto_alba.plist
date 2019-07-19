@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>FontScale</key>
+		<real>0.19728155339805989</real>
+		<key>Frame</key>
+		<string>{{0.86846229356773141, 0.45373244292381337}, {0.056012518125650765, 0.18654307387517019}}</string>
+		<key>Text</key>
+		<string>&lt;p class="right"&gt;lacks&lt;/p&gt;&lt;p class="right"&gt;dark&lt;/p&gt;&lt;p class="right"&gt;’com-&lt;/p&gt;&lt;p class="right"&gt;ma’&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>EndPoint</key>
+		<string>{0.89628788114153624, 0.67555570203287529}</string>
+		<key>StartPoint</key>
+		<string>{0.91121763751601614, 0.65161298905588516}</string>
+		<key>Type</key>
+		<string>line</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.30193164933130945</real>
+		<key>Frame</key>
+		<string>{{0.17278681844714761, 0.047358317524677965}, {0.080658026100937086, 0.12188688225049353}}</string>
+		<key>Text</key>
+		<string>&lt;p class="right"&gt;young, &lt;/p&gt;&lt;p class="right"&gt;4 weeks old&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.20215035631920344</real>
+		<key>Frame</key>
+		<string>{{0.40878622814988969, 0.4050515120090965}, {0.081778276463450109, 0.18205017324645015}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;&lt;b&gt;&lt;i&gt;alba&lt;/i&gt;&lt;/b&gt; et al.&lt;/p&gt;&lt;p&gt;’pale-bellied’&lt;/p&gt;&lt;p&gt;(e.g. W and &lt;/p&gt;&lt;p&gt;S Europe, &lt;/p&gt;&lt;p&gt;N Africa)&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.20215035631920344</real>
+		<key>Frame</key>
+		<string>{{0.63769071889005069, 0.28932167325766761}, {0.081778276463450109, 0.18205017324645015}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;&lt;b&gt;&lt;i&gt;guttata&lt;/i&gt;&lt;/b&gt; et al.&lt;/p&gt;&lt;p&gt;’dark-bellied’&lt;/p&gt;&lt;p&gt;(e.g. N, E &amp;amp; C Europe)&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.21561969439728668</real>
+		<key>Frame</key>
+		<string>{{0.63843755246505907, 0.49911855390744714}, {0.048544182375563821, 0.17067785710675656}}</string>
+		<key>Text</key>
+		<string>&lt;p class="right"&gt;pale&lt;/p&gt;&lt;p class="right"&gt;heart-shaped&lt;/p&gt;&lt;p class="right"&gt;face&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.45115452930739425</real>
+		<key>Frame</key>
+		<string>{{0.67902846207095569, 0.033376642473096817}, {0.25888935397258206, 0.081571845119763606}}</string>
+		<key>Text</key>
+		<string>&lt;p class="center"&gt;very pale and ’ghost-like’ appearance; &lt;/p&gt;&lt;p class="center"&gt;legs often dangling when hunting&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+</array>
+</plist>

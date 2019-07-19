@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>FontScale</key>
+		<real>0.38484848484850614</real>
+		<key>Frame</key>
+		<string>{{0.58073743845384451, 0.5157619738442305}, {0.37472470000701319, 0.083554635953308587}}</string>
+		<key>Text</key>
+		<string>&lt;p class="right"&gt;undeutlicher Augenring&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>EndPoint</key>
+		<string>{0.82059542049656553, 0.50784960301532034}</string>
+		<key>StartPoint</key>
+		<string>{0.84572895587292174, 0.53367558140088844}</string>
+		<key>Type</key>
+		<string>line</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.13517828632250173</real>
+		<key>Frame</key>
+		<string>{{0.76018674774988093, 0.17363105920209226}, {0.19371550016549693, 0.23787751660043546}}</string>
+		<key>Text</key>
+		<string>&lt;p class="right"&gt;Brust-fleckung blasser als bei anderen &lt;i&gt;Catharus&lt;/i&gt;-Arten&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.66145833333348381</real>
+		<key>Frame</key>
+		<string>{{0.68046634653747473, 0.13574662767323886}, {0.17141950647364007, 0.048613606372825711}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;seidenweiß&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>EndPoint</key>
+		<string>{0.70286464952310002, 0.19793786238848241}</string>
+		<key>StartPoint</key>
+		<string>{0.67288078275832441, 0.22680219117235687}</string>
+		<key>Type</key>
+		<string>line</string>
+	</dict>
+	<dict>
+		<key>EndPoint</key>
+		<string>{0.60938553549173624, 0.39694981347728536}</string>
+		<key>StartPoint</key>
+		<string>{0.54489196285666686, 0.42533940001142145}</string>
+		<key>Type</key>
+		<string>line</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.23413012487438928</real>
+		<key>Frame</key>
+		<string>{{0.37127835824203476, 0.39056504909578083}, {0.24119375176960547, 0.13734189509338424}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;ganze Oberseite vergleichsweise intensiv rötlich gefärbt&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.27593699076589795</real>
+		<key>Frame</key>
+		<string>{{0.02323033618814823, 0.55798238458731075}, {0.12081734549336796, 0.11653339756821524}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;Wilsondrossel&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.34139784946235391</real>
+		<key>Frame</key>
+		<string>{{0.4340387068134049, 0.55222217862385503}, {0.20356693857459085, 0.094188862347374475}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;Sprosser&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.089784376104628735</real>
+		<key>Frame</key>
+		<string>{{0.52580479098505362, 0.59460083678352271}, {0.42965734747580259, 0.35814555319989089}}</string>
+		<key>Text</key>
+		<string>&lt;p class="right"&gt;Wilsondrossel kann in Europa leicht mit Sprosser verwechselt werden, besonders bei flüchtiger Betrachtung&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+</array>
+</plist>

@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>FontScale</key>
+		<real>0.72450694260192805</real>
+		<key>Frame</key>
+		<string>{{0.89969430879275003, 0.024094068147607027}, {0.090093334725896132, 0.047446457119883559}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;&lt;b&gt;ad.&lt;/b&gt;&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.28555339777883071</real>
+		<key>Frame</key>
+		<string>{{0.3287448866479934, 0.76741710968050991}, {0.14553533588933737, 0.12038129419088532}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;﻿mørke svingfjær, ubåndet&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>EndPoint</key>
+		<string>{0.37988039810478091, 0.89622237632912405}</string>
+		<key>StartPoint</key>
+		<string>{0.41742112282709409, 0.93584109164636464}</string>
+		<key>Type</key>
+		<string>line</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.29376345543873622</real>
+		<key>Frame</key>
+		<string>{{0.2568605639628625, 0.51346797335574601}, {0.18439111038617617, 0.11701689556272669}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;﻿grunn kløft (jf. nattravn)&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>EndPoint</key>
+		<string>{0.34895929745310356, 0.63876613960539441}</string>
+		<key>StartPoint</key>
+		<string>{0.38649968833161219, 0.67838485756374567}</string>
+		<key>Type</key>
+		<string>line</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.29376345543873622</real>
+		<key>Frame</key>
+		<string>{{0.51178871927637726, 0.49562792683172086}, {0.12079914051492731, 0.11701689556272669}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;﻿hvit vinge-bakkant&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>EndPoint</key>
+		<string>{0.59745255444713341, 0.55323392797602577}</string>
+		<key>StartPoint</key>
+		<string>{0.63499294532564232, 0.59285264593437648}</string>
+		<key>Type</key>
+		<string>line</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.55294064707735235</real>
+		<key>Frame</key>
+		<string>{{0.59866781978471162, 0.74053713250478947}, {0.083163001745160781, 0.062168132813016856}}</string>
+		<key>Text</key>
+		<string>&lt;p class="right"&gt;&lt;b&gt;juv.&lt;/b&gt;&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.25150049888709802</real>
+		<key>Frame</key>
+		<string>{{0.62867188400222129, 0.79094656812578157}, {0.11065504554309416, 0.13668079283076034}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;﻿lyst dekkerfelt&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>EndPoint</key>
+		<string>{0.6201089417790604, 0.9053819447468523}</string>
+		<key>StartPoint</key>
+		<string>{0.565823558358028, 0.84809144749941301}</string>
+		<key>Type</key>
+		<string>line</string>
+	</dict>
+</array>
+</plist>

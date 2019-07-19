@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>EndPoint</key>
+		<string>{0.75045065192869598, 0.91595724206955731}</string>
+		<key>StartPoint</key>
+		<string>{0.71411361577375043, 0.86884599248146011}</string>
+		<key>Type</key>
+		<string>line</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.2848483092347367</real>
+		<key>Frame</key>
+		<string>{{0.76111888249732729, 0.73437386835271923}, {0.20857808646171144, 0.20936379304134223}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;﻿grovt nebb med buet nebbrygg&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.34814790548682467</real>
+		<key>Frame</key>
+		<string>{{0.66273827429787735, 0.16408106076376511}, {0.22358005908020256, 0.17129766263969259}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;&lt;b&gt;sommer&lt;/b&gt;&lt;/p&gt;&lt;p&gt;(﻿slitt)&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.19677693299697782</real>
+		<key>Frame</key>
+		<string>{{0.078614641527668616, 0.64454066321920889}, {0.35531708696185532, 0.30306866538931981}}</string>
+		<key>Text</key>
+		<string>&lt;p class="center"&gt;﻿kjønn og alders-grupper like; anonymt utseende med diffus ansiktstegning&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+</array>
+</plist>

@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>EndPoint</key>
+		<string>{0.58961766888053257, 0.25309510199617213}</string>
+		<key>StartPoint</key>
+		<string>{0.64816518620122499, 0.33038568712267508}</string>
+		<key>Type</key>
+		<string>line</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.28484830923473675</real>
+		<key>Frame</key>
+		<string>{{0.45566907323734551, 0.11525776400878264}, {0.14364348242816818, 0.12847646106622224}}</string>
+		<key>Text</key>
+		<string>&lt;p class="right"&gt;lacks brown tinge&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>EndPoint</key>
+		<string>{0.92028431895834573, 0.54312868592968155}</string>
+		<key>StartPoint</key>
+		<string>{0.88069745757967499, 0.59903000803867723}</string>
+		<key>Type</key>
+		<string>line</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.26057963580405574</real>
+		<key>Frame</key>
+		<string>{{0.8529060084749438, 0.39760098688722573}, {0.10615157284768841, 0.14044191365243397}}</string>
+		<key>Text</key>
+		<string>&lt;p class="right"&gt;very large bib&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>EndPoint</key>
+		<string>{0.85136415874657301, 0.80153879247720972}</string>
+		<key>StartPoint</key>
+		<string>{0.83313747723021669, 0.76498162458679309}</string>
+		<key>Type</key>
+		<string>line</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.28405239296457213</real>
+		<key>Frame</key>
+		<string>{{0.81922844376918258, 0.74915433530022235}, {0.1690962493561731, 0.12883645277278227}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;dark brown-&lt;/p&gt;&lt;p&gt;grey&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.18354715177406106</real>
+		<key>Frame</key>
+		<string>{{0.55988603650222168, 0.74074358719680089}, {0.22763285196860961, 0.19938365895333762}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;dark cap ex­-&lt;/p&gt;&lt;p&gt;tends far down, white cheek forms nar­-&lt;/p&gt;&lt;p&gt;row wedge&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>EndPoint</key>
+		<string>{0.64638262733601415, 0.75282197790084948}</string>
+		<key>StartPoint</key>
+		<string>{0.69692862757024643, 0.67743543566216491}</string>
+		<key>Type</key>
+		<string>line</string>
+	</dict>
+</array>
+</plist>

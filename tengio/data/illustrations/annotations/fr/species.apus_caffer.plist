@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>FontScale</key>
+		<real>0.26779124934106391</real>
+		<key>Frame</key>
+		<string>{{0.013382621758109468, 0.50221841819232416}, {0.26644768351134329, 0.16722895411018912}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;pointes des secondaires pâles&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>EndPoint</key>
+		<string>{0.33971619110019186, 0.55457159596145822}</string>
+		<key>StartPoint</key>
+		<string>{0.22700966582228188, 0.57912148939511066}</string>
+		<key>Type</key>
+		<string>line</string>
+	</dict>
+	<dict>
+		<key>EndPoint</key>
+		<string>{0.13103787552498386, 0.3496014292752353}</string>
+		<key>StartPoint</key>
+		<string>{0.11519834623822708, 0.39336644029466655}</string>
+		<key>Type</key>
+		<string>line</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.39076923076923381</real>
+		<key>Frame</key>
+		<string>{{0.089519274436024476, 0.22691213264350085}, {0.30580351033711251, 0.11460075927424533}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;profondément fourchue&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.45578327180887657</real>
+		<key>Frame</key>
+		<string>{{0.010347853094187733, 0.025479259611457691}, {0.2673377201029708, 0.098253826581739048}}</string>
+		<key>Text</key>
+		<string>&lt;p class="right"&gt;ailes pointues&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>EndPoint</key>
+		<string>{0.38517465141575152, 0.077587806503172596}</string>
+		<key>StartPoint</key>
+		<string>{0.2909274818381743, 0.099431551620611305}</string>
+		<key>Type</key>
+		<string>line</string>
+	</dict>
+	<dict>
+		<key>EndPoint</key>
+		<string>{0.67316042112765695, 0.44796659679185791}</string>
+		<key>StartPoint</key>
+		<string>{0.61108662363159671, 0.48195094415313222}</string>
+		<key>Type</key>
+		<string>line</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.25786802030456935</real>
+		<key>Frame</key>
+		<string>{{0.68773583119107973, 0.28773868948905912}, {0.24655185793258763, 0.17366422751558797}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;nette tache blanche à la gorge&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.35723582639882784</real>
+		<key>Frame</key>
+		<string>{{0.54198852463621494, 0}, {0.43071592086363963, 0.12535822904047322}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;ne fréquente pas les zones urbanisées&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>EndPoint</key>
+		<string>{0.72484402507055878, 0.82596556314207115}</string>
+		<key>StartPoint</key>
+		<string>{0.67903449945645855, 0.85104549853708611}</string>
+		<key>Type</key>
+		<string>line</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.35171377459749553</real>
+		<key>Frame</key>
+		<string>{{0.45323494094309724, 0.8101104350338254}, {0.20982081933491231, 0.12732640510999729}}</string>
+		<key>Text</key>
+		<string>&lt;p class="right"&gt;étroit croupion blanc&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+</array>
+</plist>

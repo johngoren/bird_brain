@@ -1,0 +1,126 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>FontScale</key>
+		<real>0.24532064665801445</real>
+		<key>Frame</key>
+		<string>{{0.67651521338238929, 0.58697779113136517}, {0.2745604418350403, 0.13550610804986538}}</string>
+		<key>Text</key>
+		<string>&lt;p class="center"&gt;kann im Flug mit Neuntöter-♀ verwechselt werden&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.33176737404827472</real>
+		<key>Frame</key>
+		<string>{{0.053496314990859745, 0.049050091177186179}, {0.20207659998043578, 0.10019805638895257}}</string>
+		<key>Text</key>
+		<string>&lt;p class="right"&gt;lang, spärlich gebändert&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.45248835453758762</real>
+		<key>Frame</key>
+		<string>{{0.81634251589561913, 0.075782287683677757}, {0.15558180240527966, 0.073465859882461002}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;gebändert&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>EndPoint</key>
+		<string>{0.80568086479632428, 0.15201482308628733}</string>
+		<key>StartPoint</key>
+		<string>{0.77488250856288732, 0.18176248557975419}</string>
+		<key>Type</key>
+		<string>line</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.66655591756198318</real>
+		<key>Frame</key>
+		<string>{{0.51625239461138983, 0.3663627042693422}, {0.18698748843407254, 0.04987195399073556}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;dunkles Band&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>EndPoint</key>
+		<string>{0.63420601266417154, 0.38157087622023061}</string>
+		<key>StartPoint</key>
+		<string>{0.67204180110926248, 0.34502603705672841}</string>
+		<key>Type</key>
+		<string>line</string>
+	</dict>
+	<dict>
+		<key>EndPoint</key>
+		<string>{0.90526888328804567, 0.4829383620822717}</string>
+		<key>StartPoint</key>
+		<string>{0.90955715682325666, 0.44296460634674711}</string>
+		<key>Type</key>
+		<string>line</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.58749809504173134</real>
+		<key>Frame</key>
+		<string>{{0.72762943667120172, 0.46173488431937831}, {0.2357677617783801, 0.056583070368155769}}</string>
+		<key>Text</key>
+		<string>&lt;p class="right"&gt;kurz, spitz&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>EndPoint</key>
+		<string>{0.26777813899665565, 0.13296174487341209}</string>
+		<key>StartPoint</key>
+		<string>{0.33026452277783319, 0.13436786924811664}</string>
+		<key>Type</key>
+		<string>line</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.51252159118874874</real>
+		<key>Frame</key>
+		<string>{{0.2404778172744518, 0.0040247411141979507}, {0.71059783794297204, 0.064860576850627544}}</string>
+		<key>Text</key>
+		<string>&lt;p class="center"&gt;Geschlechter gleich gefärbt&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.31815340970121386</real>
+		<key>Frame</key>
+		<string>{{0.40704066471359501, 0.48249220323802028}, {0.23928983349900723, 0.10448558789334553}}</string>
+		<key>Text</key>
+		<string>&lt;p class="center"&gt;sucht häufig am Boden nach Ameisen&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>EndPoint</key>
+		<string>{0.11182403160488656, 0.62458578458679659}</string>
+		<key>StartPoint</key>
+		<string>{0.048423983110427837, 0.70160538244245074}</string>
+		<key>Type</key>
+		<string>line</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.3686264069012461</real>
+		<key>Frame</key>
+		<string>{{0.024288622959114183, 0.68246139478546541}, {0.17052982223366348, 0.090179231413036839}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;Kehle ockergelb&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+</array>
+</plist>

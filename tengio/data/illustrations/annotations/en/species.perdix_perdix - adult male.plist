@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>FontScale</key>
+		<real>0.6392477602040566</real>
+		<key>Frame</key>
+		<string>{{0.13092106950020468, 0.045766600892167608}, {0.088791152905511844, 0.060939406477901852}}</string>
+		<key>Text</key>
+		<string>&lt;p class="right"&gt;&lt;b&gt;ad.&lt;/b&gt; ♂ &lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.34908873968290405</real>
+		<key>Frame</key>
+		<string>{{0.46707356431025221, 0.19113743772646671}, {0.17183649240205998, 0.11159162319170933}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;dark brown belly patch&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>EndPoint</key>
+		<string>{0.50971295892652213, 0.30958455242143612}</string>
+		<key>StartPoint</key>
+		<string>{0.47369847182954133, 0.33333623510905663}</string>
+		<key>Type</key>
+		<string>line</string>
+	</dict>
+	<dict>
+		<key>EndPoint</key>
+		<string>{0.58059277831229028, 0.82717046401830485}</string>
+		<key>StartPoint</key>
+		<string>{0.5304132129400555, 0.85161700410104268}</string>
+		<key>Type</key>
+		<string>line</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.54856836736402392</real>
+		<key>Frame</key>
+		<string>{{0.58887533286748295, 0.77385493318707221}, {0.18260146364712665, 0.071012806090791192}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;orange-&lt;/p&gt;&lt;p&gt;brown&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.24812422949704091</real>
+		<key>Frame</key>
+		<string>{{0.46605431179869256, 0}, {0.49311826950543836, 0.15699949649466988}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;(♀ is similar, only &lt;/p&gt;&lt;p&gt;somewhat duller and has diffuse supercilium and smaller, or no, belly patch)&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+</array>
+</plist>

@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>EndPoint</key>
+		<string>{0.47896861984456018, 0.78669522338252373}</string>
+		<key>StartPoint</key>
+		<string>{0.54217790101277674, 0.70695956360957846}</string>
+		<key>Type</key>
+		<string>line</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.40565822496005871</real>
+		<key>Frame</key>
+		<string>{{0.35437499738437406, 0.76434876870263901}, {0.28120664456726291, 0.13230197630279755}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;slightly darker than in Cuckoo&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>EndPoint</key>
+		<string>{0.70911579941897462, 0.51276286092277035}</string>
+		<key>StartPoint</key>
+		<string>{0.75142122382289867, 0.46725728126104366}</string>
+		<key>Type</key>
+		<string>line</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.13213399743543389</real>
+		<key>Frame</key>
+		<string>{{0.71305863487961407, 0.30475560974941396}, {0.24512260610509165, 0.4061739287947122}}</string>
+		<key>Text</key>
+		<string>&lt;p class="right"&gt;barring averages sparser, broader and more widely spaced than in Cuckoo&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.63965123183160222</real>
+		<key>Frame</key>
+		<string>{{0.86259766912029223, 0.72232123684585681}, {0.13558942931582274, 0.083904137434429094}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;&lt;b&gt;ad. &lt;/b&gt;♂&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.24571586511888788</real>
+		<key>Frame</key>
+		<string>{{0.34873427413051905, 0.033925948128851705}, {0.61178533340417729, 0.2184205111856862}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;much overlap with Cuckoo but a strong buff colour on the vent and undertail coverts, especially if also barred, is characteristic of Oriental  &lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>EndPoint</key>
+		<string>{0.37994320303245677, 0.37309311107144877}</string>
+		<key>StartPoint</key>
+		<string>{0.46349588742197906, 0.26436965595810247}</string>
+		<key>Type</key>
+		<string>line</string>
+	</dict>
+</array>
+</plist>

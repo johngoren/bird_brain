@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>FontScale</key>
+		<real>0.79999348963631489</real>
+		<key>Frame</key>
+		<string>{{0.37683717434230851, 0.5667528394625011}, {0.11357985255183319, 0.066957998222239745}}</string>
+		<key>Text</key>
+		<string>&lt;p class="right"&gt;&lt;b&gt;ad.&lt;/b&gt;&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.31290421927933643</real>
+		<key>Frame</key>
+		<string>{{0.66747175889181543, 0.48592993874063206}, {0.098518374635741604, 0.17118964640439135}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;face rouge&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>EndPoint</key>
+		<string>{0.69465323692101766, 0.67535385886732002}</string>
+		<key>StartPoint</key>
+		<string>{0.7292517445933544, 0.73561670944187096}</string>
+		<key>Type</key>
+		<string>line</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.20839422835223978</real>
+		<key>Frame</key>
+		<string>{{0.066122528321440846, 0.40441176989465766}, {0.19339536763197901, 0.257041488530726}}</string>
+		<key>Text</key>
+		<string>&lt;p class="right"&gt;se nourrit dans les zones humides&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+</array>
+</plist>

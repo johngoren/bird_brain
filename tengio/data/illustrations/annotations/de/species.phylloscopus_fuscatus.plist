@@ -1,0 +1,126 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>EndPoint</key>
+		<string>{0.56569217106453462, 0.82190532688290163}</string>
+		<key>StartPoint</key>
+		<string>{0.60340169159355772, 0.85271894908404355}</string>
+		<key>Type</key>
+		<string>line</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.31927141927545838</real>
+		<key>Frame</key>
+		<string>{{0.3880376125135841, 0.62300187536327167}, {0.16759759501710381, 0.097278280745501461}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;Vorsicht vor Verwechslung mit Zaunkönig!&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>EndPoint</key>
+		<string>{0.80916433072979244, 0.37270608368744884}</string>
+		<key>StartPoint</key>
+		<string>{0.81142644384231621, 0.41000034865312152}</string>
+		<key>Type</key>
+		<string>line</string>
+	</dict>
+	<dict>
+		<key>EndPoint</key>
+		<string>{0.54406793850427826, 0.47749685442704304}</string>
+		<key>StartPoint</key>
+		<string>{0.5407738579836705, 0.50815763127995517}</string>
+		<key>Type</key>
+		<string>line</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.31663931482426949</real>
+		<key>Frame</key>
+		<string>{{0.22114683635751095, 0.087903287513860506}, {0.22435759346244535, 0.098086918788115762}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;Beine nicht auffallend hell oder kräftig&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.32987012987016351</real>
+		<key>Frame</key>
+		<string>{{0.66864387479553256, 0.18599020630197699}, {0.16460504992827016, 0.094152734503476276}}</string>
+		<key>Text</key>
+		<string>&lt;p class="right"&gt;Ohrdecken recht einfarbig&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>EndPoint</key>
+		<string>{0.74928738795330474, 0.29061795385231848}</string>
+		<key>StartPoint</key>
+		<string>{0.71836159069405525, 0.37254306049821267}</string>
+		<key>Type</key>
+		<string>line</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.41336855006212048</real>
+		<key>Frame</key>
+		<string>{{0.4338945909242008, 0.49553703489759093}, {0.20039401989457661, 0.075134343804397707}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;Mantel und Flügel gleich gefärbt&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.35474860335193958</real>
+		<key>Frame</key>
+		<string>{{0.7685293702246484, 0.28161025614835655}, {0.08878696632494619, 0.087549815460388147}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;schlank, spitz&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.30184194890071792</real>
+		<key>Frame</key>
+		<string>{{0.1316227287182111, 0.29469381795596411}, {0.21392154350894105, 0.10289548842168528}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;Unterschwanzdecken wie Flanken gefärbt&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.26129739643554828</real>
+		<key>Frame</key>
+		<string>{{0.63114472249230802, 0.43610633412909838}, {0.2120626097777194, 0.11886140153697845}}</string>
+		<key>Text</key>
+		<string>&lt;p class="right"&gt;Überaugenstreif vor dem Auge scharf begrenzt&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.19782175328023599</real>
+		<key>Frame</key>
+		<string>{{0.70399153855837038, 0.0094028843901051637}, {0.29600846144162968, 0.15700080624750842}}</string>
+		<key>Text</key>
+		<string>&lt;p class="center"&gt;Beide Arten zucken nervös mit den Flügeln und schlagen den Schwanz (im Gegensatz zum Zilpzalp) aufwärts&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>EndPoint</key>
+		<string>{0.44550442981995803, 0.17018599729601439}</string>
+		<key>StartPoint</key>
+		<string>{0.49816839022431481, 0.17018599729601439}</string>
+		<key>Type</key>
+		<string>line</string>
+	</dict>
+</array>
+</plist>

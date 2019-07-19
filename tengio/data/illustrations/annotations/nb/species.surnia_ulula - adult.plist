@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>FontScale</key>
+		<real>0.2066191090727951</real>
+		<key>Frame</key>
+		<string>{{0, 0.35783371015031218}, {0.20025168244218089, 0.086571789410718261}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;﻿store lyse skulderfelt&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>EndPoint</key>
+		<string>{0.82559823599916449, 0.30071681051363408}</string>
+		<key>StartPoint</key>
+		<string>{0.76955851514309759, 0.32228411507932453}</string>
+		<key>Type</key>
+		<string>line</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.19583308846892861</real>
+		<key>Frame</key>
+		<string>{{0.78452635226140099, 0.20404192093097923}, {0.18513058685856781, 0.091339957607410691}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;﻿fint tverrvatret som en hauk&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.626666007939784</real>
+		<key>Frame</key>
+		<string>{{0.37921085685548833, 0.068483802802143709}, {0.10877855744508177, 0.028543731066068983}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;﻿lang&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>EndPoint</key>
+		<string>{0.40037262255886236, 0.10186225251195062}</string>
+		<key>StartPoint</key>
+		<string>{0.34433290084886042, 0.12342951125902717}</string>
+		<key>Type</key>
+		<string>line</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.57207286503441257</real>
+		<key>Frame</key>
+		<string>{{0.43717153975349116, 0.62180536866574143}, {0.29643531570328868, 0.031267670767436667}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;﻿bistert oppsyn&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.36718171487053541</real>
+		<key>Frame</key>
+		<string>{{0.24865770005344751, 0.7439821303422689}, {0.62355016274686426, 0.048715350668230191}}</string>
+		<key>Text</key>
+		<string>&lt;p class="center"&gt;﻿hauklignende silhuett i flukt, men har proporsjonalt større hode&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+</array>
+</plist>

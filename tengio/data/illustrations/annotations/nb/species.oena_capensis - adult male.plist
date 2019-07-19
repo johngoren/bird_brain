@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>FontScale</key>
+		<real>0.17627945343040563</real>
+		<key>Frame</key>
+		<string>{{0.035711938628393565, 0.3721652704695923}, {0.34181460311642919, 0.25320414642302536}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;maskedua er rene dvergen – sammen-lign med en gråspurv!&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.68800828655813884</real>
+		<key>Frame</key>
+		<string>{{0.83426039206441382, 0.085260482821534797}, {0.13914750629903497, 0.064875219397508718}}</string>
+		<key>Text</key>
+		<string>&lt;p class="right"&gt;&lt;b&gt;ad.&lt;/b&gt; ♂&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.42823023505346386</real>
+		<key>Frame</key>
+		<string>{{0.26749519262674609, 0.84435231347127182}, {0.20162082142002696, 0.10423058645588332}}</string>
+		<key>Text</key>
+		<string>&lt;p class="right"&gt;rødbrunt felt&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>EndPoint</key>
+		<string>{0.48322273595940624, 0.92088046677423285}</string>
+		<key>StartPoint</key>
+		<string>{0.57426008269577922, 0.92588411218571809}</string>
+		<key>Type</key>
+		<string>line</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.68800828655813884</real>
+		<key>Frame</key>
+		<string>{{0.60379706372151765, 0.91137516875488778}, {0.13493553769939762, 0.064875219397508718}}</string>
+		<key>Text</key>
+		<string>&lt;p class="right"&gt;&lt;b&gt;ad.&lt;/b&gt; ♂&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+</array>
+</plist>

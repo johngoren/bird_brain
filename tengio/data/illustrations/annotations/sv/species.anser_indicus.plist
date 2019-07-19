@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>FontScale</key>
+		<real>0.68328589450856458</real>
+		<key>Frame</key>
+		<string>{{0.88161197863825091, 0.53568839385054667}, {0.10681736090305279, 0.070391612035106021}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;&lt;b&gt;ad.&lt;/b&gt;&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.68328826918933205</real>
+		<key>Frame</key>
+		<string>{{0.25959159986315888, 0.0053951225629240837}, {0.10681736090305279, 0.070391367398084118}}</string>
+		<key>Text</key>
+		<string>&lt;p class="right"&gt;&lt;b&gt;ad.&lt;/b&gt;&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.31237269662314471</real>
+		<key>Frame</key>
+		<string>{{0.59843642470200042, 0.19561603301381153}, {0.16080653517435076, 0.15397503083738964}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;mycket ljus dräkt&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>EndPoint</key>
+		<string>{0.40759944202942211, 0.75688786947644282}</string>
+		<key>StartPoint</key>
+		<string>{0.36937784927232864, 0.71021242796198947}</string>
+		<key>Type</key>
+		<string>line</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.30411277640176576</real>
+		<key>Frame</key>
+		<string>{{0.35725154398166964, 0.74475651994243208}, {0.13492943474212316, 0.1581571026524882}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;saknar tvär­stri­porna&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.61935288762321228</real>
+		<key>Frame</key>
+		<string>{{0.078838381058744855, 0.52076402724270998}, {0.14070838067924868, 0.07765782085861167}}</string>
+		<key>Text</key>
+		<string>&lt;p class="right"&gt;&lt;b&gt;juv.&lt;/b&gt;&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+</array>
+</plist>

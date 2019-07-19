@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>EndPoint</key>
+		<string>{0.59119665904139329, 0.57286496521307773}</string>
+		<key>StartPoint</key>
+		<string>{0.60373450067759249, 0.42941542914907521}</string>
+		<key>Type</key>
+		<string>line</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.58926066680253675</real>
+		<key>Frame</key>
+		<string>{{0.10926438151445779, 0.045471004586360067}, {0.17409055470285703, 0.14473033911253874}}</string>
+		<key>Text</key>
+		<string>&lt;p class="right"&gt;&lt;b&gt;ad. vinter&lt;/b&gt;&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.4098031940837345</real>
+		<key>Frame</key>
+		<string>{{0.55896294891969889, 0.53725976826268484}, {0.091723582297162792, 0.20810939827517766}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;vita band&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.38993431282327928</real>
+		<key>Frame</key>
+		<string>{{0.73920257650446852, 0.74712999444116446}, {0.20623034448227046, 0.21871349436914789}}</string>
+		<key>Text</key>
+		<string>&lt;p class="right"&gt;en del mörkt på bakhjässan&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>EndPoint</key>
+		<string>{0.75632873782151067, 0.92700508990148778}</string>
+		<key>StartPoint</key>
+		<string>{0.72339143297286679, 0.83770586591092444}</string>
+		<key>Type</key>
+		<string>line</string>
+	</dict>
+</array>
+</plist>

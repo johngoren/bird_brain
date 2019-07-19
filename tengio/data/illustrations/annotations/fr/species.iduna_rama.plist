@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>FontScale</key>
+		<real>0.31045019352210884</real>
+		<key>Frame</key>
+		<string>{{0.40773847732980467, 0.60402108003356569}, {0.45324645942520764, 0.084493775040878072}}</string>
+		<key>Text</key>
+		<string>&lt;p class="center"&gt;la forêt de saxaouls, habitat principal de cette espèce dans ses bastions d’Asie centrale&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.19686107343537693</real>
+		<key>Frame</key>
+		<string>{{0.72781525759727594, 0.189555791179535}, {0.19316777162841325, 0.1332468037235657}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;assez long, à vague pointe sombre sur la mandibule inférieure&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>EndPoint</key>
+		<string>{0.52062072170701079, 0.36823022975697195}</string>
+		<key>StartPoint</key>
+		<string>{0.49800912907910166, 0.40926714550768839}</string>
+		<key>Type</key>
+		<string>line</string>
+	</dict>
+	<dict>
+		<key>EndPoint</key>
+		<string>{0.80294330382142332, 0.33081909026372663}</string>
+		<key>StartPoint</key>
+		<string>{0.8009868442843382, 0.35405530870030022}</string>
+		<key>Type</key>
+		<string>line</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.16129544372126634</real>
+		<key>Frame</key>
+		<string>{{0.2328309947142051, 0.063563851212284264}, {0.2264275837588951, 0.16262771103555748}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;projection primaire très courte &lt;/p&gt;&lt;p&gt;(￼ de la longueur des tertiaires, voire moins)&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.32383446991956388</real>
+		<key>Frame</key>
+		<string>{{0.4582151333866521, 0.40238908659966954}, {0.12130049129940831, 0.081001595720707489}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;gris-brun pâle&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>EndPoint</key>
+		<string>{0.72691859190379926, 0.40286427642738898}</string>
+		<key>StartPoint</key>
+		<string>{0.76596266940953639, 0.43072192053080194}</string>
+		<key>Type</key>
+		<string>line</string>
+	</dict>
+	<dict>
+		<key>EndPoint</key>
+		<string>{0.25326092981181952, 0.24555486802864437}</string>
+		<key>StartPoint</key>
+		<string>{0.25226715692074803, 0.2961059315181887}</string>
+		<key>Type</key>
+		<string>line</string>
+	</dict>
+	<dict>
+		<key>EndPoint</key>
+		<string>{0.27204045817994932, 0.22672567508026148}</string>
+		<key>StartPoint</key>
+		<string>{0.28680205316839008, 0.25562988127216296}</string>
+		<key>Type</key>
+		<string>line</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.31127450980390381</real>
+		<key>Frame</key>
+		<string>{{0.62360117958842676, 0.42116925295136831}, {0.28694739877279374, 0.084270018863347187}}</string>
+		<key>Text</key>
+		<string>&lt;p class="right"&gt;sourcil habituellement peu visible ou absent en arrière de l’œil&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.27819118002878046</real>
+		<key>Frame</key>
+		<string>{{0.55838586168552062, 0.10345056709822827}, {0.14872214484053942, 0.094291662338613205}}</string>
+		<key>Text</key>
+		<string>&lt;p class="right"&gt;&lt;b&gt;imm. automne&lt;/b&gt;&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>EndPoint</key>
+		<string>{0.31547502782510783, 0.24540344318196394}</string>
+		<key>StartPoint</key>
+		<string>{0.31278256467334437, 0.31144836613777765}</string>
+		<key>Type</key>
+		<string>line</string>
+	</dict>
+	<dict>
+		<key>EndPoint</key>
+		<string>{0.25241170367136717, 0.25466993180579212}</string>
+		<key>StartPoint</key>
+		<string>{0.31417909864965604, 0.25466993180579212}</string>
+		<key>Type</key>
+		<string>line</string>
+	</dict>
+</array>
+</plist>

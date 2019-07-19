@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>EndPoint</key>
+		<string>{0.62469502429423973, 0.52755190895689397}</string>
+		<key>StartPoint</key>
+		<string>{0.61054089159325298, 0.56355831788398247}</string>
+		<key>Type</key>
+		<string>line</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.57794095600360851</real>
+		<key>Frame</key>
+		<string>{{0.46749844981360034, 0.54290005954045084}, {0.20349024036279134, 0.056535492638957144}}</string>
+		<key>Text</key>
+		<string>&lt;p class="right"&gt;svart&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.21080983710616838</real>
+		<key>Frame</key>
+		<string>{{0.6206841831428942, 0.12563869822203308}, {0.24452070320233971, 0.15499360519612965}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;﻿lyserøde i hekke-tiden&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>EndPoint</key>
+		<string>{0.60484270109060301, 0.21255350499486528}</string>
+		<key>StartPoint</key>
+		<string>{0.54470441118776802, 0.17054176713863758}</string>
+		<key>Type</key>
+		<string>line</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.52567437856105725</real>
+		<key>Frame</key>
+		<string>{{0.0061458137170056909, 0.099641254944912827}, {0.20234160971889248, 0.062156684815671964}}</string>
+		<key>Text</key>
+		<string>&lt;p class="right"&gt;&lt;b&gt;ad. &lt;/b&gt;&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.64989223995451606</real>
+		<key>Frame</key>
+		<string>{{0.16698762578388873, 0.73153248305958463}, {0.18201561122777904, 0.050276299138732022}}</string>
+		<key>Text</key>
+		<string>&lt;p class="right"&gt;&lt;b&gt;ad.&lt;/b&gt;&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.36262939282951967</real>
+		<key>Frame</key>
+		<string>{{0.37864528167545131, 0.87873223981096193}, {0.47937346992584884, 0.090103497703107424}}</string>
+		<key>Text</key>
+		<string>&lt;p class="right"&gt;﻿lysegrå vinger, svart rygg&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+</array>
+</plist>

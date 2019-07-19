@@ -1,0 +1,130 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>FontScale</key>
+		<real>0.42521060719378245</real>
+		<key>Frame</key>
+		<string>{{0.83580615227916066, 0.54829498970302171}, {0.14484445514465591, 0.10940051411582986}}</string>
+		<key>Text</key>
+		<string>&lt;p class="right"&gt;battements d’ailes nerveux&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>EndPoint</key>
+		<string>{0.76606877920583294, 0.38207309622601687}</string>
+		<key>StartPoint</key>
+		<string>{0.80658618354469713, 0.38333333551501997}</string>
+		<key>Type</key>
+		<string>line</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.26378969598334168</real>
+		<key>Frame</key>
+		<string>{{0.68669988863315579, 0.32386509961353244}, {0.073015409541213633, 0.17634600495328531}}</string>
+		<key>Text</key>
+		<string>&lt;p class="right"&gt;nette barre alaire&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.65571845942448537</real>
+		<key>Frame</key>
+		<string>{{0.859059660522139, 0.10906666941931704}, {0.069077167144495633, 0.070942427143704939}}</string>
+		<key>Text</key>
+		<string>&lt;p class="right"&gt;&lt;b&gt;juv.&lt;/b&gt;&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.58995733035666353</real>
+		<key>Frame</key>
+		<string>{{0.31204908387061886, 0.054233432473184941}, {0.12784881388524727, 0.07885020939799324}}</string>
+		<key>Text</key>
+		<string>&lt;p class="right"&gt;&lt;b&gt;ad. nuptial&lt;/b&gt;&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.60109711732977977</real>
+		<key>Frame</key>
+		<string>{{0.45706472512313578, 0.60739320186707901}, {0.12268413451190736, 0.077388923841707077}}</string>
+		<key>Text</key>
+		<string>&lt;p class="right"&gt;C. CULBLANC&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.60109711732977977</real>
+		<key>Frame</key>
+		<string>{{0.3175848794282829, 0.7254287055983234}, {0.10980907183238245, 0.077388923841707077}}</string>
+		<key>Text</key>
+		<string>&lt;p class="right"&gt;C. GUIGNETTE&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.37552860280775358</real>
+		<key>Frame</key>
+		<string>{{0.2757355282218743, 0.22175215202001}, {0.080474539244983101, 0.1238740769323458}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;« épaule » blanche&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>EndPoint</key>
+		<string>{0.28025633148878737, 0.35990452512468768}</string>
+		<key>StartPoint</key>
+		<string>{0.26269822263748227, 0.47091868159181988}</string>
+		<key>Type</key>
+		<string>line</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.65571845942448537</real>
+		<key>Frame</key>
+		<string>{{0.078985861577905908, 0.15752366245512453}, {0.069077167144495633, 0.070942427143704939}}</string>
+		<key>Text</key>
+		<string>&lt;p class="right"&gt;&lt;b&gt;juv.&lt;/b&gt;&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.57117291948707183</real>
+		<key>Frame</key>
+		<string>{{0.0010729218899605114, 0.37191345687415467}, {0.054168598203083174, 0.081443390341892616}}</string>
+		<key>Text</key>
+		<string>&lt;p class="center"&gt;longue&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>EndPoint</key>
+		<string>{0.037482697265543319, 0.47865268884923901}</string>
+		<key>StartPoint</key>
+		<string>{0.049148787829830932, 0.54222962329012814}</string>
+		<key>Type</key>
+		<string>line</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.2630122912441607</real>
+		<key>Frame</key>
+		<string>{{0.013620629738534149, 0.68919247831089336}, {0.21598447571804993, 0.17686724378717331}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;se tient souvent légèrement accroupi ou penché en avant et balance l’arrière du corps&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+</array>
+</plist>

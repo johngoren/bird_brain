@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>FontScale</key>
+		<real>0.48205130719835732</real>
+		<key>Frame</key>
+		<string>{{0.8504935866424338, 0.17884085556189316}, {0.14747416258379789, 0.068229056576718447}}</string>
+		<key>Text</key>
+		<string>&lt;p class="center"&gt;short&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>EndPoint</key>
+		<string>{0.92449545219810503, 0.25007608812920612}</string>
+		<key>StartPoint</key>
+		<string>{0.91423550902593176, 0.29304879850039017}</string>
+		<key>Type</key>
+		<string>line</string>
+	</dict>
+	<dict>
+		<key>EndPoint</key>
+		<string>{0.77822505337983994, 0.48982053699731831}</string>
+		<key>StartPoint</key>
+		<string>{0.78730289287011801, 0.43943309660392565}</string>
+		<key>Type</key>
+		<string>line</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.31999791668022992</real>
+		<key>Frame</key>
+		<string>{{0.70891407202909518, 0.45515106713282549}, {0.2582165131582641, 0.10278162512096693}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;rounded, not so peaked crown&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.61935093654903883</real>
+		<key>Frame</key>
+		<string>{{0.026373683846781751, 0.1104729009597727}, {0.16091017937228133, 0.053103828493385435}}</string>
+		<key>Text</key>
+		<string>&lt;p class="right"&gt;&lt;b&gt;ad. &lt;/b&gt;♀&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.61934996101656214</real>
+		<key>Frame</key>
+		<string>{{0.29332131265754674, 0.65143188859667656}, {0.16091017937228133, 0.053103912136741524}}</string>
+		<key>Text</key>
+		<string>&lt;p class="right"&gt;&lt;b&gt;ad. &lt;/b&gt;♀&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.2634502569037484</real>
+		<key>Frame</key>
+		<string>{{0.43813636476199441, 0.85379150938783477}, {0.27876951698554492, 0.12484294491970882}}</string>
+		<key>Text</key>
+		<string>&lt;p class="right"&gt;slightly less white on wing than &lt;/p&gt;&lt;p class="right"&gt;Goldeneye&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+</array>
+</plist>

@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>FontScale</key>
+		<real>0.61935093654903894</real>
+		<key>Frame</key>
+		<string>{{0.87070763786339977, 0.89183936090107174}, {0.072500479855382605, 0.058618192016539256}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;&lt;b&gt;ad.&lt;/b&gt;&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.54475781983824301</real>
+		<key>Frame</key>
+		<string>{{0, 0.83539800924146612}, {0.41920354770015122, 0.066644719547183803}}</string>
+		<key>Text</key>
+		<string>&lt;p class="center"&gt;peut être étonnamment difficile à détecter parmi les laridés&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.56470263842694191</real>
+		<key>Frame</key>
+		<string>{{0.036175863797364823, 0.13398112033830056}, {0.071170374689738192, 0.064290884535953802}}</string>
+		<key>Text</key>
+		<string>&lt;p class="right"&gt;&lt;b&gt;juv.&lt;/b&gt;&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.61935093654903894</real>
+		<key>Frame</key>
+		<string>{{0.5997905973787272, 0.051123985910679383}, {0.065106192723895673, 0.058618192016539256}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;♀ &lt;b&gt;ad.&lt;/b&gt;&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.17517212868221821</real>
+		<key>Frame</key>
+		<string>{{0.89360257352081462, 0.33118500345095347}, {0.087334099978191929, 0.20725461520260868}}</string>
+		<key>Text</key>
+		<string>&lt;p class="right"&gt;fin bec noir retroussé diagnostique&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>EndPoint</key>
+		<string>{0.95488454310569326, 0.55017994485442723}</string>
+		<key>StartPoint</key>
+		<string>{0.95347878861418245, 0.59739734726943172}</string>
+		<key>Type</key>
+		<string>line</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.61935093654903894</real>
+		<key>Frame</key>
+		<string>{{0.87705975654737589, 0.055307411985789201}, {0.06325762094102394, 0.058618192016539256}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;♂ &lt;b&gt;ad.&lt;/b&gt;&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+</array>
+</plist>

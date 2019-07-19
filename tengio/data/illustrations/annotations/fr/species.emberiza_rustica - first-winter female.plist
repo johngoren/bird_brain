@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>EndPoint</key>
+		<string>{0.34123662460397564, 0.54534775869685692}</string>
+		<key>StartPoint</key>
+		<string>{0.37128779566055359, 0.48537064625517989}</string>
+		<key>Type</key>
+		<string>line</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.36439254934667664</real>
+		<key>Frame</key>
+		<string>{{0.080364746127443445, 0.43688428558705517}, {0.31140617943475757, 0.18887623634960632}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;teinte brun roussâtre, sans stries&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.50315804559460309</real>
+		<key>Frame</key>
+		<string>{{0.28115558011244701, 0.0046459698117104981}, {0.20824712400338902, 0.13678623223266748}}</string>
+		<key>Text</key>
+		<string>&lt;p class="right"&gt;♀&lt;b&gt; 1er hiver&lt;/b&gt;&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.37818321711949926</real>
+		<key>Frame</key>
+		<string>{{0.85240025054496371, 0.74933854496961816}, {0.12919932965638103, 0.18198875613428123}}</string>
+		<key>Text</key>
+		<string>&lt;p class="right"&gt;culmen droit&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>EndPoint</key>
+		<string>{0.87321132226795173, 0.89065263461454047}</string>
+		<key>StartPoint</key>
+		<string>{0.82789853997968033, 0.83032707372309555}</string>
+		<key>Type</key>
+		<string>line</string>
+	</dict>
+</array>
+</plist>

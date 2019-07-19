@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>FontScale</key>
+		<real>0.21690862510674755</real>
+		<key>Frame</key>
+		<string>{{0.073432663198864087, 0.43634451358587178}, {0.23324243667270705, 0.28977676200053443}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;very similiar to &lt;i&gt;maurus&lt;/i&gt; except for distinctive tail-pattern&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.35812477969678846</real>
+		<key>Frame</key>
+		<string>{{0.14469605258068172, 0.073133717320849653}, {0.20477282768882349, 0.17551167245851654}}</string>
+		<key>Text</key>
+		<string>&lt;p class="right"&gt;white&lt;/p&gt;&lt;p class="right"&gt;tail-sides&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>EndPoint</key>
+		<string>{0.21916753122160493, 0.28997261100485766}</string>
+		<key>StartPoint</key>
+		<string>{0.25346788955582755, 0.2231581569142079}</string>
+		<key>Type</key>
+		<string>line</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.39657978977688696</real>
+		<key>Frame</key>
+		<string>{{0.072615988000426651, 0.73701539461909049}, {0.44590465834488185, 0.15849289513412412}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;&lt;b&gt;&lt;i&gt;variegatus&lt;/i&gt;&lt;/b&gt;  &lt;/p&gt;&lt;p&gt;(W of Caspian Sea)&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.50272679967321543</real>
+		<key>Frame</key>
+		<string>{{0.46903012932021482, 0.29201425639088258}, {0.19600204762412388, 0.12502830379100227}}</string>
+		<key>Text</key>
+		<string>&lt;p class="right"&gt;&lt;b&gt;ad.&lt;/b&gt; ♂&lt;b&gt; spring&lt;/b&gt;&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.65801279325613293</real>
+		<key>Frame</key>
+		<string>{{0.33212840582083686, 0.90447742098996764}, {0.10064134468891707, 0.095522579010032485}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;&lt;b&gt;ad.&lt;/b&gt; ♂&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+</array>
+</plist>

@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>FontScale</key>
+		<real>0.36363636363636365</real>
+		<key>Frame</key>
+		<string>{{0.19592110365776513, 0.00020293867718665744}, {0.28018628671924983, 0.13505849281551233}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;&lt;b&gt;&lt;i&gt;undulata&lt;/i&gt;&lt;/b&gt;&lt;/p&gt;&lt;p&gt;(n.v. Afrika)&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>EndPoint</key>
+		<string>{0.522762143788708, 0.6145860202612945}</string>
+		<key>StartPoint</key>
+		<string>{0.43692551228805332, 0.72075377508268157}</string>
+		<key>Type</key>
+		<string>line</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.23210787457822848</real>
+		<key>Frame</key>
+		<string>{{0.1954340677956331, 0.61937410348528688}, {0.32996578751967182, 0.21159204225571557}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;i genomsnitt kraf-&lt;/p&gt;&lt;p&gt;tigare tvärfläckad än kragtrapp&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.71686863155746761</real>
+		<key>Frame</key>
+		<string>{{0.45759369897883995, 0.87498946139811606}, {0.18166248301907134, 0.068509315436134796}}</string>
+		<key>Text</key>
+		<string>&lt;p class="right"&gt;vit tofs&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.58565530553520329</real>
+		<key>Frame</key>
+		<string>{{0.846481948555598, 0.70756653439826966}, {0.12127706605281549, 0.083858506431115643}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;&lt;b&gt;ad.&lt;/b&gt;&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>EndPoint</key>
+		<string>{0.6533975728916116, 0.91797591205021278}</string>
+		<key>StartPoint</key>
+		<string>{0.72677771343229414, 0.91563403588949921}</string>
+		<key>Type</key>
+		<string>line</string>
+	</dict>
+</array>
+</plist>

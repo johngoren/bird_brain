@@ -1,0 +1,126 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>EndPoint</key>
+		<string>{0.56569217106453462, 0.82190532688290163}</string>
+		<key>StartPoint</key>
+		<string>{0.60340169159355772, 0.85271894908404355}</string>
+		<key>Type</key>
+		<string>line</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.36363636363636365</real>
+		<key>Frame</key>
+		<string>{{0.36649400585438674, 0.5862310351507114}, {0.19266893067954044, 0.085409980585305051}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;﻿gjerdesmett mulig forvekslingsrisiko!&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.35474860335193958</real>
+		<key>Frame</key>
+		<string>{{0.45747570617837624, 0.48312156324160049}, {0.16029024409387158, 0.087549815460388147}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;﻿rygg og vinger ensfarget&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.35474860335193958</real>
+		<key>Frame</key>
+		<string>{{0.7685293702246484, 0.28161025614835655}, {0.08878696632494619, 0.087549815460388147}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;﻿tynt, spisst&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.26293995859211378</real>
+		<key>Frame</key>
+		<string>{{0.72323635205518533, 0.04023688223943063}, {0.27028481733676368, 0.11811888510438161}}</string>
+		<key>Text</key>
+		<string>&lt;p class="center"&gt;﻿begge arter slår nervøst med stjert og vinger, stjerten oppover (ulikt gransanger)&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>EndPoint</key>
+		<string>{0.80916433072979244, 0.37270608368744884}</string>
+		<key>StartPoint</key>
+		<string>{0.81142644384231621, 0.41000034865312152}</string>
+		<key>Type</key>
+		<string>line</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.18078979673469747</real>
+		<key>Frame</key>
+		<string>{{0.14934019905802168, 0.21839995660170136}, {0.19620407316913049, 0.17179163492212726}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;﻿undre stjertdekkere likt farget som kroppssidene&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.26129739643554828</real>
+		<key>Frame</key>
+		<string>{{0.63114472249230802, 0.43610633412909838}, {0.2120626097777194, 0.11886140153697845}}</string>
+		<key>Text</key>
+		<string>&lt;p class="right"&gt;﻿øyenbrynet veldefinert foran øyet&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.32987012987016351</real>
+		<key>Frame</key>
+		<string>{{0.6597902766356657, 0.18819117931634546}, {0.13574912755911103, 0.094152734503476276}}</string>
+		<key>Text</key>
+		<string>&lt;p class="right"&gt;﻿nokså ensfargete øredekkere&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>EndPoint</key>
+		<string>{0.54406793850427826, 0.47749685442704304}</string>
+		<key>StartPoint</key>
+		<string>{0.5407738579836705, 0.50815763127995517}</string>
+		<key>Type</key>
+		<string>line</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.18142857142857302</real>
+		<key>Frame</key>
+		<string>{{0.23660565736553324, 0.013336100952713648}, {0.24002409098631425, 0.17118679000633646}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;﻿bein vanligvis verken iøynefallende lyse eller kraftige&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>EndPoint</key>
+		<string>{0.74928738795330474, 0.29061795385231848}</string>
+		<key>StartPoint</key>
+		<string>{0.71836159069405525, 0.37254306049821267}</string>
+		<key>Type</key>
+		<string>line</string>
+	</dict>
+	<dict>
+		<key>EndPoint</key>
+		<string>{0.44550442981995803, 0.17018599729601439}</string>
+		<key>StartPoint</key>
+		<string>{0.49816839022431481, 0.17018599729601439}</string>
+		<key>Type</key>
+		<string>line</string>
+	</dict>
+</array>
+</plist>

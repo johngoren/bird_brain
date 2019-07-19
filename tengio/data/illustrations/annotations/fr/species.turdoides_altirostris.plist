@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>EndPoint</key>
+		<string>{0.95258072288565632, 0.56251848566000173}</string>
+		<key>StartPoint</key>
+		<string>{0.93588741219314409, 0.59890012554681582}</string>
+		<key>Type</key>
+		<string>line</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.23518505116502214</real>
+		<key>Frame</key>
+		<string>{{0.90909674352185887, 0.3972061460761972}, {0.083786204139996129, 0.15841821738545855}}</string>
+		<key>Text</key>
+		<string>&lt;p class="right"&gt;lores pâles et bec fort&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.28499298737727929</real>
+		<key>Frame</key>
+		<string>{{0.89849089489654455, 0.69244335240860522}, {0.083786204139996129, 0.13073162572926167}}</string>
+		<key>Text</key>
+		<string>&lt;p class="center"&gt;teinte chamois chaud&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>EndPoint</key>
+		<string>{0.93437146122841497, 0.71397763252583946}</string>
+		<key>StartPoint</key>
+		<string>{0.90716940247669997, 0.67646977811931186}</string>
+		<key>Type</key>
+		<string>line</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.23518505116502214</real>
+		<key>Frame</key>
+		<string>{{0.32647114580849623, 0.2748275738762736}, {0.10870994840948844, 0.15841821738545855}}</string>
+		<key>Text</key>
+		<string>&lt;p class="right"&gt;inféodé aux abords des rivières&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+</array>
+</plist>

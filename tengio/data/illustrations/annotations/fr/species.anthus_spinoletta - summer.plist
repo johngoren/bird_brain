@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>EndPoint</key>
+		<string>{0.86363642355525116, 0.62958539463987939}</string>
+		<key>StartPoint</key>
+		<string>{0.80983701292767829, 0.6672012094458476}</string>
+		<key>Type</key>
+		<string>line</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.67858689855952825</real>
+		<key>Frame</key>
+		<string>{{0.81155942205414477, 0.57976491901438032}, {0.1326497539893397, 0.076378151579249348}}</string>
+		<key>Text</key>
+		<string>&lt;p class="right"&gt;rose&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.46999988047284852</real>
+		<key>Frame</key>
+		<string>{{0.75219510627551134, 0.27749161879037409}, {0.23103735845195511, 0.11027494931643177}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;&lt;b&gt;&lt;i&gt;spinoletta&lt;/i&gt;&lt;/b&gt;&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.48205189815535465</real>
+		<key>Frame</key>
+		<string>{{0.82104897662982612, 0.36019776487344746}, {0.17407583012011266, 0.10751791082289015}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;&lt;b&gt;nuptial&lt;/b&gt;&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.31357938249156098</real>
+		<key>Frame</key>
+		<string>{{0.2275483050204043, 0.49579705729591983}, {0.21050071031545919, 0.16528259155962582}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;teinte brun chaud&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>EndPoint</key>
+		<string>{0.31471664047139714, 0.58369292039317933}</string>
+		<key>StartPoint</key>
+		<string>{0.39809348103938491, 0.54041732343335536}</string>
+		<key>Type</key>
+		<string>line</string>
+	</dict>
+</array>
+</plist>

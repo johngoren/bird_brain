@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>EndPoint</key>
+		<string>{0.7251886455819111, 0.339104050296201}</string>
+		<key>StartPoint</key>
+		<string>{0.61741109315495135, 0.43521530627914312}</string>
+		<key>Type</key>
+		<string>line</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.18405791877908836</real>
+		<key>Frame</key>
+		<string>{{0.69648352710031403, 0.096583386263450074}, {0.20662761306406244, 0.24140784921152972}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;lacks black-bordered whitish band&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.288336909289028</real>
+		<key>Frame</key>
+		<string>{{0.057061808260801476, 0.0064184890043922889}, {0.37402731910180714, 0.15410107021113495}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;usually plainer outer tail than on Stone Curlew&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>EndPoint</key>
+		<string>{0.13404262299832162, 0.16290603333331052}</string>
+		<key>StartPoint</key>
+		<string>{0.081557561345556431, 0.20872568848736264}</string>
+		<key>Type</key>
+		<string>line</string>
+	</dict>
+	<dict>
+		<key>EndPoint</key>
+		<string>{0.87139786823268517, 0.6980036230158061}</string>
+		<key>StartPoint</key>
+		<string>{0.87139786823268517, 0.78197150669862558}</string>
+		<key>Type</key>
+		<string>line</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.39334247664074912</real>
+		<key>Frame</key>
+		<string>{{0.32272335152760406, 0.76312287934411382}, {0.63721508081788281, 0.11296269521227451}}</string>
+		<key>Text</key>
+		<string>&lt;p class="right"&gt;heavier bill  with less yellow than Stone Curlew&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+</array>
+</plist>

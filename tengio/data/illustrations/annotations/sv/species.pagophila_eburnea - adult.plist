@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>FontScale</key>
+		<real>0.57881721189853741</real>
+		<key>Frame</key>
+		<string>{{0.64103916106583692, 0.061579608923764531}, {0.3471229004384016, 0.050427889457026233}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;korta, svarta ben&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>EndPoint</key>
+		<string>{0.6361766484404866, 0.092746474096970039}</string>
+		<key>StartPoint</key>
+		<string>{0.56075201180734446, 0.083944794694718647}</string>
+		<key>Type</key>
+		<string>line</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.63448542937360819</real>
+		<key>Frame</key>
+		<string>{{0.38323026558866441, 0.0035217383356659277}, {0.1427030695058224, 0.046003468363741258}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;&lt;b&gt;ad.&lt;/b&gt;&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.62212209044768185</real>
+		<key>Frame</key>
+		<string>{{0.27987957718744294, 0.93577153211950226}, {0.2920248674495281, 0.046917688385634045}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;helvit dräkt&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.63448338179435926</real>
+		<key>Frame</key>
+		<string>{{0.50714764846099936, 0.53898653270864449}, {0.14270257486951476, 0.046003616824283972}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;&lt;b&gt;ad.&lt;/b&gt;&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+</array>
+</plist>

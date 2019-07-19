@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>FontScale</key>
+		<real>0.54628507918866354</real>
+		<key>Frame</key>
+		<string>{{0.22002564642169389, 0.08433193322311984}, {0.37607269932113496, 0.056186878685825968}}</string>
+		<key>Text</key>
+		<string>&lt;p class="right"&gt;&lt;b&gt;ad. sommer &lt;/b&gt;(lys)&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>EndPoint</key>
+		<string>{0.75991710019309144, 0.46383784193293703}</string>
+		<key>StartPoint</key>
+		<string>{0.79444600693981626, 0.43992523332131966}</string>
+		<key>Type</key>
+		<string>line</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.37646842561795885</real>
+		<key>Frame</key>
+		<string>{{0.52013210554324651, 0.39990129826586485}, {0.23777153838269555, 0.081531547889752309}}</string>
+		<key>Text</key>
+		<string>&lt;p class="right"&gt;﻿lyst omkring nebbroten&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.54628507918866354</real>
+		<key>Frame</key>
+		<string>{{0.13613725329446461, 0.63608682638498115}, {0.3129361744219718, 0.056186878685825968}}</string>
+		<key>Text</key>
+		<string>&lt;p class="right"&gt;&lt;b&gt;ad. som. &lt;/b&gt;(lys)&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+</array>
+</plist>

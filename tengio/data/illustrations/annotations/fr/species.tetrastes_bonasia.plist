@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>FontScale</key>
+		<real>0.58730329426103745</real>
+		<key>Frame</key>
+		<string>{{0.89438565896292832, 0.2217404353043971}, {0.066323439441064586, 0.11567810597116579}}</string>
+		<key>Text</key>
+		<string>&lt;p class="right"&gt;♂&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.23414522606123345</real>
+		<key>Frame</key>
+		<string>{{0.80595445809524402, 0.26395085997635054}, {0.089645379542052095, 0.29015382399031248}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;bande terminale sombre&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>EndPoint</key>
+		<string>{0.82406988782413404, 0.55307348501091103}</string>
+		<key>StartPoint</key>
+		<string>{0.83790268617293384, 0.62002595464600607}</string>
+		<key>Type</key>
+		<string>line</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.38399775001318293</real>
+		<key>Frame</key>
+		<string>{{0.75884698885828283, 0.61436937313835671}, {0.055040845657484017, 0.17692325725452998}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;gorge noire&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>EndPoint</key>
+		<string>{0.75243601749807265, 0.75628055443557773}</string>
+		<key>StartPoint</key>
+		<string>{0.73600906387288856, 0.75216437681032489}</string>
+		<key>Type</key>
+		<string>line</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.50939201898612618</real>
+		<key>Frame</key>
+		<string>{{0.66044991810955234, 0.095805066058304397}, {0.066323612296098802, 0.13337101913368105}}</string>
+		<key>Text</key>
+		<string>&lt;p class="right"&gt;♂&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.2584233922802105</real>
+		<key>Frame</key>
+		<string>{{0.51895832615221582, 0.54604871523580722}, {0.065223044294198035, 0.26289467107171632}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;gorge ponctuée de blanc&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.61908908185634914</real>
+		<key>Frame</key>
+		<string>{{0.41760661572385932, 0.11404049462383009}, {0.066323612296098802, 0.10973886424717652}}</string>
+		<key>Text</key>
+		<string>&lt;p class="right"&gt;♀&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>EndPoint</key>
+		<string>{0.51394114890165477, 0.77634102669268612}</string>
+		<key>StartPoint</key>
+		<string>{0.48885403088660495, 0.77634102669268612}</string>
+		<key>Type</key>
+		<string>line</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.36110243798510944</real>
+		<key>Frame</key>
+		<string>{{0.039941324703901576, 0.68850324996575973}, {0.10266258039780518, 0.18814088625329242}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;attitude de parade nuptiale&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+</array>
+</plist>

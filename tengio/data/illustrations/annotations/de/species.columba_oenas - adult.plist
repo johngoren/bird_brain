@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>FontScale</key>
+		<real>0.24517374517374207</real>
+		<key>Frame</key>
+		<string>{{0.62978462702540661, 0.36041369641882171}, {0.37021537297459345, 0.10679774015543167}}</string>
+		<key>Text</key>
+		<string>&lt;p class="right"&gt;dunkles Auge erzeugt „freundliches Gesicht“&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>EndPoint</key>
+		<string>{0.54673307811638971, 0.31722040189649919}</string>
+		<key>StartPoint</key>
+		<string>{0.58192160022273898, 0.28075841023730241}</string>
+		<key>Type</key>
+		<string>line</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.18983468931662206</real>
+		<key>Frame</key>
+		<string>{{0.77269314812109502, 0.20263929986134782}, {0.21931848003713753, 0.13793054380238939}}</string>
+		<key>Text</key>
+		<string>&lt;p class="right"&gt;rötlicher Schnabel mit heller Spitze (vgl. Felsentaube)&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.29439994808400172</real>
+		<key>Frame</key>
+		<string>{{0.45281209049287657, 0.29192439373043327}, {0.17886342941903036, 0.08894023963118429}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;Grauton wie am Kopf&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.70555557549245174</real>
+		<key>Frame</key>
+		<string>{{0.36542744251953402, 0.024351310491892417}, {0.093315886482439964, 0.037111182789142952}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;&lt;b&gt;ad.&lt;/b&gt;&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>EndPoint</key>
+		<string>{0.83017898196789885, 0.36626344788004456}</string>
+		<key>StartPoint</key>
+		<string>{0.85783969105664348, 0.34361057707004522}</string>
+		<key>Type</key>
+		<string>line</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.47677149155311932</real>
+		<key>Frame</key>
+		<string>{{0.18182039389006288, 0.74586703738495763}, {0.22268313154929822, 0.054919395127219023}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;kurzschwänzig&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.29439994808400172</real>
+		<key>Frame</key>
+		<string>{{0.271755564295383, 0.85560274626088406}, {0.21638295445483477, 0.08894023963118429}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;diffuses hellgraues Flügelfeld&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>EndPoint</key>
+		<string>{0.43105606367973226, 0.88987904799995698}</string>
+		<key>StartPoint</key>
+		<string>{0.54202423933914268, 0.85560274626088073}</string>
+		<key>Type</key>
+		<string>line</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.70555557549245174</real>
+		<key>Frame</key>
+		<string>{{0.62227905688231033, 0.66664496855344491}, {0.093315886482439964, 0.037111182789142952}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;&lt;b&gt;ad.&lt;/b&gt;&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.20352207102737671</real>
+		<key>Frame</key>
+		<string>{{0.11698449648665224, 0.5658520241162136}, {0.17886342941902908, 0.12865436066871189}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;ohne jeglichen Weißanteil im Gefieder&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+</array>
+</plist>

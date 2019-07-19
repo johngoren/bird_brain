@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>FontScale</key>
+		<real>0.27726912308746221</real>
+		<key>Frame</key>
+		<string>{{0.11187812919399233, 0.021557171131729874}, {0.67347431563906945, 0.16154715811941989}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;Oberseite bei einigen leicht hell geschuppt (jedoch schwächer als beim Nonnensteinschmätzer)&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.35337920845199761</real>
+		<key>Frame</key>
+		<string>{{0.090929245940228318, 0.55970355077228251}, {0.21942135909245, 0.12675346426083703}}</string>
+		<key>Text</key>
+		<string>&lt;p class="right"&gt;grauer beigebraun&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.31671939738773508</real>
+		<key>Frame</key>
+		<string>{{0.25550190972890624, 0.73576592751586434}, {0.2300555436747875, 0.14142499398042147}}</string>
+		<key>Text</key>
+		<string>&lt;p class="right"&gt;♀&lt;b&gt; SK&lt;/b&gt;&lt;/p&gt;&lt;p class="right"&gt;Herbst (frisch)&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>EndPoint</key>
+		<string>{0.32253107895550942, 0.66343833352224024}</string>
+		<key>StartPoint</key>
+		<string>{0.41852802190899346, 0.66343833352224024}</string>
+		<key>Type</key>
+		<string>line</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.44096353115327691</real>
+		<key>Frame</key>
+		<string>{{0.04163108321870871, 0.89755333107236723}, {0.95729167225104739, 0.10157764918086536}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;&lt;b&gt;&lt;i&gt;melanoleuca&lt;/i&gt; „Balkansteinschmätzer“&lt;/b&gt;&lt;/p&gt;&lt;p&gt;(SO-Europa, Kleinasien)&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+</array>
+</plist>

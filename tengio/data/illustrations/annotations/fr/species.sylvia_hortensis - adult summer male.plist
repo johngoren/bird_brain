@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>EndPoint</key>
+		<string>{0.55122401916855923, 0.75351033160393566}</string>
+		<key>StartPoint</key>
+		<string>{0.61203513989660019, 0.69148502754784336}</string>
+		<key>Type</key>
+		<string>line</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.48504878201229212</real>
+		<key>Frame</key>
+		<string>{{0.43230449418927436, 0.74571337253665448}, {0.16441525233878193, 0.10311139117124039}}</string>
+		<key>Text</key>
+		<string>&lt;p class="right"&gt;gris brunâtre&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.42035581299130542</real>
+		<key>Frame</key>
+		<string>{{0.846270567886102, 0.87025624496676091}, {0.12612676891742225, 0.11898028563777145}}</string>
+		<key>Text</key>
+		<string>&lt;p class="right"&gt;œil pâle&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.20344413295955124</real>
+		<key>Frame</key>
+		<string>{{0.67290051359132663, 0.19998914970658171}, {0.30219953968899466, 0.24583680036202843}}</string>
+		<key>Text</key>
+		<string>&lt;p class="right"&gt;totalité des parties inf. teintée de chamois rosé chez les ind. typiques&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>EndPoint</key>
+		<string>{0.7524186154255641, 0.44465758955670615}</string>
+		<key>StartPoint</key>
+		<string>{0.81322973615360483, 0.37672511368574607}</string>
+		<key>Type</key>
+		<string>line</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.36363636363636803</real>
+		<key>Frame</key>
+		<string>{{0.73590964508335444, 0.032323923027950736}, {0.23648769172016626, 0.13753865042280702}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;♂ &lt;b&gt;ad. nuptial&lt;/b&gt;&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.52580512175053784</real>
+		<key>Frame</key>
+		<string>{{0.20662766837631591, 0.25906086785524063}, {0.33934106875401687, 0.095118994909547019}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;uniformément chamois&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>EndPoint</key>
+		<string>{0.43861161447416569, 0.43359689145174513}</string>
+		<key>StartPoint</key>
+		<string>{0.38996193605270901, 0.36451741344082889}</string>
+		<key>Type</key>
+		<string>line</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.26520490733490182</real>
+		<key>Frame</key>
+		<string>{{0.15257333884027793, 0.10906793018942225}, {0.48648896582434131, 0.18858646018961187}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;en dehors de son aire de répartition, identification sur la base de critères de plumage très difficile&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+</array>
+</plist>

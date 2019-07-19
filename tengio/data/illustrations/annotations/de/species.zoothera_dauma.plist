@@ -1,0 +1,118 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>FontScale</key>
+		<real>0.21884993805440769</real>
+		<key>Frame</key>
+		<string>{{0.66163342716584961, 0.24352708342994719}, {0.17414802222754083, 0.15665727625329681}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;MisteldrosselJK (zum Vergleich)&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.28081813156442081</real>
+		<key>Frame</key>
+		<string>{{0.60000952507699046, 0.5138937240790421}, {0.16579511438866204, 0.12208768362929319}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;markante Unterflügelzeichnung&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>EndPoint</key>
+		<string>{0.70562278166739156, 0.56258302211619515}</string>
+		<key>StartPoint</key>
+		<string>{0.7792596411158097, 0.57451260709143137}</string>
+		<key>Type</key>
+		<string>line</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.43603556450557579</real>
+		<key>Frame</key>
+		<string>{{0.53612907176478952, 0.82166063588690885}, {0.15126106361169703, 0.078627612045090015}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;helle Schwanz­ecken&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>EndPoint</key>
+		<string>{0.69777627910846285, 0.85296259818291276}</string>
+		<key>StartPoint</key>
+		<string>{0.73362090401315261, 0.85296259818291276}</string>
+		<key>Type</key>
+		<string>line</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.1841195920232</real>
+		<key>Frame</key>
+		<string>{{0.081438582619901528, 0.25332940517777131}, {0.18844692533266236, 0.1862074254405594}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;Geschlechter und Kleider im Freiland nichtunterscheidbar&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.3740199225033306</real>
+		<key>Frame</key>
+		<string>{{0.18222365962656897, 0.039466516602565088}, {0.15194660086753345, 0.091664729981063869}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;groß, lang gestreckt&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.25885422907612904</real>
+		<key>Frame</key>
+		<string>{{0.52740994226092985, 0.12737548715633662}, {0.12440105072605386, 0.13244688072576624}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;kräftiges Schuppenmuster&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>EndPoint</key>
+		<string>{0.56078211837446124, 0.26885097035019023}</string>
+		<key>StartPoint</key>
+		<string>{0.53360982998507145, 0.30269711452754644}</string>
+		<key>Type</key>
+		<string>line</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.59499840361705647</real>
+		<key>Frame</key>
+		<string>{{0.6106114155853275, 0.63902896491825378}, {0.082399154803312433, 0.05762105409928435}}</string>
+		<key>Text</key>
+		<string>&lt;p class="center"&gt;lang&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>EndPoint</key>
+		<string>{0.6489523660938753, 0.7025743976883444}</string>
+		<key>StartPoint</key>
+		<string>{0.63770216537850954, 0.73049800396480491}</string>
+		<key>Type</key>
+		<string>line</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.1564367890885254</real>
+		<key>Frame</key>
+		<string>{{0.081438582619901528, 0.43332952523028734}, {0.26563789872030547, 0.21915839236770035}}</string>
+		<key>Text</key>
+		<string>&lt;p class="center"&gt;scheue Art mit heimlicher Lebensweise, schleichen-der Fortbewegung und tarnender Gefieder-zeichnung&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+</array>
+</plist>

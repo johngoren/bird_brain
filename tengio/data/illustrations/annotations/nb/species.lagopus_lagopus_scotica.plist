@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>FontScale</key>
+		<real>0.49215809071513977</real>
+		<key>Frame</key>
+		<string>{{0.059922929877448863, 0.06943441478956007}, {0.16928197456584992, 0.10476179807215603}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;﻿på en skotsk lynghei&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.62507908550136271</real>
+		<key>Frame</key>
+		<string>{{0.39213514978280201, 0.073026268255911811}, {0.073226362497411324, 0.082484549099451396}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;&lt;b&gt;ad. &lt;/b&gt;♀&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.31588333678766423</real>
+		<key>Frame</key>
+		<string>{{0.53274220721924981, 0.65274553188339068}, {0.1235572216551985, 0.1632228120780406}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;﻿beholder brun drakt hele året&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.58686502653620154</real>
+		<key>Frame</key>
+		<string>{{0.72544140468706031, 0.068246600011596617}, {0.061213768716897411, 0.087855578689688393}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;&lt;b&gt;ad. &lt;/b&gt;♂&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.57225852458777948</real>
+		<key>Frame</key>
+		<string>{{0.85478097483261661, 0.37751048906230739}, {0.068078179841792791, 0.090098031403232637}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;&lt;b&gt;ad. &lt;/b&gt;♂&lt;b&gt; &lt;/b&gt;&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+</array>
+</plist>

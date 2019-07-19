@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>FontScale</key>
+		<real>0.40692632847451021</real>
+		<key>Frame</key>
+		<string>{{0.80750757076215662, 0.8014600822342629}, {0.16456429075274148, 0.10552748690866154}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;♂♂ ﻿er jevnt over svartere i hodet enn  ♀♀&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.52191086995763292</real>
+		<key>Frame</key>
+		<string>{{0.90672142114377308, 0.34992137744329083}, {0.057924556137613659, 0.082278249549332952}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;&lt;b&gt;ad.&lt;/b&gt; ♂&lt;b&gt;vinter&lt;/b&gt;&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.21334438714679521</real>
+		<key>Frame</key>
+		<string>{{0.84057885422269452, 0.12566370565989174}, {0.11168984354337747, 0.20127978699217744}}</string>
+		<key>Text</key>
+		<string>&lt;p class="right"&gt;﻿undersiden skarpere farget hos ♂♂&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.42355103171586445</real>
+		<key>Frame</key>
+		<string>{{0.52313413932902009, 0.64271025499005086}, {0.093008859073651445, 0.10138545201252347}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;﻿hvite hjørner&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>EndPoint</key>
+		<string>{0.57442433343848009, 0.75834910678456235}</string>
+		<key>StartPoint</key>
+		<string>{0.58234559893800952, 0.77863662464324934}</string>
+		<key>Type</key>
+		<string>line</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.48605508557182991</real>
+		<key>Frame</key>
+		<string>{{0.28292176305576405, 0.17001108888268679}, {0.084538144954493522, 0.088347831502192081}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;&lt;b&gt;1. vinter&lt;/b&gt; ♀&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>EndPoint</key>
+		<string>{0.48590419148122849, 0.54228704158957208}</string>
+		<key>StartPoint</key>
+		<string>{0.47105181866961005, 0.5631240130569285}</string>
+		<key>Type</key>
+		<string>line</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.21334438714679521</real>
+		<key>Frame</key>
+		<string>{{0.46194236334515032, 0.41460247606645906}, {0.11168984354337747, 0.20127978699217744}}</string>
+		<key>Text</key>
+		<string>&lt;p class="right"&gt;﻿lyse bremmer karakteristisk i fersk drakt (høst–vinter)&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.1632390745501251</real>
+		<key>Frame</key>
+		<string>{{0.45798173059538427, 0.014473451966096557}, {0.29176661256603265, 0.26306148156762305}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;﻿kontrast mellom nye indre og «gamle» (juvenile) ytre stordekkere er beste kriterium for å aldersbestemme 1. årets fugler; kjønnsbestemmelse er vanskeligere, men ♀♀ ﻿er som regel brunere på hodet og har lysere underside&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.16905815065294089</real>
+		<key>Frame</key>
+		<string>{{0.025876697596007477, 0.01785470494254757}, {0.16099972127795287, 0.25400675823692725}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;﻿streifere til Europa påtreffes for det meste i forstadsparker og hager, der de opptrer likt svarttroster&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+</array>
+</plist>

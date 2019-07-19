@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>FontScale</key>
+		<real>0.58612496534371716</real>
+		<key>Frame</key>
+		<string>{{0.40378262499639089, 0.10724332476555369}, {0.072185018632581005, 0.05281157386950526}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;&lt;b&gt;juv.&lt;/b&gt;&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.26063028665785082</real>
+		<key>Frame</key>
+		<string>{{0.45239780990540918, 0.29066201301005917}, {0.12435087034389627, 0.11876663415041566}}</string>
+		<key>Text</key>
+		<string>&lt;p class="right"&gt;calotte terne, joue jaune&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>EndPoint</key>
+		<string>{0.86919866429871251, 0.59601405108194683}</string>
+		<key>StartPoint</key>
+		<string>{0.8521468764512844, 0.57072707986379423}</string>
+		<key>Type</key>
+		<string>line</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.3400267737617344</real>
+		<key>Frame</key>
+		<string>{{0.81236750276955383, 0.54817037429962401}, {0.12991480628437799, 0.091034542843680094}}</string>
+		<key>Text</key>
+		<string>&lt;p class="right"&gt;calotte bleu vif&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.54337495077074205</real>
+		<key>Frame</key>
+		<string>{{0.92119224309867653, 0.28774089898910699}, {0.046856929172501727, 0.05696652350297788}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;♂&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.50810847131733372</real>
+		<key>Frame</key>
+		<string>{{0.6572023808387405, 0.54311289969719612}, {0.10511136539700527, 0.06092042083801201}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;♀ &lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>EndPoint</key>
+		<string>{0.6667020526844597, 0.91450705701862389}</string>
+		<key>StartPoint</key>
+		<string>{0.6514623788913726, 0.89209117052251852}</string>
+		<key>Type</key>
+		<string>line</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.35277777777780123</real>
+		<key>Frame</key>
+		<string>{{0.57728356758829869, 0.85417805446093564}, {0.16024545321031361, 0.08774413768065506}}</string>
+		<key>Text</key>
+		<string>&lt;p class="center"&gt;calotte bleu terne&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>EndPoint</key>
+		<string>{0.77939130223656339, 0.71336090016925957}</string>
+		<key>StartPoint</key>
+		<string>{0.78480981658801818, 0.74778828752312598}</string>
+		<key>Type</key>
+		<string>line</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.52916478263678057</real>
+		<key>Frame</key>
+		<string>{{0.65321363858767278, 0.64828378978754742}, {0.17096430111682406, 0.058496300055663225}}</string>
+		<key>Text</key>
+		<string>&lt;p class="right"&gt;pas de blanc&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.33980186520473693</real>
+		<key>Frame</key>
+		<string>{{0.091649648858599803, 0.4227389108165418}, {0.17698859378036874, 0.091094796920436136}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;se suspend souvent la tête en bas&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+</array>
+</plist>

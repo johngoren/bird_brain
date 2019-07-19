@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>FontScale</key>
+		<real>0.52888720311831572</real>
+		<key>Frame</key>
+		<string>{{0.88898489283676196, 0.14128354132470666}, {0.10517660042259502, 0.10227052510757337}}</string>
+		<key>Text</key>
+		<string>&lt;p class="right"&gt;&lt;b&gt;été&lt;/b&gt;&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.57882999253675116</real>
+		<key>Frame</key>
+		<string>{{0.787343570983009, 0.71694839430403412}, {0.066792788384606852, 0.093446387856537527}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;variante&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.23966942434340741</real>
+		<key>Frame</key>
+		<string>{{0.63675606272639473, 0.36977728050030439}, {0.097949287492266446, 0.22568407352656039}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;gorge sombre pointillée de pâle&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>EndPoint</key>
+		<string>{0.63873803731500811, 0.60648382499721687}</string>
+		<key>StartPoint</key>
+		<string>{0.62105209770619385, 0.66019252004268059}</string>
+		<key>Type</key>
+		<string>line</string>
+	</dict>
+	<dict>
+		<key>EndPoint</key>
+		<string>{0.55041402826595387, 0.84152320605753739}</string>
+		<key>StartPoint</key>
+		<string>{0.56928025871439147, 0.78423005224172981}</string>
+		<key>Type</key>
+		<string>line</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.52888720311831572</real>
+		<key>Frame</key>
+		<string>{{0.33780757464829475, 0.76689096925900935}, {0.20701161253457678, 0.10227052510757337}}</string>
+		<key>Text</key>
+		<string>&lt;p class="right"&gt;chamois roussâtre pâle&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.576967434653615</real>
+		<key>Frame</key>
+		<string>{{0.45349148981761062, 0.12207773284729122}, {0.11152391017755933, 0.093748050127055935}}</string>
+		<key>Text</key>
+		<string>&lt;p class="center"&gt;&lt;b&gt;automne&lt;/b&gt;&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.15727985715794224</real>
+		<key>Frame</key>
+		<string>{{0.23915717096660402, 0.12801622430270865}, {0.16176135739429365, 0.34390654317080538}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;le 1er hiver de profil peut sembler avoir la gorge pâle (comparer avec l’Accenteur montanelle)&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>EndPoint</key>
+		<string>{0.23628096630931208, 0.44982880531988961}</string>
+		<key>StartPoint</key>
+		<string>{0.21175158463624566, 0.52431987236386113}</string>
+		<key>Type</key>
+		<string>line</string>
+	</dict>
+</array>
+</plist>

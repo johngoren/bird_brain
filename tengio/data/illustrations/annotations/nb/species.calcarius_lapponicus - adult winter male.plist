@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>EndPoint</key>
+		<string>{0.39726919555827944, 0.61531603117780453}</string>
+		<key>StartPoint</key>
+		<string>{0.43906122309663809, 0.53509849821601707}</string>
+		<key>Type</key>
+		<string>line</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.39884853906872797</real>
+		<key>Frame</key>
+		<string>{{0.29447818053056496, 0.58517822117638651}, {0.17786266956601299, 0.18388576929582756}}</string>
+		<key>Text</key>
+		<string>&lt;p class="right"&gt;﻿doble vingebånd&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>EndPoint</key>
+		<string>{0.48570163792446053, 0.70089355476328363}</string>
+		<key>StartPoint</key>
+		<string>{0.55906324251676187, 0.56007984115056142}</string>
+		<key>Type</key>
+		<string>line</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.67498635319644229</real>
+		<key>Frame</key>
+		<string>{{0.43303581488684822, 0.76361467787319537}, {0.16520786308536375, 0.10865785669865975}}</string>
+		<key>Text</key>
+		<string>&lt;p class="right"&gt;﻿rødbrun&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>EndPoint</key>
+		<string>{0.6073155724322703, 0.83754426039865149}</string>
+		<key>StartPoint</key>
+		<string>{0.69115919010013671, 0.85304429875648424}</string>
+		<key>Type</key>
+		<string>line</string>
+	</dict>
+	<dict>
+		<key>EndPoint</key>
+		<string>{0.8589216573734928, 0.43174859879577421}</string>
+		<key>StartPoint</key>
+		<string>{0.77929095019272632, 0.4837155160066256}</string>
+		<key>Type</key>
+		<string>line</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.37827198688607916</real>
+		<key>Frame</key>
+		<string>{{0.86810152172770849, 0.34450900371400689}, {0.13189847827229148, 0.19388845323420129}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;﻿mørk-flekket&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.6019789697576764</real>
+		<key>Frame</key>
+		<string>{{0.1567603118259388, 0.0028875648527272352}, {0.25243143979926846, 0.12183576856296764}}</string>
+		<key>Text</key>
+		<string>&lt;p class="right"&gt;&lt;b&gt;ad. &lt;/b&gt;♂&lt;b&gt; vinter &lt;/b&gt;&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+</array>
+</plist>

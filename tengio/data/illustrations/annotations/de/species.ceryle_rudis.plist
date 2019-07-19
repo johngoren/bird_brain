@@ -1,0 +1,126 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>FontScale</key>
+		<real>0.61102029399881896</real>
+		<key>Frame</key>
+		<string>{{0.80756654958942431, 0.87500538447194742}, {0.087652044200566617, 0.065346232926090597}}</string>
+		<key>Text</key>
+		<string>&lt;p class="right"&gt;rüttelt oft&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>EndPoint</key>
+		<string>{0.87437268426757719, 0.22207168402276731}</string>
+		<key>StartPoint</key>
+		<string>{0.91112533001963014, 0.29969509960462287}</string>
+		<key>Type</key>
+		<string>line</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.49053913416986805</real>
+		<key>Frame</key>
+		<string>{{0.56284175311004858, 0.15737636742792485}, {0.30516098445506423, 0.081395900292001194}}</string>
+		<key>Text</key>
+		<string>&lt;p class="right"&gt;große weiße Flecke auf Handschwingenbasen&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>EndPoint</key>
+		<string>{0.18290214648281447, 0.60268802137708011}</string>
+		<key>StartPoint</key>
+		<string>{0.20775738025843504, 0.58147538504510465}</string>
+		<key>Type</key>
+		<string>line</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.38863581371080946</real>
+		<key>Frame</key>
+		<string>{{0.14776755519597046, 0.56772257400051063}, {0.060065741331581476, 0.10273853578488315}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;schwarzweiß&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.72307873367070741</real>
+		<key>Frame</key>
+		<string>{{0.028585761976707681, 0.26924712177296395}, {0.074853284194943789, 0.055219262571202209}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;recht lang&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>EndPoint</key>
+		<string>{0.071410437128608673, 0.27883748463211805}</string>
+		<key>StartPoint</key>
+		<string>{0.094684631723721033, 0.22546779234714262}</string>
+		<key>Type</key>
+		<string>line</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.6064498218664689</real>
+		<key>Frame</key>
+		<string>{{0.2179015543142156, 0.23920280510315794}, {0.031553949467967544, 0.065838710829082728}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;♀&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.78910040203670195</real>
+		<key>Frame</key>
+		<string>{{0.37682228039542581, 0.51091762213038672}, {0.064410041693338971, 0.050599232177755353}}</string>
+		<key>Text</key>
+		<string>&lt;p class="center"&gt;schwarz&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>EndPoint</key>
+		<string>{0.42085633127802674, 0.57648250820943092}</string>
+		<key>StartPoint</key>
+		<string>{0.42085633127802674, 0.6359496719339901}</string>
+		<key>Type</key>
+		<string>line</string>
+	</dict>
+	<dict>
+		<key>EndPoint</key>
+		<string>{0.723088250774784, 0.59389925283511014}</string>
+		<key>StartPoint</key>
+		<string>{0.69883495416549113, 0.627797604394699}</string>
+		<key>Type</key>
+		<string>line</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.16022130870108381</real>
+		<key>Frame</key>
+		<string>{{0.72947326451227745, 0.50362149976335868}, {0.078093285077148217, 0.24920452078385183}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;bei ♂ im Gegensatz zum ♀ doppeltes Brustband&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.6064498218664689</real>
+		<key>Frame</key>
+		<string>{{0.58093138756812213, 0.30504151593224427}, {0.031553949467967544, 0.065838710829082728}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;♂&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+</array>
+</plist>

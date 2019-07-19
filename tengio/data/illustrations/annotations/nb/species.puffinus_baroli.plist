@@ -1,0 +1,156 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>FontScale</key>
+		<real>0.7273768613974726</real>
+		<key>Frame</key>
+		<string>{{0.03756432189047889, 0.090949366993183428}, {0.16429501444477751, 0.07237741145792638}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;﻿smalt vingebånd&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>EndPoint</key>
+		<string>{0.10157297895410645, 0.23570418990903827}</string>
+		<key>StartPoint</key>
+		<string>{0.080548844283068174, 0.16332677845110963}</string>
+		<key>Type</key>
+		<string>line</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.39379844961240423</real>
+		<key>Frame</key>
+		<string>{{0.061151717269394869, 0.36031272303763157}, {0.13202277946455307, 0.13368679951420936}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;﻿lys hodeside, mørkt øye står klart fram&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.24541062801931859</real>
+		<key>Frame</key>
+		<string>{{0.76708256769499084, 0.72095618219224278}, {0.23291743230500908, 0.21452067829024796}}</string>
+		<key>Text</key>
+		<string>&lt;p class="right"&gt;﻿sølvaktig vingefelt (særlig på vingen lengst bort) typisk, ofte synlig på svært langt hold&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.2694491250454833</real>
+		<key>Frame</key>
+		<string>{{0.59049029446113077, 0.72946819305217059}, {0.13194087288080522, 0.1953825397408632}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;﻿betraktelig mindre og mer tettbygget enn havlire&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.34409198375471689</real>
+		<key>Frame</key>
+		<string>{{0.57448430934671635, 0.16332677845111285}, {0.109357525239745, 0.15299878191834884}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;﻿HAVLIRE (for sammenligning)&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>EndPoint</key>
+		<string>{0.80748854752539945, 0.91100781315480639}</string>
+		<key>StartPoint</key>
+		<string>{0.75978860592046737, 0.87082137703411744}</string>
+		<key>Type</key>
+		<string>line</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.20550161812297801</real>
+		<key>Frame</key>
+		<string>{{0.74725435070723101, 0.076772348254006015}, {0.094388013237465263, 0.25618121581327558}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;﻿lyse dekker-spisser sees på nært hold&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>EndPoint</key>
+		<string>{0.86181269950245698, 0.28569683493667763}</string>
+		<key>StartPoint</key>
+		<string>{0.82764844920267688, 0.30808160136696366}</string>
+		<key>Type</key>
+		<string>line</string>
+	</dict>
+	<dict>
+		<key>EndPoint</key>
+		<string>{0.91981955851129205, 0.65877627544144723}</string>
+		<key>StartPoint</key>
+		<string>{0.90838451462066327, 0.77380910293041971}</string>
+		<key>Type</key>
+		<string>line</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.24541062801931859</real>
+		<key>Frame</key>
+		<string>{{0.76708256769499084, 0.72095618219224278}, {0.23291743230500908, 0.21452067829024796}}</string>
+		<key>Text</key>
+		<string>&lt;p class="right"&gt;﻿sølvaktig vingefelt (særlig på vingen lengst bort) typisk, ofte synlig på svært langt hold&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.35763398142264569</real>
+		<key>Frame</key>
+		<string>{{0.29887180009925612, 0.70230221016700589}, {0.095767378998710712, 0.14720540305739077}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;﻿relativt lite spisse vinger&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.20780403676768963</real>
+		<key>Frame</key>
+		<string>{{0.42353865365792576, 0.66499426611652812}, {0.12890413113074545, 0.25334278968408164}}</string>
+		<key>Text</key>
+		<string>&lt;p class="right"&gt;﻿rundt hode og lite nebb gir «yndig» utseende&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.21492638348282025</real>
+		<key>Frame</key>
+		<string>{{0.33463230099359259, 0.075943282830652048}, {0.15252677867402206, 0.24494737932696892}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;﻿iøynefallende hvit undervinge, nokså lite svart i vingespisssen&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>EndPoint</key>
+		<string>{0.50296023122557743, 0.19242697481048282}</string>
+		<key>StartPoint</key>
+		<string>{0.47593194566590463, 0.19242697481048282}</string>
+		<key>Type</key>
+		<string>line</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.24540822325383713</real>
+		<key>Frame</key>
+		<string>{{0.12331677405664108, 0.72675964015565642}, {0.15358852794247704, 0.21452278038737976}}</string>
+		<key>Text</key>
+		<string>&lt;p class="right"&gt;﻿løfter iblant hodet høyt i flukten&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+</array>
+</plist>

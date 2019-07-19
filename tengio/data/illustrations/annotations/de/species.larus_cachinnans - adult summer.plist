@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>FontScale</key>
+		<real>0.28549873140598708</real>
+		<key>Frame</key>
+		<string>{{0.62810647022693988, 0.81026068264980422}, {0.28824418047073891, 0.17159400949399059}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;ad. mit mehrheitlich (ca. 75 %) dunklen Iriden&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.41412430806561684</real>
+		<key>Frame</key>
+		<string>{{0.76998000741649586, 0.3181270350038653}, {0.18653053485981849, 0.11829750409058071}}</string>
+		<key>Text</key>
+		<string>&lt;p class="center"&gt;&lt;b&gt;PK&lt;/b&gt;&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.17675856703877518</real>
+		<key>Frame</key>
+		<string>{{0.60174709435201845, 0.069288868235362289}, {0.3146035563456584, 0.27715698790800003}}</string>
+		<key>Text</key>
+		<string>&lt;p class="right"&gt;aufrechte Haltung, „volle“ Brust und lange Beine charakte-ristisch&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.28475492058213392</real>
+		<key>Frame</key>
+		<string>{{0.085924017319548865, 0.031968784600548139}, {0.44958232783351781, 0.17204223171016536}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;Beinfarbe variiert zwischen matt gräulich, fleischfarben und leuchtend gelb&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>EndPoint</key>
+		<string>{0.1887290540655738, 0.33680537018838008}</string>
+		<key>StartPoint</key>
+		<string>{0.17355315863454349, 0.3762480033758096}</string>
+		<key>Type</key>
+		<string>line</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.46680296178855069</real>
+		<key>Frame</key>
+		<string>{{0.077243753707915544, 0.33147689300476169}, {0.16698399529738414, 0.10494764608968425}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;viel Weiß&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+</array>
+</plist>

@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>FontScale</key>
+		<real>0.34883572386677358</real>
+		<key>Frame</key>
+		<string>{{0.36750222038673808, 0.78680129913921848}, {0.26334967461245234, 0.20138882777278538}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;1. vinter ♂ o﻿fte mørkflekket her&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>EndPoint</key>
+		<string>{0.48070476299290943, 0.84291521607412145}</string>
+		<key>StartPoint</key>
+		<string>{0.49089054686059003, 0.6263482635497486}</string>
+		<key>Type</key>
+		<string>line</string>
+	</dict>
+	<dict>
+		<key>EndPoint</key>
+		<string>{0.7211472931641113, 0.78269517701592073}</string>
+		<key>StartPoint</key>
+		<string>{0.698350174819245, 0.7315585950319925}</string>
+		<key>Type</key>
+		<string>line</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.26857145198900045</real>
+		<key>Frame</key>
+		<string>{{0.72930039395518376, 0.70607739969222572}, {0.18589720196372456, 0.26157514879011706}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;﻿lyse bremmer skjuler svarte fjærsentra&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>EndPoint</key>
+		<string>{0.7081492326830674, 0.29958382943850648}</string>
+		<key>StartPoint</key>
+		<string>{0.70317182601983164, 0.40945051063031995}</string>
+		<key>Type</key>
+		<string>line</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.63609069261828344</real>
+		<key>Frame</key>
+		<string>{{0.63761493771723288, 0.17246574792709105}, {0.093744023597793963, 0.11044276913663066}}</string>
+		<key>Text</key>
+		<string>&lt;p class="right"&gt;﻿gult&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.49473578258681428</real>
+		<key>Frame</key>
+		<string>{{0.15826064985680513, 0.0064444842189853588}, {0.22462361434444475, 0.14199825439647296}}</string>
+		<key>Text</key>
+		<string>&lt;p class="right"&gt;&lt;b&gt;ad. &lt;/b&gt;♂&lt;b&gt; vinter&lt;/b&gt;&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+</array>
+</plist>

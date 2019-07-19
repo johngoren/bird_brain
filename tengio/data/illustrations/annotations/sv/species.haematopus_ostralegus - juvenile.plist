@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>EndPoint</key>
+		<string>{0.38528752191639304, 0.92462816918514712}</string>
+		<key>StartPoint</key>
+		<string>{0.42019658773602064, 0.85664619960397714}</string>
+		<key>Type</key>
+		<string>line</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.51528696725597323</real>
+		<key>Frame</key>
+		<string>{{0.058708651454138623, 0.86426139932789625}, {0.37164834602907043, 0.13246916897641992}}</string>
+		<key>Text</key>
+		<string>&lt;p class="right"&gt;brunsvart&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.63999687501525859</real>
+		<key>Frame</key>
+		<string>{{0.068709960817919843, 0.38064413767860944}, {0.22587348658436257, 0.10665620255591257}}</string>
+		<key>Text</key>
+		<string>&lt;p class="right"&gt;gråaktiga&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.56470263842694191</real>
+		<key>Frame</key>
+		<string>{{0.12275726040167204, 0.22777012583320888}, {0.22587373167145208, 0.12087713371930621}}</string>
+		<key>Text</key>
+		<string>&lt;p class="right"&gt;&lt;b&gt;juv.&lt;/b&gt;&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>EndPoint</key>
+		<string>{0.30929181236214548, 0.44026290484446601}</string>
+		<key>StartPoint</key>
+		<string>{0.38359977881447577, 0.40990562610596537}</string>
+		<key>Type</key>
+		<string>line</string>
+	</dict>
+</array>
+</plist>

@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>EndPoint</key>
+		<string>{0.36765308650348538, 0.40112870936881306}</string>
+		<key>StartPoint</key>
+		<string>{0.19204545736039619, 0.5066425571070089}</string>
+		<key>Type</key>
+		<string>line</string>
+	</dict>
+	<dict>
+		<key>EndPoint</key>
+		<string>{0.26805043603777295, 0.34090738933897935}</string>
+		<key>StartPoint</key>
+		<string>{0.12586447514050006, 0.42971057972487392}</string>
+		<key>Type</key>
+		<string>line</string>
+	</dict>
+	<dict>
+		<key>EndPoint</key>
+		<string>{0.34685069078114578, 0.41465963964871522}</string>
+		<key>StartPoint</key>
+		<string>{0.25060308895234584, 0.35306813770373358}</string>
+		<key>Type</key>
+		<string>line</string>
+	</dict>
+	<dict>
+		<key>EndPoint</key>
+		<string>{0.30539251762532338, 0.38720087427248029}</string>
+		<key>StartPoint</key>
+		<string>{0.31248758894682166, 0.31762690933142779}</string>
+		<key>Type</key>
+		<string>line</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.20230983671843902</real>
+		<key>Frame</key>
+		<string>{{0.25064851610774275, 0.1406339863779392}, {0.25636227823682145, 0.16969424571828803}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;Handschwingenprojektion kurz&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.21048078878908921</real>
+		<key>Frame</key>
+		<string>{{0.093481471859653761, 0.7767015496177827}, {0.42244828049275623, 0.16310664427301474}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;freundlicher Gesichtsausdruck mit hervor-tretendem Auge&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.39143808820337961</real>
+		<key>Frame</key>
+		<string>{{0.78862600021369744, 0.89964379630945257}, {0.1495877536949225, 0.087704329695909036}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;Zügel hell&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>EndPoint</key>
+		<string>{0.77106569869299557, 0.93139160053553227}</string>
+		<key>StartPoint</key>
+		<string>{0.7157832679796462, 0.87462411092845671}</string>
+		<key>Type</key>
+		<string>line</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.30685593476290701</real>
+		<key>Frame</key>
+		<string>{{0.80488553865879731, 0.70952532865454454}, {0.19511446134120286, 0.11187926076727607}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;gedrungen&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>EndPoint</key>
+		<string>{0.86797254782579081, 0.83731976061523117}</string>
+		<key>StartPoint</key>
+		<string>{0.86797254782579081, 0.86164868473254863}</string>
+		<key>Type</key>
+		<string>line</string>
+	</dict>
+</array>
+</plist>

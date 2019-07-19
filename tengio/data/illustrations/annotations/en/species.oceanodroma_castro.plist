@@ -1,0 +1,181 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>FontScale</key>
+		<real>0.28256475137238746</real>
+		<key>Frame</key>
+		<string>{{0.81103430419226263, 0.061484420784899234}, {0.10733128735142884, 0.21341371921649585}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;length of rump patch greater than width&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.6064498218664689</real>
+		<key>Frame</key>
+		<string>{{0.79827716968677542, 0.50335295524989943}, {0.076923166765899428, 0.099436412272775818}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;forked&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>EndPoint</key>
+		<string>{0.65613728793244808, 0.58834620010261363}</string>
+		<key>StartPoint</key>
+		<string>{0.66130401514321213, 0.50795407873089971}</string>
+		<key>Type</key>
+		<string>line</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.25729922708677466</real>
+		<key>Frame</key>
+		<string>{{0.63025089419691782, 0.095751264290641333}, {0.094305072143206811, 0.234369901505877}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;width of rump patch greater than length&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.27720940725283399</real>
+		<key>Frame</key>
+		<string>{{0.59563575447567818, 0.42969713471756543}, {0.079870637348461157, 0.21753660926400312}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;square or slightly notched&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>EndPoint</key>
+		<string>{0.83554902889616511, 0.5422316543632234}</string>
+		<key>StartPoint</key>
+		<string>{0.84079077103371969, 0.45706552853403554}</string>
+		<key>Type</key>
+		<string>line</string>
+	</dict>
+	<dict>
+		<key>EndPoint</key>
+		<string>{0.87681859455315758, 0.27792428519031515}</string>
+		<key>StartPoint</key>
+		<string>{0.88311493219148485, 0.36486982581149219}</string>
+		<key>Type</key>
+		<string>line</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.16654428690036996</real>
+		<key>Frame</key>
+		<string>{{0.89850427350427176, 0.47244831722811231}, {0.10149572649572655, 0.36208503835343331}}</string>
+		<key>Text</key>
+		<string>&lt;p class="right"&gt;LEACH’S STORM PETREL&lt;br/&gt;(to com-&lt;/p&gt;&lt;p class="right"&gt;pare)&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>EndPoint</key>
+		<string>{0.69678632218261505, 0.33316268086338779}</string>
+		<key>StartPoint</key>
+		<string>{0.7041290559061204, 0.42579869087170746}</string>
+		<key>Type</key>
+		<string>line</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.39205942469714283</real>
+		<key>Frame</key>
+		<string>{{0.49752398977252482, 0.72477005805510064}, {0.1520352659741698, 0.15381136305152857}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;slightly shorter wings than Leach’s&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>EndPoint</key>
+		<string>{0.43719704246923197, 0.29286283289342507}</string>
+		<key>StartPoint</key>
+		<string>{0.44183863481117669, 0.39444892875102883}</string>
+		<key>Type</key>
+		<string>line</string>
+	</dict>
+	<dict>
+		<key>EndPoint</key>
+		<string>{0.39526832342641977, 0.64146272572303376}</string>
+		<key>StartPoint</key>
+		<string>{0.44102166909170254, 0.62600013178076941}</string>
+		<key>Type</key>
+		<string>line</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.25806349993896482</real>
+		<key>Frame</key>
+		<string>{{0.37777777777777616, 0.038632388538362629}, {0.13247863247863251, 0.23367579887945447}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;white more exten-
+sive on side than in Leach’s&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.30973693911695399</real>
+		<key>Frame</key>
+		<string>{{0.29239588245706993, 0.48346744064974856}, {0.099717939183017024, 0.19469164601996564}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;inconspicuous&lt;br/&gt;pale panel&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.3911234893320728</real>
+		<key>Frame</key>
+		<string>{{0.30084134760292403, 0.11820485548372194}, {0.047008622360591716, 0.15417942454145694}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;heavy bill&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>EndPoint</key>
+		<string>{0.29626472650373203, 0.2342946960371165}</string>
+		<key>StartPoint</key>
+		<string>{0.27523241124884795, 0.21179876664552863}</string>
+		<key>Type</key>
+		<string>line</string>
+	</dict>
+	<dict>
+		<key>EndPoint</key>
+		<string>{0.047059225511542881, 0.19820726923904974}</string>
+		<key>StartPoint</key>
+		<string>{0.063146343850825806, 0.21400828032105201}</string>
+		<key>Type</key>
+		<string>line</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.36551570593597527</real>
+		<key>Frame</key>
+		<string>{{0, 0.02729678295252759}, {0.065895548618530322, 0.16498113085304336}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;slightly&lt;br/&gt;indented&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.25331218619105378</real>
+		<key>Frame</key>
+		<string>{{0.026890636418732895, 0.53184265344353088}, {0.16359050638428874, 0.23805879778868444}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;somewhat less contrast on upperwing than Leach’s&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+</array>
+</plist>

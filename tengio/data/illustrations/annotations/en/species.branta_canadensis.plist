@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>FontScale</key>
+		<real>0.39687499999999404</real>
+		<key>Frame</key>
+		<string>{{0.027962063156679207, 0.12125673857485296}, {0.11123594467438133, 0.11394592998089431}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;small, rounded feathers in juv.&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>EndPoint</key>
+		<string>{0.16159443024933479, 0.34956267577371025}</string>
+		<key>StartPoint</key>
+		<string>{0.11260003575471607, 0.24113847296170943}</string>
+		<key>Type</key>
+		<string>line</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.56664673204262839</real>
+		<key>Frame</key>
+		<string>{{0.069651993700820647, 0}, {0.072903267151570667, 0.079806850377749469}}</string>
+		<key>Text</key>
+		<string>&lt;p class="right"&gt;&lt;b&gt;juv.&lt;/b&gt;&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>EndPoint</key>
+		<string>{0.92168920630493156, 0.43199896246804631}</string>
+		<key>StartPoint</key>
+		<string>{0.90636850441553918, 0.39190581835756466}</string>
+		<key>Type</key>
+		<string>line</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.36363636363636798</real>
+		<key>Frame</key>
+		<string>{{0.85313457468789533, 0.22563299084250182}, {0.042467856928957333, 0.12436130014320707}}</string>
+		<key>Text</key>
+		<string>&lt;p class="right"&gt;long &lt;/p&gt;&lt;p class="right"&gt;neck&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.69174583069453244</real>
+		<key>Frame</key>
+		<string>{{0.61124863693364917, 0.10120527686359407}, {0.072903267151570667, 0.065374143152785308}}</string>
+		<key>Text</key>
+		<string>&lt;p class="right"&gt;&lt;b&gt;ad.&lt;/b&gt;&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>EndPoint</key>
+		<string>{0.81291063072586045, 0.34233659269216954}</string>
+		<key>StartPoint</key>
+		<string>{0.79432063954090049, 0.39277716401977142}</string>
+		<key>Type</key>
+		<string>line</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.67790953068915738</real>
+		<key>Frame</key>
+		<string>{{0.76007827149981011, 0.27260341458059956}, {0.086408904932995523, 0.066708445469403757}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;light breast&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.1660130718954238</real>
+		<key>Frame</key>
+		<string>{{0.37268029446929779, 0.6991762521966729}, {0.1451523990280065, 0.2724019888605731}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;ssp. &lt;i&gt;parvipes&lt;/i&gt; can be very similar to &lt;i&gt;hutch-&lt;/i&gt;&lt;/p&gt;&lt;p&gt;&lt;i&gt;insii&lt;/i&gt; race of Cackling Goose, but note &lt;/p&gt;&lt;p&gt;shape of head &lt;/p&gt;&lt;p&gt;and bill&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.41613505424774755</real>
+		<key>Frame</key>
+		<string>{{0.37146682441720014, 0.1682365095124477}, {0.072903267151570667, 0.10867214982144591}}</string>
+		<key>Text</key>
+		<string>&lt;p class="right"&gt;&lt;b&gt;ad.&lt;/b&gt;&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.31552795031055175</real>
+		<key>Frame</key>
+		<string>{{0.42371710301654092, 0.053423302133104159}, {0.19695905800142757, 0.14332261505409474}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;&lt;b&gt;&lt;i&gt;parvipes&lt;/i&gt;&lt;/b&gt; – smallest race of Canada Goose, known also &lt;/p&gt;&lt;p&gt;as ’Lesser Canada Goose’&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+</array>
+</plist>

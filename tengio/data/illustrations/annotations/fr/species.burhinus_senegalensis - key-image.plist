@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>FontScale</key>
+		<real>0.31025448749307311</real>
+		<key>Frame</key>
+		<string>{{0.55155902856133465, 0.79040851293400438}, {0.43265806573385368, 0.14321477398067348}}</string>
+		<key>Text</key>
+		<string>&lt;p class="right"&gt;bec plus fort avec moins de jaune que l’O. criard&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>EndPoint</key>
+		<string>{0.8968347387194332, 0.70323162631778335}</string>
+		<key>StartPoint</key>
+		<string>{0.8968347387194332, 0.78719951000060329}</string>
+		<key>Type</key>
+		<string>line</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.18405791877908836</real>
+		<key>Frame</key>
+		<string>{{0.70388603653276904, 0.10181138956543281}, {0.28634251144718426, 0.24140784921152972}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;pas de barre alaire blanche bordée de noir&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>EndPoint</key>
+		<string>{0.75062551606865902, 0.34433205359818375}</string>
+		<key>StartPoint</key>
+		<string>{0.64284796364169039, 0.44044330958112587}</string>
+		<key>Type</key>
+		<string>line</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.26807649915283749</real>
+		<key>Frame</key>
+		<string>{{0.060857445482396792, 0}, {0.48091665761425451, 0.16574756251751002}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;rectrices externes habituellement plus unies que chez l’O. criard&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>EndPoint</key>
+		<string>{0.1594794934850696, 0.16813403663528606}</string>
+		<key>StartPoint</key>
+		<string>{0.10699443183230441, 0.21395369178934537}</string>
+		<key>Type</key>
+		<string>line</string>
+	</dict>
+</array>
+</plist>

@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>FontScale</key>
+		<real>0.6109775709502242</real>
+		<key>Frame</key>
+		<string>{{0.3557610908970768, 0.048661525208551354}, {0.057930019698762922, 0.048252769116212131}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;♂&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.39001919385796124</real>
+		<key>Frame</key>
+		<string>{{0.62002315371030825, 0.071930330361226535}, {0.20849483224067822, 0.07558950977418287}}</string>
+		<key>Text</key>
+		<string>&lt;p class="right"&gt;black ’keel’ in both sexes&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>EndPoint</key>
+		<string>{0.59340715111911679, 0.15926895356544862}</string>
+		<key>StartPoint</key>
+		<string>{0.65924795148299919, 0.13727013013956418}</string>
+		<key>Type</key>
+		<string>line</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.27782335247470719</real>
+		<key>Frame</key>
+		<string>{{0.76693470983905709, 0.16733851006852421}, {0.23306529016094296, 0.10611548454671119}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;broad, cream-&lt;/p&gt;&lt;p&gt;coloured &lt;/p&gt;&lt;p&gt;breast band &lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>EndPoint</key>
+		<string>{0.70095212014468611, 0.22185213014665056}</string>
+		<key>StartPoint</key>
+		<string>{0.75528928160933517, 0.20369691918447647}</string>
+		<key>Type</key>
+		<string>line</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.6109775709502242</real>
+		<key>Frame</key>
+		<string>{{0.60187077215412954, 0.6593302539084438}, {0.057930019698762922, 0.048252769116212131}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;♂&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+</array>
+</plist>

@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>FontScale</key>
+		<real>0.20386878684342891</real>
+		<key>Frame</key>
+		<string>{{0.016504167227652952, 0.15978383779955366}, {0.084891210230439773, 0.24503512064554955}}</string>
+		<key>Text</key>
+		<string>&lt;p class="center"&gt;uppträder nästan alltid parvis&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.28484830923473675</real>
+		<key>Frame</key>
+		<string>{{0.20088073978690923, 0.70716356292435623}, {0.11480943624247616, 0.17537408915730893}}</string>
+		<key>Text</key>
+		<string>&lt;p class="center"&gt;trivs i öppnaenbuskmarker&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.45105112890108234</real>
+		<key>Frame</key>
+		<string>{{0.43828133926956753, 0.7451429458223211}, {0.12227698803967003, 0.1107524393115903}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;♀&lt;b&gt; / 1:a vinter&lt;/b&gt;&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.48205130719835726</real>
+		<key>Frame</key>
+		<string>{{0.66615814596940293, 0.55304693141992356}, {0.052875507737705905, 0.10363007429722755}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;grå&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>EndPoint</key>
+		<string>{0.67440088785027985, 0.66242438569428885}</string>
+		<key>StartPoint</key>
+		<string>{0.6579155825971621, 0.71119614305523304}</string>
+		<key>Type</key>
+		<string>line</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.34949488844527377</real>
+		<key>Frame</key>
+		<string>{{0.73561442842282032, 0.78923144742377327}, {0.097925553861723968, 0.14293488812459046}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;brun, ostreckad&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>EndPoint</key>
+		<string>{0.78965661537397969, 0.83692189493661717}</string>
+		<key>StartPoint</key>
+		<string>{0.81007400418013287, 0.77935107861441477}</string>
+		<key>Type</key>
+		<string>line</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.41182773063037981</real>
+		<key>Frame</key>
+		<string>{{0.89678095102690492, 0.23766119440309189}, {0.10321904897309515, 0.12130075044625062}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;♂&lt;b&gt; sommar&lt;/b&gt;&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+</array>
+</plist>

@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>FontScale</key>
+		<real>0.26478835301881398</real>
+		<key>Frame</key>
+		<string>{{0.22166322119005635, 0.77737734724065266}, {0.10392154074392597, 0.14799031027363069}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;♀ ﻿kikker ut av reirhullet i en gammel osp&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.384848621276212</real>
+		<key>Frame</key>
+		<string>{{0.21690484002889121, 0.6410649602906614}, {0.17067063178117534, 0.10182214084631848}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;﻿tre nettopp uthoppete unger, ca. 4 uker gamle&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.26651845626211612</real>
+		<key>Frame</key>
+		<string>{{0.51446164871711098, 0.45593366828134924}, {0.051826623156609609, 0.14702963190496307}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;﻿jevnt mørkebrun&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>EndPoint</key>
+		<string>{0.51163244878907832, 0.50048289168395999}</string>
+		<key>StartPoint</key>
+		<string>{0.49048379192505565, 0.45115074932647264}</string>
+		<key>Type</key>
+		<string>line</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.49715839767766323</real>
+		<key>Frame</key>
+		<string>{{0.7865499677398452, 0.86697266421086039}, {0.14028944893482748, 0.07882017220898796}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;﻿«forbauset» oppsyn&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+</array>
+</plist>

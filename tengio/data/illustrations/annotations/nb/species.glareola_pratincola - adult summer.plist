@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>EndPoint</key>
+		<string>{0.92653345160704803, 0.33695158652843543}</string>
+		<key>StartPoint</key>
+		<string>{0.90753527331758532, 0.37096183988468656}</string>
+		<key>Type</key>
+		<string>line</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.33356136091964972</real>
+		<key>Frame</key>
+		<string>{{0.86230730701165059, 0.24838024825402427}, {0.12815564025446399, 0.085785875682038618}}</string>
+		<key>Text</key>
+		<string>&lt;p class="right"&gt;﻿tydelig rødt&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.19843750000000029</real>
+		<key>Frame</key>
+		<string>{{0.66180201870837918, 0.2008390350581388}, {0.16071181305995599, 0.14420083623400134}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;﻿mellom-     brun&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.41557914494793707</real>
+		<key>Frame</key>
+		<string>{{0.86060194728411088, 0.024457348249975298}, {0.12452383694136157, 0.068855364346470035}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;&lt;b&gt;ad. sommer&lt;/b&gt;&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.24285339149574486</real>
+		<key>Frame</key>
+		<string>{{-3.3228985049341018e-18, 0.035796671712180844}, {0.32894227640449741, 0.11782768716526677}}</string>
+		<key>Text</key>
+		<string>&lt;p class="right"&gt;﻿stjerten lengre enn vingespissene (med mindre den er kraftig slitt eller knekt)&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>EndPoint</key>
+		<string>{0.33611658886118512, 0.11619956169597458}</string>
+		<key>StartPoint</key>
+		<string>{0.38585599188360264, 0.1109478539287175}</string>
+		<key>Type</key>
+		<string>line</string>
+	</dict>
+	<dict>
+		<key>EndPoint</key>
+		<string>{0.71129281195908411, 0.28794663530483883}</string>
+		<key>StartPoint</key>
+		<string>{0.71129281195908411, 0.25068742046925796}</string>
+		<key>Type</key>
+		<string>line</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.39183439193403991</real>
+		<key>Frame</key>
+		<string>{{0.43020738773946926, 0.85125779725795947}, {0.12760478819238077, 0.07302792717848415}}</string>
+		<key>Text</key>
+		<string>&lt;p class="right"&gt;﻿hvit bakkant&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.18838571699599263</real>
+		<key>Frame</key>
+		<string>{{0.50846619201952592, 0.56510766188673267}, {0.21457759769228121, 0.15189502631345128}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;﻿tydelig kontrast mellom lysere dekkere og mørke svingfjær&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.51879294512523344</real>
+		<key>Frame</key>
+		<string>{{0.69416886841713166, 0.92783652897837465}, {0.1901410403203298, 0.055156597076078652}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;&lt;b&gt;ad. sommer&lt;/b&gt;&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>EndPoint</key>
+		<string>{0.56671324263155198, 0.87808436790080457}</string>
+		<key>StartPoint</key>
+		<string>{0.62011999052770261, 0.87808436790080457}</string>
+		<key>Type</key>
+		<string>line</string>
+	</dict>
+</array>
+</plist>

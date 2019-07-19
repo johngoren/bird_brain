@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>FontScale</key>
+		<real>0.28059719385679882</real>
+		<key>Frame</key>
+		<string>{{0.61838272318806675, 0.62088678264751296}, {0.075674534298469237, 0.11910957034128949}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;&lt;b&gt;&lt;i&gt;pica&lt;/i&gt;&lt;/b&gt;&lt;/p&gt;&lt;p&gt;(Europa)&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.34557823129251597</real>
+		<key>Frame</key>
+		<string>{{0.60981079267780691, 0.51295670140267879}, {0.17497342691043519, 0.096712721383670763}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;skjæra bør være den fuglen som flest mennesker kjenner igjen&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.21873525877797972</real>
+		<key>Frame</key>
+		<string>{{0.35483259554474272, 0.015924388401650932}, {0.18561807748767431, 0.15279571929086466}}</string>
+		<key>Text</key>
+		<string>&lt;p class="center"&gt;﻿grønn og blå metallglans avhengig av lysvinkelen og fjærslitasjen&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.27464472950829943</real>
+		<key>Frame</key>
+		<string>{{0.58860636873966654, 0.14224403273101066}, {0.098760434522143892, 0.12169107071193536}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;﻿mangler grønn glans&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>EndPoint</key>
+		<string>{0.60418982021429557, 0.27204439567801048}</string>
+		<key>StartPoint</key>
+		<string>{0.58965852732551893, 0.3213929065414825}</string>
+		<key>Type</key>
+		<string>line</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.18024387957529023</real>
+		<key>Frame</key>
+		<string>{{0.90735065335085985, 0.20729186905673339}, {0.063862020998750227, 0.18542549837479558}}</string>
+		<key>Text</key>
+		<string>&lt;p class="right"&gt;﻿blå øyevokshud&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.33589945978083802</real>
+		<key>Frame</key>
+		<string>{{0.88432465800840288, 0.0025503799778343705}, {0.11567534199159699, 0.099499449094265655}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;&lt;b&gt;&lt;i&gt;mauritanica&lt;/i&gt;&lt;/b&gt;&lt;/p&gt;&lt;p&gt;(﻿NV-Afrika)&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>EndPoint</key>
+		<string>{0.7757930674777499, 0.81276649632811182}</string>
+		<key>StartPoint</key>
+		<string>{0.8027461136023053, 0.82046009738128167}</string>
+		<key>Type</key>
+		<string>line</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.29152454076230921</real>
+		<key>Frame</key>
+		<string>{{0.68854883478750328, 0.74634598428802856}, {0.083072895162840929, 0.11464493216200577}}</string>
+		<key>Text</key>
+		<string>&lt;p class="right"&gt;﻿nesten hele hånden er hvit&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+</array>
+</plist>

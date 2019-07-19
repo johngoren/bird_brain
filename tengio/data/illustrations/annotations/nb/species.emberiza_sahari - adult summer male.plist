@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>EndPoint</key>
+		<string>{0.87686184671531475, 0.60884923161163129}</string>
+		<key>StartPoint</key>
+		<string>{0.82958939199099047, 0.64498049016288406}</string>
+		<key>Type</key>
+		<string>line</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.35277777777778263</real>
+		<key>Frame</key>
+		<string>{{0.85698136992056262, 0.45644890356177326}, {0.13606399475560252, 0.15091888545627186}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;﻿flekkete&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>EndPoint</key>
+		<string>{0.78427115652297774, 0.3876580891217955}</string>
+		<key>StartPoint</key>
+		<string>{0.68960782180636404, 0.43214143914009351}</string>
+		<key>Type</key>
+		<string>line</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.41715758010068366</real>
+		<key>Frame</key>
+		<string>{{0.79826053395280139, 0.27845875429422978}, {0.20173946604719889, 0.12762761981482704}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;﻿mettet rustbeige&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.61677458214124381</real>
+		<key>Frame</key>
+		<string>{{0.61646673690075227, 0.091961234298968603}, {0.31130920175976223, 0.086321373444294983}}</string>
+		<key>Text</key>
+		<string>&lt;p class="right"&gt;&lt;b&gt;ad. &lt;/b&gt;♂&lt;b&gt; sommer&lt;/b&gt;&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+</array>
+</plist>

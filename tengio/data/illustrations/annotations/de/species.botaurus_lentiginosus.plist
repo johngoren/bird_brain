@@ -1,0 +1,144 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>EndPoint</key>
+		<string>{0.75497683183072306, 0.43382157010729266}</string>
+		<key>StartPoint</key>
+		<string>{0.73099435289817649, 0.40598645676708417}</string>
+		<key>Type</key>
+		<string>line</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.34118045555384685</real>
+		<key>Frame</key>
+		<string>{{0.65666401878536318, 0.25186201777040534}, {0.086321573579085722, 0.18270262541685858}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;Hinterrandbeige&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.36631104180754803</real>
+		<key>Frame</key>
+		<string>{{0.92156541148315396, 0.096072188177007412}, {0.076219671888055354, 0.17016840295891736}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;kräftig gestreift&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>EndPoint</key>
+		<string>{0.91756437883811059, 0.17589415003050718}</string>
+		<key>StartPoint</key>
+		<string>{0.8926216016764521, 0.18412771457723998}</string>
+		<key>Type</key>
+		<string>line</string>
+	</dict>
+	<dict>
+		<key>EndPoint</key>
+		<string>{0.75392214365587817, 0.78181557094559484}</string>
+		<key>StartPoint</key>
+		<string>{0.78392988849369716, 0.87384494836282567}</string>
+		<key>Type</key>
+		<string>line</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.38450049383549989</real>
+		<key>Frame</key>
+		<string>{{0.74701965660547676, 0.7965269430000157}, {0.073863307429639646, 0.16211829625705532}}</string>
+		<key>Text</key>
+		<string>&lt;p class="right"&gt;ungebändert&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>EndPoint</key>
+		<string>{0.58567872093184836, 0.59333940599508039}</string>
+		<key>StartPoint</key>
+		<string>{0.59092077703246593, 0.54093141679870371}</string>
+		<key>Type</key>
+		<string>line</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.48493436131598783</real>
+		<key>Frame</key>
+		<string>{{0.54934553439520728, 0.58826574957715061}, {0.14566268834497348, 0.12854227281697997}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;brauner Kopf, gelber Überaugenstreif&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.44838788763391457</real>
+		<key>Frame</key>
+		<string>{{0.55153657569415182, 0.014346070251614055}, {0.061350074847558535, 0.13901928818715231}}</string>
+		<key>Text</key>
+		<string>&lt;p class="center"&gt;&lt;b&gt;JK&lt;/b&gt;&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.44239491032509426</real>
+		<key>Frame</key>
+		<string>{{0.28236435449446301, 0.75968580324632651}, {0.10032864357890332, 0.14090253643470046}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;recht einfarbig&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>EndPoint</key>
+		<string>{0.33720271349133346, 0.81870095863196435}</string>
+		<key>StartPoint</key>
+		<string>{0.35027200773087075, 0.77290241641160107}</string>
+		<key>Type</key>
+		<string>line</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.64989009172795664</real>
+		<key>Frame</key>
+		<string>{{0.3741574617639421, 0.27680309641535106}, {0.084100208552056049, 0.095915549050562904}}</string>
+		<key>Text</key>
+		<string>&lt;p class="right"&gt;&lt;b&gt;ad.&lt;/b&gt;&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.22454670844849006</real>
+		<key>Frame</key>
+		<string>{{0.46802730136867676, 0.70799710211452049}, {0.21383197043180277, 0.27760177560076282}}</string>
+		<key>Text</key>
+		<string>&lt;p class="right"&gt;Schnabel schlank mit dunklem First(vgl. Rohr-dommel)&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>EndPoint</key>
+		<string>{0.60788445211183217, 0.90844799427171263}</string>
+		<key>StartPoint</key>
+		<string>{0.58635743988940747, 0.87239247713322166}</string>
+		<key>Type</key>
+		<string>line</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.38241493526044812</real>
+		<key>Frame</key>
+		<string>{{0.06634468360535041, 0.026457076904060954}, {0.16080534744118294, 0.16300243328141453}}</string>
+		<key>Text</key>
+		<string>&lt;p class="center"&gt;häufiger frei sichtbar als heimliche Rohrdommel&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+</array>
+</plist>

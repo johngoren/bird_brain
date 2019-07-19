@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>EndPoint</key>
+		<string>{0.6392738371708524, 0.56889322186801738}</string>
+		<key>StartPoint</key>
+		<string>{0.60627618348277568, 0.55188911431837673}</string>
+		<key>Type</key>
+		<string>line</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.3763995952816041</real>
+		<key>Frame</key>
+		<string>{{0.53227762457058991, 0.53634472572938086}, {0.31303099793660533, 0.11804748692561025}}</string>
+		<key>Text</key>
+		<string>&lt;p class="right"&gt;larger white patch than on Stone Curlew&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>EndPoint</key>
+		<string>{0.38384530045984239, 0.339104050296201}</string>
+		<key>StartPoint</key>
+		<string>{0.33197809595861549, 0.43521530627914312}</string>
+		<key>Type</key>
+		<string>line</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.18405791877908836</real>
+		<key>Frame</key>
+		<string>{{0.37003115997334424, 0.096583386263450074}, {0.099438115090404386, 0.24140784921152972}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;lacks black-bordered whitish band&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.288336909289028</real>
+		<key>Frame</key>
+		<string>{{0.062313863497802414, 0.0064184890043922889}, {0.17999807021082798, 0.15410107021113495}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;usually plainer outer tail than on Stone Curlew&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>EndPoint</key>
+		<string>{0.099360350180341492, 0.16290603333331052}</string>
+		<key>StartPoint</key>
+		<string>{0.07410227589025839, 0.20872568848736264}</string>
+		<key>Type</key>
+		<string>line</string>
+	</dict>
+	<dict>
+		<key>EndPoint</key>
+		<string>{0.45420748145604189, 0.6980036230158061}</string>
+		<key>StartPoint</key>
+		<string>{0.45420748145604189, 0.78197150669862558}</string>
+		<key>Type</key>
+		<string>line</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.39334247664074912</real>
+		<key>Frame</key>
+		<string>{{0.19016165074523347, 0.76312287934411382}, {0.30665536713171476, 0.11296269521227451}}</string>
+		<key>Text</key>
+		<string>&lt;p class="right"&gt;heavier bill  with less yellow than Stone Curlew&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+</array>
+</plist>

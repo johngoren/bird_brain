@@ -1,0 +1,134 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>FontScale</key>
+		<real>0.35705796562642778</real>
+		<key>Frame</key>
+		<string>{{0.35571894028765927, 0.81198515266157512}, {0.10428293966252181, 0.13079593026545713}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;kurze Feder-ohren&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.2678166102663424</real>
+		<key>Frame</key>
+		<string>{{0.06400283743433062, 0.78399169515898315}, {0.12934890462715787, 0.17437950815057954}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;„Gesicht“ dunkel umrahmt&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.27168723888929464</real>
+		<key>Frame</key>
+		<string>{{0.76824154922504595, 0.30228385848148781}, {0.15794197400693649, 0.1718951871413805}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;spärliche pfeilförmige Brustflecke&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.28721990657718321</real>
+		<key>Frame</key>
+		<string>{{0.39166533416933991, 0.60967109064174763}, {0.17048867628843603, 0.1625992060555535}}</string>
+		<key>Text</key>
+		<string>&lt;p class="center"&gt;Irisfarbe variabel, oft gelborange&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.36363636363636365</real>
+		<key>Frame</key>
+		<string>{{0.026089630099937377, 0.52713218690858543}, {0.13301641975989489, 0.12842975412520066}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;kräftig gestreift&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.43148833215567506</real>
+		<key>Frame</key>
+		<string>{{0.41154325868666503, 0.46291730984598195}, {0.097279222284328795, 0.10823404781186736}}</string>
+		<key>Text</key>
+		<string>&lt;p class="center"&gt;Variation&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.26849894291754861</real>
+		<key>Frame</key>
+		<string>{{0.75054115558633616, 0.077628047470380213}, {0.24821914417916008, 0.17393635991759393}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;weiße Kehlfedern während des Gesangs bei allen drei Arten gesträubt&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>EndPoint</key>
+		<string>{0.20322324124647947, 0.84526200646777661}</string>
+		<key>StartPoint</key>
+		<string>{0.15556833529611405, 0.84526200646777661}</string>
+		<key>Type</key>
+		<string>line</string>
+	</dict>
+	<dict>
+		<key>EndPoint</key>
+		<string>{0.35069815555360345, 0.92064668677029915}</string>
+		<key>StartPoint</key>
+		<string>{0.31509880616805847, 0.92064668677029915}</string>
+		<key>Type</key>
+		<string>line</string>
+	</dict>
+	<dict>
+		<key>EndPoint</key>
+		<string>{0.76067987262777548, 0.45227985038877533}</string>
+		<key>StartPoint</key>
+		<string>{0.73289811149923012, 0.47423732866390977}</string>
+		<key>Type</key>
+		<string>line</string>
+	</dict>
+	<dict>
+		<key>EndPoint</key>
+		<string>{0.4060969837209063, 0.55019073923226047}</string>
+		<key>StartPoint</key>
+		<string>{0.3788656088921275, 0.55019073923226047}</string>
+		<key>Type</key>
+		<string>line</string>
+	</dict>
+	<dict>
+		<key>EndPoint</key>
+		<string>{0.11988195433545436, 0.59188557316455259}</string>
+		<key>StartPoint</key>
+		<string>{0.22483653605970735, 0.66306752939052982}</string>
+		<key>Type</key>
+		<string>line</string>
+	</dict>
+	<dict>
+		<key>EndPoint</key>
+		<string>{0.53953072038193806, 0.54960696762260797}</string>
+		<key>StartPoint</key>
+		<string>{0.51229934555315926, 0.54960696762260797}</string>
+		<key>Type</key>
+		<string>line</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.23388581952119425</real>
+		<key>Frame</key>
+		<string>{{0.49137503024380141, 0.78399169515898703}, {0.27417610121703023, 0.19967747026479402}}</string>
+		<key>Text</key>
+		<string>&lt;p class="center"&gt;Körperbau viel leichter als beim Uhu – Anpassung an kleinere Beute&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+</array>
+</plist>

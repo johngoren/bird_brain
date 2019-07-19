@@ -1,0 +1,130 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>EndPoint</key>
+		<string>{0.37213174558111878, 0.51017194775849239}</string>
+		<key>StartPoint</key>
+		<string>{0.33119860807560014, 0.58558425631921629}</string>
+		<key>Type</key>
+		<string>line</string>
+	</dict>
+	<dict>
+		<key>EndPoint</key>
+		<string>{0.34339195656980698, 0.56301595658011072}</string>
+		<key>StartPoint</key>
+		<string>{0.23358600780907343, 0.45733064439542243}</string>
+		<key>Type</key>
+		<string>line</string>
+	</dict>
+	<dict>
+		<key>EndPoint</key>
+		<string>{0.24629407719687332, 0.43072094698872032}</string>
+		<key>StartPoint</key>
+		<string>{0.2213525102065754, 0.47832830792956038}</string>
+		<key>Type</key>
+		<string>line</string>
+	</dict>
+	<dict>
+		<key>EndPoint</key>
+		<string>{0.22563441612927743, 0.5287524794220626}</string>
+		<key>StartPoint</key>
+		<string>{0.29281619733235859, 0.5142939066596921}</string>
+		<key>Type</key>
+		<string>line</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.20790942770627621</real>
+		<key>Frame</key>
+		<string>{{0.12964887284209575, 0.5070473977484049}, {0.27007985759033221, 0.22645940184533572}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;long primary projection, roughly equal to tertial length&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.65463917525781556</real>
+		<key>Frame</key>
+		<string>{{0.7082771993176975, 0.12896367422719282}, {0.12233551444141066, 0.071922131176807041}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;&lt;b&gt;spring&lt;/b&gt;&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>EndPoint</key>
+		<string>{0.58864306682470757, 0.24328835052434708}</string>
+		<key>StartPoint</key>
+		<string>{0.53796697333063448, 0.18434186157016844}</string>
+		<key>Type</key>
+		<string>line</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.31338679827265126</real>
+		<key>Frame</key>
+		<string>{{0.20720798984089855, 0.11983438309198607}, {0.37069722313184006, 0.15023940030621974}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;typically pale, but odd &lt;/p&gt;&lt;p&gt;birds occur with legs &lt;/p&gt;&lt;p&gt;almost as dark as Chiffchaff&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.19598765432098544</real>
+		<key>Frame</key>
+		<string>{{0.7906642523352182, 0.26562499177900867}, {0.20386205920486467, 0.24023474743596615}}</string>
+		<key>Text</key>
+		<string>&lt;p class="right"&gt;light yellow tinge merges with off-white underparts&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>EndPoint</key>
+		<string>{0.89428200478056719, 0.4309464373953788}</string>
+		<key>StartPoint</key>
+		<string>{0.84440548981226327, 0.46419865936448856}</string>
+		<key>Type</key>
+		<string>line</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.2950058072009662</real>
+		<key>Frame</key>
+		<string>{{0.87778784677899657, 0.54135738900971353}, {0.1167384647610845, 0.15960039933822423}}</string>
+		<key>Text</key>
+		<string>&lt;p class="right"&gt;pale cheek-patch&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>EndPoint</key>
+		<string>{0.92048548602225433, 0.67484298684740629}</string>
+		<key>StartPoint</key>
+		<string>{0.87200408280836961, 0.6877957932823715}</string>
+		<key>Type</key>
+		<string>line</string>
+	</dict>
+	<dict>
+		<key>EndPoint</key>
+		<string>{0.86458725863191632, 0.88666257001108917}</string>
+		<key>StartPoint</key>
+		<string>{0.82278174239931079, 0.84388929225582254}</string>
+		<key>Type</key>
+		<string>line</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.22567747667703875</real>
+		<key>Frame</key>
+		<string>{{0.80129483448120986, 0.791370209691999}, {0.19390769436422772, 0.208629790308001}}</string>
+		<key>Text</key>
+		<string>&lt;p class="right"&gt;quite distinct supercilium and eye-stripe&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+</array>
+</plist>

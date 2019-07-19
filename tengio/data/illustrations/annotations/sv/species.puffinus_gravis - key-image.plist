@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>FontScale</key>
+		<real>0.27084349299499877</real>
+		<key>Frame</key>
+		<string>{{0.64790994132308477, 0.74853146175830831}, {0.24906026073607912, 0.1795650316202777}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;mörk hals­sids­fläck&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.29562383612663062</real>
+		<key>Frame</key>
+		<string>{{0.12424671750284924, 0.33948976534852709}, {0.30453415688263186, 0.16451319021163438}}</string>
+		<key>Text</key>
+		<string>&lt;p class="right"&gt;ser olje-­&lt;/p&gt;&lt;p class="right"&gt;skadad ut&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>EndPoint</key>
+		<string>{0.37343426892652182, 0.51253320102273314}</string>
+		<key>StartPoint</key>
+		<string>{0.41146479082315562, 0.55722288746988258}</string>
+		<key>Type</key>
+		<string>line</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.25945808985383312</real>
+		<key>Frame</key>
+		<string>{{0.079549966925580265, 0.66006004889497505}, {0.20003640081334759, 0.18744460969088153}}</string>
+		<key>Text</key>
+		<string>&lt;p class="right"&gt;mörka teck­ningar&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>EndPoint</key>
+		<string>{0.68403880683640794, 0.77504202758249574}</string>
+		<key>StartPoint</key>
+		<string>{0.65373592508910516, 0.72506769955033556}</string>
+		<key>Type</key>
+		<string>line</string>
+	</dict>
+	<dict>
+		<key>EndPoint</key>
+		<string>{0.44161575285795523, 0.72219561173238966}</string>
+		<key>StartPoint</key>
+		<string>{0.30609626492331216, 0.72219561173238966}</string>
+		<key>Type</key>
+		<string>line</string>
+	</dict>
+</array>
+</plist>

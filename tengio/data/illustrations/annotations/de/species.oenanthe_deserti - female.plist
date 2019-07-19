@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>FontScale</key>
+		<real>0.3693787659392348</real>
+		<key>Frame</key>
+		<string>{{0.6457572315011153, 0.099671865372957733}, {0.24634065778465652, 0.077499773418485463}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;♀&lt;/p&gt;&lt;p&gt;Herbst&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>EndPoint</key>
+		<string>{0.77246693099302133, 0.34704266563003155}</string>
+		<key>StartPoint</key>
+		<string>{0.69939087166007474, 0.3474901045370038}</string>
+		<key>Type</key>
+		<string>line</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.18389294879807233</real>
+		<key>Frame</key>
+		<string>{{0.68781822528274472, 0.36573227382979701}, {0.27534247196546707, 0.15567084465715281}}</string>
+		<key>Text</key>
+		<string>&lt;p class="right"&gt;bei einigen ♀ wird Kehle durch Abnutzung grau&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>EndPoint</key>
+		<string>{0.83771687066516964, 0.40134028482241274}</string>
+		<key>StartPoint</key>
+		<string>{0.72913224263170162, 0.40178772372938532}</string>
+		<key>Type</key>
+		<string>line</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.50594317506311259</real>
+		<key>Frame</key>
+		<string>{{0.78779150630319472, 0.30356277262570031}, {0.18018876151055216, 0.056580999758163546}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;hell&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>EndPoint</key>
+		<string>{0.2947647692138744, 0.81877197326630347}</string>
+		<key>StartPoint</key>
+		<string>{0.24572912672268221, 0.86272646365879602}</string>
+		<key>Type</key>
+		<string>line</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.42531506113321044</real>
+		<key>Frame</key>
+		<string>{{0.1052191713276537, 0.83868949839331219}, {0.16756915018758273, 0.067307211246216497}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;fast ganz schwarz&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+</array>
+</plist>

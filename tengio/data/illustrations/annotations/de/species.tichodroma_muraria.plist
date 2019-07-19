@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>EndPoint</key>
+		<string>{0.78583888158376536, 0.60255484413867044}</string>
+		<key>StartPoint</key>
+		<string>{0.75757512378129122, 0.63273694197722941}</string>
+		<key>Type</key>
+		<string>line</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.55506369139036948</real>
+		<key>Frame</key>
+		<string>{{0.35279052902635727, 0.79655747089043838}, {0.16295929740262541, 0.069227484307278819}}</string>
+		<key>Text</key>
+		<string>&lt;p class="right"&gt;&lt;b&gt;SK/&lt;/b&gt;♀&lt;b&gt; PK&lt;/b&gt;&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.16933316796891149</real>
+		<key>Frame</key>
+		<string>{{0.37688121645841627, 0.17196009809309157}, {0.1300570020409241, 0.22692342821060174}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;beide Geschlechter im SK ohne Schwarz an Kehle und Brust&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>EndPoint</key>
+		<string>{0.66192144374568163, 0.73260823019097943}</string>
+		<key>StartPoint</key>
+		<string>{0.62872801957563551, 0.68633062062112737}</string>
+		<key>Type</key>
+		<string>line</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.28439903117731608</real>
+		<key>Frame</key>
+		<string>{{0.66579775776207961, 0.6859199085497536}, {0.12903901634515516, 0.1351117928433081}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;Bauch und Brust graufleckig&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.2015881812557824</real>
+		<key>Frame</key>
+		<string>{{0.79205205738590179, 0.76093939164107316}, {0.17182756747063596, 0.19061466176189754}}</string>
+		<key>Text</key>
+		<string>&lt;p class="center"&gt;die meisten ♀ zeigen im PK dunklen Fleck auf grauweißer Vorderbrust&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.1446153212447886</real>
+		<key>Frame</key>
+		<string>{{0.040990043480079674, 0.61847056491752062}, {0.1317061891261555, 0.26570948814077866}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;nur an steilen Felswänden und dort trotz roter Flügel schwer zu entdecken&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.56969661846947084</real>
+		<key>Frame</key>
+		<string>{{0.81703275441456891, 0.61847056491751828}, {0.11909100086378621, 0.067449343632230513}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;♂&lt;b&gt; PK&lt;/b&gt;&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+</array>
+</plist>

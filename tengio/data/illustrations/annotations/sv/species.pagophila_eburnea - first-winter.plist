@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>EndPoint</key>
+		<string>{0.65061034944616991, 0.39661309330574518}</string>
+		<key>StartPoint</key>
+		<string>{0.60516567933123599, 0.37131014708828675}</string>
+		<key>Type</key>
+		<string>line</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.38299911559245686</real>
+		<key>Frame</key>
+		<string>{{0.65336477957951355, 0.36595910965001832}, {0.2227128973947585, 0.089198436501589748}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;”smutsigt ansikte”&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.59355150344161323</real>
+		<key>Frame</key>
+		<string>{{0.19348773299402725, 0.010428732306230676}, {0.28090793839132888, 0.057556795146251949}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;&lt;b&gt;juv. / 1:a vint.&lt;/b&gt;&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.39177427068388332</real>
+		<key>Frame</key>
+		<string>{{0.096157273169485039, 0.80041010637407994}, {0.17242243415004688, 0.087200525528906767}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;svart­fläckig&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>EndPoint</key>
+		<string>{0.19614678396178012, 0.88236780769927992}</string>
+		<key>StartPoint</key>
+		<string>{0.22697280377554518, 0.90213684379381254}</string>
+		<key>Type</key>
+		<string>line</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.40000000000000002</real>
+		<key>Frame</key>
+		<string>{{0.096157273169485039, 0.68079296271664147}, {0.1898304443492759, 0.085407305730846983}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;&lt;b&gt;juv. / &lt;/b&gt;&lt;/p&gt;&lt;p&gt;&lt;b&gt;1:a vint.&lt;/b&gt;&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+</array>
+</plist>

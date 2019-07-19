@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>EndPoint</key>
+		<string>{0.35421978818320105, 0.59145363148870378}</string>
+		<key>StartPoint</key>
+		<string>{0.27921228481032712, 0.64706322459168508}</string>
+		<key>Type</key>
+		<string>line</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.2625036299730627</real>
+		<key>Frame</key>
+		<string>{{0.16594698452431542, 0.59309283266839874}, {0.16112426748882119, 0.15840248691479628}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;pale- fringed body&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>EndPoint</key>
+		<string>{0.71026093757897579, 0.65193397601363368}</string>
+		<key>StartPoint</key>
+		<string>{0.67342965645990727, 0.62096841240622058}</string>
+		<key>Type</key>
+		<string>line</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.39516574779964408</real>
+		<key>Frame</key>
+		<string>{{0.72167200437033319, 0.57401646827762465}, {0.15691696831231733, 0.10522477730781714}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;dark ‘mask’&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.284957508129148</real>
+		<key>Frame</key>
+		<string>{{0.72669673125081946, 0.37931293261915011}, {0.26746173034855492, 0.14592080091130361}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;large throat  patch&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>EndPoint</key>
+		<string>{0.71344551277845769, 0.51027991608073431}</string>
+		<key>StartPoint</key>
+		<string>{0.6647814306366735, 0.55119326271222535}</string>
+		<key>Type</key>
+		<string>line</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.15138691257184042</real>
+		<key>Frame</key>
+		<string>{{0.10636329283795221, 0.055372206212772994}, {0.32712615043493481, 0.27466857673157363}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;stronger contrast &lt;/p&gt;&lt;p&gt;between dark outer primaries and paler inner than on Swift&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>EndPoint</key>
+		<string>{0.44387440042955362, 0.26987338169896707}</string>
+		<key>StartPoint</key>
+		<string>{0.38026653784498171, 0.26987338169896707}</string>
+		<key>Type</key>
+		<string>line</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.23827392120075069</real>
+		<key>Frame</key>
+		<string>{{0.51713697594592578, 0.11206116275933835}, {0.36987803460293406, 0.17451019231291176}}</string>
+		<key>Text</key>
+		<string>&lt;p class="right"&gt;wings a &lt;/p&gt;&lt;p class="right"&gt;trifle broader &lt;/p&gt;&lt;p class="right"&gt;than on Swift&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+</array>
+</plist>

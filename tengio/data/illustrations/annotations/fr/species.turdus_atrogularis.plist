@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>EndPoint</key>
+		<string>{0.64679024448990674, 0.18422693156743242}</string>
+		<key>StartPoint</key>
+		<string>{0.63834804760059283, 0.22003614735039381}</string>
+		<key>Type</key>
+		<string>line</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.26737338808552247</real>
+		<key>Frame</key>
+		<string>{{0.61445912902763244, 0.0318077247854016}, {0.29774111150966348, 0.14578626932211441}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;blanchâtre, jamais nettement marqué&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>EndPoint</key>
+		<string>{0.8910575416556723, 0.23901719232870702}</string>
+		<key>StartPoint</key>
+		<string>{0.82480196464390199, 0.19758243025567632}</string>
+		<key>Type</key>
+		<string>line</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.4354907843977967</real>
+		<key>Frame</key>
+		<string>{{0.75916972262793703, 0.22512887392996656}, {0.2256662615963341, 0.089506759181835427}}</string>
+		<key>Text</key>
+		<string>&lt;p class="right"&gt;pas de roux à la queue&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.23022886924994282</real>
+		<key>Frame</key>
+		<string>{{0.045151948778387727, 0.14732359848193419}, {0.29248631331501096, 0.1693070416928692}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;assez terne, seules les couv. sous-alaires sont rousses&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.52916620687242</real>
+		<key>Frame</key>
+		<string>{{0, 0.022098475767310537}, {0.28138609318739533, 0.073661863245927148}}</string>
+		<key>Text</key>
+		<string>&lt;p class="right"&gt;♀ &lt;b&gt;1er hiver&lt;/b&gt;&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.23959725900189768</real>
+		<key>Frame</key>
+		<string>{{0.04466116672645077, 0.40678099672904439}, {0.2061284618143816, 0.16268703960713288}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;le sourcil peut être plus net chez certains ind.&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.52191017723252686</real>
+		<key>Frame</key>
+		<string>{{0.78525128310240822, 0.54172114858449993}, {0.16756077283338497, 0.07468597177333007}}</string>
+		<key>Text</key>
+		<string>&lt;p class="right"&gt;♂ &lt;b&gt;ad.&lt;/b&gt;&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.23928398502168091</real>
+		<key>Frame</key>
+		<string>{{0.44563010316061896, 0.71229422044933588}, {0.14396273523544129, 0.16290003178219545}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;♂ &lt;b&gt;1er hiver&lt;/b&gt;&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+</array>
+</plist>

@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>EndPoint</key>
+		<string>{0.7007006373160285, 0.57727035718872388}</string>
+		<key>StartPoint</key>
+		<string>{0.73779517497919478, 0.49532846726360824}</string>
+		<key>Type</key>
+		<string>line</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.35273865586755432</real>
+		<key>Frame</key>
+		<string>{{0.64728347001122688, 0.56960570989795045}, {0.16634589875730077, 0.11088180405511057}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;﻿kinnene skittenbrune bakerst&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>EndPoint</key>
+		<string>{0.89051667135011137, 0.59056839009154394}</string>
+		<key>StartPoint</key>
+		<string>{0.8727655553076582, 0.54937869457725219}</string>
+		<key>Type</key>
+		<string>line</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.33677273569568056</real>
+		<key>Frame</key>
+		<string>{{0.75344316885118168, 0.55507133804340758}, {0.19284354817876859, 0.11613855391759638}}</string>
+		<key>Text</key>
+		<string>&lt;p class="right"&gt;﻿glinsende svart&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>EndPoint</key>
+		<string>{0.93329321431654066, 0.34095509343704106}</string>
+		<key>StartPoint</key>
+		<string>{0.90542837880714422, 0.38973952223577724}</string>
+		<key>Type</key>
+		<string>line</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.18715007968275027</real>
+		<key>Frame</key>
+		<string>{{0.79709539161836995, 0.12244432558380633}, {0.1767427283612068, 0.20898894934413559}}</string>
+		<key>Text</key>
+		<string>&lt;p class="right"&gt;﻿som regel lite smekkeparti&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>EndPoint</key>
+		<string>{0.6295809721889587, 0.48478303097331216}</string>
+		<key>StartPoint</key>
+		<string>{0.65079146165591806, 0.45511884610618031}</string>
+		<key>Type</key>
+		<string>line</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.626666007939784</real>
+		<key>Frame</key>
+		<string>{{0.5275655877034261, 0.44507455078675046}, {0.13938028439903533, 0.062413307929616496}}</string>
+		<key>Text</key>
+		<string>&lt;p class="center"&gt;brun&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.25753413891344956</real>
+		<key>Frame</key>
+		<string>{{0.33495040205620408, 0.080036241736052227}, {0.20961626135626002, 0.15187228647660514}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;&lt;b&gt;&lt;i&gt;dresseri&lt;/i&gt;&lt;/b&gt;&lt;/p&gt;&lt;p&gt;(﻿Storbritannia, NV-Frankrike)&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.21219293445706849</real>
+		<key>Frame</key>
+		<string>{{0.53973405841378408, 0.76686966851881666}, {0.24147800235403824, 0.18432422654714994}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;&lt;b&gt;&lt;i&gt;palustris&lt;/i&gt;&lt;/b&gt;&lt;/p&gt;&lt;p&gt;(﻿Norden, Kontinentet)&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.17008822324684114</real>
+		<key>Frame</key>
+		<string>{{0.057837599994387479, 0.09349506526001837}, {0.21524081157620975, 0.22995300777413244}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;﻿smekkepartiet er ofte lite, vider seg som regel ikke ut i nedkant&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+</array>
+</plist>

@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>FontScale</key>
+		<real>0.63902232911886103</real>
+		<key>Frame</key>
+		<string>{{0.4854249642037356, 0.77425165835193077}, {0.062477472400894449, 0.061740311590359337}}</string>
+		<key>Text</key>
+		<string>&lt;p class="right"&gt;&lt;b&gt;JK&lt;/b&gt;&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>EndPoint</key>
+		<string>{0.92943011201549741, 0.49484102203747499}</string>
+		<key>StartPoint</key>
+		<string>{0.89797709122846814, 0.54126948147121479}</string>
+		<key>Type</key>
+		<string>line</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.37584159475754925</real>
+		<key>Frame</key>
+		<string>{{0.92107747366995951, 0.41095389464380716}, {0.063856018420468577, 0.10497357999570685}}</string>
+		<key>Text</key>
+		<string>&lt;p class="right"&gt;helles „Fenster“&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.23344476611761131</real>
+		<key>Frame</key>
+		<string>{{0.92641961877984591, 0.66652838920019231}, {0.058513873310579625, 0.16900544985068838}}</string>
+		<key>Text</key>
+		<string>&lt;p class="right"&gt;Bürzel-region rein weiß&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.59338311190520454</real>
+		<key>Frame</key>
+		<string>{{0.80618345711150974, 0.7677938790192429}, {0.051037998137979046, 0.066488979752592783}}</string>
+		<key>Text</key>
+		<string>&lt;p class="right"&gt;&lt;b&gt;ad.&lt;/b&gt;&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.20845146197227551</real>
+		<key>Frame</key>
+		<string>{{0.59987359842802079, 0.1095187109410314}, {0.13663967341826813, 0.18926918209018379}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;typische Flügelform mit schmaler Basis, breiter Mitte und sich verjüngendem Handflügel&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.59338311190520454</real>
+		<key>Frame</key>
+		<string>{{0.63299504153085018, 0.76904485929828781}, {0.0510378262708776, 0.066488979752592783}}</string>
+		<key>Text</key>
+		<string>&lt;p class="right"&gt;&lt;b&gt;ad.&lt;/b&gt;&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.63902232911886103</real>
+		<key>Frame</key>
+		<string>{{0.32527129332031351, 0.77254234651090903}, {0.062477644267995895, 0.061740311590359337}}</string>
+		<key>Text</key>
+		<string>&lt;p class="right"&gt;&lt;b&gt;JK&lt;/b&gt;&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.20643843917454055</real>
+		<key>Frame</key>
+		<string>{{0.21413179952344141, 0.19029093932047383}, {0.13663967341826788, 0.19111478400414739}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;entfernt stehender Jungvogel kann an Kaiser- und Steppenadler erinnern&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.59338311190520454</real>
+		<key>Frame</key>
+		<string>{{0.051040146476745291, 0.52548136688051417}, {0.051037912204428465, 0.066488979752592783}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;&lt;b&gt;ad.&lt;/b&gt;&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.63901817519956305</real>
+		<key>Frame</key>
+		<string>{{0.19767646984246603, 0.12598420609943506}, {0.06247755833444503, 0.061740712931481902}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;&lt;b&gt;JK&lt;/b&gt;&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+</array>
+</plist>

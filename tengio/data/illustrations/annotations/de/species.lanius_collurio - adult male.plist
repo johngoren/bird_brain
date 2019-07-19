@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>FontScale</key>
+		<real>0.60645169250510511</real>
+		<key>Frame</key>
+		<string>{{0.47052434628697754, 0.3519962124323604}, {0.13819420133579674, 0.054105939207330297}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;rotbraun&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>EndPoint</key>
+		<string>{0.53602202934429188, 0.37316956345636654}</string>
+		<key>StartPoint</key>
+		<string>{0.56965218110260396, 0.34063220743506334}</string>
+		<key>Type</key>
+		<string>line</string>
+	</dict>
+	<dict>
+		<key>EndPoint</key>
+		<string>{0.80379600636716941, 0.24152039035511214}</string>
+		<key>StartPoint</key>
+		<string>{0.77192429389190786, 0.27235676861377617}</string>
+		<key>Type</key>
+		<string>line</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.52916691899311719</real>
+		<key>Frame</key>
+		<string>{{0.75603138729494346, 0.17036433118922284}, {0.088124324784867258, 0.062008106004242822}}</string>
+		<key>Text</key>
+		<string>&lt;p class="right"&gt;hell­ rosa&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.57072525022642306</real>
+		<key>Frame</key>
+		<string>{{0.69995306720767403, 0.056421013976604178}, {0.13527194425170139, 0.057492880144773814}}</string>
+		<key>Text</key>
+		<string>&lt;p class="right"&gt;&lt;b&gt;ad. &lt;/b&gt;♂&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>EndPoint</key>
+		<string>{0.30374919712841292, 0.73207521803911335}</string>
+		<key>StartPoint</key>
+		<string>{0.34060987168879847, 0.69641177168960666}</string>
+		<key>Type</key>
+		<string>line</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.33311166326254787</real>
+		<key>Frame</key>
+		<string>{{0.16760295222854679, 0.73236523103757178}, {0.20333705269095215, 0.098503421001509398}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;schwarz mit weißen Basalflecken&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.21877624985351149</real>
+		<key>Frame</key>
+		<string>{{0.5464149834349401, 0.74766556439889609}, {0.33985348508179286, 0.14998263490134106}}</string>
+		<key>Text</key>
+		<string>&lt;p class="right"&gt;bei manchen ♂ kleiner weißer Fleck auf den Handschwingen&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.57072525022642306</real>
+		<key>Frame</key>
+		<string>{{0.478779183806266, 0.62030617735701743}, {0.13527159925733936, 0.057492880144773814}}</string>
+		<key>Text</key>
+		<string>&lt;p class="center"&gt;&lt;b&gt;ad. &lt;/b&gt;♂&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+</array>
+</plist>

@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>FontScale</key>
+		<real>0.548061443940975</real>
+		<key>Frame</key>
+		<string>{{0.68952824590129358, 0.57364575091468584}, {0.029909279905977946, 0.06384808572055313}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;♀&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.10847394786345091</real>
+		<key>Frame</key>
+		<string>{{0.020797163694450525, 0.31282389084773549}, {0.14454514478792807, 0.3225905827353398}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;jämfört med vaktel, större och satta-&lt;/p&gt;&lt;p&gt;re; kan även &lt;/p&gt;&lt;p&gt;förväxlas &lt;/p&gt;&lt;p&gt;med fasan-&lt;/p&gt;&lt;p&gt;kyckling&lt;/p&gt;&lt;p&gt;&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.63964498870255937</real>
+		<key>Frame</key>
+		<string>{{0.055956684383095971, 0.086828291715982719}, {0.052129938168484012, 0.054706399129072839}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;&lt;b&gt;juv.&lt;/b&gt;&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.6392477602040566</real>
+		<key>Frame</key>
+		<string>{{0.35071308872312423, 0.10332650600027089}, {0.048513920628665524, 0.054740393680383581}}</string>
+		<key>Text</key>
+		<string>&lt;p class="right"&gt;&lt;b&gt;ad.&lt;/b&gt; ♂ &lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.34908873968290405</real>
+		<key>Frame</key>
+		<string>{{0.53359939203877138, 0.22895001814220273}, {0.093888598338701987, 0.10024005381743109}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;mörkbrun bukfläck&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>EndPoint</key>
+		<string>{0.5576782992995245, 0.34030778562434671}</string>
+		<key>StartPoint</key>
+		<string>{0.53800061845710612, 0.36164334722623642}</string>
+		<key>Type</key>
+		<string>line</string>
+	</dict>
+	<dict>
+		<key>EndPoint</key>
+		<string>{0.59640578305586611, 0.80524268082236483}</string>
+		<key>StartPoint</key>
+		<string>{0.56898855316315211, 0.82720241600189304}</string>
+		<key>Type</key>
+		<string>line</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.54856836736402392</real>
+		<key>Frame</key>
+		<string>{{0.60093105661602353, 0.75321763708604406}, {0.091389485072022617, 0.063789084706105101}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;orangebrun&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.27781128259387622</real>
+		<key>Frame</key>
+		<string>{{0.53382398417683841, 0.077285889688662915}, {0.29126863395143615, 0.12595843381936439}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;(♀ är snarlik ♂, bara &lt;/p&gt;&lt;p&gt;något mat­tare färgad, har smutsvitt &lt;/p&gt;&lt;p&gt;ögonbryn och mindre eller ingen bukfläck)&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.63999687501525859</real>
+		<key>Frame</key>
+		<string>{{0.14483326101591387, 0.88145822586386635}, {0.24491882008414978, 0.054676320180530903}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;härdig, klarar en hel del snö och kyla&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+</array>
+</plist>

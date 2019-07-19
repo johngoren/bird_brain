@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>FontScale</key>
+		<real>0.61646709121523069</real>
+		<key>Frame</key>
+		<string>{{0.83666762443501086, 0.18538770167140559}, {0.1318279226818293, 0.060414890340290892}}</string>
+		<key>Text</key>
+		<string>&lt;p class="center"&gt;gult&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>EndPoint</key>
+		<string>{0.89596012352931398, 0.24220861730285259}</string>
+		<key>StartPoint</key>
+		<string>{0.88914013429330108, 0.28093382256896032}</string>
+		<key>Type</key>
+		<string>line</string>
+	</dict>
+	<dict>
+		<key>EndPoint</key>
+		<string>{0.84802827006029324, 0.37970385887201563}</string>
+		<key>StartPoint</key>
+		<string>{0.83729105391472247, 0.33736778946051105}</string>
+		<key>Type</key>
+		<string>line</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.63671486633094254</real>
+		<key>Frame</key>
+		<string>{{0.68998875884713495, 0.36785013450784521}, {0.27850678826970804, 0.058493673830458698}}</string>
+		<key>Text</key>
+		<string>&lt;p class="right"&gt;﻿hvit panne&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.36902563178521552</real>
+		<key>Frame</key>
+		<string>{{0.81550957236664789, 0.037793870921003669}, {0.15298597475019479, 0.10092467434848351}}</string>
+		<key>Text</key>
+		<string>&lt;p class="right"&gt;&lt;b&gt;ad. som.&lt;/b&gt;&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.20883353266954058</real>
+		<key>Frame</key>
+		<string>{{0.26003978372533815, 0.65070695552017055}, {0.17922129872256651, 0.1783420087668634}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;lange smale vinger&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>EndPoint</key>
+		<string>{0.44410819689630004, 0.83673566591407755}</string>
+		<key>StartPoint</key>
+		<string>{0.38478851216768045, 0.81326585620776437}</string>
+		<key>Type</key>
+		<string>line</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.61556572759663619</real>
+		<key>Frame</key>
+		<string>{{0.46184560123132595, 0.8923491324191074}, {0.22432427704933999, 0.060503354953788349}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;&lt;b&gt;ad. som.&lt;/b&gt;&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+</array>
+</plist>

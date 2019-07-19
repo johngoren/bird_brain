@@ -1,0 +1,124 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>EndPoint</key>
+		<string>{0.44735094816521331, 0.53731917607308888}</string>
+		<key>StartPoint</key>
+		<string>{0.39425429027676123, 0.53081846923716081}</string>
+		<key>Type</key>
+		<string>line</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.45567333784210018</real>
+		<key>Frame</key>
+		<string>{{0.46034398549572103, 0.50300342902359352}, {0.13515827201665481, 0.044006032182782789}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;barred&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.62666700665527697</real>
+		<key>Frame</key>
+		<string>{{0.13689238121409714, 0.28648102982193713}, {0.11726341817831164, 0.031998454293838581}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;&lt;b&gt;juv.&lt;/b&gt;&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.40302357830008628</real>
+		<key>Frame</key>
+		<string>{{0.5297248432117162, 0.43680144089222184}, {0.2775234308639899, 0.049754844752494289}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;merely streaked,no white spots&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>EndPoint</key>
+		<string>{0.64778211512438466, 0.41906207022937908}</string>
+		<key>StartPoint</key>
+		<string>{0.63720969937098193, 0.44781541457858981}</string>
+		<key>Type</key>
+		<string>line</string>
+	</dict>
+	<dict>
+		<key>EndPoint</key>
+		<string>{0.8740232779807755, 0.3661630858647118}</string>
+		<key>StartPoint</key>
+		<string>{0.81213424997119965, 0.3661630858647118}</string>
+		<key>Type</key>
+		<string>line</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.35239038994793354</real>
+		<key>Frame</key>
+		<string>{{0.8461732153764675, 0.31871522920271611}, {0.14741951620708987, 0.056903866115299857}}</string>
+		<key>Text</key>
+		<string>&lt;p class="center"&gt;paleface&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.23695320971080341</real>
+		<key>Frame</key>
+		<string>{{0.78705290704100728, 0.11039332744859207}, {0.15714838402618964, 0.084625887087113244}}</string>
+		<key>Text</key>
+		<string>&lt;p class="right"&gt;streaked,barring faint&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>EndPoint</key>
+		<string>{0.7915398349509164, 0.18857324789413643}</string>
+		<key>StartPoint</key>
+		<string>{0.72907265974782376, 0.2052704031423141}</string>
+		<key>Type</key>
+		<string>line</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.17872118658359798</real>
+		<key>Frame</key>
+		<string>{{0.1046442278982322, 0.019894482848909958}, {0.23338749434698261, 0.11219920790160985}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;frequentlyshorter &lt;/p&gt;&lt;p&gt;wing than Scops Owl&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>EndPoint</key>
+		<string>{0.37891517828959737, 0.063502476253838994}</string>
+		<key>StartPoint</key>
+		<string>{0.29822223381165652, 0.063502476253838994}</string>
+		<key>Type</key>
+		<string>line</string>
+	</dict>
+	<dict>
+		<key>EndPoint</key>
+		<string>{0.69910534092213772, 0.79275630869084779}</string>
+		<key>StartPoint</key>
+		<string>{0.58770509050489961, 0.78576955578558316}</string>
+		<key>Type</key>
+		<string>line</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.22739185447513435</real>
+		<key>Frame</key>
+		<string>{{0.43884569155554909, 0.70728973703597042}, {0.13796211137437966, 0.088184229888974647}}</string>
+		<key>Text</key>
+		<string>&lt;p class="right"&gt;buffish’braces’&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+</array>
+</plist>

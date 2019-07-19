@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>EndPoint</key>
+		<string>{0.34345083194164649, 0.53939739412591314}</string>
+		<key>StartPoint</key>
+		<string>{0.37350218013851078, 0.4794202851641004}</string>
+		<key>Type</key>
+		<string>line</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.65930705154860425</real>
+		<key>Frame</key>
+		<string>{{0, 0.48961070337777485}, {0.33726965376471801, 0.10439004574997282}}</string>
+		<key>Text</key>
+		<string>&lt;p class="right"&gt;rödbrun ton, ostreckad&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.50315804559460309</real>
+		<key>Frame</key>
+		<string>{{0.28336996371862122, 0.0022181511246743739}, {0.20824729940011019, 0.13678623223266748}}</string>
+		<key>Text</key>
+		<string>&lt;p class="right"&gt;&lt;b&gt;1:a vinter &lt;/b&gt;♀&lt;b&gt; &lt;/b&gt;&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.3781824896706138</real>
+		<key>Frame</key>
+		<string>{{0.84407567355917945, 0.74677853771093117}, {0.14428660482754685, 0.18198910619680775}}</string>
+		<key>Text</key>
+		<string>&lt;p class="right"&gt;rak näbb­-rygg&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>EndPoint</key>
+		<string>{0.8578786417404749, 0.87979329607721812}</string>
+		<key>StartPoint</key>
+		<string>{0.83041772946377757, 0.82498590703173669}</string>
+		<key>Type</key>
+		<string>line</string>
+	</dict>
+</array>
+</plist>

@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>EndPoint</key>
+		<string>{0.38768895542978477, 0.38225931402551822}</string>
+		<key>StartPoint</key>
+		<string>{0.43914386248881959, 0.35969207288760258}</string>
+		<key>Type</key>
+		<string>line</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.28940990107091447</real>
+		<key>Frame</key>
+		<string>{{0.2743061559076902, 0.35061385097519493}, {0.14671036989793887, 0.07387632054166092}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;fein gesprenkelt&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.21807254775702511</real>
+		<key>Frame</key>
+		<string>{{0.74982604066436742, 0.34736450809138525}, {0.1630243338887187, 0.098043237625981675}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;Iris orange&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.31367706082125774</real>
+		<key>Frame</key>
+		<string>{{0.75621273981335169, 0.45743236872353471}, {0.16302433388871937, 0.068160988768090056}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;Federohren manchmal angelegt!&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>EndPoint</key>
+		<string>{0.7032729600309704, 0.4947460931096625}</string>
+		<key>StartPoint</key>
+		<string>{0.74780199681648707, 0.49421472215517909}</string>
+		<key>Type</key>
+		<string>line</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.30815142486868724</real>
+		<key>Frame</key>
+		<string>{{0.45938614593049437, 0.89412412640083161}, {0.12941575460265489, 0.069383221669528719}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;mehrere schmale Binden&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>EndPoint</key>
+		<string>{0.40102226257067208, 0.95277694205785901}</string>
+		<key>StartPoint</key>
+		<string>{0.44555129935618254, 0.95224557110337615}</string>
+		<key>Type</key>
+		<string>line</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.23542542201857766</real>
+		<key>Frame</key>
+		<string>{{0.12545301899790176, 0.7545017550210692}, {0.12974657983077115, 0.090816609506844559}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;ohne weißen Hinterrand&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>EndPoint</key>
+		<string>{0.15739142153038019, 0.70822160979468729}</string>
+		<key>StartPoint</key>
+		<string>{0.20192045831589736, 0.70769023884020443}</string>
+		<key>Type</key>
+		<string>line</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.36460310841864918</real>
+		<key>Frame</key>
+		<string>{{0.0095800487234765069, 0.65522552295022007}, {0.17142300011591918, 0.058640582391567046}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;Schwanz schmal gebändert&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.33333333333333331</real>
+		<key>Frame</key>
+		<string>{{0.6227395737455016, 0.63423622528668921}, {0.16415659324905529, 0.064141615858335749}}</string>
+		<key>Text</key>
+		<string>&lt;p class="right"&gt;Federohren unsichtbar&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>EndPoint</key>
+		<string>{0.24406805283802221, 0.80418150753549489}</string>
+		<key>StartPoint</key>
+		<string>{0.28859708962353914, 0.80365013658100815}</string>
+		<key>Type</key>
+		<string>line</string>
+	</dict>
+</array>
+</plist>

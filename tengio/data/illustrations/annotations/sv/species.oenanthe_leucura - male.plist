@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>EndPoint</key>
+		<string>{0.52696087650341039, 0.76503091369776577}</string>
+		<key>StartPoint</key>
+		<string>{0.60726206665499127, 0.65291752880824216}</string>
+		<key>Type</key>
+		<string>line</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.42959830866807502</real>
+		<key>Frame</key>
+		<string>{{0.4188661824695552, 0.71517932615505753}, {0.14850643232014588, 0.13847247070427568}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;mattsvart&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>EndPoint</key>
+		<string>{0.39524302326526534, 0.26879859966881492}</string>
+		<key>StartPoint</key>
+		<string>{0.44521047897916449, 0.32775677937685682}</string>
+		<key>Type</key>
+		<string>line</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.40016903324328473</real>
+		<key>Frame</key>
+		<string>{{0.14827363158409629, 0.14503406953767312}, {0.23133708485616208, 0.14865602850253695}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;svart når till bakom benen&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.42727215433328836</real>
+		<key>Frame</key>
+		<string>{{0.84587268141975203, 0.39365333234822469}, {0.078743864014287651, 0.13922634229340364}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;♂&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+</array>
+</plist>

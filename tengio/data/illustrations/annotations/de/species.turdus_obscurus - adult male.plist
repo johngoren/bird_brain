@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>FontScale</key>
+		<real>0.63466566811499703</real>
+		<key>Frame</key>
+		<string>{{0.26087614785909713, 0.90991176371523141}, {0.27859351260076282, 0.088947625818486253}}</string>
+		<key>Text</key>
+		<string>&lt;p class="center"&gt;(Variation)&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.14514432940874003</real>
+		<key>Frame</key>
+		<string>{{0.033506932015238952, 0.56544854686041335}, {0.25574289584184345, 0.38893702976406475}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;manche mit weniger Weiß über und hinter dem Auge&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.52190948450926422</real>
+		<key>Frame</key>
+		<string>{{0.28157816038965422, 0.45728418878132898}, {0.1869933787277476, 0.10816435807908809}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;&lt;b&gt;ad. &lt;/b&gt;♂&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.52190948450926422</real>
+		<key>Frame</key>
+		<string>{{0.74834809812308623, 0.22184955435625428}, {0.18699310342574507, 0.10816435807908809}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;&lt;b&gt;ad. &lt;/b&gt;♂&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+</array>
+</plist>

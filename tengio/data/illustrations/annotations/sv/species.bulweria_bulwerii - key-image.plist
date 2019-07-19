@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>FontScale</key>
+		<real>0.46540225485023229</real>
+		<key>Frame</key>
+		<string>{{0.73815974385557481, 0.441044961939691}, {0.26184025614442535, 0.16920615572443376}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;rätt kraftig&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.20598009259099428</real>
+		<key>Frame</key>
+		<string>{{0, 0.0075427990086113072}, {0.41227813209182063, 0.38231328774601209}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;brer sällan ut stjärten så att rundade formen syns&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.44815797010178754</real>
+		<key>Frame</key>
+		<string>{{0.52141057882200792, 0.71163260953670393}, {0.43223522304479622, 0.17571689373460261}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;enfärgad vingundersida&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>EndPoint</key>
+		<string>{0.5054969442120163, 0.76874108294018484}</string>
+		<key>StartPoint</key>
+		<string>{0.36062752463187669, 0.71293475713874999}</string>
+		<key>Type</key>
+		<string>line</string>
+	</dict>
+	<dict>
+		<key>EndPoint</key>
+		<string>{0.71946575992494077, 0.57304690046316009}</string>
+		<key>StartPoint</key>
+		<string>{0.65336665906989511, 0.54849211711053192}</string>
+		<key>Type</key>
+		<string>line</string>
+	</dict>
+	<dict>
+		<key>EndPoint</key>
+		<string>{0.049261173871271303, 0.40314764191212249}</string>
+		<key>StartPoint</key>
+		<string>{0.099280211955932993, 0.47259551402057232}</string>
+		<key>Type</key>
+		<string>line</string>
+	</dict>
+</array>
+</plist>

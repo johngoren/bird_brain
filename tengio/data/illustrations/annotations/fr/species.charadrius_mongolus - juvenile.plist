@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>FontScale</key>
+		<real>0.16983400826503395</real>
+		<key>Frame</key>
+		<string>{{0.025075008843347145, 0.17575006039830321}, {0.33320037543254333, 0.35407971657886211}}</string>
+		<key>Text</key>
+		<string>&lt;p class="right"&gt;les pattes peuvent paraître plus longues lorsque les plumes du corps ne sont pas ébouriffées&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.66350787672619771</real>
+		<key>Frame</key>
+		<string>{{0.15117488402962109, 0.063721632110274734}, {0.17295816150365917, 0.090631595526258518}}</string>
+		<key>Text</key>
+		<string>&lt;p class="right"&gt;&lt;b&gt;juv.&lt;/b&gt;&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+</array>
+</plist>

@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>FontScale</key>
+		<real>0.36368843069873541</real>
+		<key>Frame</key>
+		<string>{{0.82150337712659505, 0.077274130078160405}, {0.1743774700378603, 0.11460231675085762}}</string>
+		<key>Text</key>
+		<string>&lt;p class="right"&gt;intensely red-orange&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.39980001237771035</real>
+		<key>Frame</key>
+		<string>{{0.37141727729659463, 0}, {0.30152198756152909, 0.10425096408997139}}</string>
+		<key>Text</key>
+		<string>&lt;p class="right"&gt;&lt;b&gt;ad. &lt;/b&gt;♂&lt;b&gt; spring&lt;/b&gt;&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>EndPoint</key>
+		<string>{0.89496199503305507, 0.20318942770365717}</string>
+		<key>StartPoint</key>
+		<string>{0.89823325805648313, 0.29917183695770599}</string>
+		<key>Type</key>
+		<string>line</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.40510366826155048</real>
+		<key>Frame</key>
+		<string>{{0.5305710754920161, 0.49059073293048117}, {0.14566351163454019, 0.10288610051945739}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;tinged greyish&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>EndPoint</key>
+		<string>{0.69312311375226676, 0.52728185266915184}</string>
+		<key>StartPoint</key>
+		<string>{0.64163370330801961, 0.52728185266915184}</string>
+		<key>Type</key>
+		<string>line</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.36368843069873541</real>
+		<key>Frame</key>
+		<string>{{0.82493600448954896, 0.5833359067958489}, {0.1743774700378603, 0.11460231675085762}}</string>
+		<key>Text</key>
+		<string>&lt;p class="right"&gt;pale iris &lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>EndPoint</key>
+		<string>{0.69787177111185761, 0.8061632048099171}</string>
+		<key>StartPoint</key>
+		<string>{0.65811031465017755, 0.81854633181114889}</string>
+		<key>Type</key>
+		<string>line</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.40510366826155048</real>
+		<key>Frame</key>
+		<string>{{0.58808471644599858, 0.78290540512401763}, {0.14566351163453964, 0.10288610051945739}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;unkempt look&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.14205816554809858</real>
+		<key>Frame</key>
+		<string>{{0.76291182837632865, 0.70660231622203518}, {0.23708817162367146, 0.29339768377796488}}</string>
+		<key>Text</key>
+		<string>&lt;p class="right"&gt;bill-pouch is pinkish or yellowish in immatures, orange in adults&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+</array>
+</plist>

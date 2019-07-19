@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>FontScale</key>
+		<real>0.33571420033775001</real>
+		<key>Frame</key>
+		<string>{{0.56027931036540424, 0.32163097112068245}, {0.13511389782989491, 0.088773471484587904}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;rein weißer Bauchfleck&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>EndPoint</key>
+		<string>{0.68888738069808864, 0.452541179294564}</string>
+		<key>StartPoint</key>
+		<string>{0.66854888716332694, 0.41706567092737007}</string>
+		<key>Type</key>
+		<string>line</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.18629609762451207</real>
+		<key>Frame</key>
+		<string>{{0.86761426655661034, 0.32163097112068356}, {0.11778959311446767, 0.15997390911924927}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;weiße Kehle, dunkles Halsband&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>EndPoint</key>
+		<string>{0.87207252280667114, 0.48239802533603277}</string>
+		<key>StartPoint</key>
+		<string>{0.84707901441271183, 0.51172184982286184}</string>
+		<key>Type</key>
+		<string>line</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.14086423020255462</real>
+		<key>Frame</key>
+		<string>{{0.72378859746185298, 0.03669967786025298}, {0.26161526220922793, 0.21156907575329939}}</string>
+		<key>Text</key>
+		<string>&lt;p class="right"&gt;sehr groß und langflügelig; Flügelschläge deutlich langsamer als bei kleineren Arten (an Baumfalke erinnernd)&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>EndPoint</key>
+		<string>{0.31295716047955979, 0.68266540734665127}</string>
+		<key>StartPoint</key>
+		<string>{0.34924521081296606, 0.66910820898495982}</string>
+		<key>Type</key>
+		<string>line</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.24889759921607083</real>
+		<key>Frame</key>
+		<string>{{0.17794942348810355, 0.60606678120863555}, {0.12890332982775793, 0.11973805727544436}}</string>
+		<key>Text</key>
+		<string>&lt;p class="right"&gt;oberseits einfarbig braun&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.20370276355174349</real>
+		<key>Frame</key>
+		<string>{{0.34575895483234559, 0.80817256669095527}, {0.12200692982120191, 0.14630393064394634}}</string>
+		<key>Text</key>
+		<string>&lt;p class="right"&gt;Kehle wirkt von Weitem dunkel&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+</array>
+</plist>

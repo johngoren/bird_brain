@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>FontScale</key>
+		<real>0.30676328502415356</real>
+		<key>Frame</key>
+		<string>{{0, 0.040225524784850315}, {0.25688073394495442, 0.090143731436270386}}</string>
+		<key>Text</key>
+		<string>&lt;p class="center"&gt;﻿grovt båndete vinge- og stjert-fjær&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.32827544081438231</real>
+		<key>Frame</key>
+		<string>{{0.48623853211009088, 0.39473099035172254}, {0.12424639580602907, 0.08423653963002721}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;﻿gulaktige øyne&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>EndPoint</key>
+		<string>{0.84890394816521608, 0.28935160727012887}</string>
+		<key>StartPoint</key>
+		<string>{0.82055872598284596, 0.30175062199616448}</string>
+		<key>Type</key>
+		<string>line</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.63740542675513556</real>
+		<key>Frame</key>
+		<string>{{0.85361079465223899, 0.25526949280357836}, {0.14638920534776126, 0.043383356995403188}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;﻿guloker&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>EndPoint</key>
+		<string>{0.30327653997378617, 0.098556212450468944}</string>
+		<key>StartPoint</key>
+		<string>{0.25032765399737822, 0.098556212450468944}</string>
+		<key>Type</key>
+		<string>line</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.29376905049248864</real>
+		<key>Frame</key>
+		<string>{{0.29102406290956762, 0.70919118127542669}, {0.10799475753604394, 0.094131043189767255}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;﻿kraftig båndet&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>EndPoint</key>
+		<string>{0.41658107470511457, 0.7900713862620391}</string>
+		<key>StartPoint</key>
+		<string>{0.38958238532110095, 0.7900713862620391}</string>
+		<key>Type</key>
+		<string>line</string>
+	</dict>
+</array>
+</plist>

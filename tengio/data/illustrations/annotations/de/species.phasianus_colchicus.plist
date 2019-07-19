@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>FontScale</key>
+		<real>0.1023553794517703</real>
+		<key>Frame</key>
+		<string>{{0.012820282551839238, 0.11745421984334826}, {0.12536111926119731, 0.34624573109950296}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;hauptsächlich chinesische Art, in Europa bereits im Mittelalter, möglicherweise schon von den Römern zu Jagdzwecken ausgesetzt&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.084666620444994081</real>
+		<key>Frame</key>
+		<string>{{0.88194640714228034, 0.54440957211862684}, {0.1180534088248457, 0.41858424257372906}}</string>
+		<key>Text</key>
+		<string>&lt;p class="right"&gt;viele Unterarten im eigentlichen Verbreitungs­gebiet, in Europa hauptsächlich Mischformen, die keiner Subspezies zuzuordnen sind&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.54231004749847145</real>
+		<key>Frame</key>
+		<string>{{0.84059366797165957, 0.47905929259915109}, {0.041352739170620129, 0.065350279519475682}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;♂&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.42333319337637437</real>
+		<key>Frame</key>
+		<string>{{0.80341847506954922, 0.40209122166109323}, {0.15030517021499695, 0.083716830488972258}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;&lt;b&gt;&lt;i&gt;„colchicus“&lt;/i&gt;-Typ&lt;/b&gt;&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.54231004749847145</real>
+		<key>Frame</key>
+		<string>{{0.69658094982771734, 0.72183798384964104}, {0.041352739170620129, 0.065350279519475682}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;♂&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.47037207165824524</real>
+		<key>Frame</key>
+		<string>{{0.39662042948028092, 0.77044502345173793}, {0.13010185713555489, 0.075344850014808507}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;&lt;b&gt;„&lt;i&gt;torquatus&lt;/i&gt;-Typ“&lt;/b&gt;&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>EndPoint</key>
+		<string>{0.57460040728012385, 0.90396651353539592}</string>
+		<key>StartPoint</key>
+		<string>{0.61005813375232965, 0.88386257319253891}</string>
+		<key>Type</key>
+		<string>line</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.47127801994580143</real>
+		<key>Frame</key>
+		<string>{{0.49456204318056873, 0.88125873776587094}, {0.073726698389946874, 0.075200012922989654}}</string>
+		<key>Text</key>
+		<string>&lt;p class="right"&gt;weißer Halsring&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>EndPoint</key>
+		<string>{0.63668777276113131, 0.19322391994405957}</string>
+		<key>StartPoint</key>
+		<string>{0.58905739590430861, 0.22079551822456994}</string>
+		<key>Type</key>
+		<string>line</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.5518309882873994</real>
+		<key>Frame</key>
+		<string>{{0.64316222560735969, 0.13660657461165521}, {0.10683752524183436, 0.06422276737345467}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;gefleckt&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+</array>
+</plist>

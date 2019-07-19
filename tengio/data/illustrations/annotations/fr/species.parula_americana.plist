@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>FontScale</key>
+		<real>0.60000000000000009</real>
+		<key>Frame</key>
+		<string>{{0.75055004339570008, 0.14440871906934385}, {0.18127874706411376, 0.077793704958955504}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;♂ &lt;b&gt;1er hiv.&lt;/b&gt;&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.27468329229318406</real>
+		<key>Frame</key>
+		<string>{{0.099879819741713866, 0.016049105887065176}, {0.38452253726503299, 0.16992741926783553}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;petite et très colorée, à cercle oculaire bien visible; le ♂ a du roux sur la poitrine&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.27468329229318406</real>
+		<key>Frame</key>
+		<string>{{0.099879819741713866, 0.016049105887065176}, {0.38452253726503299, 0.16992741926783553}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;petite et très colorée, à cercle oculaire bien visible; le ♂ a du roux sur la poitrine&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.52500060081550581</real>
+		<key>Frame</key>
+		<string>{{0.10500320732954165, 0.4011279454338938}, {0.21301665927949526, 0.088906989635572115}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;♀ &lt;b&gt;1er hiv.&lt;/b&gt;&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+</array>
+</plist>

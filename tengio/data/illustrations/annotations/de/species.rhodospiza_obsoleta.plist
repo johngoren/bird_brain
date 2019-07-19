@@ -1,0 +1,200 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>EndPoint</key>
+		<string>{0.87493144878842966, 0.3295067271121791}</string>
+		<key>StartPoint</key>
+		<string>{0.86505792432896211, 0.39155110182587949}</string>
+		<key>Type</key>
+		<string>line</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.32324541649301219</real>
+		<key>Frame</key>
+		<string>{{0.82608198580521219, 0.14449593281695808}, {0.098090301920653572, 0.15485225472317929}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;Schwanzseiten weiß&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.60101979677431205</real>
+		<key>Frame</key>
+		<string>{{0.89441337948718391, 0.090293028991322855}, {0.068712588756056889, 0.083283914841947013}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;&lt;b&gt;ad. &lt;/b&gt;♂&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>EndPoint</key>
+		<string>{0.78726640897579803, 0.96194076900453562}</string>
+		<key>StartPoint</key>
+		<string>{0.77041998694255787, 0.91304272808303877}</string>
+		<key>Type</key>
+		<string>line</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.53111028869504961</real>
+		<key>Frame</key>
+		<string>{{0.77026756641209515, 0.90142507211713918}, {0.1511940443076723, 0.094246491996724635}}</string>
+		<key>Text</key>
+		<string>&lt;p class="right"&gt;Zügel und Schnabelschwarz&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>EndPoint</key>
+		<string>{0.56636657614194086, 0.53638957135750054}</string>
+		<key>StartPoint</key>
+		<string>{0.60638507086206328, 0.42023305651106835}</string>
+		<key>Type</key>
+		<string>line</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.72585191876859623</real>
+		<key>Frame</key>
+		<string>{{0.51948771275260008, 0.51547839415511576}, {0.062530387212607494, 0.068960734660307305}}</string>
+		<key>Text</key>
+		<string>&lt;p class="center"&gt;rosa&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.52230467890090637</real>
+		<key>Frame</key>
+		<string>{{0.46968555466562328, 0.41964298697820318}, {0.069859505813106793, 0.0958354071769148}}</string>
+		<key>Text</key>
+		<string>&lt;p class="right"&gt;schwarz&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>EndPoint</key>
+		<string>{0.54421180060808727, 0.48117747925104248}</string>
+		<key>StartPoint</key>
+		<string>{0.56132512139945157, 0.4315052648933605}</string>
+		<key>Type</key>
+		<string>line</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.79630297163640551</real>
+		<key>Frame</key>
+		<string>{{0.4868261167780133, 0.10448192770488594}, {0.12709466803478209, 0.062859594093956875}}</string>
+		<key>Text</key>
+		<string>&lt;p class="center"&gt;♂&lt;b&gt; PK&lt;/b&gt;&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>EndPoint</key>
+		<string>{0.48667369584344, 0.8538236764622239}</string>
+		<key>StartPoint</key>
+		<string>{0.4698379756001993, 0.80495643919043047}</string>
+		<key>Type</key>
+		<string>line</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.41520228851656243</real>
+		<key>Frame</key>
+		<string>{{0.48986620847283646, 0.7840978542323902}, {0.11561399750754835, 0.12055637205592953}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;Zügel und Schnabel hell&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.62547202451589146</real>
+		<key>Frame</key>
+		<string>{{0.22250793516435599, 0.10448192770488361}, {0.10913091759779103, 0.080028010224147669}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;♀&lt;b&gt; SK&lt;/b&gt;&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>EndPoint</key>
+		<string>{0.20487116120840962, 0.45633702584015307}</string>
+		<key>StartPoint</key>
+		<string>{0.2279001203071071, 0.40676880448914537}</string>
+		<key>Type</key>
+		<string>line</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.31436895282953659</real>
+		<key>Frame</key>
+		<string>{{0.073001654092235496, 0.32219377652202619}, {0.14338398666552257, 0.15922463437417778}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;Schirmfeder­zentren graubraun&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.59999999999999998</real>
+		<key>Frame</key>
+		<string>{{0.23989492756328018, 0.82122875700019293}, {0.094804984288761954, 0.083425469288126844}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;Zügel hell&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>EndPoint</key>
+		<string>{0.23683491489050723, 0.87559133543418521}</string>
+		<key>StartPoint</key>
+		<string>{0.2237954220307061, 0.83774294001953031}</string>
+		<key>Type</key>
+		<string>line</string>
+	</dict>
+	<dict>
+		<key>EndPoint</key>
+		<string>{0.086778761264620558, 0.71122530738515366}</string>
+		<key>StartPoint</key>
+		<string>{0.074238355493278396, 0.74762480357308791}</string>
+		<key>Type</key>
+		<string>line</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.30218475558503066</real>
+		<key>Frame</key>
+		<string>{{0.031032728621947742, 0.73697481979583135}, {0.10894193606180835, 0.16564462848553999}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;Schirmfeder­zentren schwarz&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.64134239309492236</real>
+		<key>Frame</key>
+		<string>{{0.22802851606363772, 0.63273522171983154}, {0.10361033669850929, 0.078047673304932508}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;♂&lt;b&gt; 1er W&lt;/b&gt;&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.31436895282953659</real>
+		<key>Frame</key>
+		<string>{{0.073001654092235496, 0.32219377652202619}, {0.14338398666552257, 0.15922463437417778}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;Schirmfeder­zentren graubraun&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+</array>
+</plist>

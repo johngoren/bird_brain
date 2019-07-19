@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>FontScale</key>
+		<real>0.35964601769907256</real>
+		<key>Frame</key>
+		<string>{{0.072207890206385503, 0.024645028875481388}, {0.20746903911922107, 0.15749985299075628}}</string>
+		<key>Text</key>
+		<string>&lt;p class="center"&gt;vole souvent sur place, révélant ainsi son croupion jaune&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.23982657602499943</real>
+		<key>Frame</key>
+		<string>{{0.80522193904448347, 0.22089263330996714}, {0.12531061029110666, 0.23618814834937349}}</string>
+		<key>Text</key>
+		<string>&lt;p class="center"&gt;nette bande jaune pâle au milieu de la calotte&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.40869491106154432</real>
+		<key>Frame</key>
+		<string>{{0.6169437860437913, 0.12243643923541041}, {0.10321584696181249, 0.13859774952711598}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;croupion jaune souvent caché&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.28630030165154824</real>
+		<key>Frame</key>
+		<string>{{0.5029840066990181, 0.7875575911144771}, {0.11875750087440438, 0.19784888311174625}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;long sourcil plus coloré à l’avant&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>EndPoint</key>
+		<string>{0.29702856918883852, 0.7607965541461601}</string>
+		<key>StartPoint</key>
+		<string>{0.29264374427055762, 0.71820190363823244}</string>
+		<key>Type</key>
+		<string>line</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.3425292122322906</real>
+		<key>Frame</key>
+		<string>{{0.27708356633661513, 0.55060141115821226}, {0.059311014069825384, 0.16537040606598208}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;queue courte&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.20523757038872678</real>
+		<key>Frame</key>
+		<string>{{0.54873833943334571, 0.33239695401137737}, {0.087526000878421287, 0.27599330282963724}}</string>
+		<key>Text</key>
+		<string>&lt;p class="right"&gt;net trait sourcilier et côtés de la calotte sombres&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+</array>
+</plist>

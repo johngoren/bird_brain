@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>FontScale</key>
+		<real>0.52089403493558184</real>
+		<key>Frame</key>
+		<string>{{0.72401295997703741, 0.74186524844563428}, {0.095562327467271613, 0.064647012144017552}}</string>
+		<key>Text</key>
+		<string>&lt;p class="center"&gt;spelande ♂ &lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.29502571034248437</real>
+		<key>Frame</key>
+		<string>{{0.13932039330707516, 0.74387123325948878}, {0.14317152349299331, 0.11414002855254776}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;juvenil saknar svarta halslinjen&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.64603130791372576</real>
+		<key>Frame</key>
+		<string>{{0.0067961191877692765, 0.62349173983324624}, {0.050512570641527622, 0.05212478495968477}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;&lt;b&gt;juv.&lt;/b&gt;&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.58565530553520329</real>
+		<key>Frame</key>
+		<string>{{0.43427708425831951, 0.5659933398632272}, {0.050512570641527622, 0.057498399970019091}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;&lt;b&gt;ad.&lt;/b&gt;&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.32410695475923107</real>
+		<key>Frame</key>
+		<string>{{0.36450856194092757, 0.76791962615398124}, {0.10189513939999441, 0.10389855110404031}}</string>
+		<key>Text</key>
+		<string>&lt;p class="right"&gt;svartvit nacktofs&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>EndPoint</key>
+		<string>{0.42025308586037963, 0.74744651867833578}</string>
+		<key>StartPoint</key>
+		<string>{0.4195104966525518, 0.80093099035695037}</string>
+		<key>Type</key>
+		<string>line</string>
+	</dict>
+</array>
+</plist>

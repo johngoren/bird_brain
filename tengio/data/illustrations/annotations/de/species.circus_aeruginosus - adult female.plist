@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>FontScale</key>
+		<real>0.63999791667344874</real>
+		<key>Frame</key>
+		<string>{{0.17933817815384479, 0.080111744820943312}, {0.18044938873110181, 0.046451671339966298}}</string>
+		<key>Text</key>
+		<string>&lt;p class="right"&gt;&lt;b&gt;ad. &lt;/b&gt;♀&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.63999791667344874</real>
+		<key>Frame</key>
+		<string>{{0.63748167303856407, 0.66126694869632607}, {0.18044938873110181, 0.046451671339966298}}</string>
+		<key>Text</key>
+		<string>&lt;p class="right"&gt;&lt;b&gt;ad. &lt;/b&gt;♀&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>EndPoint</key>
+		<string>{0.57337163246395595, 0.81119664188195584}</string>
+		<key>StartPoint</key>
+		<string>{0.50130266319786798, 0.80107170001678574}</string>
+		<key>Type</key>
+		<string>line</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.23125839880989432</real>
+		<key>Frame</key>
+		<string>{{0.2939053389832823, 0.52353087799060105}, {0.61472136329771421, 0.12855305163648062}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;♀ sehr variabel; typische Färbung abgebildet, aber viele so dunkel wie JK&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.25049309664694713</real>
+		<key>Frame</key>
+		<string>{{0.58605481455407438, 0.74100570620987916}, {0.20527595671881932, 0.11868180513365255}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;Decken hellbraun&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+</array>
+</plist>

@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>EndPoint</key>
+		<string>{0.70712209611025767, 0.46730973184564256}</string>
+		<key>StartPoint</key>
+		<string>{0.67169878393491322, 0.49400444697759704}</string>
+		<key>Type</key>
+		<string>line</string>
+	</dict>
+	<dict>
+		<key>EndPoint</key>
+		<string>{0.20805628423858777, 0.71346015174719035}</string>
+		<key>StartPoint</key>
+		<string>{0.15685912712226407, 0.74766416378637979}</string>
+		<key>Type</key>
+		<string>line</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.15232373281673914</real>
+		<key>Frame</key>
+		<string>{{0.01119506066845658, 0.7305621577667829}, {0.41071644287417169, 0.22560556883756838}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;manche Vögel der ssp. &lt;i&gt;diomedea&lt;/i&gt; zeigen mehr Schwarz auf den Handschwingen als dieser Vogel&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.13655913978494671</real>
+		<key>Frame</key>
+		<string>{{0.0076910078235829767, 0.066565435179826049}, {0.48543904627791501, 0.25164981592371144}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;beste Bestimmungs-merkmale von &lt;i&gt;diomedea:&lt;/i&gt; ausge-dehnteres Weiß auf den Handschwingen, entsprechend dunkler Hinterrand schmaler&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.17001338688085757</real>
+		<key>Frame</key>
+		<string>{{0.66917333076539587, 0.074257324271471428}, {0.25222338589442006, 0.20213162633872278}}</string>
+		<key>Text</key>
+		<string>&lt;p class="center"&gt;geringere Größe von &lt;i&gt;diomedea&lt;/i&gt; schwer einschätzbar&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.20749014547543998</real>
+		<key>Frame</key>
+		<string>{{0.59165435971315139, 0.30325771062629353}, {0.32478079827500844, 0.16562272059156616}}</string>
+		<key>Text</key>
+		<string>&lt;p class="right"&gt;Schnabel meist etwas kleiner als bei &lt;i&gt;borealis&lt;/i&gt;&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>EndPoint</key>
+		<string>{0.45317048574122165, 0.23324961432929106}</string>
+		<key>StartPoint</key>
+		<string>{0.524576193163384, 0.19401389034118749}</string>
+		<key>Type</key>
+		<string>line</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.47106824925815827</real>
+		<key>Frame</key>
+		<string>{{0.7056731505969337, 0.79365065193362161}, {0.21076200739122947, 0.072951387497885059}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;&lt;i&gt;borealis&lt;/i&gt;&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.23849765258215988</real>
+		<key>Frame</key>
+		<string>{{0.52946229195836769, 0.59492847471386545}, {0.38697286602979813, 0.14408981395631898}}</string>
+		<key>Text</key>
+		<string>&lt;p class="right"&gt;im Sonnenlicht können die Handschwingen sehr hell wirken&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>EndPoint</key>
+		<string>{0.62214761812035413, 0.75022048409903708}</string>
+		<key>StartPoint</key>
+		<string>{0.57049073256946792, 0.79438151074985619}</string>
+		<key>Type</key>
+		<string>line</string>
+	</dict>
+</array>
+</plist>

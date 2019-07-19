@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>FontScale</key>
+		<real>0.31909547738694499</real>
+		<key>Frame</key>
+		<string>{{0.11953438073951117, 0.035968770632911658}, {0.36710367672420297, 0.091766478922432448}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;♂ nuptial pas aussi typique (lorsque la barre noire du bec est réduite) que la ♀ internuptiale&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.18635363169479777</real>
+		<key>Frame</key>
+		<string>{{0.56332712442962796, 0}, {0.17648990753799554, 0.15713280247647599}}</string>
+		<key>Text</key>
+		<string>&lt;p class="right"&gt;d’après la taille du bec, probablement une ♀&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.66955480993321292</real>
+		<key>Frame</key>
+		<string>{{0.56612855153340924, 0.43503440998963189}, {0.17420057687424537, 0.043733937782917988}}</string>
+		<key>Text</key>
+		<string>&lt;p class="right"&gt;œil sombre&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>EndPoint</key>
+		<string>{0.64670988691565912, 0.42910514326321897}</string>
+		<key>StartPoint</key>
+		<string>{0.66411017480171242, 0.44793828828543436}</string>
+		<key>Type</key>
+		<string>line</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.46252761290416938</real>
+		<key>Frame</key>
+		<string>{{0.61620406101343284, 0.17160100989452792}, {0.10190191089991404, 0.063309232968842388}}</string>
+		<key>Text</key>
+		<string>&lt;p class="right"&gt;&lt;b&gt;ad. nupt.&lt;/b&gt;&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.18207885304659724</real>
+		<key>Frame</key>
+		<string>{{0.62143172161024418, 0.60112129185510654}, {0.25695311935205545, 0.16082190715677872}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;plus de noir à la pointe de l’aile que la plupart des G. leucophées ; habituellement un seul miroir&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.4601449275361103</real>
+		<key>Frame</key>
+		<string>{{0.33746052129021753, 0.7353124746009837}, {0.13219808179337522, 0.063637055735173031}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;beaucoup de noir&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.6352973109211113</real>
+		<key>Frame</key>
+		<string>{{0.35865205409639805, 0.81762562278015727}, {0.11043743250521385, 0.04609222783804412}}</string>
+		<key>Text</key>
+		<string>&lt;p class="right"&gt;&lt;b&gt;ad. nupt.&lt;/b&gt;&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>EndPoint</key>
+		<string>{0.42544897036063373, 0.95162954224774932}</string>
+		<key>StartPoint</key>
+		<string>{0.33845179193921665, 0.96514526019468405}</string>
+		<key>Type</key>
+		<string>line</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.36363636363636359</real>
+		<key>Frame</key>
+		<string>{{0.11667878800759808, 0.89786364957666609}, {0.24437896761517261, 0.080526238099649691}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;gris un peu plus sombre que le G. leucophée&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>EndPoint</key>
+		<string>{0.36096018001399593, 0.80638538195737874}</string>
+		<key>StartPoint</key>
+		<string>{0.34475508227786905, 0.85356557228277075}</string>
+		<key>Type</key>
+		<string>line</string>
+	</dict>
+</array>
+</plist>

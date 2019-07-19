@@ -1,0 +1,452 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>FontScale</key>
+		<real>0.14417482616713723</real>
+		<key>Frame</key>
+		<string>{{0.19278417107771154, 0.22344619245869476}, {0.10045038990325243, 0.15111463238411077}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;&lt;i&gt;niloticus&lt;/i&gt; zeigt größeren, schärfer abgegrenzten weißen Fleck auf dunkleren Handschwingen als &lt;i&gt;senator&lt;/i&gt; und ähnelt damit Maskenwürger&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.22270933800961568</real>
+		<key>Frame</key>
+		<string>{{0.023374316854326126, 0.33572933541178596}, {0.10769594806680831, 0.097826728102210728}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;&lt;b&gt;&lt;i&gt;niloticus&lt;/i&gt;  &lt;/b&gt;&lt;/p&gt;&lt;p&gt;(SO-Türkei, Naher Osten, W Mittelasien)&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.38616495629038761</real>
+		<key>Frame</key>
+		<string>{{0.058192988149081103, 0.55019538210349395}, {0.055313522337873781, 0.056418702682349879}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;Bürzel immer hell&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>EndPoint</key>
+		<string>{0.10928109709305352, 0.53727469055091315}</string>
+		<key>StartPoint</key>
+		<string>{0.09144308714963513, 0.56312711318163944}</string>
+		<key>Type</key>
+		<string>line</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.53912873628147295</real>
+		<key>Frame</key>
+		<string>{{0.11318905274444113, 0.60629242741594036}, {0.055565042294873357, 0.040411360755059647}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;&lt;b&gt;1er W&lt;/b&gt;&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>EndPoint</key>
+		<string>{0.42061203468041669, 0.17591174567979728}</string>
+		<key>StartPoint</key>
+		<string>{0.39905554331032916, 0.25297479450161409}</string>
+		<key>Type</key>
+		<string>line</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.25279920378203996</real>
+		<key>Frame</key>
+		<string>{{0.38683950209457796, 0.084157829375006557}, {0.093071273110088878, 0.086182731311426147}}</string>
+		<key>Text</key>
+		<string>&lt;p class="right"&gt;ohne weißes Handschwingen-feld&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.50321941555223648</real>
+		<key>Frame</key>
+		<string>{{0.38775479575783212, 0.04455108522665964}, {0.026978304928932717, 0.043295081989992164}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;&lt;b&gt;JK&lt;/b&gt;&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>EndPoint</key>
+		<string>{0.41903052979048883, 0.6781517724769065}</string>
+		<key>StartPoint</key>
+		<string>{0.39604156205249308, 0.71146941899084026}</string>
+		<key>Type</key>
+		<string>line</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.16227439706117325</real>
+		<key>Frame</key>
+		<string>{{0.31159480219739322, 0.61821628255020999}, {0.11077817245154663, 0.1342597862007579}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;Schulterfedern mit hellen Zentren, Flügel bunter gemustert als bei Neuntöter im JK&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.69996555287642936</real>
+		<key>Frame</key>
+		<string>{{0.35767279203176666, 0.50602219192531872}, {0.026978304928932717, 0.03112571149502873}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;&lt;b&gt;JK&lt;/b&gt;&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.22458001768350438</real>
+		<key>Frame</key>
+		<string>{{0.4734646317709908, 0.51185491223306678}, {0.093930228392133844, 0.097011862765073995}}</string>
+		<key>Text</key>
+		<string>&lt;p class="right"&gt;helles Hand-schwingenfeld oft ausgedehnt und beige getönt&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>EndPoint</key>
+		<string>{0.4798429679011455, 0.58389240261690079}</string>
+		<key>StartPoint</key>
+		<string>{0.42832975103676907, 0.6301700439439506}</string>
+		<key>Type</key>
+		<string>line</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.70555555555548954</real>
+		<key>Frame</key>
+		<string>{{0.32018966040484281, 0.88487024220622823}, {0.18264073690826088, 0.030879107511437555}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;&lt;b&gt;&lt;i&gt;senator&lt;/i&gt;  &lt;/b&gt;(Europa bis W-Türkei)&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.70555555555548954</real>
+		<key>Frame</key>
+		<string>{{0.54723716471824924, 0.38280597542482853}, {0.043690529221191772, 0.030879107511437555}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;&lt;b&gt;&lt;i&gt;senator&lt;/i&gt;&lt;/b&gt;&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.17067025029396957</real>
+		<key>Frame</key>
+		<string>{{0.4540863594689582, 0.17860715509313893}, {0.12328809300621249, 0.12765508820525726}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;Vorsicht: helles Handschwingenfeld kann bei &lt;i&gt;senator&lt;/i&gt; zuweilen durch Armschwingen verdeckt sein&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.17115902964959437</real>
+		<key>Frame</key>
+		<string>{{0.64392931955203403, 0.11411485242603027}, {0.09072350330083595, 0.12729054318602612}}</string>
+		<key>Text</key>
+		<string>&lt;p class="right"&gt;Handschwingen und -decken des JK können durch Ausbleichen an den Basen sehr hell werden&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.50321941555223648</real>
+		<key>Frame</key>
+		<string>{{0.56323315082655301, 0.044497475664998939}, {0.055565042294873357, 0.043295081989992164}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;&lt;b&gt;2es KJ&lt;/b&gt;&lt;/p&gt;&lt;p&gt;(Frühjahr)&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.33432050016448284</real>
+		<key>Frame</key>
+		<string>{{0.68403865785345719, 0.27357113260313187}, {0.078069962050981823, 0.065167783143932345}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;Schnabel etwas kräftiger als bei &lt;i&gt;senator&lt;/i&gt;&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>EndPoint</key>
+		<string>{0.69350415269172283, 0.3438854336656415}</string>
+		<key>StartPoint</key>
+		<string>{0.68547113422136341, 0.36698043282523019}</string>
+		<key>Type</key>
+		<string>line</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.21924902891670797</real>
+		<key>Frame</key>
+		<string>{{0.60883364853829047, 0.38372805988524306}, {0.13287008325693636, 0.099370683477767216}}</string>
+		<key>Text</key>
+		<string>&lt;p class="right"&gt;schwarzes Stirnband durchschnittlich schmaler als bei &lt;i&gt;senator&lt;/i&gt;&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>EndPoint</key>
+		<string>{0.67577779122328374, 0.43334907015014262}</string>
+		<key>StartPoint</key>
+		<string>{0.6664084403403131, 0.41896026380281459}</string>
+		<key>Type</key>
+		<string>line</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.28182129230903152</real>
+		<key>Frame</key>
+		<string>{{0.76067614353653001, 0.17578947342973522}, {0.08520029308025738, 0.0773075933219394}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;Geschlechter einander ähnlicher als bei &lt;i&gt;senator&lt;/i&gt;&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.36363636363636365</real>
+		<key>Frame</key>
+		<string>{{0.74993326519348746, 0.02138759732164916}, {0.10955100250216038, 0.059914046102047543}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;ohne deutliches weißes Handschwingenfeld&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.72727272727272729</real>
+		<key>Frame</key>
+		<string>{{0.9404519277089759, 0.057052835003859673}, {0.033805768488187518, 0.029957023051023771}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;&lt;b&gt;ad. &lt;/b&gt;♂&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.17840210711151211</real>
+		<key>Frame</key>
+		<string>{{0.8308674855640189, 0.34374113087986974}, {0.15169924736145007, 0.12212258144278459}}</string>
+		<key>Text</key>
+		<string>&lt;p class="right"&gt;ohne deutliches Handschwingen-feld; bestenfalls kleine weiße oder beige Flecke auf innersten Handschwingen&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.72727272727272729</real>
+		<key>Frame</key>
+		<string>{{0.8308674855640189, 0.27630522024737247}, {0.033805768488187518, 0.029957023051023771}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;&lt;b&gt;ad. &lt;/b&gt;♂&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>EndPoint</key>
+		<string>{0.91026322486548472, 0.73451195172046857}</string>
+		<key>StartPoint</key>
+		<string>{0.89757282638967462, 0.76311498531344901}</string>
+		<key>Type</key>
+		<string>line</string>
+	</dict>
+	<dict>
+		<key>EndPoint</key>
+		<string>{0.97012105009581229, 0.7708009910716388}</string>
+		<key>StartPoint</key>
+		<string>{0.96265531141154892, 0.7599170759082291}</string>
+		<key>Type</key>
+		<string>line</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.46605504587152696</real>
+		<key>Frame</key>
+		<string>{{0.92278471917144489, 0.76780840338337797}, {0.059209023206861, 0.046747537760369648}}</string>
+		<key>Text</key>
+		<string>&lt;p class="right"&gt;viel Schwarz&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.63899371069191513</real>
+		<key>Frame</key>
+		<string>{{0.87240930023334862, 0.74962404007108274}, {0.047688540021678695, 0.034095681210537583}}</string>
+		<key>Text</key>
+		<string>&lt;p class="center"&gt;rot&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.27021276595747507</real>
+		<key>Frame</key>
+		<string>{{0.81641118459508166, 0.66194024103341698}, {0.064724511135571386, 0.080628780724293206}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;schwarz oder schwärzlich&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>EndPoint</key>
+		<string>{0.88417720308939918, 0.67608547190156754}</string>
+		<key>StartPoint</key>
+		<string>{0.86548566445512631, 0.69911008257835205}</string>
+		<key>Type</key>
+		<string>line</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.72727272727272729</real>
+		<key>Frame</key>
+		<string>{{0.94188440407688412, 0.52152607715502031}, {0.033805768488187518, 0.029957023051023771}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;&lt;b&gt;ad. &lt;/b&gt;♂&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>EndPoint</key>
+		<string>{0.84866674104544348, 0.81599267739601256}</string>
+		<key>StartPoint</key>
+		<string>{0.8202191025226464, 0.83944919307041843}</string>
+		<key>Type</key>
+		<string>line</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.73623188405787154</real>
+		<key>Frame</key>
+		<string>{{0.80207852078252662, 0.83308340565060091}, {0.038223698329274747, 0.029592478031795554}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;weiß&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>EndPoint</key>
+		<string>{0.87011541596668263, 0.94209517525177944}</string>
+		<key>StartPoint</key>
+		<string>{0.85623371575020901, 0.93582076960010929}</string>
+		<key>Type</key>
+		<string>line</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.3531456378172031</real>
+		<key>Frame</key>
+		<string>{{0.87268856238551806, 0.89299745175264889}, {0.11307677861061036, 0.061693883548881515}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;meist deutliches Flügelfeld&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>EndPoint</key>
+		<string>{0.67479690731352204, 0.77452334900659736}</string>
+		<key>StartPoint</key>
+		<string>{0.65180793957552829, 0.80784099552053101}</string>
+		<key>Type</key>
+		<string>line</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.31610917235131314</real>
+		<key>Frame</key>
+		<string>{{0.63127577830218051, 0.78371972128162004}, {0.053956609857865434, 0.068922156523432851}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;dunkel graubraun&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.57072525022642306</real>
+		<key>Frame</key>
+		<string>{{0.62339715827868802, 0.52894359173679673}, {0.048375265910375574, 0.038174105397731257}}</string>
+		<key>Text</key>
+		<string>&lt;p class="center"&gt;&lt;b&gt;ad. &lt;/b&gt;♀&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.28222222222221344</real>
+		<key>Frame</key>
+		<string>{{0.66828141780646821, 0.87571372907610701}, {0.11770180822976825, 0.077197768778589082}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;Zügel bei ♀ (und immat.) meist ausgedehnter hell als bei ♂&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.16488153197016611</real>
+		<key>Frame</key>
+		<string>{{0.74574649843354546, 0.58817436723754146}, {0.079486638151938058, 0.13213684755932623}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;Geschlechter oft schwer zu unterscheiden, am besten angesichts eines Paares&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.93204970959707112</real>
+		<key>Frame</key>
+		<string>{{0.4344362685753177, 0.82800904964588751}, {0.078056726391345074, 0.023375283132386356}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;Rotkopfwürger&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.69996555287643114</real>
+		<key>Frame</key>
+		<string>{{0.53219616285521543, 0.80453095311485923}, {0.026978304928932717, 0.031125711495028654}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;&lt;b&gt;JK&lt;/b&gt;&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.20601312415932385</real>
+		<key>Frame</key>
+		<string>{{0.48585589793476153, 0.64193307653650444}, {0.088837063835057031, 0.10575503839474187}}</string>
+		<key>Text</key>
+		<string>&lt;p class="right"&gt;Kopfzeichnung heller und grauer als bei Neuntöter im JK; Maske undeutlicher&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.50876314471709183</real>
+		<key>Frame</key>
+		<string>{{0.58448155028385396, 0.75772980579282956}, {0.043786830901513397, 0.042823317847453524}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;Neuntöter&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+</array>
+</plist>

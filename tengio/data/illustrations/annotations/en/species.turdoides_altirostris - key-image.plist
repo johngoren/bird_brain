@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>EndPoint</key>
+		<string>{0.91521656628783887, 0.55630910995882632}</string>
+		<key>StartPoint</key>
+		<string>{0.88558436000068641, 0.61874863851041528}</string>
+		<key>Type</key>
+		<string>line</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.23518505116502214</real>
+		<key>Frame</key>
+		<string>{{0.83802838771566956, 0.31035544360597855}, {0.14872844163905288, 0.2718832586520194}}</string>
+		<key>Text</key>
+		<string>&lt;p class="right"&gt;pale lore and stout bill&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.28499298737728063</real>
+		<key>Frame</key>
+		<string>{{0.81920200269807031, 0.7490817828043731}, {0.14872844163905227, 0.22436649647220616}}</string>
+		<key>Text</key>
+		<string>&lt;p class="right"&gt;warm buff &lt;/p&gt;&lt;p class="right"&gt;tinge&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>EndPoint</key>
+		<string>{0.88289340357295876, 0.81624895199317216}</string>
+		<key>StartPoint</key>
+		<string>{0.83460717496238002, 0.75187657203967628}</string>
+		<key>Type</key>
+		<string>line</string>
+	</dict>
+</array>
+</plist>

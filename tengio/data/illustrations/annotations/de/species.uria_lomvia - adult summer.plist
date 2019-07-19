@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>FontScale</key>
+		<real>0.22280723425425528</real>
+		<key>Frame</key>
+		<string>{{0.1733089104871286, 0.13291808837405805}, {0.20082210298323913, 0.11902066128568681}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;Flanken unge-strichelt&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.21837835676417777</real>
+		<key>Frame</key>
+		<string>{{0.069916393672111526, 0.37478314113687772}, {0.16964270344419599, 0.12143448990603654}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;kurz, kräftig, First gekrümmt&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>EndPoint</key>
+		<string>{0.11105394008825833, 0.49820329214499315}</string>
+		<key>StartPoint</key>
+		<string>{0.12389233834824311, 0.53280280524328905}</string>
+		<key>Type</key>
+		<string>line</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.30605249893031444</real>
+		<key>Frame</key>
+		<string>{{0.095543149785700873, 0.59277427107775416}, {0.29977412951878302, 0.086647436151842908}}</string>
+		<key>Text</key>
+		<string>&lt;p class="right"&gt;weißer Streif am Schnabelwinkel&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>EndPoint</key>
+		<string>{0.27569130641836509, 0.60225273982972638}</string>
+		<key>StartPoint</key>
+		<string>{0.26565331380520224, 0.57343308721662922}</string>
+		<key>Type</key>
+		<string>line</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.47632442569151751</real>
+		<key>Frame</key>
+		<string>{{0.7176692353971198, 0.28840191315498825}, {0.27636741176657048, 0.055673534527810889}}</string>
+		<key>Text</key>
+		<string>&lt;p class="center"&gt;&lt;b&gt;PK&lt;/b&gt;&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.61915394135597335</real>
+		<key>Frame</key>
+		<string>{{0.50964949422177286, 0.9297959237472444}, {0.22062163609151292, 0.042830486231096893}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;&lt;b&gt;PK&lt;/b&gt;&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+</array>
+</plist>

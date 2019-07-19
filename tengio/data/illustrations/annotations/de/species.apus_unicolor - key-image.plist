@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>FontScale</key>
+		<real>0.39839086520576239</real>
+		<key>Frame</key>
+		<string>{{0.093558427613587028, 0.57960346239298166}, {0.19178834830008429, 0.11941912053716214}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;tief gegabelt&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.24901960784313704</real>
+		<key>Frame</key>
+		<string>{{0.099392141609391693, 0.13475393074666681}, {0.26835084380702912, 0.19105116727547053}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;etwas kleiner und blasser als Mauersegler&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.26205829249419865</real>
+		<key>Frame</key>
+		<string>{{0.68470811252182484, 0.38061524294761584}, {0.25557493662175962, 0.1815454351781845}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;Kehlfleck klein und diffus&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>EndPoint</key>
+		<string>{0.66859351044450654, 0.5412289043474664}</string>
+		<key>StartPoint</key>
+		<string>{0.61310456656483359, 0.57733282112597606}</string>
+		<key>Type</key>
+		<string>line</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.15011820330969258</real>
+		<key>Frame</key>
+		<string>{{0.57256432537374391, 0.021247060777120574}, {0.40447083704247916, 0.3169201715981334}}</string>
+		<key>Text</key>
+		<string>&lt;p class="right"&gt;an agilerer und erratischerer Flugweise und deutlich schnelleren Flügelschlägen am besten bestimmbar&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>EndPoint</key>
+		<string>{0.16800846147730572, 0.55069470535953846}</string>
+		<key>StartPoint</key>
+		<string>{0.1538492060889223, 0.59718929590908709}</string>
+		<key>Type</key>
+		<string>line</string>
+	</dict>
+</array>
+</plist>

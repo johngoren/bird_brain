@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>EndPoint</key>
+		<string>{0.32698591904737651, 0.78120247439025048}</string>
+		<key>StartPoint</key>
+		<string>{0.27215244511257392, 0.83191349763086619}</string>
+		<key>Type</key>
+		<string>line</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.34814790548682473</real>
+		<key>Frame</key>
+		<string>{{0.17532369791103061, 0.78388432276739972}, {0.12424548416894673, 0.11261114004631463}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;graubraun&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>EndPoint</key>
+		<string>{0.73365889796930128, 0.50593072016552176}</string>
+		<key>StartPoint</key>
+		<string>{0.64646679026871212, 0.58656809574313074}</string>
+		<key>Type</key>
+		<string>line</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.39086378176136077</real>
+		<key>Frame</key>
+		<string>{{0.74263143282976918, 0.41244776015124779}, {0.2467034962108588, 0.1003043371400026}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;rostrot&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.34181816917398417</real>
+		<key>Frame</key>
+		<string>{{0.33491541920719264, 0}, {0.31794148367173103, 0.1146964558272283}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;Bürzel und Schwanzseiten rostrot&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>EndPoint</key>
+		<string>{0.37738400797130095, 0.12501895399838422}</string>
+		<key>StartPoint</key>
+		<string>{0.32401544252016179, 0.17437529532557466}</string>
+		<key>Type</key>
+		<string>line</string>
+	</dict>
+</array>
+</plist>

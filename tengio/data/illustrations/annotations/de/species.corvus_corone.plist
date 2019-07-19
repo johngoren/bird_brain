@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>FontScale</key>
+		<real>0.16329154612663438</real>
+		<key>Frame</key>
+		<string>{{0.35188149968107413, 0.59948010383723149}, {0.25458776456207682, 0.20267182269132689}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;nur bei sorgfältiger Beobachtung von Saatkrähe im JK zu unterscheiden&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>EndPoint</key>
+		<string>{0.72654399483240673, 0.56707651581029761}</string>
+		<key>StartPoint</key>
+		<string>{0.7264531955660577, 0.60996673489811781}</string>
+		<key>Type</key>
+		<string>line</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.23499979979214256</real>
+		<key>Frame</key>
+		<string>{{0.68129627162107764, 0.41215036222719287}, {0.12571049521039987, 0.14082818501480451}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;kräftig, First gewölbt&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.23499979979214256</real>
+		<key>Frame</key>
+		<string>{{0.65378786357090013, 0.073047766295930849}, {0.14621267910439631, 0.14082818501480451}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;Flügel eher gleichmäßig breit&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>EndPoint</key>
+		<string>{0.77514031770077951, 0.19775731618004919}</string>
+		<key>StartPoint</key>
+		<string>{0.82702090070867518, 0.19654167982837881}</string>
+		<key>Type</key>
+		<string>line</string>
+	</dict>
+</array>
+</plist>

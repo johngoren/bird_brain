@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>FontScale</key>
+		<real>0.21347335573300874</real>
+		<key>Frame</key>
+		<string>{{0.081033187694811437, 0.03961620150623401}, {0.17676091717657239, 0.18765974022428003}}</string>
+		<key>Text</key>
+		<string>&lt;p class="center"&gt;Wüstenbewohner; beachte den im Flug oft leicht nach unten gehaltenen Schnabel&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.319990625274651</real>
+		<key>Frame</key>
+		<string>{{0.297287117508301, 0.094222328182887116}, {0.094843674634656594, 0.12519227539018543}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;Schwanz kürzer als bei Kolkrabe&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>EndPoint</key>
+		<string>{0.32748534355661374, 0.22900919688200508}</string>
+		<key>StartPoint</key>
+		<string>{0.32028376590021068, 0.29498772510821825}</string>
+		<key>Type</key>
+		<string>line</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.23618505775847151</real>
+		<key>Frame</key>
+		<string>{{0.46891411968300872, 0.69292886529796993}, {0.11791370907328877, 0.16961426290831833}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;Bronzeglanz im Nacken manchmal von Nahem sichtbar&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>EndPoint</key>
+		<string>{0.57739738007202601, 0.84899958627927885}</string>
+		<key>StartPoint</key>
+		<string>{0.60084713835852943, 0.83719598405701134}</string>
+		<key>Type</key>
+		<string>line</string>
+	</dict>
+	<dict>
+		<key>EndPoint</key>
+		<string>{0.71832621045767064, 0.79210472419318489}</string>
+		<key>StartPoint</key>
+		<string>{0.71255218762641437, 0.8386881632139459}</string>
+		<key>Type</key>
+		<string>line</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.21903988881091419</real>
+		<key>Frame</key>
+		<string>{{0.69868919482678304, 0.60173398199806394}, {0.074849834014585878, 0.18289068123223792}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;vergleichsweise schlank&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.17062156747630489</real>
+		<key>Frame</key>
+		<string>{{0.71472355589017467, 0.11181410573379866}, {0.098256276891450334, 0.2347906836996157}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;Flugsilhouette etwas schlanker und mit schmalerem Handflügel als beim Kolkraben&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.26111087131914767</real>
+		<key>Frame</key>
+		<string>{{0.79153474312252181, 0.53642753424080958}, {0.083735886327444775, 0.15342277508123059}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;Kolkrabe (zum Vergleich)&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.48205071624280493</real>
+		<key>Frame</key>
+		<string>{{0.90375678493185152, 0.68660457107823014}, {0.053818423955050647, 0.083104024393739664}}</string>
+		<key>Text</key>
+		<string>&lt;p class="right"&gt;hoch&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>EndPoint</key>
+		<string>{0.942768436805695, 0.77788327916216082}</string>
+		<key>StartPoint</key>
+		<string>{0.93631674754217087, 0.83016527923069661}</string>
+		<key>Type</key>
+		<string>line</string>
+	</dict>
+</array>
+</plist>

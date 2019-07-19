@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>FontScale</key>
+		<real>0.42838233419652755</real>
+		<key>Frame</key>
+		<string>{{0.22792047555142464, 0.44813935075222811}, {0.17484326915980625, 0.11736505910632146}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;grau-weißlich&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.47834274952917011</real>
+		<key>Frame</key>
+		<string>{{0.43355165400383983, 0.8948931116389518}, {0.17411375576309526, 0.10510688836104837}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;matter gefärbt&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>EndPoint</key>
+		<string>{0.5065559665663405, 0.90297716343200629}</string>
+		<key>StartPoint</key>
+		<string>{0.52388325115203105, 0.84460126504429311}</string>
+		<key>Type</key>
+		<string>line</string>
+	</dict>
+	<dict>
+		<key>EndPoint</key>
+		<string>{0.42984840662929547, 0.38157062587174007}</string>
+		<key>StartPoint</key>
+		<string>{0.45877554114661984, 0.40712701188668438}</string>
+		<key>Type</key>
+		<string>line</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.20604339890489937</real>
+		<key>Frame</key>
+		<string>{{0.66338428359787327, 0.30166270783849425}, {0.24714016618561141, 0.24401227236736242}}</string>
+		<key>Text</key>
+		<string>&lt;p class="right"&gt;beige Flügelbinden, obere undeutlich&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>EndPoint</key>
+		<string>{0.34614617936688924, 0.5285035629453757}</string>
+		<key>StartPoint</key>
+		<string>{0.40276374471123072, 0.57838479809977117}</string>
+		<key>Type</key>
+		<string>line</string>
+	</dict>
+	<dict>
+		<key>EndPoint</key>
+		<string>{0.88089011573306319, 0.8060659862822227}</string>
+		<key>StartPoint</key>
+		<string>{0.87950506628156166, 0.86150166979514398}</string>
+		<key>Type</key>
+		<string>line</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.19900850364254635</real>
+		<key>Frame</key>
+		<string>{{0.58401241392465686, 0.04902466949925776}, {0.32351655289419423, 0.25263803833923493}}</string>
+		<key>Text</key>
+		<string>&lt;p class="right"&gt;Gesamteindruck wie Gelbbrauen-Laubsänger durch trübes Fernglas betrachtet!&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.47037038366163375</real>
+		<key>Frame</key>
+		<string>{{0.32817234909884635, 0.28746046085442922}, {0.12170953824485398, 0.10688835802478333}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;dunkel&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.27144472670400166</real>
+		<key>Frame</key>
+		<string>{{0.73341521105574936, 0.8022828801130607}, {0.17411375576309526, 0.18522046305178128}}</string>
+		<key>Text</key>
+		<string>&lt;p class="right"&gt;vorwiegend dunkel&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+</array>
+</plist>

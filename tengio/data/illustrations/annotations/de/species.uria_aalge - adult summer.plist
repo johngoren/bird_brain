@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>FontScale</key>
+		<real>0.26184689106094261</real>
+		<key>Frame</key>
+		<string>{{0.10755461067478994, 0.40994740786943806}, {0.14107926865126419, 0.10210912491160899}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;lang, spitz&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>EndPoint</key>
+		<string>{0.14549718739390802, 0.51697820749986667}</string>
+		<key>StartPoint</key>
+		<string>{0.15585145542619322, 0.55068728526983124}</string>
+		<key>Type</key>
+		<string>line</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.47632442569151762</real>
+		<key>Frame</key>
+		<string>{{0.74843694067193234, 0.11839524520163268}, {0.22233353707482534, 0.056131819963341399}}</string>
+		<key>Text</key>
+		<string>&lt;p class="center"&gt;&lt;b&gt;PK&lt;/b&gt;&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.30758063103090078</real>
+		<key>Frame</key>
+		<string>{{0.59942698223962398, 0.0040978574860397934}, {0.2950593685940231, 0.086926659905227119}}</string>
+		<key>Text</key>
+		<string>&lt;p class="center"&gt;&lt;b&gt;&lt;i&gt;albionis&lt;/i&gt;&lt;/b&gt;(W-Europa)&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.21313051707522268</real>
+		<key>Frame</key>
+		<string>{{0.12660066089788255, 0.16855335530483306}, {0.21844522339865854, 0.12544874978003112}}</string>
+		<key>Text</key>
+		<string>&lt;p class="right"&gt;Flanken variabel gestrichelt&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.59002637904801203</real>
+		<key>Frame</key>
+		<string>{{0.41068079954127079, 0.90000832660647967}, {0.18493030028752203, 0.045314850075343152}}</string>
+		<key>Text</key>
+		<string>&lt;p class="right"&gt;&lt;b&gt;PK&lt;/b&gt;&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+</array>
+</plist>

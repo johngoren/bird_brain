@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>EndPoint</key>
+		<string>{0.82812461381064917, 0.83007370177567563}</string>
+		<key>StartPoint</key>
+		<string>{0.86995104393719458, 0.90194557754923188}</string>
+		<key>Type</key>
+		<string>line</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.37797619047621189</real>
+		<key>Frame</key>
+		<string>{{0.65099856423822855, 0.84493719240342935}, {0.34900143576177134, 0.102159026181257}}</string>
+		<key>Text</key>
+		<string>&lt;p class="right"&gt;sourcil nettement incurvé&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.29785986514218221</real>
+		<key>Frame</key>
+		<string>{{0.72594203044391725, 0.22316573841332082}, {0.19470606416182953, 0.12963706782153755}}</string>
+		<key>Text</key>
+		<string>&lt;p class="right"&gt;rosé à flancs gris&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>EndPoint</key>
+		<string>{0.84212277155934301, 0.35375294598727797}</string>
+		<key>StartPoint</key>
+		<string>{0.7481679113529528, 0.42740777959565129}</string>
+		<key>Type</key>
+		<string>line</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.52222278296762292</real>
+		<key>Frame</key>
+		<string>{{0.77902698567294193, 0.10253214721091346}, {0.15882891328542192, 0.073941009082985759}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;♂ &lt;b&gt;ad.&lt;/b&gt;&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.29483459082995067</real>
+		<key>Frame</key>
+		<string>{{0.23072736159458171, 0.048872102227573204}, {0.43286698590898237, 0.13096726347493604}}</string>
+		<key>Text</key>
+		<string>&lt;p class="center"&gt;dessus bien plus sombre que la Pie-grièche grise&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+</array>
+</plist>

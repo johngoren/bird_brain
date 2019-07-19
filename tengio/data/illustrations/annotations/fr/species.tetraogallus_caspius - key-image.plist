@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>FontScale</key>
+		<real>0.38399812500915553</real>
+		<key>Frame</key>
+		<string>{{0.57384660123036191, 0.87188567250192173}, {0.11317760529398789, 0.103167556957308}}</string>
+		<key>Text</key>
+		<string>&lt;p class="right"&gt;gris sombre&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.15878585862284539</real>
+		<key>Frame</key>
+		<string>{{0.78900171596315327, 0.31760474886738849}, {0.20355237806523166, 0.24949418529441852}}</string>
+		<key>Text</key>
+		<string>&lt;p class="right"&gt;gris pâle faiblement ponctué&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>EndPoint</key>
+		<string>{0.69467200846510746, 0.9143873535178566}</string>
+		<key>StartPoint</key>
+		<string>{0.74100554565694932, 0.89051747614463872}</string>
+		<key>Type</key>
+		<string>line</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.33159195390028651</real>
+		<key>Frame</key>
+		<string>{{0.70404072337940127, 0.20774615467161051}, {0.21369446595443253, 0.11947258661558043}}</string>
+		<key>Text</key>
+		<string>&lt;p class="right"&gt;rayures estompées sur les flancs&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>EndPoint</key>
+		<string>{0.80393582997761281, 0.30841649132333682}</string>
+		<key>StartPoint</key>
+		<string>{0.71483528717618383, 0.36665408166391539}</string>
+		<key>Type</key>
+		<string>line</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.39687500000000187</real>
+		<key>Frame</key>
+		<string>{{0.78900171596315327, 0.098411823759009504}, {0.17724504918074951, 0.09982021652505535}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;&lt;b&gt;&lt;i&gt;tauricus&lt;/i&gt;&lt;/b&gt; (Turquie)&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.23605947955390863</real>
+		<key>Frame</key>
+		<string>{{0.027051513273834073, 0.090457400254669626}, {0.48405695611330746, 0.16782273903274636}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;en Arménie, certains ind. ont la poitrine unie, teintée de chamois et se rapprochent de la ssp. nominale &lt;i&gt;caspius&lt;/i&gt; d’Iran&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>EndPoint</key>
+		<string>{0.92079038255405876, 0.57563304787135561}</string>
+		<key>StartPoint</key>
+		<string>{0.8841405073479941, 0.59538418803858895}</string>
+		<key>Type</key>
+		<string>line</string>
+	</dict>
+	<dict>
+		<key>EndPoint</key>
+		<string>{0.6101589301687993, 0.75556001093238634}</string>
+		<key>StartPoint</key>
+		<string>{0.65268738954989469, 0.7355912496754734}</string>
+		<key>Type</key>
+		<string>line</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.49559890504171605</real>
+		<key>Frame</key>
+		<string>{{0.43115812445042168, 0.70051328553167913}, {0.17350068987887807, 0.079935907909334317}}</string>
+		<key>Text</key>
+		<string>&lt;p class="right"&gt;pâle&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+</array>
+</plist>

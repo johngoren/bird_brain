@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>EndPoint</key>
+		<string>{0.19930303781399486, 0.88028276512976866}</string>
+		<key>StartPoint</key>
+		<string>{0.15183088590572938, 0.83141858763171672}</string>
+		<key>Type</key>
+		<string>line</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.26444560124935002</real>
+		<key>Frame</key>
+		<string>{{0.14423534160041102, 0.76427558818069596}, {0.30856898740369781, 0.17382978698845217}}</string>
+		<key>Text</key>
+		<string>&lt;p class="right"&gt;lang stjert, holdes ofte hevet (ulikt maskesanger)&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.37229754488823202</real>
+		<key>Frame</key>
+		<string>{{0.69063981006449626, 0.32105940042980302}, {0.16719917394811132, 0.12347253740018067}}</string>
+		<key>Text</key>
+		<string>&lt;p class="right"&gt;&lt;b&gt;ad. &lt;/b&gt;♀ &lt;b&gt;/ vinter &lt;/b&gt;♂ &lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.32428981806573615</real>
+		<key>Frame</key>
+		<string>{{0.7974521518580856, 0.47489107033109218}, {0.20254784814191434, 0.14175135935316194}}</string>
+		<key>Text</key>
+		<string>&lt;p class="right"&gt;﻿rosabeige underskjegg-stripe&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>EndPoint</key>
+		<string>{0.77879959666461163, 0.67392878489367469}</string>
+		<key>StartPoint</key>
+		<string>{0.86631940647094119, 0.62737208244413323}</string>
+		<key>Type</key>
+		<string>line</string>
+	</dict>
+	<dict>
+		<key>EndPoint</key>
+		<string>{0.8417594936391265, 0.85313599985307209}</string>
+		<key>StartPoint</key>
+		<string>{0.81327620249416976, 0.80427182235502082}</string>
+		<key>Type</key>
+		<string>line</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.26444560124935002</real>
+		<key>Frame</key>
+		<string>{{0.57433303788925916, 0.82273162274317213}, {0.30856898740369915, 0.17382978698845217}}</string>
+		<key>Text</key>
+		<string>&lt;p class="right"&gt;﻿hvit øyering utenfor teglrød øyehudring&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+</array>
+</plist>

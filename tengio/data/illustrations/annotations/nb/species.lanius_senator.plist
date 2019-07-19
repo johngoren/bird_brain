@@ -1,0 +1,452 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>FontScale</key>
+		<real>0.14417482616713723</real>
+		<key>Frame</key>
+		<string>{{0.19392786975393683, 0.22344619245869476}, {0.10045038990325243, 0.15111463238411077}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;&lt;i&gt;﻿niloticus&lt;/i&gt; har større og mer veldefinert hvitt håndbasisfelt på mørkere hånd­svingfjær enn &lt;i&gt;senator&lt;/i&gt;, ligner derfor mer på hvitpannevarsler&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.22270933800961568</real>
+		<key>Frame</key>
+		<string>{{0.02542008437627824, 0.33389261137372389}, {0.10769594806680831, 0.097826728102210728}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;&lt;b&gt;&lt;i&gt;niloticus  &lt;/i&gt;&lt;/b&gt;&lt;/p&gt;&lt;p&gt;(﻿SØ-Tyrkia, Midtøsten, V-Sentral-Asia)&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.38616495629038761</real>
+		<key>Frame</key>
+		<string>{{0.058192988149081103, 0.54785738977451459}, {0.055313522337873781, 0.056418702682349879}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;﻿alltid lys overgump&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>EndPoint</key>
+		<string>{0.10928109709305352, 0.53493669822193379}</string>
+		<key>StartPoint</key>
+		<string>{0.09144308714963513, 0.56078912085266375}</string>
+		<key>Type</key>
+		<string>line</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.53912873628147295</real>
+		<key>Frame</key>
+		<string>{{0.11493898685486317, 0.60707574245704399}, {0.055565042294873357, 0.040411360755059647}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;&lt;b&gt;1. vinter&lt;/b&gt;&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>EndPoint</key>
+		<string>{0.42266259386407445, 0.1741319082329647}</string>
+		<key>StartPoint</key>
+		<string>{0.40110610249398698, 0.25119495705478168}</string>
+		<key>Type</key>
+		<string>line</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.42421711899792952</real>
+		<key>Frame</key>
+		<string>{{0.39329104743673277, 0.11934714564325187}, {0.082844883277341907, 0.051357960062418766}}</string>
+		<key>Text</key>
+		<string>&lt;p class="right"&gt;﻿mangler hvit håndbasisflekk&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.50321941555223648</real>
+		<key>Frame</key>
+		<string>{{0.38980535494148999, 0.042771247779827049}, {0.026978304928932717, 0.043295081989992164}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;&lt;b&gt;juv.&lt;/b&gt;&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>EndPoint</key>
+		<string>{0.42108108897414659, 0.67637193503007376}</string>
+		<key>StartPoint</key>
+		<string>{0.3980921212361529, 0.70968958154400685}</string>
+		<key>Type</key>
+		<string>line</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.16877076411959091</real>
+		<key>Frame</key>
+		<string>{{0.31106690391881897, 0.62160440684660057}, {0.098346450167263746, 0.12909182445753345}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;﻿skulderfjærene har lyse sentra og mer ujevnt farget vinge enn juv. tornskate&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.69996555287643114</real>
+		<key>Frame</key>
+		<string>{{0.35972335121542448, 0.50424235447848664}, {0.026978304928932717, 0.031125711495028654}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;&lt;b&gt;juv.&lt;/b&gt;&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.2424242424242424</real>
+		<key>Frame</key>
+		<string>{{0.47720276012036972, 0.50023235926693199}, {0.076363369834894432, 0.089871069153071317}}</string>
+		<key>Text</key>
+		<string>&lt;p class="right"&gt;﻿lys håndbasis-flekk diffust avsatt og beigetonet&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>EndPoint</key>
+		<string>{0.48189352708480521, 0.58211256517006837}</string>
+		<key>StartPoint</key>
+		<string>{0.43038031022042683, 0.62839020649711819}</string>
+		<key>Type</key>
+		<string>line</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.70555555555548954</real>
+		<key>Frame</key>
+		<string>{{0.32224021958850058, 0.88309040475939515}, {0.18264073690826088, 0.030879107511437555}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;&lt;b&gt;&lt;i&gt;senator  &lt;/i&gt;&lt;/b&gt;(﻿Europa til V-Tyrkia)&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.70555555555548954</real>
+		<key>Frame</key>
+		<string>{{0.54928772390190694, 0.38102613797799245}, {0.043690529221191772, 0.030879107511437555}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;&lt;b&gt;&lt;i&gt;senator&lt;/i&gt;&lt;/b&gt;&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.17067025029396957</real>
+		<key>Frame</key>
+		<string>{{0.46204991309631327, 0.17965790250153543}, {0.12328809300621228, 0.12765508820525726}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;﻿den hvite håndbasis-flekken hos &lt;i&gt;senator&lt;/i&gt; kan skjules av overliggende armsvingfjær&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.17115902964959481</real>
+		<key>Frame</key>
+		<string>{{0.64597987873569174, 0.11233501497919798}, {0.090723503300835742, 0.12729054318602578}}</string>
+		<key>Text</key>
+		<string>&lt;p class="right"&gt;﻿gamle, slitte juv. håndsvingfjær og hånddekkere kan bli svært lyse basalt&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.50321941555223648</real>
+		<key>Frame</key>
+		<string>{{0.56528371001021294, 0.042717638218166348}, {0.055565042294873357, 0.043295081989992164}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;&lt;b&gt;2K &lt;/b&gt;(vår)&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.33432050016448284</real>
+		<key>Frame</key>
+		<string>{{0.68608921703711501, 0.27179129515629941}, {0.078069962050981823, 0.065167783143932345}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;﻿nebb litt kraftigere enn hos &lt;i&gt;senator&lt;/i&gt;&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>EndPoint</key>
+		<string>{0.69555471187538065, 0.34210559621880537}</string>
+		<key>StartPoint</key>
+		<string>{0.68752169340502312, 0.36520059537839761}</string>
+		<key>Type</key>
+		<string>line</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.21896551724137059</real>
+		<key>Frame</key>
+		<string>{{0.62463598085386396, 0.38181955949043994}, {0.10802988829937424, 0.099499346425737906}}</string>
+		<key>Text</key>
+		<string>&lt;p class="right"&gt;﻿svart framissebånd som regel smalere enn hos &lt;i&gt;senator&lt;/i&gt;&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>EndPoint</key>
+		<string>{0.67782835040694145, 0.43156923270331016}</string>
+		<key>StartPoint</key>
+		<string>{0.66845899952397081, 0.41718042635598185}</string>
+		<key>Type</key>
+		<string>line</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.36363636363636365</real>
+		<key>Frame</key>
+		<string>{{0.76559165545600461, 0.18743128894103317}, {0.078786200234936168, 0.059914046102047543}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;﻿kjønnene mer like enn hos &lt;i&gt;senator&lt;/i&gt;&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.36363636363636365</real>
+		<key>Frame</key>
+		<string>{{0.76559165545600461, 0.025744850999212417}, {0.093827202097969326, 0.059914046102047543}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;﻿mangler tydelig hvit håndbasisflekk&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.72727272727272729</real>
+		<key>Frame</key>
+		<string>{{0.94250248689263372, 0.055272997557027082}, {0.033805768488187518, 0.029957023051023771}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;&lt;b&gt;ad. &lt;/b&gt;♂&lt;b&gt; &lt;/b&gt;&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.19119307489649573</real>
+		<key>Frame</key>
+		<string>{{0.84444066454277555, 0.34512917549595401}, {0.14017662756635085, 0.11395248424706064}}</string>
+		<key>Text</key>
+		<string>&lt;p class="right"&gt;﻿mangler tydelig hvit håndbasisflekk; i høyden en liten antydning på de innerste håndsvingfjærene&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.72727272727272729</real>
+		<key>Frame</key>
+		<string>{{0.83291804474767683, 0.2745253828005399}, {0.033805768488187518, 0.029957023051023771}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;&lt;b&gt;ad. &lt;/b&gt;♂&lt;b&gt; &lt;/b&gt;&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>EndPoint</key>
+		<string>{0.91231378404914254, 0.73273211427363549}</string>
+		<key>StartPoint</key>
+		<string>{0.89962338557333232, 0.7613351478666156}</string>
+		<key>Type</key>
+		<string>line</string>
+	</dict>
+	<dict>
+		<key>EndPoint</key>
+		<string>{0.97217160927947022, 0.76902115362480539}</string>
+		<key>StartPoint</key>
+		<string>{0.96470587059520674, 0.75813723846139602}</string>
+		<key>Type</key>
+		<string>line</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.46605504587152696</real>
+		<key>Frame</key>
+		<string>{{0.9248352783551026, 0.76418439701571372}, {0.059209023206861, 0.046747537760369648}}</string>
+		<key>Text</key>
+		<string>&lt;p class="right"&gt;﻿mye svart&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.63899371069191513</real>
+		<key>Frame</key>
+		<string>{{0.87445985941700632, 0.74784420262424933}, {0.047688540021678695, 0.034095681210537583}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;﻿rødbrun&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.28863636363636574</real>
+		<key>Frame</key>
+		<string>{{0.83220180656372367, 0.6665292195107998}, {0.045123005589099832, 0.075482262805728645}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;﻿svart eller svartaktig&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>EndPoint</key>
+		<string>{0.88622776227305711, 0.67430563445473501}</string>
+		<key>StartPoint</key>
+		<string>{0.86753622363878602, 0.69733024513151842}</string>
+		<key>Type</key>
+		<string>line</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.72727272727272729</real>
+		<key>Frame</key>
+		<string>{{0.94393496326054194, 0.5197462397081879}, {0.033805768488187518, 0.029957023051023771}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;&lt;b&gt;ad. &lt;/b&gt;♂&lt;b&gt; &lt;/b&gt;&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>EndPoint</key>
+		<string>{0.85071730022910108, 0.81421283994917926}</string>
+		<key>StartPoint</key>
+		<string>{0.82226966170630422, 0.8376693556235848}</string>
+		<key>Type</key>
+		<string>line</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.73623188405787154</real>
+		<key>Frame</key>
+		<string>{{0.81260030101725156, 0.8313035682037675}, {0.038223698329274747, 0.029592478031795554}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;hvit&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>EndPoint</key>
+		<string>{0.87216597515034044, 0.94031533780494636}</string>
+		<key>StartPoint</key>
+		<string>{0.85828427493386894, 0.93404093215327588}</string>
+		<key>Type</key>
+		<string>line</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.3531456378172031</real>
+		<key>Frame</key>
+		<string>{{0.87473912156917577, 0.89121761430581548}, {0.11307677861061036, 0.061693883548881515}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;﻿ofte stor vingeflekk&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>EndPoint</key>
+		<string>{0.67684746649717986, 0.77274351155976428}</string>
+		<key>StartPoint</key>
+		<string>{0.65385849875918611, 0.8060611580736976}</string>
+		<key>Type</key>
+		<string>line</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.2424242424242424</real>
+		<key>Frame</key>
+		<string>{{0.63700302683013488, 0.76104287670292348}, {0.053956609857865434, 0.089871069153071317}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;﻿mørkt brungrå&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.57072525022642306</real>
+		<key>Frame</key>
+		<string>{{0.62544771746234584, 0.52716375428996431}, {0.048375265910375574, 0.038174105397731257}}</string>
+		<key>Text</key>
+		<string>&lt;p class="right"&gt;&lt;b&gt;ad.&lt;/b&gt; ♀&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.19072648770417436</real>
+		<key>Frame</key>
+		<string>{{0.74271978278174167, 0.57648659976046335}, {0.072578802640668447, 0.11423125396763217}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;﻿kjønnsbestemmelse ofte vanskelig om ikke paret sees&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.28222222222221344</real>
+		<key>Frame</key>
+		<string>{{0.67033197699012614, 0.8739338916292736}, {0.11770180822976825, 0.077197768778589082}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;♀♀ (﻿og ungfugler) har som regel større lys tøylemarkering enn ad. ♂♂ &lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.76276276276282617</real>
+		<key>Frame</key>
+		<string>{{0.41678365987042387, 0.82075320647069361}, {0.08857478874897376, 0.028563174448074692}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;﻿RØDHODEVARSLER&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.69996555287643114</real>
+		<key>Frame</key>
+		<string>{{0.53424672203887325, 0.80275111566802615}, {0.026978304928932717, 0.031125711495028654}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;&lt;b&gt;juv.&lt;/b&gt;&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.28794105143826138</real>
+		<key>Frame</key>
+		<string>{{0.4869750018979126, 0.6474871032121049}, {0.11077817245154681, 0.07566453531535236}}</string>
+		<key>Text</key>
+		<string>&lt;p class="right"&gt;﻿lysere og gråere hode enn juv. tornskate, mindre tydelig «maske»&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.50876314471709183</real>
+		<key>Frame</key>
+		<string>{{0.58653210946751366, 0.75594996834599615}, {0.043786830901513592, 0.042823317847453524}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;﻿TORNSKATE&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+</array>
+</plist>

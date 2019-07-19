@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>EndPoint</key>
+		<string>{0.83719775363902083, 0.29480194220290457}</string>
+		<key>StartPoint</key>
+		<string>{0.776498417461156, 0.32462750456830652}</string>
+		<key>Type</key>
+		<string>line</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.31129636215775952</real>
+		<key>Frame</key>
+		<string>{{0.60404973679421614, 0.4579322045474134}, {0.25846308969435133, 0.087437185936653908}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;﻿rødbrun, når iblant opp på bakissen&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.66109499911734282</real>
+		<key>Frame</key>
+		<string>{{0.81289430545893004, 0.2503421429031667}, {0.14359077535468462, 0.041172415365012746}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;svart&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.61935093654903894</real>
+		<key>Frame</key>
+		<string>{{0.11840175056831947, 0.044853283821316786}, {0.32895311595768334, 0.043947423493137544}}</string>
+		<key>Text</key>
+		<string>&lt;p class="right"&gt;&lt;b&gt;ad. sommer &lt;/b&gt;♂&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>EndPoint</key>
+		<string>{0.626926884487775, 0.46517654473321007}</string>
+		<key>StartPoint</key>
+		<string>{0.61511198586491256, 0.42319416908772228}</string>
+		<key>Type</key>
+		<string>line</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.38012083715984402</real>
+		<key>Frame</key>
+		<string>{{0.2765264047360616, 0.74535078272760469}, {0.12642476285365276, 0.071605855924036621}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;﻿hvite sider&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.58641884584363568</real>
+		<key>Frame</key>
+		<string>{{0.45093218859777678, 0.90453797634565269}, {0.31671480321797052, 0.046415421489795862}}</string>
+		<key>Text</key>
+		<string>&lt;p class="right"&gt;&lt;b&gt;ad. sommer &lt;/b&gt;♂&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>EndPoint</key>
+		<string>{0.31309080171880227, 0.76036047633834047}</string>
+		<key>StartPoint</key>
+		<string>{0.31309080171880227, 0.72775432119113548}</string>
+		<key>Type</key>
+		<string>line</string>
+	</dict>
+</array>
+</plist>

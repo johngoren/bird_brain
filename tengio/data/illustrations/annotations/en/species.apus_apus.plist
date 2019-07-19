@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>FontScale</key>
+		<real>0.18181818181818185</real>
+		<key>Frame</key>
+		<string>{{0.55979562584546083, 0.47628886925597752}, {0.10727969348658975, 0.18866231043318032}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;narrow, scythe-shaped
+wings&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>EndPoint</key>
+		<string>{0.87243930400638225, 0.46548501468571485}</string>
+		<key>StartPoint</key>
+		<string>{0.84585324739148449, 0.47871973653428856}</string>
+		<key>Type</key>
+		<string>line</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.26449963373807084</real>
+		<key>Frame</key>
+		<string>{{0.87780328868071034, 0.3505047366923526}, {0.091954022988505552, 0.12968728075649105}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;rather distinct throat-
+patch&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.19689922480620151</real>
+		<key>Frame</key>
+		<string>{{0.77818643044316393, 0.10679704295305462}, {0.19923371647509569, 0.17421215494545647}}</string>
+		<key>Text</key>
+		<string>&lt;p class="right"&gt;in strong 
+Mediterranean&lt;br/&gt;light impression&lt;br/&gt;might be rather 
+close to Pallid Swift&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.18181818181818185</real>
+		<key>Frame</key>
+		<string>{{0.050667930754010368, 0.44261373839245782}, {0.080896328839850887, 0.18866231043318032}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;palefringed body in juv.!&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.69629642746469544</real>
+		<key>Frame</key>
+		<string>{{0.15545720278466127, 0.38182266585725827}, {0.078941566399078525, 0.049263843540713101}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;&lt;b&gt;juv.&lt;/b&gt;&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.20370276355174349</real>
+		<key>Frame</key>
+		<string>{{0.20009321811033162, 0.44552877423021803}, {0.17241379310344848, 0.16839358319193826}}</string>
+		<key>Text</key>
+		<string>&lt;p class="right"&gt;pale forehead gives masked 
+look close 
+to Pallid&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>EndPoint</key>
+		<string>{0.38807760500410093, 0.28781475962793884}</string>
+		<key>StartPoint</key>
+		<string>{0.36407789243983252, 0.31330510400464895}</string>
+		<key>Type</key>
+		<string>line</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.26449963373807084</real>
+		<key>Frame</key>
+		<string>{{0.28419283496856912, 0.27166923799578074}, {0.075059275426170455, 0.12968728075649105}}</string>
+		<key>Text</key>
+		<string>&lt;p class="right"&gt;rather plain dark&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.36153803718210509</real>
+		<key>Frame</key>
+		<string>{{0.25247232348460541, 0.62694721221962912}, {0.21390441952993999, 0.094878642723007195}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;screaming flock in &lt;/p&gt;&lt;p&gt;summer evening&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+</array>
+</plist>

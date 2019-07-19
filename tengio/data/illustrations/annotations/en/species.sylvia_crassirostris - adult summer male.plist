@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>EndPoint</key>
+		<string>{0.53516431068426873, 0.74430462526621954}</string>
+		<key>StartPoint</key>
+		<string>{0.59747452656423361, 0.67772630596777739}</string>
+		<key>Type</key>
+		<string>line</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.72817480983372396</real>
+		<key>Frame</key>
+		<string>{{0.45900738016430814, 0.69304859993527546}, {0.16846836145324343, 0.073725943552794659}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;grey&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>EndPoint</key>
+		<string>{0.38054346498366864, 0.37788152306282585}</string>
+		<key>StartPoint</key>
+		<string>{0.31223220498038751, 0.27202725116360194}</string>
+		<key>Type</key>
+		<string>line</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.76969696969696488</real>
+		<key>Frame</key>
+		<string>{{0.24669108901775749, 0.19118214915832435}, {0.18693064763989997, 0.069748715455518071}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;spotted&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>EndPoint</key>
+		<string>{0.75931941701711292, 0.50779178449053786}</string>
+		<key>StartPoint</key>
+		<string>{0.84470749063040396, 0.40950950362140792}</string>
+		<key>Type</key>
+		<string>line</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.23764584514711559</real>
+		<key>Frame</key>
+		<string>{{0.68286260017752498, 0.20797798790373681}, {0.25108709213853164, 0.22590495909210603}}</string>
+		<key>Text</key>
+		<string>&lt;p class="right"&gt;faint pinkish-buff breast-sides and flanks&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.42035581299130542</real>
+		<key>Frame</key>
+		<string>{{0.85086940447610049, 0.85067012887755233}, {0.12923600330659771, 0.12771412519393072}}</string>
+		<key>Text</key>
+		<string>&lt;p class="right"&gt;pale eye&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.36363636363636803</real>
+		<key>Frame</key>
+		<string>{{0.72209495832417003, 0.030435803107856957}, {0.18000729031990337, 0.14763478104751052}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;&lt;b&gt;ad. summer &lt;/b&gt;♂&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+</array>
+</plist>

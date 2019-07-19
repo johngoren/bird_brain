@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>EndPoint</key>
+		<string>{0.67427974354987197, 0.4487796451815475}</string>
+		<key>StartPoint</key>
+		<string>{0.6405487977930705, 0.42243200766384409}</string>
+		<key>Type</key>
+		<string>line</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.37957300739519539</real>
+		<key>Frame</key>
+		<string>{{0.67628504099965281, 0.40160619475569886}, {0.1074855294025682, 0.067500345780000262}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;very heavy&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.62148296365136446</real>
+		<key>Frame</key>
+		<string>{{0.094176890015749484, 0.11420479316191795}, {0.077482421002157589, 0.041226084617668086}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;&lt;b&gt;ad.&lt;/b&gt;&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>EndPoint</key>
+		<string>{0.32753584710262124, 0.60371353139005235}</string>
+		<key>StartPoint</key>
+		<string>{0.31629119325379901, 0.626261510133855}</string>
+		<key>Type</key>
+		<string>line</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.54972899017943377</real>
+		<key>Frame</key>
+		<string>{{0.33236657947496551, 0.5706919579695614}, {0.20940077606082391, 0.046607164085647704}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;barrel-shaped&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.4552957887227001</real>
+		<key>Frame</key>
+		<string>{{0.43693705234020652, 0.9133013156884402}, {0.21867277351052908, 0.056273986895000815}}</string>
+		<key>Text</key>
+		<string>&lt;p class="right"&gt;&lt;b&gt;imm. / ad. &lt;/b&gt;(dark)&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.16035364451223014</real>
+		<key>Frame</key>
+		<string>{{0.53014498371534902, 0.74893164721458905}, {0.31241293936797682, 0.15978002449439907}}</string>
+		<key>Text</key>
+		<string>&lt;p class="center"&gt;extent of pale streaking and blotching very variable, probably age-related; sequence of immature plumages poorly understood&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+</array>
+</plist>

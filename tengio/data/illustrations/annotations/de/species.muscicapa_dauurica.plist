@@ -1,0 +1,144 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>FontScale</key>
+		<real>0.73270513799497095</real>
+		<key>Frame</key>
+		<string>{{0.57161224489966256, 0.95400990699006405}, {0.38220879358855364, 0.039434980241963229}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;Stirn ungestrichelt&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>EndPoint</key>
+		<string>{0.55814775328022259, 0.98050204375622874}</string>
+		<key>StartPoint</key>
+		<string>{0.52019221258597959, 0.96999677864768452}</string>
+		<key>Type</key>
+		<string>line</string>
+	</dict>
+	<dict>
+		<key>EndPoint</key>
+		<string>{0.64629694423273465, 0.90486692799514701}</string>
+		<key>StartPoint</key>
+		<string>{0.54427671336903438, 0.92491668620871537}</string>
+		<key>Type</key>
+		<string>line</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.40719119122671005</real>
+		<key>Frame</key>
+		<string>{{0.65758011142412842, 0.84579880551834807}, {0.32034406721113334, 0.0709598175563904}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;breiter Schnabel mit heller Basis&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.44391961001691088</real>
+		<key>Frame</key>
+		<string>{{0.71559747441994759, 0.75497655141442133}, {0.26445879258816141, 0.06508884038467215}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;ungemustert&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.7170999944772658</real>
+		<key>Frame</key>
+		<string>{{0.59945257435613941, 0.61365060976547614}, {0.15667041095580894, 0.040293143024048163}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;&lt;b&gt;ad.&lt;/b&gt;&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>EndPoint</key>
+		<string>{0.59651882305161419, 0.80719098714295412}</string>
+		<key>StartPoint</key>
+		<string>{0.69775201166920842, 0.80719098714295412}</string>
+		<key>Type</key>
+		<string>line</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.31678175660396773</real>
+		<key>Frame</key>
+		<string>{{0.23509343913327452, 0.0080888060673060119}, {0.60418772533527654, 0.091211731855314546}}</string>
+		<key>Text</key>
+		<string>&lt;p class="center"&gt;beachte kompakte Gestalt mit großem Kopf und kurzem Schwanz&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.78067389071366855</real>
+		<key>Frame</key>
+		<string>{{0.64163306961347422, 0.17039658505795949}, {0.25755599475668978, 0.037011885479610956}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;&lt;b&gt;1er W&lt;/b&gt;&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>EndPoint</key>
+		<string>{0.41529168342686884, 0.35182394614662682}</string>
+		<key>StartPoint</key>
+		<string>{0.30955199286488577, 0.32931475457805004}</string>
+		<key>Type</key>
+		<string>line</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.22708985248100208</real>
+		<key>Frame</key>
+		<string>{{0.069986929125987363, 0.22492510014012237}, {0.24103140147047458, 0.12723691668448223}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;im 1en W helle Flügelbinde&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>EndPoint</key>
+		<string>{0.748684278729283, 0.51556957641277557}</string>
+		<key>StartPoint</key>
+		<string>{0.69514659266644252, 0.47977066964764786}</string>
+		<key>Type</key>
+		<string>line</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.37303543703577036</real>
+		<key>Frame</key>
+		<string>{{0.68466624908038731, 0.49361710063949299}, {0.22576607937734516, 0.077457018211505621}}</string>
+		<key>Text</key>
+		<string>&lt;p class="right"&gt;helle „Brille“&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>EndPoint</key>
+		<string>{0.81554402470800735, 0.42182724706559277}</string>
+		<key>StartPoint</key>
+		<string>{0.70810922382847452, 0.44109521924523037}</string>
+		<key>Type</key>
+		<string>line</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.23810674817083091</real>
+		<key>Frame</key>
+		<string>{{0.8278438126966543, 0.31276314851851533}, {0.16365313508480372, 0.12134982675621743}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;dunkler Kinnstreif&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+</array>
+</plist>

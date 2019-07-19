@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>FontScale</key>
+		<real>0.21873574548472546</real>
+		<key>Frame</key>
+		<string>{{0.35312091690145053, 0.03333997769028442}, {0.26899327118416516, 0.15913674731045399}}</string>
+		<key>Text</key>
+		<string>&lt;p class="center"&gt;green and blue metallic gloss depends on angle of light and plumage wear&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.28059719385679882</real>
+		<key>Frame</key>
+		<string>{{0.72377097825794323, 0.6892866485298369}, {0.1421120758321355, 0.12405289795852717}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;&lt;b&gt;&lt;i&gt;pica&lt;/i&gt;&lt;/b&gt;&lt;/p&gt;&lt;p&gt;(Europe)&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.23914117026012491</real>
+		<key>Frame</key>
+		<string>{{0.086858218580817118, 0.029229429730906597}, {0.13881965193154755, 0.1455579355871818}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;♂ usually &lt;/p&gt;&lt;p&gt;has longer &lt;/p&gt;&lt;p&gt;tail than ♀&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>EndPoint</key>
+		<string>{0.12814655209563069, 0.22651570721322897}</string>
+		<key>StartPoint</key>
+		<string>{0.13263027892230014, 0.17478193158190147}</string>
+		<key>Type</key>
+		<string>line</string>
+	</dict>
+</array>
+</plist>

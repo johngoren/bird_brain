@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>EndPoint</key>
+		<string>{0.72822269213721702, 0.34243205971056984}</string>
+		<key>StartPoint</key>
+		<string>{0.76127889385120362, 0.3192185234077482}</string>
+		<key>Type</key>
+		<string>line</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.23499965934802775</real>
+		<key>Frame</key>
+		<string>{{0.77176451806535784, 0.16297458305400606}, {0.22761082637909499, 0.17502576305878631}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;motif de la tête insignifiant&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.37233683939413337</real>
+		<key>Frame</key>
+		<string>{{0.61970117809699621, 0.023549200769691418}, {0.23320597485685435, 0.11046716398751134}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;♀ &lt;b&gt;automne&lt;/b&gt;&lt;/p&gt;&lt;p&gt;(plum. frais)&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.60475376085336296</real>
+		<key>Frame</key>
+		<string>{{0.075555205554558316, 0.11659179598850403}, {0.14196882426758334, 0.068012796874390338}}</string>
+		<key>Text</key>
+		<string>&lt;p class="center"&gt;sombre&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>EndPoint</key>
+		<string>{0.16752798812901434, 0.18123604055544609}</string>
+		<key>StartPoint</key>
+		<string>{0.19400233055835142, 0.22443933009389741}</string>
+		<key>Type</key>
+		<string>line</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.53793578960616584</real>
+		<key>Frame</key>
+		<string>{{0.10850146616999037, 0.038864119784737396}, {0.16947407356782487, 0.076460788612068883}}</string>
+		<key>Text</key>
+		<string>&lt;p class="right"&gt;gris sombre&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>EndPoint</key>
+		<string>{0.28263965142221148, 0.091259025493558452}</string>
+		<key>StartPoint</key>
+		<string>{0.35405686253991725, 0.091259025493558452}</string>
+		<key>Type</key>
+		<string>line</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.2734628079287082</real>
+		<key>Frame</key>
+		<string>{{0.25348990383245862, 0.63492464303679563}, {0.1912458303522229, 0.15040800249029207}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;♀ &lt;b&gt;été&lt;/b&gt;&lt;/p&gt;&lt;p&gt;(plum. usé)&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+</array>
+</plist>

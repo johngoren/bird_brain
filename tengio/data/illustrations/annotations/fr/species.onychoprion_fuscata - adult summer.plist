@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>FontScale</key>
+		<real>0.58952304848375114</real>
+		<key>Frame</key>
+		<string>{{0.24223140716693514, 0.32684068409589867}, {0.44086688613819108, 0.071016893067656781}}</string>
+		<key>Text</key>
+		<string>&lt;p class="right"&gt;noirâtre (plumage frais)&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>EndPoint</key>
+		<string>{0.51738660842528983, 0.35140208044958149}</string>
+		<key>StartPoint</key>
+		<string>{0.55002466679845952, 0.30402906703928284}</string>
+		<key>Type</key>
+		<string>line</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.64357612122045382</real>
+		<key>Frame</key>
+		<string>{{0.74433572466172093, 0.018803043850721034}, {0.23633604145470175, 0.065052281951816809}}</string>
+		<key>Text</key>
+		<string>&lt;p class="right"&gt;&lt;b&gt;ad. nuptial&lt;/b&gt;&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.2555974842767415</real>
+		<key>Frame</key>
+		<string>{{0.30867654568047764, 0.57322914967139238}, {0.39757119157559545, 0.16379697716335961}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;	parties sup.&lt;/p&gt;&lt;p&gt;	parfois brunâtres chez les ind. au plumage usé&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.6662882375766529</real>
+		<key>Frame</key>
+		<string>{{0.49936998885084244, 0.75861848306964053}, {0.17284146325032207, 0.06283481072299904}}</string>
+		<key>Text</key>
+		<string>&lt;p class="right"&gt;&lt;b&gt;ad. nupt.&lt;/b&gt;&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+</array>
+</plist>

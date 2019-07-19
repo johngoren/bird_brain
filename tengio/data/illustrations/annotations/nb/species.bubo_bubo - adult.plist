@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>FontScale</key>
+		<real>0.25045353247741464</real>
+		<key>Frame</key>
+		<string>{{0.39637395380366236, 0.38152889076618229}, {0.31206184335121184, 0.09205682920736348}}</string>
+		<key>Text</key>
+		<string>&lt;p class="center"&gt;﻿imponerende, strengt oppsyn, umiskjennelig&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>EndPoint</key>
+		<string>{0.44631081318694482, 0.72111936904348384}</string>
+		<key>StartPoint</key>
+		<string>{0.41226728134220192, 0.72326835021908997}</string>
+		<key>Type</key>
+		<string>line</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.67195767195772216</real>
+		<key>Frame</key>
+		<string>{{0.18329098471588287, 0.69904713007856523}, {0.22069875550912135, 0.034311622630160021}}</string>
+		<key>Text</key>
+		<string>&lt;p class="right"&gt;﻿«boksehansker»&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.22810107451959363</real>
+		<key>Frame</key>
+		<string>{{0.66012544102265125, 0.75373318988949745}, {0.14706817889270804, 0.10107781435143454}}</string>
+		<key>Text</key>
+		<string>&lt;p class="right"&gt;﻿øre-toppene vises ikke&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.24411340701586287</real>
+		<key>Frame</key>
+		<string>{{0.46773893842582165, 0.89901671911096026}, {0.19466075278589295, 0.094447733721384694}}</string>
+		<key>Text</key>
+		<string>&lt;p class="center"&gt;﻿vingeoversiden ganske jevnt rustbrun&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+</array>
+</plist>

@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>EndPoint</key>
+		<string>{0.35421978818320105, 0.59145363148870378}</string>
+		<key>StartPoint</key>
+		<string>{0.27921228481032712, 0.64706322459168508}</string>
+		<key>Type</key>
+		<string>line</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.2625036299730627</real>
+		<key>Frame</key>
+		<string>{{0.12843620806542475, 0.57344815811159999}, {0.19863504394771811, 0.15840248691479628}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;motif écailleux pâle&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>EndPoint</key>
+		<string>{0.71026093757897579, 0.65193397601363368}</string>
+		<key>StartPoint</key>
+		<string>{0.67342965645990727, 0.62096841240622724}</string>
+		<key>Type</key>
+		<string>line</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.39516574779964408</real>
+		<key>Frame</key>
+		<string>{{0.72167200437033319, 0.57401646827762465}, {0.15691696831231733, 0.10522477730781714}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;masque sombre&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.284957508129148</real>
+		<key>Frame</key>
+		<string>{{0.72669673125081946, 0.37931293261915011}, {0.26746173034855658, 0.14592080091130361}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;grande tache pâle à la gorge&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>EndPoint</key>
+		<string>{0.71344551277845769, 0.51027991608073431}</string>
+		<key>StartPoint</key>
+		<string>{0.66478143063668138, 0.55119326271223201}</string>
+		<key>Type</key>
+		<string>line</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.14021265036341612</real>
+		<key>Frame</key>
+		<string>{{0.082997139235458983, 0.11206116275933835}, {0.35828102190492855, 0.29655831841221536}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;contraste plus fort entre les primaires externes sombres et les primaires internes pâles que chez le M. noir&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.23827392120075069</real>
+		<key>Frame</key>
+		<string>{{0.51713697594592578, 0.11206116275933835}, {0.36987803460293406, 0.17451019231291176}}</string>
+		<key>Text</key>
+		<string>&lt;p class="right"&gt;ailes très légèrement plus larges que chez le M. noir&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>EndPoint</key>
+		<string>{0.44387440042955362, 0.26987338169896707}</string>
+		<key>StartPoint</key>
+		<string>{0.38026653784498171, 0.26987338169896707}</string>
+		<key>Type</key>
+		<string>line</string>
+	</dict>
+</array>
+</plist>

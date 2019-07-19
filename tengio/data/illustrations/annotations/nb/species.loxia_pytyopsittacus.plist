@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>FontScale</key>
+		<real>0.3842824645135941</real>
+		<key>Frame</key>
+		<string>{{0.035938876351589925, 0.72679215407968445}, {0.095990774678574795, 0.083571855963701383}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;﻿furukongle­spesialist&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.76574762514946326</real>
+		<key>Frame</key>
+		<string>{{0.94878132641150603, 0.64766667766932717}, {0.051218673588493933, 0.041939664869920866}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;﻿høyt&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.61935093654903894</real>
+		<key>Frame</key>
+		<string>{{0.92204593034341176, 0.28520823782320109}, {0.054679236356311132, 0.051852991379409116}}</string>
+		<key>Text</key>
+		<string>&lt;p class="right"&gt;&lt;b&gt;ad. &lt;/b&gt;♂&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>EndPoint</key>
+		<string>{0.78796140452090546, 0.61217189459256649}</string>
+		<key>StartPoint</key>
+		<string>{0.81162625829972035, 0.59283713750235112}</string>
+		<key>Type</key>
+		<string>line</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.21409279321653427</real>
+		<key>Frame</key>
+		<string>{{0.73611425279633991, 0.48093387055420311}, {0.094253366726676349, 0.15000597774080532}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;﻿kraftig hode, «okse-nakke»&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>EndPoint</key>
+		<string>{0.94255694243336963, 0.63434908869733619}</string>
+		<key>StartPoint</key>
+		<string>{0.94566937696349873, 0.67102042960445019}</string>
+		<key>Type</key>
+		<string>line</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.19970170890005645</real>
+		<key>Frame</key>
+		<string>{{0.53146362133324299, 0.75637859704443244}, {0.17397643133985741, 0.16081584354282508}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;﻿nebbryggen papegøye-lignende krummet, under-nebbet svært kraftig og tykt på midten&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.21333194445348624</real>
+		<key>Frame</key>
+		<string>{{0.42602865804420154, 0.50548919969982498}, {0.13146759499608382, 0.15054097432983601}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;﻿drakten akkurat som hos gran-korsnebb&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.61935093654903894</real>
+		<key>Frame</key>
+		<string>{{0.47260531932331268, 0.23735910980795885}, {0.054679236356311132, 0.051852991379409116}}</string>
+		<key>Text</key>
+		<string>&lt;p class="right"&gt;&lt;b&gt;ad. &lt;/b&gt;♀&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+</array>
+</plist>

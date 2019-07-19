@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>FontScale</key>
+		<real>0.17904747160378018</real>
+		<key>Frame</key>
+		<string>{{0.11662935134728376, 0.61935984184049775}, {0.41240222283193129, 0.31714136722891573}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;﻿helt uten lyse prik-ker fra ca. mars; har en del purpurglans (grønn i visse vinkler) i drakten&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.31621611189027132</real>
+		<key>Frame</key>
+		<string>{{0.71010273079736674, 0.088816267972770105}, {0.26335188527214071, 0.17957136846653607}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;&lt;b&gt;ad. &lt;/b&gt;♂&lt;b&gt; sommer&lt;/b&gt;&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>EndPoint</key>
+		<string>{0.49174633621060532, 0.17849926824708082}</string>
+		<key>StartPoint</key>
+		<string>{0.41591300271686754, 0.15029087257948739}</string>
+		<key>Type</key>
+		<string>line</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.38195488721804843</real>
+		<key>Frame</key>
+		<string>{{0.17107221073987397, 0.027151180035351843}, {0.32302739106783523, 0.14866509591455265}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;﻿ofte ganske lyst rosa&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>EndPoint</key>
+		<string>{0.32967451654183605, 0.65325184925134694}</string>
+		<key>StartPoint</key>
+		<string>{0.42374130407145094, 0.61531490260362798}</string>
+		<key>Type</key>
+		<string>line</string>
+	</dict>
+</array>
+</plist>

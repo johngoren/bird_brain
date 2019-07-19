@@ -1,0 +1,134 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>FontScale</key>
+		<real>0.36547963174329423</real>
+		<key>Frame</key>
+		<string>{{0.50543423497667261, 0.50324424906439003}, {0.40506084997582958, 0.081496307401677293}}</string>
+		<key>Text</key>
+		<string>&lt;p class="right"&gt;weißer Überaugen-streif vor dem Auge&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>EndPoint</key>
+		<string>{0.8028985288148428, 0.48381029792655861}</string>
+		<key>StartPoint</key>
+		<string>{0.83059720293943129, 0.52267820020221301}</string>
+		<key>Type</key>
+		<string>line</string>
+	</dict>
+	<dict>
+		<key>EndPoint</key>
+		<string>{0.60706160400042652, 0.42462391913644437}</string>
+		<key>StartPoint</key>
+		<string>{0.52962468859832013, 0.46683922051570453}</string>
+		<key>Type</key>
+		<string>line</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.42531506113321044</real>
+		<key>Frame</key>
+		<string>{{0.35906273474698841, 0.41419634771746217}, {0.20195036550406009, 0.070031003224394317}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;gräulich&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.22110990206746006</real>
+		<key>Frame</key>
+		<string>{{0, 0.29150545087837665}, {0.43201647540122412, 0.13470785405402566}}</string>
+		<key>Text</key>
+		<string>&lt;p class="center"&gt;Gesamteindruck wie kleiner, heller Isabellsteinschmätzer&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>EndPoint</key>
+		<string>{0.60476219152397048, 0.13241415389337322}</string>
+		<key>StartPoint</key>
+		<string>{0.48091960868570588, 0.20720410092308841}</string>
+		<key>Type</key>
+		<string>line</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.48635710866428083</real>
+		<key>Frame</key>
+		<string>{{0.73442799309087303, 0.1471085988341771}, {0.17606709186163244, 0.061241503181488952}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;&lt;b&gt;1er W&lt;/b&gt;&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.32243732148521909</real>
+		<key>Frame</key>
+		<string>{{0.51312144012591199, 0.032716858568941125}, {0.36680644137839902, 0.092375287948695831}}</string>
+		<key>Text</key>
+		<string>&lt;p class="right"&gt;hintere Flanken rostbeige &lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>EndPoint</key>
+		<string>{0.28652480638581357, 0.10828263602186547}</string>
+		<key>StartPoint</key>
+		<string>{0.34765921328221894, 0.18450470795669494}</string>
+		<key>Type</key>
+		<string>line</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.2731182795698921</real>
+		<key>Frame</key>
+		<string>{{0.18544101916120911, 0.015478943839067179}, {0.17117633930991932, 0.10905619522980757}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;hell beige­orange&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>EndPoint</key>
+		<string>{0.3953358161721871, 0.64489812030554916}</string>
+		<key>StartPoint</key>
+		<string>{0.45647022306858359, 0.68945871620590105}</string>
+		<key>Type</key>
+		<string>line</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.4138757112608491</real>
+		<key>Frame</key>
+		<string>{{0.41367613824110261, 0.68098558037457835}, {0.28284852257400778, 0.071966630578209734}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;Flügeldecken hell&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.35795856220465028</real>
+		<key>Frame</key>
+		<string>{{0.54284090010483821, 0.59352075282932171}, {0.3211920356064083, 0.08320862681467206}}</string>
+		<key>Text</key>
+		<string>&lt;p class="right"&gt;Schwungfedern hell&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>EndPoint</key>
+		<string>{0.77895256909946875, 0.68121627416360286}</string>
+		<key>StartPoint</key>
+		<string>{0.8400869759958649, 0.72577687006395486}</string>
+		<key>Type</key>
+		<string>line</string>
+	</dict>
+</array>
+</plist>

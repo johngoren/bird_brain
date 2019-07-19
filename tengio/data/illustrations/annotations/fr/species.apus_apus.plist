@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>FontScale</key>
+		<real>0.18181818181818185</real>
+		<key>Frame</key>
+		<string>{{0.55979562584546083, 0.47223742379212985}, {0.10727969348658975, 0.18866231043318032}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;longues ailes falciformes&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>EndPoint</key>
+		<string>{0.87243930400638225, 0.46143356922187162}</string>
+		<key>StartPoint</key>
+		<string>{0.84585324739148449, 0.47466829107043984}</string>
+		<key>Type</key>
+		<string>line</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.26607552385951466</real>
+		<key>Frame</key>
+		<string>{{0.87780328868071034, 0.34722139233625759}, {0.11302681992337148, 0.12891917964874325}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;marque pâle à la gorge assez nette&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.19689922480620151</real>
+		<key>Frame</key>
+		<string>{{0.79518066723743508, 0.10274559748920593}, {0.18223947968082227, 0.17421215494545647}}</string>
+		<key>Text</key>
+		<string>&lt;p class="right"&gt;sous la lumière forte du bassin méditerranéen, peut paraître aussi pâle que le M. pâle&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.18181818181818185</real>
+		<key>Frame</key>
+		<string>{{0.050667930754009972, 0.44261373839245782}, {0.097922365430967898, 0.18866231043318032}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;motif écailleux pâle chez le juv. !&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.69629642746469544</real>
+		<key>Frame</key>
+		<string>{{0.15545720278466085, 0.38182266585725827}, {0.078941566399078525, 0.049263843540713101}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;&lt;b&gt;juv.&lt;/b&gt;&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.20370276355174349</real>
+		<key>Frame</key>
+		<string>{{0.2436517977011993, 0.45450218356384298}, {0.18253968253968247, 0.16839358319193826}}</string>
+		<key>Text</key>
+		<string>&lt;p class="right"&gt;front pâle créant un effet de masque rappelant le M. pâle&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>EndPoint</key>
+		<string>{0.38807760500410093, 0.28781475962793884}</string>
+		<key>StartPoint</key>
+		<string>{0.36407789243983252, 0.31330510400464895}</string>
+		<key>Type</key>
+		<string>line</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.30211121022896287</real>
+		<key>Frame</key>
+		<string>{{0.2776155680464738, 0.26755753230869883}, {0.14958034822310515, 0.11354175912433503}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;assez uniformément sombre&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.36153803718210509</real>
+		<key>Frame</key>
+		<string>{{0.25247232348460541, 0.62694721221962912}, {0.23497721646480632, 0.094878642723007195}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;crépusculaire en été&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+</array>
+</plist>

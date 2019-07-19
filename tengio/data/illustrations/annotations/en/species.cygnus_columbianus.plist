@@ -1,0 +1,159 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>EndPoint</key>
+		<string>{0.90171051329048013, 0.88717147943188857}</string>
+		<key>StartPoint</key>
+		<string>{0.88957114378676816, 0.83488455163351216}</string>
+		<key>Type</key>
+		<string>line</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.25712307206411322</real>
+		<key>Frame</key>
+		<string>{{0.85951410101893388, 0.86422313658688854}, {0.068534774429160145, 0.13577686341311149}}</string>
+		<key>Text</key>
+		<string>&lt;p class="right"&gt;amount of yellow varies somewhat&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.1475902216853455</real>
+		<key>Frame</key>
+		<string>{{0.893781488233514, 0.48372043571809253}, {0.099465797631512726, 0.23654252861302622}}</string>
+		<key>Text</key>
+		<string>&lt;p class="right"&gt;&lt;b&gt;&lt;i&gt;colum­b­ianus&lt;/i&gt;&lt;/b&gt;&lt;/p&gt;&lt;p class="right"&gt;(N ­America)&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.5818147383123945</real>
+		<key>Frame</key>
+		<string>{{0.66049507195355739, 0.42945931183689617}, {0.070716037657101993, 0.06000426241740154}}</string>
+		<key>Text</key>
+		<string>&lt;p class="right"&gt;&lt;b&gt;ad.&lt;/b&gt;&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.1748958984755497</real>
+		<key>Frame</key>
+		<string>{{0.78948715709035477, 0.38565230012616164}, {0.057318184581811961, 0.19961225243306266}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;less yellow on bill 
+than on Whooper&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>EndPoint</key>
+		<string>{0.80452459182566238, 0.66615333090966011}</string>
+		<key>StartPoint</key>
+		<string>{0.80670800360572437, 0.59212153359197794}</string>
+		<key>Type</key>
+		<string>line</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.23196347031963535</real>
+		<key>Frame</key>
+		<string>{{0.786621837929247, 0.17395318332298287}, {0.072892263089685605, 0.15050371589932854}}</string>
+		<key>Text</key>
+		<string>&lt;p class="right"&gt;&lt;b&gt;&lt;i&gt;bewickii&lt;/i&gt;&lt;/b&gt;&lt;/p&gt;&lt;p class="right"&gt;(Europe, Siberia)&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.71955510905427722</real>
+		<key>Frame</key>
+		<string>{{0.24883595079284215, 0.39644630459151614}, {0.037143836541967512, 0.048517985344990855}}</string>
+		<key>Text</key>
+		<string>&lt;p class="right"&gt;&lt;b&gt;juv.&lt;/b&gt;&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.19027686396842958</real>
+		<key>Frame</key>
+		<string>{{0.40993140647025855, 0.21296964059834758}, {0.079963561358036797, 0.18347666399316503}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;shorter neck than on Whooper &lt;/p&gt;&lt;p&gt;often &lt;/p&gt;&lt;p&gt;apparent&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.71955510905427722</real>
+		<key>Frame</key>
+		<string>{{0.39846411435104534, 0.45946144304559466}, {0.091430853477249996, 0.048517985344990855}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;&lt;b&gt;1st-winter &lt;/b&gt;(Feb)&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>EndPoint</key>
+		<string>{0.61081886772822902, 0.66627644247111417}</string>
+		<key>StartPoint</key>
+		<string>{0.60407328357418832, 0.74732761481086696}</string>
+		<key>Type</key>
+		<string>line</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.49554077197654095</real>
+		<key>Frame</key>
+		<string>{{0.59051215435780735, 0.59110233549322899}, {0.067267869960152341, 0.070451043002494732}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;reduced pale yellow&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>EndPoint</key>
+		<string>{0.64178013310641358, 0.74549278715303924}</string>
+		<key>StartPoint</key>
+		<string>{0.66238726209445886, 0.76284738633465132}</string>
+		<key>Type</key>
+		<string>line</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.25945808985383312</real>
+		<key>Frame</key>
+		<string>{{0.6514812586756884, 0.76738506626049885}, {0.082106458907201169, 0.13455492659980731}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;juv. can look surprisingly long-billed&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.71955510905427722</real>
+		<key>Frame</key>
+		<string>{{0.54565249152325634, 0.50797942839058907}, {0.050001221836953741, 0.048517985344990855}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;&lt;b&gt;juv.&lt;/b&gt;&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.63372668344931882</real>
+		<key>Frame</key>
+		<string>{{0.061625245609636198, 0.36890180855894106}, {0.11662775715950777, 0.0550889920651427}}</string>
+		<key>Text</key>
+		<string>&lt;p class="center"&gt;resting on field&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+</array>
+</plist>

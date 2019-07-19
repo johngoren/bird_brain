@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>FontScale</key>
+		<real>0.39833298553214663</real>
+		<key>Frame</key>
+		<string>{{0.87740456172119807, 0.41768897417789147}, {0.12259543827880216, 0.13524436974667781}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;﻿flekkete&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>EndPoint</key>
+		<string>{0.88951168909840983, 0.56832084464620214}</string>
+		<key>StartPoint</key>
+		<string>{0.83118349098469357, 0.62171320660456719}</string>
+		<key>Type</key>
+		<string>line</string>
+	</dict>
+	<dict>
+		<key>EndPoint</key>
+		<string>{0.7743601540449444, 0.36055526128577736}</string>
+		<key>StartPoint</key>
+		<string>{0.67896831643007816, 0.40556620748803296}</string>
+		<key>Type</key>
+		<string>line</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.41715758010068366</real>
+		<key>Frame</key>
+		<string>{{0.78845718986259983, 0.25006076428356383}, {0.20329199730069178, 0.12914135124814291}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;﻿gråbeige&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.45201373281474128</real>
+		<key>Frame</key>
+		<string>{{0.67151451393830419, 0}, {0.30465539647682371, 0.11918286916226804}}</string>
+		<key>Text</key>
+		<string>&lt;p class="right"&gt;&lt;b&gt;ad. &lt;/b&gt;♂&lt;b&gt; sommer&lt;/b&gt;&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+</array>
+</plist>

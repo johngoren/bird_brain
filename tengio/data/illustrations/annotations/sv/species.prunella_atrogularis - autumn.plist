@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>FontScale</key>
+		<real>0.2722461470290935</real>
+		<key>Frame</key>
+		<string>{{0.7795172088116098, 0.38297753280231189}, {0.18237151872176191, 0.24395227773913275}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;ljus­brämad mörk strupe&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>EndPoint</key>
+		<string>{0.79994335992087484, 0.63315482845452031}</string>
+		<key>StartPoint</key>
+		<string>{0.75959205041575162, 0.72217055202980729}</string>
+		<key>Type</key>
+		<string>line</string>
+	</dict>
+	<dict>
+		<key>EndPoint</key>
+		<string>{0.6049720912427482, 0.89768505676340626}</string>
+		<key>StartPoint</key>
+		<string>{0.64506490117143689, 0.82733640085397775}</string>
+		<key>Type</key>
+		<string>line</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.52888862586015117</real>
+		<key>Frame</key>
+		<string>{{0.32150035431699409, 0.81389120233925227}, {0.27605267575609121, 0.12557477023718727}}</string>
+		<key>Text</key>
+		<string>&lt;p class="right"&gt;ljust rostbeige&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.57696912783190513</real>
+		<key>Frame</key>
+		<string>{{0.40347165161770498, 0.014348198962037673}, {0.23700054684864705, 0.11511026235150597}}</string>
+		<key>Text</key>
+		<string>&lt;p class="center"&gt;&lt;b&gt;höst&lt;/b&gt;&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+</array>
+</plist>

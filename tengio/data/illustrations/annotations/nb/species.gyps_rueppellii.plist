@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>FontScale</key>
+		<real>0.46547964154402427</real>
+		<key>Frame</key>
+		<string>{{0.62867999119900431, 0.1247850909813356}, {0.18652937862804125, 0.11655627747012678}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;&lt;b&gt;﻿ungfugl&lt;/b&gt;&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>EndPoint</key>
+		<string>{0.58755571263448836, 0.65186020748202722}</string>
+		<key>StartPoint</key>
+		<string>{0.57191126972464945, 0.58895235162427584}</string>
+		<key>Type</key>
+		<string>line</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.31242312423124263</real>
+		<key>Frame</key>
+		<string>{{0.44040734735014014, 0.18110597498558254}, {0.18652937862804125, 0.17365735775801111}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;﻿mangler gåse-gribbens nesten rustbrune underside&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.20303756994404482</real>
+		<key>Frame</key>
+		<string>{{0.44353740157591776, 0.66362992477075999}, {0.22916003644886035, 0.26721445824756712}}</string>
+		<key>Text</key>
+		<string>&lt;p class="right"&gt;﻿dekkerne mørke med distinkt lyst bånd hos juv. (eldre fugler utvikler flere smalere bånd)&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.2942880315143111</real>
+		<key>Frame</key>
+		<string>{{0.79429018717717015, 0.79627595080732227}, {0.20396203083627021, 0.18435875212907554}}</string>
+		<key>Text</key>
+		<string>&lt;p class="right"&gt;﻿mørkere dekkere over enn gåsegribb&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.15438852419158783</real>
+		<key>Frame</key>
+		<string>{{0.8518179394643256, 0.19392201614853649}, {0.146434278549117, 0.35141584868816705}}</string>
+		<key>Text</key>
+		<string>&lt;p class="right"&gt;﻿skjellgribbens mindre størrelse ofte åpenbar i selskap med gåsegribb&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+</array>
+</plist>

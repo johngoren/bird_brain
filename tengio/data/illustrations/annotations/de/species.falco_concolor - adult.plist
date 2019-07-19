@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>FontScale</key>
+		<real>0.15426696357533293</real>
+		<key>Frame</key>
+		<string>{{0.82032101555809167, 0.093494426713736825}, {0.17967898444190844, 0.15179996643065691}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;stufenlose Variation des Grautons bei ad.&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.25710034180490571</real>
+		<key>Frame</key>
+		<string>{{0, 0}, {0.26831595666465741, 0.09108397028061857}}</string>
+		<key>Text</key>
+		<string>&lt;p class="right"&gt;Flügel überragen Schwanz&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.6789864657187954</real>
+		<key>Frame</key>
+		<string>{{0.49847244497212023, 0.05320243343405999}, {0.11862358920830914, 0.034489229276910859}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;&lt;b&gt;ad.&lt;/b&gt;&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>EndPoint</key>
+		<string>{0.26833205422010425, 0.046502363026803689}</string>
+		<key>StartPoint</key>
+		<string>{0.32679123581777886, 0.047873534583422347}</string>
+		<key>Type</key>
+		<string>line</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.67898881060920024</real>
+		<key>Frame</key>
+		<string>{{0.54336595944423138, 0.92313382449280446}, {0.11862395409281849, 0.034489110168228157}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;&lt;b&gt;ad.&lt;/b&gt;&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>EndPoint</key>
+		<string>{0.62636239298532415, 0.84207720774085892}</string>
+		<key>StartPoint</key>
+		<string>{0.65720019690569331, 0.8597075050148304}</string>
+		<key>Type</key>
+		<string>line</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.26268717917122791</real>
+		<key>Frame</key>
+		<string>{{0.59818377885660268, 0.84636106255727617}, {0.11862358920830914, 0.089146794167790311}}</string>
+		<key>Text</key>
+		<string>&lt;p class="right"&gt;einfarbig grau&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.17053031142039118</real>
+		<key>Frame</key>
+		<string>{{0.41723592875266463, 0.5584765937715177}, {0.18544200773797528, 0.13732291753320947}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;Schwanz kurz, Flügel sehr lang und schmal&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+</array>
+</plist>

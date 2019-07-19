@@ -1,0 +1,148 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>FontScale</key>
+		<real>0.27189525129234821</real>
+		<key>Frame</key>
+		<string>{{0.48542955221094963, 0.86216209886489925}, {0.12643711439716648, 0.10940652314224764}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;grand et lourd, très bruyant à l’envol&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.37977647027008116</real>
+		<key>Frame</key>
+		<string>{{0.63688752691018879, 0.86348282046746805}, {0.07406117014261375, 0.078327954550814122}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;uni, peu contrasté&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>EndPoint</key>
+		<string>{0.69628775529791864, 0.89788143148043609}</string>
+		<key>StartPoint</key>
+		<string>{0.72143723615782074, 0.86260277459853896}</string>
+		<key>Type</key>
+		<string>line</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.25491012361836207</real>
+		<key>Frame</key>
+		<string>{{0.90392250667717777, 0.76222386681846344}, {0.053604084875073718, 0.11669647984369319}}</string>
+		<key>Text</key>
+		<string>&lt;p class="right"&gt;large bande blanche&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>EndPoint</key>
+		<string>{0.88205213918494974, 0.80707040188736534}</string>
+		<key>StartPoint</key>
+		<string>{0.91862255799939774, 0.83479568818634353}</string>
+		<key>Type</key>
+		<string>line</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.55428262759659108</real>
+		<key>Frame</key>
+		<string>{{0.6468800213642566, 0.67159806534450517}, {0.13928192842162829, 0.05366777276020563}}</string>
+		<key>Text</key>
+		<string>&lt;p class="right"&gt;queue assez longue&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.70555557549245174</real>
+		<key>Frame</key>
+		<string>{{0.91181440568570393, 0.58147836098506178}, {0.04043344979593784, 0.042161262891333741}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;&lt;b&gt;ad.&lt;/b&gt;&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>EndPoint</key>
+		<string>{0.41908337306581933, 0.52371157286498293}</string>
+		<key>StartPoint</key>
+		<string>{0.44166285876577877, 0.55392714545757227}</string>
+		<key>Type</key>
+		<string>line</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.74629335803162689</real>
+		<key>Frame</key>
+		<string>{{0.30102588382862239, 0.26074840354673351}, {0.042794001320207394, 0.039859813547372995}}</string>
+		<key>Text</key>
+		<string>&lt;p class="right"&gt;&lt;b&gt;juv.&lt;/b&gt;&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.1544542414107635</real>
+		<key>Frame</key>
+		<string>{{0.045817431383879156, 0.12212553247740379}, {0.12338039295020221, 0.19259499662215512}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;les jeunes n’ont pas de tache blanche sur le cou, mais ont la bande blanche diagnostique sur les ailes.&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.29537898254230682</real>
+		<key>Frame</key>
+		<string>{{0.39050445709430848, 0.51106319364017949}, {0.12468644665935967, 0.10070829632749134}}</string>
+		<key>Text</key>
+		<string>&lt;p class="right"&gt;au début, le bec et les yeux sont grisâtres&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>EndPoint</key>
+		<string>{0.58580116917854852, 0.45379414326119838}</string>
+		<key>StartPoint</key>
+		<string>{0.62217615439742557, 0.41366451858512987}</string>
+		<key>Type</key>
+		<string>line</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.70555557549245174</real>
+		<key>Frame</key>
+		<string>{{0.44263545195344806, 0.090650978289133488}, {0.04043344979593784, 0.042161262891333741}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;&lt;b&gt;ad.&lt;/b&gt;&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.3447573803868324</real>
+		<key>Frame</key>
+		<string>{{0.53600439796981714, 0.4114279285892195}, {0.079169085476379783, 0.086284198091440445}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;large tache blanche&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.55988791306427921</real>
+		<key>Frame</key>
+		<string>{{0.58891346737909256, 0.51730982626688826}, {0.094187346088904153, 0.053130480956405907}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;œil jaune&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+</array>
+</plist>

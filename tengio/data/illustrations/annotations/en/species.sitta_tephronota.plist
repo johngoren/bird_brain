@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>FontScale</key>
+		<real>0.42681600442413065</real>
+		<key>Frame</key>
+		<string>{{0.20215859252889296, 0.11258419772876675}, {0.10593949085757649, 0.095418543884347243}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;very large and powerful&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>EndPoint</key>
+		<string>{0.87498712022384328, 0.72261193060905204}</string>
+		<key>StartPoint</key>
+		<string>{0.85954132574052911, 0.68788084111496395}</string>
+		<key>Type</key>
+		<string>line</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.14843089411253113</real>
+		<key>Frame</key>
+		<string>{{0.80260276487439497, 0.54417775719411343}, {0.14281364073571143, 0.2743779311725334}}</string>
+		<key>Text</key>
+		<string>&lt;p class="right"&gt;width of black band clearly visible &lt;/p&gt;&lt;p class="right"&gt;when seen &lt;/p&gt;&lt;p class="right"&gt;obliquely &lt;/p&gt;&lt;p class="right"&gt;from &lt;/p&gt;&lt;p class="right"&gt;be­hind&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.25753397024333075</real>
+		<key>Frame</key>
+		<string>{{0.6827718616610996, 0.48741774377184949}, {0.060528438850182456, 0.15813898884953151}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;long and heavy&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.20566140703431821</real>
+		<key>Frame</key>
+		<string>{{0.6227244463781707, 0.1564770589544624}, {0.12427234303363577, 0.1980252991359229}}</string>
+		<key>Text</key>
+		<string>&lt;p class="center"&gt;the larger size not always striking without direct comparison with Rock Nuthatch&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.25753397024333075</real>
+		<key>Frame</key>
+		<string>{{0.6827718616610996, 0.48741774377184949}, {0.060528438850182456, 0.15813898884953151}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;long and heavy&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>EndPoint</key>
+		<string>{0.69594806178299273, 0.65430695519288273}</string>
+		<key>StartPoint</key>
+		<string>{0.69463182285161729, 0.71603631718912197}</string>
+		<key>Type</key>
+		<string>line</string>
+	</dict>
+	<dict>
+		<key>EndPoint</key>
+		<string>{0.52245105490265209, 0.72644947349528433}</string>
+		<key>StartPoint</key>
+		<string>{0.54778619324552669, 0.68397373414468821}</string>
+		<key>Type</key>
+		<string>line</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.32564121462874446</real>
+		<key>Frame</key>
+		<string>{{0.42522978363588904, 0.6851055678664304}, {0.12522218595411042, 0.12506451830772267}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;black eye-stripe &lt;/p&gt;&lt;p&gt;&lt;i&gt;broad &lt;/i&gt;behind eye&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>EndPoint</key>
+		<string>{0.46705055381544686, 0.57590091577785818}</string>
+		<key>StartPoint</key>
+		<string>{0.49238569215832412, 0.53342517642726262}</string>
+		<key>Type</key>
+		<string>line</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.39952811639796776</real>
+		<key>Frame</key>
+		<string>{{0.3743689115179496, 0.56057197586430996}, {0.14375491736006601, 0.10193565853602793}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;usually slightly paler than Rock Nuthatch&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+</array>
+</plist>

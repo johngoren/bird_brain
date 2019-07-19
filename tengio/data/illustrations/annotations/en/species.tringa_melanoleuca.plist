@@ -1,0 +1,178 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>FontScale</key>
+		<real>0.15750123168001143</real>
+		<key>Frame</key>
+		<string>{{0, 0.14557229396192092}, {0.18573245958231091, 0.22318754766643295}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;Greater Yellowlegs &lt;/p&gt;&lt;p&gt;resembles Greenshank &lt;/p&gt;&lt;p&gt;in size and shape, but &lt;/p&gt;&lt;p&gt;legs are brighter yellow and upperparts more strongly marked white&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.62006976289446625</real>
+		<key>Frame</key>
+		<string>{{0.026109416086454625, 0.070844662835162497}, {0.16434936982101062, 0.056690901180239048}}</string>
+		<key>Text</key>
+		<string>&lt;p class="right"&gt;&lt;b&gt;juv. &lt;/b&gt;→&lt;b&gt; 1st-winter&lt;/b&gt;&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>EndPoint</key>
+		<string>{0.48127644808102116, 0.59270592247081766}</string>
+		<key>StartPoint</key>
+		<string>{0.48127644808102116, 0.62924219040773155}</string>
+		<key>Type</key>
+		<string>line</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.27802300596254426</real>
+		<key>Frame</key>
+		<string>{{0.41850128270812503, 0.28691195127342201}, {0.072141131160956912, 0.12643670811127128}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;strongly streaked&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.21620658655471856</real>
+		<key>Frame</key>
+		<string>{{0.45266563843002733, 0.42060483155112327}, {0.16108239249177397, 0.16258669179908605}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;longer, stouter and more upturned than &lt;/p&gt;&lt;p&gt;on Lesser; paler base&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>EndPoint</key>
+		<string>{0.44413448708151326, 0.42220790598851354}</string>
+		<key>StartPoint</key>
+		<string>{0.42284298956647698, 0.46445361379215966}</string>
+		<key>Type</key>
+		<string>line</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.65654944875132126</real>
+		<key>Frame</key>
+		<string>{{0.071145223467046381, 0.49061164803082591}, {0.093997574443439591, 0.053540999417423858}}</string>
+		<key>Text</key>
+		<string>&lt;p class="center"&gt;&lt;b&gt;winter&lt;/b&gt;&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>EndPoint</key>
+		<string>{0.54453800727596247, 0.76354454047758169}</string>
+		<key>StartPoint</key>
+		<string>{0.57440375548705935, 0.70428650421184302}</string>
+		<key>Type</key>
+		<string>line</string>
+	</dict>
+	<dict>
+		<key>EndPoint</key>
+		<string>{0.78355513317095271, 0.73272802475228294}</string>
+		<key>StartPoint</key>
+		<string>{0.81074926749067877, 0.67877069065341977}</string>
+		<key>Type</key>
+		<string>line</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.2908989759026791</real>
+		<key>Frame</key>
+		<string>{{0.84955756244639835, 0.77040543795967875}, {0.12019286639238963, 0.12084027983950255}}</string>
+		<key>Text</key>
+		<string>&lt;p class="right"&gt;GREENSHANK&lt;/p&gt;&lt;p class="right"&gt;(to compare)&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.27818822785320524</real>
+		<key>Frame</key>
+		<string>{{0.47865396012062877, 0.73349808325626564}, {0.061212639186465405, 0.12636161466779847}}</string>
+		<key>Text</key>
+		<string>&lt;p class="right"&gt;square white rump&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.28445185204475743</real>
+		<key>Frame</key>
+		<string>{{0.71819574229865135, 0.70409114798666239}, {0.060216731492554576, 0.12357913439626109}}</string>
+		<key>Text</key>
+		<string>&lt;p class="right"&gt;white wedge on back&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.55524082520227502</real>
+		<key>Frame</key>
+		<string>{{0.78764349858662441, 0.029513410341631671}, {0.17769238827562672, 0.063310030634542075}}</string>
+		<key>Text</key>
+		<string>&lt;p class="center"&gt;GREENSHANK&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.59499840361705647</real>
+		<key>Frame</key>
+		<string>{{0.81184823670292006, 0.40854095089590309}, {0.083744374928065343, 0.059079677255283243}}</string>
+		<key>Text</key>
+		<string>&lt;p class="right"&gt;&lt;b&gt;ad. sum.&lt;/b&gt;.&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.52741592806403848</real>
+		<key>Frame</key>
+		<string>{{0.62205992692359302, 0.026173361252308694}, {0.16655844303094708, 0.066650079723865066}}</string>
+		<key>Text</key>
+		<string>&lt;p class="center"&gt;GREATER YELLOWLEGS&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.59499840361705647</real>
+		<key>Frame</key>
+		<string>{{0.64842565937483998, 0.38470647073154574}, {0.083744374928065343, 0.059079677255283243}}</string>
+		<key>Text</key>
+		<string>&lt;p class="right"&gt;&lt;b&gt;ad. sum.&lt;/b&gt;&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.55503391892769183</real>
+		<key>Frame</key>
+		<string>{{0.4544374834392636, 0.029489809545111711}, {0.15167047005116888, 0.063333631431062118}}</string>
+		<key>Text</key>
+		<string>&lt;p class="center"&gt;LESSER YELLOWLEGS&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.59499840361705647</real>
+		<key>Frame</key>
+		<string>{{0.49194145524760446, 0.35979538301987318}, {0.083744374928065343, 0.059079677255283243}}</string>
+		<key>Text</key>
+		<string>&lt;p class="right"&gt;&lt;b&gt;ad. sum.&lt;/b&gt;&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+</array>
+</plist>

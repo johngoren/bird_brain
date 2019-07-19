@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>FontScale</key>
+		<real>0.27654653701135523</real>
+		<key>Frame</key>
+		<string>{{0.56140015168724822, 0.3879160694364972}, {0.34610767438135337, 0.090816753369744471}}</string>
+		<key>Text</key>
+		<string>&lt;p class="right"&gt;schwarz, im Herbst mit grauen Federsäumen&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>EndPoint</key>
+		<string>{0.81355229750722746, 0.40320511233657497}</string>
+		<key>StartPoint</key>
+		<string>{0.80150983188851843, 0.37262702653642099}</string>
+		<key>Type</key>
+		<string>line</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.54617429640556503</real>
+		<key>Frame</key>
+		<string>{{0.71697893119669753, 0.079755735889576296}, {0.15085873761802623, 0.045983596834018384}}</string>
+		<key>Text</key>
+		<string>&lt;p class="center"&gt;&lt;b&gt;ad. &lt;/b&gt;♂&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>EndPoint</key>
+		<string>{0.49931916469633258, 0.16712096514880326}</string>
+		<key>StartPoint</key>
+		<string>{0.41638454397917607, 0.18959103238318958}</string>
+		<key>Type</key>
+		<string>line</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.18079616267392584</real>
+		<key>Frame</key>
+		<string>{{0.27651435608532926, 0.11330193388827586}, {0.20260820213802505, 0.1389136709295834}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;Bürzel und Schwanzseiten leuchtend gelb&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.18079616267392584</real>
+		<key>Frame</key>
+		<string>{{0.57734950781817418, 0.56964191371533257}, {0.20260820213802505, 0.1389136709295834}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;Bürzel und Schwanzseiten leuchtend gelb&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>EndPoint</key>
+		<string>{0.59175730851578423, 0.72313015409473014}</string>
+		<key>StartPoint</key>
+		<string>{0.55195879645963064, 0.74953062912919211}</string>
+		<key>Type</key>
+		<string>line</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.54617429640556503</real>
+		<key>Frame</key>
+		<string>{{0.64253932996745733, 0.88325468535485485}, {0.15085873761802623, 0.045983596834018384}}</string>
+		<key>Text</key>
+		<string>&lt;p class="center"&gt;♂&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.19946130143320603</real>
+		<key>Frame</key>
+		<string>{{0.19940172021356214, 0.79628221444274605}, {0.25776043442605312, 0.125914442884689}}</string>
+		<key>Text</key>
+		<string>&lt;p class="right"&gt;in allen Kleidern breit gelber Flügelstreif&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+</array>
+</plist>

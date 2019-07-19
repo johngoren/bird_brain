@@ -1,0 +1,290 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>FontScale</key>
+		<real>0.65535344646553495</real>
+		<key>Frame</key>
+		<string>{{0.92125716881799424, 0.70611731508640341}, {0.078742831182005701, 0.052161986766084925}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;kompakt&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>EndPoint</key>
+		<string>{0.93438754712294847, 0.75639668826865225}</string>
+		<key>StartPoint</key>
+		<string>{0.92160776336006422, 0.78971738401309777}</string>
+		<key>Type</key>
+		<string>line</string>
+	</dict>
+	<dict>
+		<key>EndPoint</key>
+		<string>{0.76546767919007064, 0.84934692999244299}</string>
+		<key>StartPoint</key>
+		<string>{0.80136833580335298, 0.82565399630960001}</string>
+		<key>Type</key>
+		<string>line</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.66666666666666663</real>
+		<key>Frame</key>
+		<string>{{0.90930214589974756, 0.593143324328684}, {0.057670902546705149, 0.051276806702465066}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;&lt;b&gt;ad. &lt;/b&gt;♂&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.63373076885884727</real>
+		<key>Frame</key>
+		<string>{{0.63670499972637462, 0.61937894770545499}, {0.055452624286363647, 0.053941735957051817}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;&lt;b&gt;ad. &lt;/b&gt;♀&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>EndPoint</key>
+		<string>{0.54565790490560573, 0.79557612459632865}</string>
+		<key>StartPoint</key>
+		<string>{0.57545672855876895, 0.81553485438913542}</string>
+		<key>Type</key>
+		<string>line</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.62981269760930814</real>
+		<key>Frame</key>
+		<string>{{0.097617662453402754, 0.0055687039140261017}, {0.074920186644675521, 0.054277308049525984}}</string>
+		<key>Text</key>
+		<string>&lt;p class="right"&gt;&lt;b&gt;1. vint. &lt;/b&gt;♂&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.33574834106603862</real>
+		<key>Frame</key>
+		<string>{{0.017445649228411443, 0.10587112431772852}, {0.18493316303562915, 0.10181595445297997}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;﻿det hvite vingefeltet ofte skjult av kroppssidefjærene (i «vingelommen»)&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.66666214557464221</real>
+		<key>Frame</key>
+		<string>{{0.017445649228411443, 0.25025292079287992}, {0.062875164937778449, 0.051277154445566069}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;&lt;b&gt;juv.&lt;/b&gt;&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>EndPoint</key>
+		<string>{0.3303768115506831, 0.3956888311566496}</string>
+		<key>StartPoint</key>
+		<string>{0.30623884623881342, 0.36179985756137961}</string>
+		<key>Type</key>
+		<string>line</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.38146105239813732</real>
+		<key>Frame</key>
+		<string>{{0.3343365726456019, 0.32793603523392029}, {0.12163892738019795, 0.089614752506802176}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;﻿noe konkav profil&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>EndPoint</key>
+		<string>{0.85114018266855185, 0.23931575065035962}</string>
+		<key>StartPoint</key>
+		<string>{0.82631180841712071, 0.1925667220286677}</string>
+		<key>Type</key>
+		<string>line</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.66635033824546186</real>
+		<key>Frame</key>
+		<string>{{0.60428079274489721, 0.011046700984225844}, {0.055084204892649355, 0.051301148719535727}}</string>
+		<key>Text</key>
+		<string>&lt;p class="right"&gt;&lt;b&gt;ad. &lt;/b&gt;♂&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.35606108722771668</real>
+		<key>Frame</key>
+		<string>{{0.64869438478477204, 0.14140151006440077}, {0.17510110451531896, 0.096007508340221592}}</string>
+		<key>Text</key>
+		<string>&lt;p class="right"&gt;﻿utstrukket, rett hals ved forstyrrelse&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.69564971251658614</real>
+		<key>Frame</key>
+		<string>{{0.93793839312657878, 0.19172561293358931}, {0.041917137643699906, 0.049140446961412829}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;﻿tykk&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>EndPoint</key>
+		<string>{0.93338364672902552, 0.21950137323926527}</string>
+		<key>StartPoint</key>
+		<string>{0.91672392651294099, 0.18641181989702577}</string>
+		<key>Type</key>
+		<string>line</string>
+	</dict>
+	<dict>
+		<key>EndPoint</key>
+		<string>{0.71055014950765361, 0.43659634922180224}</string>
+		<key>StartPoint</key>
+		<string>{0.70114367094788521, 0.47378837389120793}</string>
+		<key>Type</key>
+		<string>line</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.50362882314089019</real>
+		<key>Frame</key>
+		<string>{{0.77012906949390703, 0.22977800415114441}, {0.076511080108688984, 0.067876452321475364}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;﻿slitt drakt&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.2102330889638562</real>
+		<key>Frame</key>
+		<string>{{0.68573910569722796, 0.4514848765800038}, {0.14979308981332407, 0.16260303252034919}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;﻿hodetegning variabel, lys kinnflekk oftest tydelig om sommeren&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.63999791667344863</real>
+		<key>Frame</key>
+		<string>{{0.4835567431329264, 0.31245668508682051}, {0.058779770912990054, 0.053413514186618251}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;&lt;b&gt;ad. &lt;/b&gt;♀&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.29223242881846279</real>
+		<key>Frame</key>
+		<string>{{0.48531726555195576, 0.085279650760041681}, {0.14503215531499011, 0.11697722234269591}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;﻿det hvite vingefeltet ser ofte ut som en smal linje&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.59766871721907144</real>
+		<key>Frame</key>
+		<string>{{0.60344248643499354, 0.36023638591263635}, {0.083285041050061376, 0.057196464892294616}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;﻿fersk drakt&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.63999791667344863</real>
+		<key>Frame</key>
+		<string>{{0.4835567431329264, 0.31245668508682051}, {0.058779770912990054, 0.053413514186618251}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;&lt;b&gt;ad. &lt;/b&gt;♀&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.6115984007607842</real>
+		<key>Frame</key>
+		<string>{{0.27049362509261193, 0.45511866603136969}, {0.24078952043812354, 0.055893765842291741}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;﻿sammenlign med bergand-♀ (t.h.)&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>EndPoint</key>
+		<string>{0.24059989982589469, 0.60558364380476037}</string>
+		<key>StartPoint</key>
+		<string>{0.20914030039772263, 0.58405739367483089}</string>
+		<key>Type</key>
+		<string>line</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.23672268735955612</real>
+		<key>Frame</key>
+		<string>{{0.017445649228411443, 0.3566025964612749}, {0.1208004469570353, 0.14440752672649734}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;﻿holder hodet høyt mens den flakser med vingene&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.64539933690050222</real>
+		<key>Frame</key>
+		<string>{{0.017445649228411443, 0.57724514773589675}, {0.058683469224334393, 0.052966490430270498}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;&lt;b&gt;juv.&lt;/b&gt;&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.60476161181175025</real>
+		<key>Frame</key>
+		<string>{{0.24402748147447317, 0.56561070680541714}, {0.054343575410821514, 0.056525641069103301}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;lys&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.27179019645926789</real>
+		<key>Frame</key>
+		<string>{{0.88390064303724247, 0.87422453698852809}, {0.11439828320661675, 0.12577546301147208}}</string>
+		<key>Text</key>
+		<string>&lt;p class="right"&gt;﻿virker smalvinget i flukt på avstand&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.54650677963275152</real>
+		<key>Frame</key>
+		<string>{{0.22198565243818966, 0.72183794007568181}, {0.2626564928576009, 0.062550985780295582}}</string>
+		<key>Text</key>
+		<string>&lt;p class="center"&gt;﻿typisk spredt utbredt rastende flokk&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+</array>
+</plist>

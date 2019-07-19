@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>FontScale</key>
+		<real>0.2354017884121172</real>
+		<key>Frame</key>
+		<string>{{0.79723450671762908, 0.22629800149390056}, {0.19932371738163249, 0.11123110876353695}}</string>
+		<key>Text</key>
+		<string>&lt;p class="right"&gt;light-tipped reddish bill (cf Rock Dove)&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.29439994808400172</real>
+		<key>Frame</key>
+		<string>{{0.46143689275038147, 0.29260621425083383}, {0.17886342941902908, 0.08894023963118429}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;same tone of grey as head&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>EndPoint</key>
+		<string>{0.83017898196789885, 0.36626344788004456}</string>
+		<key>StartPoint</key>
+		<string>{0.85783969105664348, 0.34361057707004522}</string>
+		<key>Type</key>
+		<string>line</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.36705900802885605</real>
+		<key>Frame</key>
+		<string>{{0.68679839303321588, 0.39061943407708161}, {0.28506883003904609, 0.071334584786816868}}</string>
+		<key>Text</key>
+		<string>&lt;p class="right"&gt;dark eye gives ’kind’ look&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.70555557549245174</real>
+		<key>Frame</key>
+		<string>{{0.36542744251953402, 0.024351310491892417}, {0.093315886482439964, 0.037111182789142952}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;&lt;b&gt;ad.&lt;/b&gt;&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>EndPoint</key>
+		<string>{0.54673307811638971, 0.31722040189649919}</string>
+		<key>StartPoint</key>
+		<string>{0.58192160022273898, 0.28075841023730241}</string>
+		<key>Type</key>
+		<string>line</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.29439994808400172</real>
+		<key>Frame</key>
+		<string>{{0.13468302829305384, 0.60556614515374119}, {0.17886342941903097, 0.08894023963118429}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;completely lacks white markings&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.55428262759659108</real>
+		<key>Frame</key>
+		<string>{{0.22267277740747107, 0.7535469907069462}, {0.18183074803189031, 0.047239441805230348}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;short-tailed&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.29439994808400172</real>
+		<key>Frame</key>
+		<string>{{0.271755564295383, 0.86302498302843944}, {0.21638295445483477, 0.08894023963118429}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;diffuse, light grey mid-wing panel&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.70555557549245174</real>
+		<key>Frame</key>
+		<string>{{0.62227905688231033, 0.66664496855344491}, {0.093315886482439964, 0.037111182789142952}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;&lt;b&gt;ad.&lt;/b&gt;&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>EndPoint</key>
+		<string>{0.43105606367973226, 0.88987904799995698}</string>
+		<key>StartPoint</key>
+		<string>{0.54202423933914268, 0.85560274626088073}</string>
+		<key>Type</key>
+		<string>line</string>
+	</dict>
+</array>
+</plist>

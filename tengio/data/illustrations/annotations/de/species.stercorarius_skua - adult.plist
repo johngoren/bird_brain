@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>FontScale</key>
+		<real>0.62148296365136446</real>
+		<key>Frame</key>
+		<string>{{0.094176890015749484, 0.11420479316191795}, {0.077482421002157589, 0.041226084617668086}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;&lt;b&gt;ad.&lt;/b&gt;&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>EndPoint</key>
+		<string>{0.67427974354987197, 0.4487796451815475}</string>
+		<key>StartPoint</key>
+		<string>{0.6405487977930705, 0.42243200766384409}</string>
+		<key>Type</key>
+		<string>line</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.37957300739519539</real>
+		<key>Frame</key>
+		<string>{{0.67628504099965281, 0.40160619475569886}, {0.1074855294025682, 0.067500345780000262}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;sehr kräftig&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>EndPoint</key>
+		<string>{0.32753584710262124, 0.60371353139005235}</string>
+		<key>StartPoint</key>
+		<string>{0.31629119325379901, 0.626261510133855}</string>
+		<key>Type</key>
+		<string>line</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.36854763274954383</real>
+		<key>Frame</key>
+		<string>{{0.39208185139853108, 0.90421341874109862}, {0.1956471670987433, 0.069519668480252914}}</string>
+		<key>Text</key>
+		<string>&lt;p class="right"&gt;&lt;b&gt;subad. / ad.&lt;/b&gt;&lt;/p&gt;&lt;p class="right"&gt;(dunkel)&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.54450360379696816</real>
+		<key>Frame</key>
+		<string>{{0.33236657947496551, 0.57024468739349865}, {0.12008750894044914, 0.047054434661710408}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;bauchig&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.15934816398650911</real>
+		<key>Frame</key>
+		<string>{{0.53014498371534902, 0.74792344166637847}, {0.33457215311476057, 0.1607882300426095}}</string>
+		<key>Text</key>
+		<string>&lt;p class="center"&gt;Ausdehnung heller Strichelung und Fleckung sehr variabel, wohl altersabhängig; Kleiderfolge unausgefärbter Vögel noch wenig bekannt&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+</array>
+</plist>

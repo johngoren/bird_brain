@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>EndPoint</key>
+		<string>{0.44965932657821572, 0.29754730318554051}</string>
+		<key>StartPoint</key>
+		<string>{0.47900778211964501, 0.27323002325594703}</string>
+		<key>Type</key>
+		<string>line</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.3587161185794982</real>
+		<key>Frame</key>
+		<string>{{0.28982485841029931, 0.28391576389400019}, {0.23566516472089322, 0.057931714832869401}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;﻿reverød, ubetydelig streket&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.65745948729609893</real>
+		<key>Frame</key>
+		<string>{{0.27275696352074386, 0.17769889954624438}, {0.12516476315513456, 0.031608091888621771}}</string>
+		<key>Text</key>
+		<string>&lt;p class="right"&gt;&lt;b&gt;juv.&lt;/b&gt;&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.39937106918239518</real>
+		<key>Frame</key>
+		<string>{{0.69875018518614052, 0.9040574609230545}, {0.2457776864096112, 0.052034414836419782}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;&lt;b&gt;juv.&lt;/b&gt;&lt;/p&gt;&lt;p&gt;﻿(fersk drakt)&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.37117349105991643</real>
+		<key>Frame</key>
+		<string>{{0.44076114163992253, 0.84081429673316688}, {0.11440279658356155, 0.055987403163300496}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;﻿rødbrun&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.41114436100602958</real>
+		<key>Frame</key>
+		<string>{{0.60006128559412064, 0.66613752659520598}, {0.21353068609907119, 0.050544387466854961}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;﻿ustreket bryst&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.44759095970236445</real>
+		<key>Frame</key>
+		<string>{{0.74710922070654928, 0.57196989831137246}, {0.22188263356423243, 0.046428640786936509}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;&lt;b&gt;juv.&lt;/b&gt;&lt;/p&gt;&lt;p&gt;(﻿fersk drakt)&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.25537100590527262</real>
+		<key>Frame</key>
+		<string>{{0, 0.51183578682588726}, {0.71283257086817375, 0.081375878259295334}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;﻿kroppsfjær og vingedekkere blekes raskt til lyst gulbrun – svært likt juv. savanneørn!&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>EndPoint</key>
+		<string>{0.58542002474161448, 0.70547255206731407}</string>
+		<key>StartPoint</key>
+		<string>{0.48914096075426983, 0.70339377712532336}</string>
+		<key>Type</key>
+		<string>line</string>
+	</dict>
+	<dict>
+		<key>EndPoint</key>
+		<string>{0.54039013459282625, 0.86614734454082254}</string>
+		<key>StartPoint</key>
+		<string>{0.63653129942565412, 0.85924901363773476}</string>
+		<key>Type</key>
+		<string>line</string>
+	</dict>
+</array>
+</plist>

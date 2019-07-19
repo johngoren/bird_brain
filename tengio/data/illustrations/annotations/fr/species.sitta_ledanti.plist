@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>FontScale</key>
+		<real>0.17735824546970058</real>
+		<key>Frame</key>
+		<string>{{0.30287987349882162, 0.081908818180360249}, {0.20735963186221032, 0.2814048147578882}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;population relictuelle extrêmement réduite dans les forêts primaires des montagnes algériennes&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.25757492106633356</real>
+		<key>Frame</key>
+		<string>{{0.55451284112277632, 0.50061368706582976}, {0.096298768435213566, 0.19376678445853784}}</string>
+		<key>Text</key>
+		<string>&lt;p class="right"&gt;avant de la calotte parfois gris sombre&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>EndPoint</key>
+		<string>{0.62603217430354263, 0.50409267273509362}</string>
+		<key>StartPoint</key>
+		<string>{0.623817060567876, 0.44582056846353252}</string>
+		<key>Type</key>
+		<string>line</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.58749809504173112</real>
+		<key>Frame</key>
+		<string>{{0.43214163820079177, 0.69565561742113491}, {0.042906693277111919, 0.084952554967246283}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;♀&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>EndPoint</key>
+		<string>{0.88715397477253266, 0.67835655817002805}</string>
+		<key>StartPoint</key>
+		<string>{0.88026330427388089, 0.56786823608476067}</string>
+		<key>Type</key>
+		<string>line</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.42210220191108844</real>
+		<key>Frame</key>
+		<string>{{0.83547680459921492, 0.66490637848569412}, {0.089607577599533958, 0.11824023657355399}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;épais sourcil blanc&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.21380366845012355</real>
+		<key>Frame</key>
+		<string>{{0.93405620424988867, 0.49808301188667459}, {0.065943795750111417, 0.23343595820400109}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;avant de la calotte noir&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>EndPoint</key>
+		<string>{0.93629819741138809, 0.58861608340037619}</string>
+		<key>StartPoint</key>
+		<string>{0.91582600686568993, 0.54447571573448339}</string>
+		<key>Type</key>
+		<string>line</string>
+	</dict>
+	<dict>
+		<key>EndPoint</key>
+		<string>{0.8285569343331467, 0.26816377880904357}</string>
+		<key>StartPoint</key>
+		<string>{0.81501015028993262, 0.34459479522000352}</string>
+		<key>Type</key>
+		<string>line</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.49182247081955599</real>
+		<key>Frame</key>
+		<string>{{0.82182725105392351, 0.15256022762839269}, {0.14509580357479501, 0.10147861712991221}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;chamois grisâtre pâle&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.5874998505910618</real>
+		<key>Frame</key>
+		<string>{{0.7715485850943582, 0.73498881816757955}, {0.042906873580820855, 0.084952301114584267}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;♂&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+</array>
+</plist>

@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>FontScale</key>
+		<real>0.22282045438559622</real>
+		<key>Frame</key>
+		<string>{{0.33354199817136709, 0.57205944648775253}, {0.11848956133819302, 0.25788586153800247}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;ses vanligen &lt;/p&gt;&lt;p&gt;i familje-&lt;/p&gt;&lt;p&gt;grupper&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.48831118512474758</real>
+		<key>Frame</key>
+		<string>{{0.64128545181897145, 0.3141580326051911}, {0.12058290031432981, 0.1176754631021588}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;omisskännlig!&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.24102565359917863</real>
+		<key>Frame</key>
+		<string>{{0.6782956496174728, 0.08313628032259468}, {0.30131312815978195, 0.23840717363255182}}</string>
+		<key>Text</key>
+		<string>&lt;p class="center"&gt;osannolikt vackra färger i direkt solljus; i skugga inne bland grenar och blad kan den däremot se förvånansvärt ”alldaglig” ut&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+</array>
+</plist>

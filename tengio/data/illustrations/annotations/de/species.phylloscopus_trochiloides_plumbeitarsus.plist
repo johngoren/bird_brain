@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>FontScale</key>
+		<real>0.51569310184917927</real>
+		<key>Frame</key>
+		<string>{{0.01993516987462602, 0.55325152532004296}, {0.13720374643917665, 0.099687133283593771}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;„Middendorff-Laubsänger“&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>EndPoint</key>
+		<string>{0.25045624781870068, 0.68860627676896335}</string>
+		<key>StartPoint</key>
+		<string>{0.24091799457496924, 0.73163931625568324}</string>
+		<key>Type</key>
+		<string>line</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.43312977502841887</real>
+		<key>Frame</key>
+		<string>{{0.021267929303496986, 0.22743810144373602}, {0.10440725128356387, 0.11868952434428232}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;Gelbbrauen-Laubsänger&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.26649894814461383</real>
+		<key>Frame</key>
+		<string>{{0.25350214485345995, 0.51722159620599872}, {0.098176410076462925, 0.19290120030632485}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;gelblich rosa, kräftig&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.27946168147781741</real>
+		<key>Frame</key>
+		<string>{{0.72856039404247519, 0.61367219635915649}, {0.10959818289489923, 0.18395354492114727}}</string>
+		<key>Text</key>
+		<string>&lt;p class="right"&gt;beachte dunklere Gefiederbereiche&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.28588836266502288</real>
+		<key>Frame</key>
+		<string>{{0.8077033173665239, 0.13752893812863878}, {0.11984302759934268, 0.17981832663018907}}</string>
+		<key>Text</key>
+		<string>&lt;p class="right"&gt;„Middendorff-Laubsänger“&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.42333364913398847</real>
+		<key>Frame</key>
+		<string>{{0.70698927808972589, 0.81972843728744804}, {0.13573645824721436, 0.12143605187689203}}</string>
+		<key>Text</key>
+		<string>&lt;p class="right"&gt;Gelbbrauen-Laubsänger&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>EndPoint</key>
+		<string>{0.88168344637323481, 0.754513350803792}</string>
+		<key>StartPoint</key>
+		<string>{0.84274772829739908, 0.76690742405592494}</string>
+		<key>Type</key>
+		<string>line</string>
+	</dict>
+	<dict>
+		<key>EndPoint</key>
+		<string>{0.45305635379145953, 0.87376348131554471}</string>
+		<key>StartPoint</key>
+		<string>{0.46802332908715055, 0.82266344455457352}</string>
+		<key>Type</key>
+		<string>line</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.20931643823074084</real>
+		<key>Frame</key>
+		<string>{{0.56805160162179968, 0.22743810144373344}, {0.12296850030132953, 0.24559928217772967}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;untere Flügel-binde breiter, obere schmaler&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.22233882787196704</real>
+		<key>Frame</key>
+		<string>{{0.31528203050837922, 0.72531033767414865}, {0.15289902767050548, 0.23121452725779468}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;klarere Grüntöne und weißere Unterseiten bewirken „sauberere“ Erscheinung&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+</array>
+</plist>

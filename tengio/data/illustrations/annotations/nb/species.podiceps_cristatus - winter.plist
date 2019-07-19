@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>EndPoint</key>
+		<string>{0.81356842220282566, 0.33033157483229902}</string>
+		<key>StartPoint</key>
+		<string>{0.85339383580005113, 0.37717776556027965}</string>
+		<key>Type</key>
+		<string>line</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.56002266259853073</real>
+		<key>Frame</key>
+		<string>{{0.86179050834459403, 0.35269440447987854}, {0.062347316224880871, 0.054993971737990845}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;hvit&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>EndPoint</key>
+		<string>{0.88461194054840075, 0.31443588126193467}</string>
+		<key>StartPoint</key>
+		<string>{0.91281415213106543, 0.34938777662465031}</string>
+		<key>Type</key>
+		<string>line</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.51961966214187527</real>
+		<key>Frame</key>
+		<string>{{0.91857097297679791, 0.31549684700774494}, {0.075218786939560231, 0.059270025219270925}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;lys&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.47993323476691674</real>
+		<key>Frame</key>
+		<string>{{0.82323812447633105, 0.17333591863370698}, {0.070736997021332446, 0.064171156003678745}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;hvit&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>EndPoint</key>
+		<string>{0.76948204172305212, 0.21573075415632431}</string>
+		<key>StartPoint</key>
+		<string>{0.81615429004401885, 0.21808427710460612}</string>
+		<key>Type</key>
+		<string>line</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.45501885900772465</real>
+		<key>Frame</key>
+		<string>{{0.84192006533105512, 0.041737884086072922}, {0.1192887939964702, 0.067684822002191225}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;&lt;b&gt;vinter&lt;/b&gt;&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.15450121654501314</real>
+		<key>Frame</key>
+		<string>{{0.11501275560542609, 0.61442038893393203}, {0.21188882586883043, 0.19933739790718857}}</string>
+		<key>Text</key>
+		<string>&lt;p class="right"&gt;﻿fortoner seg langhalset og «hengslete»; gråstrupedykker er mer tettbygget og kraftig&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.64650291013120265</real>
+		<key>Frame</key>
+		<string>{{0.40705207409298871, 0.62498345278789791}, {0.12804985812552125, 0.047637636268841863}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;&lt;b&gt;ad. vinter&lt;/b&gt;&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.24901960784313706</real>
+		<key>Frame</key>
+		<string>{{0.65213029614034168, 0.60350775766556319}, {0.24507822204735191, 0.12367648775263611}}</string>
+		<key>Text</key>
+		<string>&lt;p class="right"&gt;﻿lang, slank, for det meste lys hals med fram-tredende hvitt «ansikt»&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.24541062801932262</real>
+		<key>Frame</key>
+		<string>{{0.63305235071150801, 0.83449178626239584}, {0.2318704136735415, 0.1254952596313518}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;﻿&lt;/p&gt;&lt;p&gt;holder ofte halsen på et bølget, «slangeaktig» vis i flukt&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+</array>
+</plist>

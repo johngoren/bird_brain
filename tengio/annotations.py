@@ -7,15 +7,12 @@ import xml.etree.ElementTree
 import nameutils
 import json
 
-currentRoot = os.getcwd()
-baseRoot = "./"
-if(currentRoot.endswith("scripts")):
-    baseRoot = "../"
+base_root = "~/Dropbox/natureguides/birdbrain/tengio"
 
-dataFolder = '%sdata/illustrations/annotations/' % baseRoot
-assetFolder = '%sapp/src/main/assets/annotations/' % baseRoot
-frameFile = '%sdata/illustrations/Layout.plist' % baseRoot
-database = '%sapp/src/main/assets/databases/bird-guide.db' % baseRoot
+dataFolder = '%s/data/illustrations/annotations/' % base_root
+assetFolder = '%s/data/output/' % base_root
+frameFile = '%s/data/illustrations/Layout.plist' % base_root
+database = '%s/data/database/bird-guide.db' % base_root
 
 def clean(locale):
     if os.path.exists('%s%s' % (assetFolder, locale)):
@@ -127,8 +124,10 @@ def insertAllAnnotationsForLocale(c, locale):
 #######################
 
 if not(os.path.exists(dataFolder)): 
+    print "Could not find data folder."
     sys.exit()
 for l in ['en','de','fr','no','sv']:
+    print "Processing annotations for locale %s" % locals
     clean(l)
     annotations(l)
 

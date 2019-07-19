@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>FontScale</key>
+		<real>0.24102535812140247</real>
+		<key>Frame</key>
+		<string>{{0.1286916103690223, 0.12777096298362223}, {0.28936785346902316, 0.28080441653255411}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;&lt;b&gt;&lt;i&gt;flammea&lt;/i&gt;&lt;/b&gt;&lt;/p&gt;&lt;p&gt;(N Scandinavie)&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.46904567641459288</real>
+		<key>Frame</key>
+		<string>{{0.71876804937919681, 0.02411297329185403}, {0.22057825982921311, 0.14429508352829715}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;♂ &lt;b&gt;printemps&lt;/b&gt;&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.44071949566692609</real>
+		<key>Frame</key>
+		<string>{{0.77818934955516128, 0.20100532147772512}, {0.13504840949083402, 0.15356930138615935}}</string>
+		<key>Text</key>
+		<string>&lt;p class="right"&gt;rouge&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>EndPoint</key>
+		<string>{0.87843575036634136, 0.35511742240729277}</string>
+		<key>StartPoint</key>
+		<string>{0.84672940107981554, 0.42243262109984575}</string>
+		<key>Type</key>
+		<string>line</string>
+	</dict>
+	<dict>
+		<key>EndPoint</key>
+		<string>{0.55884687895346297, 0.91590565489008458}</string>
+		<key>StartPoint</key>
+		<string>{0.59461295126927582, 0.84112946475729666}</string>
+		<key>Type</key>
+		<string>line</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.52916620687242011</real>
+		<key>Frame</key>
+		<string>{{0.50374619108928131, 0.86848992486370247}, {0.1754068247439706, 0.12790118525680522}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;strié&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+</array>
+</plist>

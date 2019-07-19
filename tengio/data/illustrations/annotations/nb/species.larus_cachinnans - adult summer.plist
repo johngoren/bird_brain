@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>FontScale</key>
+		<real>0.33399079552925437</real>
+		<key>Frame</key>
+		<string>{{0.67002766508391032, 0.83596107811296005}, {0.28992971815789587, 0.14668030581432648}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;﻿de fleste adulte (ca. 75 %) har mørke øyne&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.41412430806561684</real>
+		<key>Frame</key>
+		<string>{{0.76998000741649586, 0.3181270350038653}, {0.18653053485981849, 0.11829750409058071}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;&lt;b&gt;ad. som.&lt;/b&gt;&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.16650225350970413</real>
+		<key>Frame</key>
+		<string>{{0.61963511883265388, 0.024060029690356859}, {0.29683280668546491, 0.29422948335378518}}</string>
+		<key>Text</key>
+		<string>&lt;p class="right"&gt;﻿karakteristisk «oppreist» hold-ning, framskutt bryst og lange bein&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.22970834275378599</real>
+		<key>Frame</key>
+		<string>{{0.10158846073463283, 0}, {0.4495823278335172, 0.21326988580432735}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;﻿beinfargen variabel, fra gråaktig via brunrosa til skarpt gul&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>EndPoint</key>
+		<string>{0.1887290540655738, 0.33680537018838008}</string>
+		<key>StartPoint</key>
+		<string>{0.17355315863454349, 0.3762480033758096}</string>
+		<key>Type</key>
+		<string>line</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.30825242718444956</real>
+		<key>Frame</key>
+		<string>{{0.12461197715858664, 0.31259974444254934}, {0.16698399529738414, 0.15892777382118412}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;﻿mye hvitt&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+</array>
+</plist>

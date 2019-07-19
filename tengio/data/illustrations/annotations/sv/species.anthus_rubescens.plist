@@ -1,0 +1,278 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>FontScale</key>
+		<real>0.39999918619957298</real>
+		<key>Frame</key>
+		<string>{{0.033425111447549123, 0.86136231990754941}, {0.15693466825205796, 0.064944938238857122}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;&lt;b&gt;höst/vinter&lt;/b&gt;&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.36363636363636365</real>
+		<key>Frame</key>
+		<string>{{0.092156722141880559, 0.67517029531340689}, {0.26346001882315212, 0.071439286719142042}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;&lt;i&gt;japonicus&lt;/i&gt; (t.v.) med &lt;i&gt;coutellii&lt;/i&gt; vattenpiplärka&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>EndPoint</key>
+		<string>{0.58461267797464644, 0.92313984141639982}</string>
+		<key>StartPoint</key>
+		<string>{0.61098312523358589, 0.88488576763637827}</string>
+		<key>Type</key>
+		<string>line</string>
+	</dict>
+	<dict>
+		<key>EndPoint</key>
+		<string>{0.59717783524172774, 0.94772964776632318}</string>
+		<key>StartPoint</key>
+		<string>{0.62856476889213964, 0.93545661354113629}</string>
+		<key>Type</key>
+		<string>line</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.32660067622893929</real>
+		<key>Frame</key>
+		<string>{{0.51136251021517942, 0.88181750908008261}, {0.083675306823112389, 0.079540320440471088}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;nästan enfärgad&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.54024763548233101</real>
+		<key>Frame</key>
+		<string>{{0.66280485938497691, 0.75394409004095908}, {0.089682363153302955, 0.048085212663876616}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;mörka&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>EndPoint</key>
+		<string>{0.65911225797371986, 0.78790510768437372}</string>
+		<key>StartPoint</key>
+		<string>{0.64069210705842572, 0.77469925652656124}</string>
+		<key>Type</key>
+		<string>line</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.64827649878988924</real>
+		<key>Frame</key>
+		<string>{{0.57270969871371247, 0.68045709648883701}, {0.19275361526488777, 0.040072287815178069}}</string>
+		<key>Text</key>
+		<string>&lt;p class="center"&gt;&lt;b&gt;&lt;i&gt;rubescens&lt;/i&gt;&lt;/b&gt;&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.37467484082684221</real>
+		<key>Frame</key>
+		<string>{{0.76242865121128245, 0.67594542407739311}, {0.20903777274288607, 0.069334579247423228}}</string>
+		<key>Text</key>
+		<string>&lt;p class="center"&gt;ÄNGSPIPLÄRKA (för jämförelse)&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.54024763548233101</real>
+		<key>Frame</key>
+		<string>{{0.90482551852659121, 0.79256221148764927}, {0.089682363153302955, 0.048085212663876616}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;ljusa&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>EndPoint</key>
+		<string>{0.90113291711533916, 0.82345497057476547}</string>
+		<key>StartPoint</key>
+		<string>{0.88271276620004002, 0.81024911941695243}</string>
+		<key>Type</key>
+		<string>line</string>
+	</dict>
+	<dict>
+		<key>EndPoint</key>
+		<string>{0.80360787412638179, 0.94569073653713576}</string>
+		<key>StartPoint</key>
+		<string>{0.84234188627924622, 0.91858178534243051}</string>
+		<key>Type</key>
+		<string>line</string>
+	</dict>
+	<dict>
+		<key>EndPoint</key>
+		<string>{0.84377867114908323, 0.96005810226568999}</string>
+		<key>StartPoint</key>
+		<string>{0.86803221078804116, 0.96312636082198466}</string>
+		<key>Type</key>
+		<string>line</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.6300488380141771</real>
+		<key>Frame</key>
+		<string>{{0.70917212122160578, 0.93164022421538573}, {0.12623493622078, 0.041231601228252458}}</string>
+		<key>Text</key>
+		<string>&lt;p class="right"&gt;streckad&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.29187015225509666</real>
+		<key>Frame</key>
+		<string>{{0.063147586495287275, 0.251571632795144}, {0.14061440000513728, 0.089005066953949719}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;stor mörk strupsid-fläck&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>EndPoint</key>
+		<string>{0.17693992117688714, 0.32786209668260763}</string>
+		<key>StartPoint</key>
+		<string>{0.23215658312648987, 0.34320338946409285}</string>
+		<key>Type</key>
+		<string>line</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.71751412429379202</real>
+		<key>Frame</key>
+		<string>{{0.27120491182945594, 0.10593162665618973}, {0.11565223059699158, 0.03620545096431789}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;&lt;b&gt;höst&lt;/b&gt;&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.17433081674674175</real>
+		<key>Frame</key>
+		<string>{{0.029858414441820181, 0}, {0.23896869938381612, 0.14901509055087878}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;oftast vitaktig &lt;/p&gt;&lt;p&gt;under med krafti-&lt;/p&gt;&lt;p&gt;gare, svartare och distinktare streck-&lt;/p&gt;&lt;p&gt;ning än &lt;i&gt;rubescens&lt;/i&gt;&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.38484848484845918</real>
+		<key>Frame</key>
+		<string>{{0.047454119670080827, 0.17269912445449376}, {0.14409455903143556, 0.067501688238563909}}</string>
+		<key>Text</key>
+		<string>&lt;p class="center"&gt;&lt;b&gt;&lt;i&gt;japonicus &lt;/i&gt;&lt;/b&gt;(Östasien)&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.28976614569172054</real>
+		<key>Frame</key>
+		<string>{{0.69944633231726983, 0.18409551337788391}, {0.25965554201704122, 0.089651337223369237}}</string>
+		<key>Text</key>
+		<string>&lt;p class="right"&gt;beigeskärt brer &lt;/p&gt;&lt;p class="right"&gt;ut sig över hela undersidan&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>EndPoint</key>
+		<string>{0.77689388818316385, 0.2656836244333719}</string>
+		<key>StartPoint</key>
+		<string>{0.71861964991009208, 0.28408166174055149}</string>
+		<key>Type</key>
+		<string>line</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.32613485693552569</real>
+		<key>Frame</key>
+		<string>{{0.49235396496900857, 0.015341292781485511}, {0.46318121235957099, 0.079653928094107443}}</string>
+		<key>Text</key>
+		<string>&lt;p class="right"&gt;i sommardräkt är de två raserna mycket lika; &lt;i&gt;japonicus&lt;/i&gt; har i genom-&lt;/p&gt;&lt;p class="right"&gt;snitt kraftigare bröststreckning&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.30614771140657254</real>
+		<key>Frame</key>
+		<string>{{0.81501039326301561, 0.29842242051217244}, {0.14409455903143556, 0.084854210812064471}}</string>
+		<key>Text</key>
+		<string>&lt;p class="center"&gt;&lt;b&gt;ad. som. &lt;i&gt;japonicus &lt;/i&gt;&lt;/b&gt;(Östasien)&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.34842739880885054</real>
+		<key>Frame</key>
+		<string>{{0.80858726069256603, 0.53142238195083569}, {0.15817044615193726, 0.074557633906327872}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;saknar alltid mörk tygel&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.43944636678200416</real>
+		<key>Frame</key>
+		<string>{{0.6017188343603046, 0.55578946865210477}, {0.13910118322341539, 0.059115114851344824}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;rätt mörk, bruntonad&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>EndPoint</key>
+		<string>{0.59492357044909261, 0.58838971581277044}</string>
+		<key>StartPoint</key>
+		<string>{0.5377328851462525, 0.57315069831648568}</string>
+		<key>Type</key>
+		<string>line</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.41983471074379769</real>
+		<key>Frame</key>
+		<string>{{0.42576178207769327, 0.61211758198147537}, {0.17714595128451968, 0.061876547552013383}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;&lt;b&gt;&lt;i&gt;rubescens &lt;/i&gt;&lt;/b&gt;(Nordamerika)&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.10347549331636398</real>
+		<key>Frame</key>
+		<string>{{0.031047313443729956, 0.41629237183108414}, {0.23754202058152432, 0.25105386416375886}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;omfattning &lt;/p&gt;&lt;p&gt;och pregnans &lt;/p&gt;&lt;p&gt;av streckningen varierar hos &lt;i&gt;rube-&lt;/i&gt;&lt;/p&gt;&lt;p&gt;&lt;i&gt;scens&lt;/i&gt;; är oftast svagare än hos &lt;i&gt;japonicus,&lt;/i&gt; men några är mycket lika&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.71751412429379202</real>
+		<key>Frame</key>
+		<string>{{0.36203679557534563, 0.39335074691741689}, {0.11565223059699158, 0.03620545096431789}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;&lt;b&gt;höst&lt;/b&gt;&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+</array>
+</plist>

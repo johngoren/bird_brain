@@ -1,0 +1,120 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>FontScale</key>
+		<real>0.29090779959250862</real>
+		<key>Frame</key>
+		<string>{{0.35049726725595642, 0.030487464809896666}, {0.1939041497319286, 0.12859655011300958}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;légèrement plus grand et costaud que les P. des Anglais et yelkouan&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.36337693925605125</real>
+		<key>Frame</key>
+		<string>{{0.055723787107924541, 0.25185316493915916}, {0.18704895251918399, 0.10295022987741895}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;brunâtre dessus et dessous, peu contrasté&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.26804558885605906</real>
+		<key>Frame</key>
+		<string>{{0.54577245643043515, 0.59045529672878838}, {0.095972760978429078, 0.13956483890750568}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;P. FULIGINEUX (pour comparaison)&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.24245895379915983</real>
+		<key>Frame</key>
+		<string>{{0.70076520103097273, 0.67151955098658744}, {0.25201010705900517, 0.15429308277701975}}</string>
+		<key>Text</key>
+		<string>&lt;p class="right"&gt;ind. les plus sombres (à g.) rappelant le P. fuligineux, mais taille, silhouette et vol bien différents&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>EndPoint</key>
+		<string>{0.44550051348854347, 0.40376007743883974}</string>
+		<key>StartPoint</key>
+		<string>{0.4337389476964324, 0.44538209461408329}</string>
+		<key>Type</key>
+		<string>line</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.29357622816186352</real>
+		<key>Frame</key>
+		<string>{{0.34853863948088881, 0.2723252291473014}, {0.1537522803429939, 0.12742768603164109}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;ventre et bas-ventre brunâtres, paraissant mazoutés&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.19671265113040137</real>
+		<key>Frame</key>
+		<string>{{0.35977731540018643, 0.47410217015963441}, {0.067302297861006485, 0.19017454756259858}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;aisselles teintées de brun&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>EndPoint</key>
+		<string>{0.46311836432248077, 0.56689010653756744}</string>
+		<key>StartPoint</key>
+		<string>{0.41648330022993207, 0.60948418780819824}</string>
+		<key>Type</key>
+		<string>line</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.33202614379084755</real>
+		<key>Frame</key>
+		<string>{{0.65408457239180617, 0.3017817168863286}, {0.10731789080850707, 0.11267106560177624}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;pattes dépassant normalement de la queue courte&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.15074183976261171</real>
+		<key>Frame</key>
+		<string>{{0.62999345075844493, 0.021208671172105138}, {0.17366499605620569, 0.2481709092012957}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;ind. illustrés intermédiaires, certains ind. sont plus pâles (comme le P. yelkouan) ou plus sombres (comme le P. fuligineux, en haut)&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>EndPoint</key>
+		<string>{0.72655380006939585, 0.42196418686155823}</string>
+		<key>StartPoint</key>
+		<string>{0.74770157819140837, 0.43751721238776164}</string>
+		<key>Type</key>
+		<string>line</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.13460519342872221</real>
+		<key>Frame</key>
+		<string>{{0.84309215268605842, 0.030487464809902842}, {0.1292694331546192, 0.27792196181771422}}</string>
+		<key>Text</key>
+		<string>&lt;p class="right"&gt;parties sup. plus brunes que le P. des Anglais et le P. yelkouan en plum. frais ; ind. usés plus semblables&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+</array>
+</plist>

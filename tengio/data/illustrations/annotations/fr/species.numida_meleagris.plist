@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>FontScale</key>
+		<real>0.30669012766276066</real>
+		<key>Frame</key>
+		<string>{{0.019102089434264391, 0.19834595226686352}, {0.26543995704948181, 0.16832797502172878}}</string>
+		<key>Text</key>
+		<string>&lt;p class="center"&gt;sociable, vit habituellement en groupes familiaux ou, parfois, en plus grandes bandes&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>EndPoint</key>
+		<string>{0.82571061637010301, 0.56098013358936683}</string>
+		<key>StartPoint</key>
+		<string>{0.84894340862910667, 0.52413570344368032}</string>
+		<key>Type</key>
+		<string>line</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.20658337663512977</real>
+		<key>Frame</key>
+		<string>{{0.83705575410665112, 0.69207527207578856}, {0.12754250186306543, 0.24989681643072326}}</string>
+		<key>Text</key>
+		<string>&lt;p class="right"&gt;dans le S. de l’Europe, est souvent implantée la race d’Afrique centrale&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.34431621162501636</real>
+		<key>Frame</key>
+		<string>{{0.85283505081150401, 0.088592890220902304}, {0.14716494918849604, 0.14993348092726633}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;&lt;b&gt;&lt;i&gt;meleagris&lt;/i&gt;&lt;/b&gt;&lt;/p&gt;&lt;p&gt;(Éthiopie, Kenya)&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.3567296875567007</real>
+		<key>Frame</key>
+		<string>{{0.63968235789143923, 0.20557466757820292}, {0.16821303788326894, 0.14471609722816381}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;&lt;b&gt;&lt;i&gt;sabyi&lt;/i&gt;&lt;/b&gt;&lt;/p&gt;&lt;p&gt;(Maroc - probablement éteinte)&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>EndPoint</key>
+		<string>{0.71278818713557568, 0.86972520400263742}</string>
+		<key>StartPoint</key>
+		<string>{0.73890793672365485, 0.830360857861972}</string>
+		<key>Type</key>
+		<string>line</string>
+	</dict>
+</array>
+</plist>

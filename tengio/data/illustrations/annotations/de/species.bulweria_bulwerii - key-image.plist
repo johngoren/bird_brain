@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>EndPoint</key>
+		<string>{0.5054969442120163, 0.76965669109061474}</string>
+		<key>StartPoint</key>
+		<string>{0.36062752463187669, 0.71386888154244721}</string>
+		<key>Type</key>
+		<string>line</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.44815797010178732</real>
+		<key>Frame</key>
+		<string>{{0.52141057882200792, 0.71256716598631009}, {0.43223522304479622, 0.17565859176863505}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;Unterflügel einfarbig&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.46540225485023223</real>
+		<key>Frame</key>
+		<string>{{0.73815974385557481, 0.44206929798581884}, {0.26184025614442535, 0.16915001398801396}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;recht kräftig&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>EndPoint</key>
+		<string>{0.71946575992494077, 0.57402743894171193}</string>
+		<key>StartPoint</key>
+		<string>{0.65336665906989511, 0.54948080274052236}</string>
+		<key>Type</key>
+		<string>line</string>
+	</dict>
+	<dict>
+		<key>EndPoint</key>
+		<string>{0.049261173871271303, 0.40418455209506549}</string>
+		<key>StartPoint</key>
+		<string>{0.099280211955932993, 0.47360938175500567}</string>
+		<key>Type</key>
+		<string>line</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.20598009259099426</real>
+		<key>Frame</key>
+		<string>{{0, 0.008710968853601217}, {0.41227813209182063, 0.38218643815393594}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;Schwanz selten gespreizt, aber nur dann Keilform erkennbar&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+</array>
+</plist>

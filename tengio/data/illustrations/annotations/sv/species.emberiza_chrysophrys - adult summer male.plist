@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>EndPoint</key>
+		<string>{0.39173911377564186, 0.48979488304499758}</string>
+		<key>StartPoint</key>
+		<string>{0.42956595295422956, 0.44193975749242342}</string>
+		<key>Type</key>
+		<string>line</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.66999720561875098</real>
+		<key>Frame</key>
+		<string>{{0.15994937408850082, 0.46470010893406027}, {0.25269253322674723, 0.07327534788821484}}</string>
+		<key>Text</key>
+		<string>&lt;p class="right"&gt;rödbrun ton&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.38831622586207293</real>
+		<key>Frame</key>
+		<string>{{0.3484383615958575, 0.57795466068685886}, {0.34565130598505656, 0.12642860394735014}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;gul främre del av ögon­brynsstrecket&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.58755954551160117</real>
+		<key>Frame</key>
+		<string>{{0.61306736853991617, 0.71166010469569529}, {0.11189404416909694, 0.083556260298857557}}</string>
+		<key>Text</key>
+		<string>&lt;p class="right"&gt;svart&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.43671354223354486</real>
+		<key>Frame</key>
+		<string>{{0.81781310706666477, 0.79344835511623091}, {0.14850214107045787, 0.11241757714852646}}</string>
+		<key>Text</key>
+		<string>&lt;p class="right"&gt;smalt vitt&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>EndPoint</key>
+		<string>{0.89147036689218206, 0.85121973972688769}</string>
+		<key>StartPoint</key>
+		<string>{0.87401222240631626, 0.79750291564045606}</string>
+		<key>Type</key>
+		<string>line</string>
+	</dict>
+	<dict>
+		<key>EndPoint</key>
+		<string>{0.90177294229308003, 0.27908822530379451}</string>
+		<key>StartPoint</key>
+		<string>{0.84127486174017629, 0.3556256318319993}</string>
+		<key>Type</key>
+		<string>line</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.24332432352154831</real>
+		<key>Frame</key>
+		<string>{{0.82304625967230471, 0.070452637981243765}, {0.14766093111583872, 0.20176477885696495}}</string>
+		<key>Text</key>
+		<string>&lt;p class="right"&gt;korta, distinkta streck&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.53191639025815329</real>
+		<key>Frame</key>
+		<string>{{0.30004440756931361, 0.060635389088354183}, {0.28822769827472222, 0.092296983557921611}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;&lt;b&gt;ad. &lt;/b&gt;♂&lt;b&gt; sommar&lt;/b&gt;&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>EndPoint</key>
+		<string>{0.77824695574825753, 0.77146764144020807}</string>
+		<key>StartPoint</key>
+		<string>{0.73691874323112128, 0.77146764144020807}</string>
+		<key>Type</key>
+		<string>line</string>
+	</dict>
+</array>
+</plist>

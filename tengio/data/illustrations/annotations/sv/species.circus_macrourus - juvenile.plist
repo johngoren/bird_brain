@@ -1,0 +1,134 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>FontScale</key>
+		<real>0.41037286890310082</real>
+		<key>Frame</key>
+		<string>{{0.21577892914694966, 0.31939665984006244}, {0.1596394992719303, 0.05787060522774478}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;ljus krage&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.33421052631579712</real>
+		<key>Frame</key>
+		<string>{{0.70412718967988308, 0.24650414836978252}, {0.25545088046417019, 0.071058582607384166}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;ostrec­kat rödbrun &lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>EndPoint</key>
+		<string>{0.32973356735289172, 0.36365371742685243}</string>
+		<key>StartPoint</key>
+		<string>{0.45439554469555665, 0.34366459978258507}</string>
+		<key>Type</key>
+		<string>line</string>
+	</dict>
+	<dict>
+		<key>EndPoint</key>
+		<string>{0.68757637993100473, 0.2800396031912431}</string>
+		<key>StartPoint</key>
+		<string>{0.54481738991702566, 0.2726312455458757}</string>
+		<key>Type</key>
+		<string>line</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.66666440611298972</real>
+		<key>Frame</key>
+		<string>{{0.29946369078681395, 0.043157939831165164}, {0.22353697383522211, 0.035622910229953675}}</string>
+		<key>Text</key>
+		<string>&lt;p class="right"&gt;&lt;b&gt;juv.&lt;/b&gt;&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.21724784915701137</real>
+		<key>Frame</key>
+		<string>{{0.052164696553288974, 0.7984523199276824}, {0.2525297732212835, 0.10931535748049988}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;ljusare toppar på inre handen&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>EndPoint</key>
+		<string>{0.24685015755660089, 0.89364152136024155}</string>
+		<key>StartPoint</key>
+		<string>{0.34885619959749681, 0.88091709260452322}</string>
+		<key>Type</key>
+		<string>line</string>
+	</dict>
+	<dict>
+		<key>EndPoint</key>
+		<string>{0.65368417907980225, 0.78249456055748201}</string>
+		<key>StartPoint</key>
+		<string>{0.58253492429068054, 0.75397845796472474}</string>
+		<key>Type</key>
+		<string>line</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.25273631840796729</real>
+		<key>Frame</key>
+		<string>{{0.61282387430960383, 0.76058151970627075}, {0.2957011409834579, 0.093965625684764117}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;mörk “hals­-&lt;/p&gt;&lt;p&gt;boa” och ljus krage&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.66666214557464198</real>
+		<key>Frame</key>
+		<string>{{0.18655339834644052, 0.57172451600889251}, {0.23166588573628208, 0.03562303102120478}}</string>
+		<key>Text</key>
+		<string>&lt;p class="right"&gt;&lt;b&gt;juv.&lt;/b&gt;&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>EndPoint</key>
+		<string>{0.50001361250678, 0.93569835018573433}</string>
+		<key>StartPoint</key>
+		<string>{0.58171920262185051, 0.93369788857783265}</string>
+		<key>Type</key>
+		<string>line</string>
+	</dict>
+	<dict>
+		<key>EndPoint</key>
+		<string>{0.24455427399757654, 0.97198646832600144}</string>
+		<key>StartPoint</key>
+		<string>{0.35512871889564585, 0.95729593061147489}</string>
+		<key>Type</key>
+		<string>line</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.37265258215966379</real>
+		<key>Frame</key>
+		<string>{{0.58392317277888495, 0.88338197022803255}, {0.23425718177448004, 0.063728328822617156}}</string>
+		<key>Text</key>
+		<string>&lt;p class="center"&gt;fyra ”fingrar”&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.79455315912117286</real>
+		<key>Frame</key>
+		<string>{{0.11742845629835401, 0.97011084026305316}, {0.299648157548144, 0.029889159736946756}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;spetsig&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+</array>
+</plist>

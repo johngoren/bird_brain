@@ -1,0 +1,126 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>FontScale</key>
+		<real>0.37389533258405228</real>
+		<key>Frame</key>
+		<string>{{0.049195244085358081, 0.15192628809661843}, {0.098054558307922896, 0.10984726481790975}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;kein Fleck&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>EndPoint</key>
+		<string>{0.10348922900834648, 0.27171086766394265}</string>
+		<key>StartPoint</key>
+		<string>{0.14246349372225522, 0.33540308897841292}</string>
+		<key>Type</key>
+		<string>line</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.66086278411573718</real>
+		<key>Frame</key>
+		<string>{{0.13357187267916687, 0.11134355317126227}, {0.091084501623032499, 0.062148120002696337}}</string>
+		<key>Text</key>
+		<string>&lt;p class="center"&gt;&lt;b&gt;JK&lt;/b&gt;&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.54121429672531873</real>
+		<key>Frame</key>
+		<string>{{0.55218760823756685, 0.022258877927629341}, {0.15070958476492549, 0.07588746243594835}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;heller Fleck&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>EndPoint</key>
+		<string>{0.71155733784290687, 0.090815097287034893}</string>
+		<key>StartPoint</key>
+		<string>{0.74626342932178691, 0.13817615386453413}</string>
+		<key>Type</key>
+		<string>line</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.34087084970651771</real>
+		<key>Frame</key>
+		<string>{{0.80446054454770233, 0.11449562557578347}, {0.19553945545229781, 0.12048956268305837}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;schmaler heller Augenring&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>EndPoint</key>
+		<string>{0.29317352558018389, 0.82665514631987658}</string>
+		<key>StartPoint</key>
+		<string>{0.36137860428761126, 0.8544516144778147}</string>
+		<key>Type</key>
+		<string>line</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.25454762021901028</real>
+		<key>Frame</key>
+		<string>{{0.1996089299465291, 0.68676703546090978}, {0.13910308606925964, 0.16135047570746655}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;kein deutlicher weißer Hinterrand&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.60023629908014287</real>
+		<key>Frame</key>
+		<string>{{0.21053919295022192, 0.60030790386651767}, {0.15379421395802262, 0.068425351274960175}}</string>
+		<key>Text</key>
+		<string>&lt;p class="right"&gt;♀&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.2714717508329883</real>
+		<key>Frame</key>
+		<string>{{0.49916668539705905, 0.57870611840339714}, {0.097748158795272266, 0.15129154133539402}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;Handflügel dunkel&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>EndPoint</key>
+		<string>{0.49092377501880408, 0.70706169010699027}</string>
+		<key>StartPoint</key>
+		<string>{0.43347563334274097, 0.67891456709767528}</string>
+		<key>Type</key>
+		<string>line</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.43380791185190165</real>
+		<key>Frame</key>
+		<string>{{0.51984398527161935, 0.79720065087510861}, {0.098054558307922896, 0.094676418964350889}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;hellblau&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>EndPoint</key>
+		<string>{0.5158988322981074, 0.86793284137579052}</string>
+		<key>StartPoint</key>
+		<string>{0.45603098469608344, 0.83905165184566211}</string>
+		<key>Type</key>
+		<string>line</string>
+	</dict>
+</array>
+</plist>

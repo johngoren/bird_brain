@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>FontScale</key>
+		<real>0.60000000000000009</real>
+		<key>Frame</key>
+		<string>{{0.57849473166405796, 0.12927964730600947}, {0.28555841812681854, 0.080066475971946688}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;&lt;b&gt;1st-w.&lt;/b&gt; ♂&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.16867401805840262</real>
+		<key>Frame</key>
+		<string>{{0.34430660618732378, 0.63176993700882167}, {0.36533521403110575, 0.28480904253157957}}</string>
+		<key>Text</key>
+		<string>&lt;p class="right"&gt;♂ has bolder black stripes below &lt;/p&gt;&lt;p class="right"&gt;than ♀&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+</array>
+</plist>

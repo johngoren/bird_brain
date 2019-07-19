@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>FontScale</key>
+		<real>0.32939284278246883</real>
+		<key>Frame</key>
+		<string>{{0.03253395955561772, 0.047689073522107737}, {0.19647079871603909, 0.12974794752137542}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;pair patrolling a mountain­side at Dead Sea&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>EndPoint</key>
+		<string>{0.3636308784807456, 0.63425420104563113}</string>
+		<key>StartPoint</key>
+		<string>{0.34478918401991787, 0.42534337903443531}</string>
+		<key>Type</key>
+		<string>line</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.18799995218914001</real>
+		<key>Frame</key>
+		<string>{{0.35558601746573726, 0.54571192322474216}, {0.12841561511637442, 0.22733008589416673}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;long secondaries almost level with tip of tail&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.15666656440458962</real>
+		<key>Frame</key>
+		<string>{{0.87574336442095058, 0.079685002592638651}, {0.10998417100128863, 0.27279621176147012}}</string>
+		<key>Text</key>
+		<string>&lt;p class="right"&gt;the fanned tail almost merges with trailing edge &lt;/p&gt;&lt;p class="right"&gt;of wing&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>EndPoint</key>
+		<string>{0.87309085548519672, 0.85683598084575963}</string>
+		<key>StartPoint</key>
+		<string>{0.88650356163943933, 0.81200633811913769}</string>
+		<key>Type</key>
+		<string>line</string>
+	</dict>
+	<dict>
+		<key>EndPoint</key>
+		<string>{0.84332885099363675, 0.81819028296051188}</string>
+		<key>StartPoint</key>
+		<string>{0.85927616050687028, 0.76479444891742754}</string>
+		<key>Type</key>
+		<string>line</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.26111104470713825</real>
+		<key>Frame</key>
+		<string>{{0.79769158132393347, 0.79654154314048464}, {0.098419150704352587, 0.16367766184380042}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;very short tail and broad inner wing&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+</array>
+</plist>

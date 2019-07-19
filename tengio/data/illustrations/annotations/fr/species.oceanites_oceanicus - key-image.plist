@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>FontScale</key>
+		<real>0.22478284357019734</real>
+		<key>Frame</key>
+		<string>{{0.020960817264338003, 0}, {0.23100642391919651, 0.35589693264278444}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;carrée ou arrondie&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.25683337078123281</real>
+		<key>Frame</key>
+		<string>{{0.022565850957839275, 0.45347466994395219}, {0.245481087601742, 0.31148415135468743}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;reflet bronze, pas de bande blanche&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>EndPoint</key>
+		<string>{0.17844701276887426, 0.45526230994329864}</string>
+		<key>StartPoint</key>
+		<string>{0.077528822575889778, 0.37218165537285308}</string>
+		<key>Type</key>
+		<string>line</string>
+	</dict>
+	<dict>
+		<key>EndPoint</key>
+		<string>{0.42100488687570509, 0.528242873492482}</string>
+		<key>StartPoint</key>
+		<string>{0.18384490524959432, 0.59343833018409942}</string>
+		<key>Type</key>
+		<string>line</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.58749897281508212</real>
+		<key>Frame</key>
+		<string>{{0.08509967938632805, 0.86383035845317746}, {0.9149003206136721, 0.13616964154682237}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;bras plus court que chez les O. tempête et culblanc&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+</array>
+</plist>

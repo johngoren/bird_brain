@@ -1,0 +1,120 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>FontScale</key>
+		<real>0.31333350332763849</real>
+		<key>Frame</key>
+		<string>{{0.24451837133402174, 0.73463964882637067}, {0.13145989264319663, 0.15649869232037189}}</string>
+		<key>Text</key>
+		<string>&lt;p class="right"&gt;utpräglat sociala vanor&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>EndPoint</key>
+		<string>{0.47833033242913692, 0.90889323731975846}</string>
+		<key>StartPoint</key>
+		<string>{0.49302126580725841, 0.87860038397222828}</string>
+		<key>Type</key>
+		<string>line</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.45326343308872946</real>
+		<key>Frame</key>
+		<string>{{0.40602186501751075, 0.83375550392336895}, {0.069363190746571657, 0.10818495371837579}}</string>
+		<key>Text</key>
+		<string>&lt;p class="right"&gt;grå&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.55294064707735224</real>
+		<key>Frame</key>
+		<string>{{0.54394657499642585, 0.64334857869853257}, {0.037763241511209383, 0.088682725334309723}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;♀&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.55294375727712741</real>
+		<key>Frame</key>
+		<string>{{0.72645189365735097, 0.22783810579644587}, {0.03776340942545188, 0.088682226511438936}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;♂&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>EndPoint</key>
+		<string>{0.69599826439669776, 0.53807321328080904}</string>
+		<key>StartPoint</key>
+		<string>{0.71019344280801711, 0.50842837949126862}</string>
+		<key>Type</key>
+		<string>line</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.58749985059106169</real>
+		<key>Frame</key>
+		<string>{{0.61499864719540298, 0.51153594291975968}, {0.10711770071716413, 0.083466035747247841}}</string>
+		<key>Text</key>
+		<string>&lt;p class="right"&gt;blanksvart&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.55294064707735224</real>
+		<key>Frame</key>
+		<string>{{0.6443811685402896, 0.80071004212686914}, {0.037763241511209383, 0.088682725334309723}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;♀&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.23696047284104768</real>
+		<key>Frame</key>
+		<string>{{0.91353256075609413, 0.4876450100348611}, {0.080214816590976887, 0.20693866341087908}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;ljus hand­-&lt;/p&gt;&lt;p&gt;täckar­fläck&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.66591000699745106</real>
+		<key>Frame</key>
+		<string>{{0.91400658266304791, 0.71020162508395068}, {0.085993417336951997, 0.073638003657638409}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;&lt;b&gt;1:a året &lt;/b&gt;♂&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>EndPoint</key>
+		<string>{0.91043759412578618, 0.67172130078342818}</string>
+		<key>StartPoint</key>
+		<string>{0.88725498834491512, 0.66447989067141011}</string>
+		<key>Type</key>
+		<string>line</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.39584600082950999</real>
+		<key>Frame</key>
+		<string>{{0.88857913983232539, 0.11435022308650809}, {0.089904979619089498, 0.1238771730121789}}</string>
+		<key>Text</key>
+		<string>&lt;p class="right"&gt;&lt;b&gt;ad. &lt;/b&gt;♂&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+</array>
+</plist>

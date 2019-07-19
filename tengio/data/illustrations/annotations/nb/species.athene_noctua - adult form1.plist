@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>FontScale</key>
+		<real>0.13291930951566827</real>
+		<key>Frame</key>
+		<string>{{0.65274882806437062, 0.59176337036700521}, {0.33872162023953151, 0.29621753160447145}}</string>
+		<key>Text</key>
+		<string>&lt;p class="center"&gt;﻿varierende grunnfarge; tenderer mot lysere i S og Ø (men mye variasjon innen underartene)&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.20648576267181298</real>
+		<key>Frame</key>
+		<string>{{0.42720779763853217, 0.15676567359761165}, {0.27918675409311244, 0.1906815717356804}}</string>
+		<key>Text</key>
+		<string>&lt;p class="right"&gt;&lt;b&gt;&lt;i&gt;noctua&lt;/i&gt; &lt;/b&gt;m.fl.&lt;/p&gt;&lt;p class="right"&gt;(Europa &lt;/p&gt;&lt;p class="right"&gt;utenom &lt;/p&gt;&lt;p class="right"&gt;i SØ)&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+</array>
+</plist>

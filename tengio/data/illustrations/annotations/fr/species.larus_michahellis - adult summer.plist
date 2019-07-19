@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>FontScale</key>
+		<real>0.53892021861211381</real>
+		<key>Frame</key>
+		<string>{{0.73663617452378516, 0.14259208502482126}, {0.15047702975884514, 0.047585934559794041}}</string>
+		<key>Text</key>
+		<string>&lt;p class="right"&gt;&lt;b&gt;ad. nupt.&lt;/b&gt;&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.64631043256997911</real>
+		<key>Frame</key>
+		<string>{{0.67028526976197034, 0.049452191202002505}, {0.32649022245747994, 0.039679109238344598}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;jaune&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.26260015507883278</real>
+		<key>Frame</key>
+		<string>{{0.030827249226344694, 0.012347680654684631}, {0.49084173992766178, 0.097658062113966729}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;les oiseaux de Méditerranée sont plus grands que ceux des îles atlantiques&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.15987411487018061</real>
+		<key>Frame</key>
+		<string>{{0.21802739228189622, 0.35726818176280883}, {0.70352319995657542, 0.16040759491710066}}</string>
+		<key>Text</key>
+		<string>&lt;p class="right"&gt;teinte de gris identique au Goéland argenté « nordique » &lt;i&gt;L. a. argentatus&lt;/i&gt;, dont certains ind. ont également les pattes jaunes, mais tête en hiver beaucoup moins striée et cercle orbitaire rouge intense et non orange&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.554698511670774</real>
+		<key>Frame</key>
+		<string>{{0.30462346224364761, 0.81019499903375625}, {0.18271110474305441, 0.046232361753742804}}</string>
+		<key>Text</key>
+		<string>&lt;p class="right"&gt;&lt;b&gt;ad. nupt.&lt;/b&gt;&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>EndPoint</key>
+		<string>{0.56305251913411403, 0.73265531568605669}</string>
+		<key>StartPoint</key>
+		<string>{0.49995935747901199, 0.74017972908511387}</string>
+		<key>Type</key>
+		<string>line</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.16235218919783304</real>
+		<key>Frame</key>
+		<string>{{0.24658232219380433, 0.64726328775289244}, {0.28805602839550576, 0.15795920204424471}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;habituellement, large bande noire sur la p5 (étroite chez &lt;i&gt;L. argentatus&lt;/i&gt;)&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+</array>
+</plist>

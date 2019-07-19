@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>FontScale</key>
+		<real>0.39074997689581148</real>
+		<key>Frame</key>
+		<string>{{0.72261594250219296, 0.061063357288445537}, {0.24210739741578927, 0.11105278331895838}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;&lt;b&gt;ad. nuptial&lt;/b&gt;&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.38095090467314469</real>
+		<key>Frame</key>
+		<string>{{0.47998924036374641, 0.60148423787430616}, {0.17689702285853737, 0.11390935678005655}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;&lt;b&gt;imm. /&lt;/b&gt;&lt;/p&gt;&lt;p&gt;&lt;b&gt;ad. intern.&lt;/b&gt;&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.30886718740483993</real>
+		<key>Frame</key>
+		<string>{{0.042277125416752062, 0.39512801768467548}, {0.15939263630796724, 0.14049363054943456}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;bien plus blanc en vol que posé&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+</array>
+</plist>

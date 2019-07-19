@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>FontScale</key>
+		<real>0.39839086520576239</real>
+		<key>Frame</key>
+		<string>{{0.093840631532532318, 0.57722423705528703}, {0.19178834830008429, 0.11941912053716214}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;﻿dypt kløftet&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.24901960784313704</real>
+		<key>Frame</key>
+		<string>{{0.099674345528337024, 0.13237470540897145}, {0.26835084380702912, 0.19105116727547053}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;﻿en anelse mindre og lysere enn tårnseiler&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.26205829249419521</real>
+		<key>Frame</key>
+		<string>{{0.68499031644077002, 0.3782360176099181}, {0.25557493662175962, 0.18154543517818686}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;﻿diffust, lite og lyst strupefelt&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>EndPoint</key>
+		<string>{0.66887571436345183, 0.53884967900976422}</string>
+		<key>StartPoint</key>
+		<string>{0.61338677048377899, 0.5749535957882731}</string>
+		<key>Type</key>
+		<string>line</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.19689922480620214</real>
+		<key>Frame</key>
+		<string>{{0.56637146519273496, 0.039658697760576692}, {0.40447083704247916, 0.24162353508368242}}</string>
+		<key>Text</key>
+		<string>&lt;p class="right"&gt;﻿bestemmes sikrest på villere og djervere flukt med raskere vingeslag&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>EndPoint</key>
+		<string>{0.16829066539625098, 0.54831548002184316}</string>
+		<key>StartPoint</key>
+		<string>{0.15413141000786762, 0.59481007057138413}</string>
+		<key>Type</key>
+		<string>line</string>
+	</dict>
+</array>
+</plist>

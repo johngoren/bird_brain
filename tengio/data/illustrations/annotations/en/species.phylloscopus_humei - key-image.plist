@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>EndPoint</key>
+		<string>{0.42715233208908704, 0.38157062587174007}</string>
+		<key>StartPoint</key>
+		<string>{0.45877554114661984, 0.40712701188668438}</string>
+		<key>Type</key>
+		<string>line</string>
+	</dict>
+	<dict>
+		<key>EndPoint</key>
+		<string>{0.34614617936688924, 0.5285035629453757}</string>
+		<key>StartPoint</key>
+		<string>{0.40276374471123072, 0.57838479809977117}</string>
+		<key>Type</key>
+		<string>line</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.88989088212401302</real>
+		<key>Frame</key>
+		<string>{{0.43085557946363723, 0.89133016627077555}, {0.17411375576309526, 0.056498070699496056}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;duller&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.21531723776528172</real>
+		<key>Frame</key>
+		<string>{{0.60937224024067105, 0.047639079633850091}, {0.29815672657817482, 0.23350252165080587}}</string>
+		<key>Text</key>
+		<string>&lt;p class="right"&gt;overall impression like Yellow-browed ’watched through misty lenses’!&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.42838233419652755</real>
+		<key>Frame</key>
+		<string>{{0.21703416527477226, 0.40282496464669704}, {0.17484326915980691, 0.11736505910632146}}</string>
+		<key>Text</key>
+		<string>&lt;p class="right"&gt;off-white, ’unclean’&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.47037038366163375</real>
+		<key>Frame</key>
+		<string>{{0.35603178601431812, 0.29077593183481915}, {0.12170953824485398, 0.10688835802478333}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;dark&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>EndPoint</key>
+		<string>{0.88089011573306319, 0.8060659862822227}</string>
+		<key>StartPoint</key>
+		<string>{0.87950506628156166, 0.86150166979514398}</string>
+		<key>Type</key>
+		<string>line</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.44761867900944985</real>
+		<key>Frame</key>
+		<string>{{0.77144602833743303, 0.8497624703088158}, {0.1324973387691937, 0.11232131349911335}}</string>
+		<key>Text</key>
+		<string>&lt;p class="right"&gt;mainly dark&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>EndPoint</key>
+		<string>{0.5065559665663405, 0.90297716343200629}</string>
+		<key>StartPoint</key>
+		<string>{0.52388325115203105, 0.84460126504429311}</string>
+		<key>Type</key>
+		<string>line</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.20604339890489937</real>
+		<key>Frame</key>
+		<string>{{0.73044410511303981, 0.30166270783849425}, {0.18008034467044559, 0.24401227236736242}}</string>
+		<key>Text</key>
+		<string>&lt;p class="right"&gt;buffish wing-bars, foremost indistinct&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+</array>
+</plist>

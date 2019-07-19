@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>FontScale</key>
+		<real>0.63682210842378417</real>
+		<key>Frame</key>
+		<string>{{0.55301699375295876, 0.38494935308015843}, {0.19458377512798064, 0.046473685665816611}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;&lt;b&gt;ad. &lt;/b&gt;♂&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.25832697686244382</real>
+		<key>Frame</key>
+		<string>{{0.51285183364432385, 0.18846313103056681}, {0.27063787019759605, 0.11456593055586596}}</string>
+		<key>Text</key>
+		<string>&lt;p class="right"&gt;svart hals anläggs &lt;/p&gt;&lt;p class="right"&gt;under 3:e kal.året&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.30817266998965487</real>
+		<key>Frame</key>
+		<string>{{0.083295902244510306, 0.64292543228465515}, {0.47295655626573346, 0.096035350873012279}}</string>
+		<key>Text</key>
+		<string>&lt;p class="center"&gt;massor av vitt i vingen och hönsfågelstorlek gör arten omisskännlig&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.65010498470695255</real>
+		<key>Frame</key>
+		<string>{{0.51866986734499188, 0.86924044390105837}, {0.11821429385546935, 0.045524140236011673}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;&lt;b&gt;ad. &lt;/b&gt;♂&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+</array>
+</plist>

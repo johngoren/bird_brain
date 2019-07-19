@@ -1,0 +1,150 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>FontScale</key>
+		<real>0.65891594974210854</real>
+		<key>Frame</key>
+		<string>{{0.068067018152457012, 0.014042459768454845}, {0.10168302510375726, 0.069605615338376156}}</string>
+		<key>Text</key>
+		<string>&lt;p class="right"&gt;&lt;b&gt;JK &lt;/b&gt;(hell)&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>EndPoint</key>
+		<string>{0.44382484632929919, 0.25696149532046308}</string>
+		<key>StartPoint</key>
+		<string>{0.42450254279329752, 0.28769603457263659}</string>
+		<key>Type</key>
+		<string>line</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.68599301822901659</real>
+		<key>Frame</key>
+		<string>{{0.44652236784197175, 0.22132791690481446}, {0.046546310714825553, 0.066858187939688868}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;hell&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.19941530294268281</real>
+		<key>Frame</key>
+		<string>{{0.449168264754504, 0.0018306234651040963}, {0.27637988069146741, 0.22999363369446418}}</string>
+		<key>Text</key>
+		<string>&lt;p class="center"&gt;beachte: alle Abbildungen zeigen Vögel der Unterart &lt;i&gt;antarctica&lt;/i&gt; (Naher Osten); atlantische Vögel heller, oberseits grauer, mit mehr Weiß im Schwanz&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.30153494013590421</real>
+		<key>Frame</key>
+		<string>{{0.29259273153032644, 0.43214416001157124}, {0.0929654403046698, 0.15210260581211124}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;manche fast einfarbig dunkel&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>EndPoint</key>
+		<string>{0.30951651262697183, 0.44431557083560053}</string>
+		<key>StartPoint</key>
+		<string>{0.32311975702592022, 0.39241849943379353}</string>
+		<key>Type</key>
+		<string>line</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.65891815805348886</real>
+		<key>Frame</key>
+		<string>{{0.35193743010406808, 0.014042693046094373}, {0.088219667941657282, 0.069605382060736729}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;&lt;b&gt;JK &lt;/b&gt;(dunkel)&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>EndPoint</key>
+		<string>{0.80954325545503525, 0.41424668433921358}</string>
+		<key>StartPoint</key>
+		<string>{0.82035622623218152, 0.37529640788066571}</string>
+		<key>Type</key>
+		<string>line</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.57264522929337014</real>
+		<key>Frame</key>
+		<string>{{0.68403329379533118, 0.37495915050092293}, {0.13472908367773195, 0.080091909950363735}}</string>
+		<key>Text</key>
+		<string>&lt;p class="right"&gt;dunkel graubraun&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.64357822790776842</real>
+		<key>Frame</key>
+		<string>{{0.87657130696085028, 0.029894647053491392}, {0.072038742010442233, 0.071264452632544356}}</string>
+		<key>Text</key>
+		<string>&lt;p class="center"&gt;&lt;b&gt;PK&lt;/b&gt;&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.19941530294268281</real>
+		<key>Frame</key>
+		<string>{{0.449168264754504, 0.0018306234651040963}, {0.27637988069146741, 0.22999363369446418}}</string>
+		<key>Text</key>
+		<string>&lt;p class="center"&gt;beachte: alle Abbildungen zeigen Vögel der Unterart &lt;i&gt;antarctica&lt;/i&gt; (Naher Osten); atlantische Vögel heller, oberseits grauer, mit mehr Weiß im Schwanz&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.58386738493885104</real>
+		<key>Frame</key>
+		<string>{{0.82830991874088644, 0.68439753577095563}, {0.072038742010442233, 0.078552512644413944}}</string>
+		<key>Text</key>
+		<string>&lt;p class="right"&gt;&lt;b&gt;PK&lt;/b&gt;&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.17961768690341195</real>
+		<key>Frame</key>
+		<string>{{0.78527953598565969, 0.45505106045128668}, {0.13798428157449993, 0.25534372994533183}}</string>
+		<key>Text</key>
+		<string>&lt;p class="right"&gt;Oberseite heller als bei Rußseeschwalbe, doch Unterschied nicht immer deutlich&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.30134126659340316</real>
+		<key>Frame</key>
+		<string>{{0.01509220949151439, 0.73489812572508761}, {0.044684436922218559, 0.15220036291927513}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;&lt;b&gt;JK&lt;/b&gt;(hell&lt;b&gt;)&lt;/b&gt;&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.30134126659340316</real>
+		<key>Frame</key>
+		<string>{{0.47341279276468956, 0.33848376025931576}, {0.15200678956790931, 0.15220036291927513}}</string>
+		<key>Text</key>
+		<string>&lt;p class="center"&gt;ad. Zügelseeschwalbe mit Küstenseeschwal-ben&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+</array>
+</plist>

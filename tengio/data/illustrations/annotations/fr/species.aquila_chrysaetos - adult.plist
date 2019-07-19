@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>FontScale</key>
+		<real>0.51102187219774553</real>
+		<key>Frame</key>
+		<string>{{0.35241444129299093, 0.0084988005848651033}, {0.53037826974487967, 0.047264734391360697}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;barres lâches&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>EndPoint</key>
+		<string>{0.33566336056237961, 0.044822127378574425}</string>
+		<key>StartPoint</key>
+		<string>{0.25293359681488781, 0.064062109418532631}</string>
+		<key>Type</key>
+		<string>line</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.69564971251658603</real>
+		<key>Frame</key>
+		<string>{{0.69206532018967515, 0.10377285368518732}, {0.16189449468959022, 0.034720510370406334}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;&lt;b&gt;ad.&lt;/b&gt;&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.60476254192947065</real>
+		<key>Frame</key>
+		<string>{{0.48522897920369124, 0.79663105880542162}, {0.35511840891312357, 0.039938507071787435}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;(Europe du N.)&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.51222609980186629</real>
+		<key>Frame</key>
+		<string>{{0.2794543750241173, 0.57411635268032069}, {0.18887680590804068, 0.04715361647316494}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;longue&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>EndPoint</key>
+		<string>{0.3443342707155102, 0.62913574583260912}</string>
+		<key>StartPoint</key>
+		<string>{0.3051980555578736, 0.65758448870121688}</string>
+		<key>Type</key>
+		<string>line</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.63794723034766065</real>
+		<key>Frame</key>
+		<string>{{0.45439205209689054, 0.85576360455042089}, {0.28397364300509992, 0.037860988979354193}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;&lt;b&gt;ad.&lt;/b&gt;&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+</array>
+</plist>

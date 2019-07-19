@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>FontScale</key>
+		<real>0.38840912210497808</real>
+		<key>Frame</key>
+		<string>{{0.10725222540703599, 0.55745074020554475}, {0.37965764718091466, 0.08269469611274835}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;﻿oppfinnsom – oppsøker ubevoktete fiskeredskaper på vårisen&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.24736804690994435</real>
+		<key>Frame</key>
+		<string>{{0.75794829333300651, 0.51604898913514696}, {0.24205170666699241, 0.12984447555420836}}</string>
+		<key>Text</key>
+		<string>&lt;p class="right"&gt;﻿lysegrå og svart drakt gjør arten umiskjen-nelig (gråkråka svensk navn)&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+</array>
+</plist>

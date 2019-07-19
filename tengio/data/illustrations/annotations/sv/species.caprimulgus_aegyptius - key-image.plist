@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>FontScale</key>
+		<real>0.54754935680885963</real>
+		<key>Frame</key>
+		<string>{{0.2321477512132627, 0.84960855816681535}, {0.35841743441172297, 0.15039144183318437}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;sand­färgad&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>EndPoint</key>
+		<string>{0.42293626904518228, 0.90144228680575511}</string>
+		<key>StartPoint</key>
+		<string>{0.50949687581657854, 0.79777482952788037}</string>
+		<key>Type</key>
+		<string>line</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.6224214565209133</real>
+		<key>Frame</key>
+		<string>{{0.68926224389646185, 0.34164703338782154}, {0.14995050798778056, 0.13230060818533221}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;♂&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.39166656706070907</real>
+		<key>Frame</key>
+		<string>{{0.48003942829656682, 0.032969557263630267}, {0.3510523476801985, 0.21024704218002152}}</string>
+		<key>Text</key>
+		<string>&lt;p class="right"&gt;minimala vita fläckar&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>EndPoint</key>
+		<string>{0.52473623803979008, 0.12688061879814427}</string>
+		<key>StartPoint</key>
+		<string>{0.46316657143072792, 0.20061881577216684}</string>
+		<key>Type</key>
+		<string>line</string>
+	</dict>
+</array>
+</plist>

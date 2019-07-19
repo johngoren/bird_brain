@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>FontScale</key>
+		<real>0.24152933554876646</real>
+		<key>Frame</key>
+		<string>{{0.78355737546242554, 0.45008286499855038}, {0.21644262453757451, 0.14603780402439484}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;﻿nominatunderarten har i gjennomsnitt kortere og tykkere nebb&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>EndPoint</key>
+		<string>{0.82364370795469743, 0.60187733875425875}</string>
+		<key>StartPoint</key>
+		<string>{0.80913730321827848, 0.63707469356166913}</string>
+		<key>Type</key>
+		<string>line</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.16053959456982336</real>
+		<key>Frame</key>
+		<string>{{0.39847374437609484, 0.7361504727477175}, {0.17956508283133052, 0.21971161610023912}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;&lt;b&gt;&lt;i&gt;macrorhynchos&lt;/i&gt;&lt;/b&gt;&lt;/p&gt;&lt;p&gt;(﻿fra Ural og østover i Sibir – har hekket i Midt-Skandinavia siden 1995, bl.a. i Trøndelag)&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>EndPoint</key>
+		<string>{0.67786864242091904, 0.27730316872979927}</string>
+		<key>StartPoint</key>
+		<string>{0.65626136882202846, 0.32749550706723318}</string>
+		<key>Type</key>
+		<string>line</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.29543654759024607</real>
+		<key>Frame</key>
+		<string>{{0.64822793626590536, 0.14907590671564899}, {0.12018436075845002, 0.11939082709541379}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;﻿tett hvitflekket&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.59775259367842615</real>
+		<key>Frame</key>
+		<string>{{0.3978864543484964, 0.93320904941031557}, {0.20377240917258441, 0.059008382638634956}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;﻿sibirnøttekråke&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+</array>
+</plist>

@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>FontScale</key>
+		<real>0.20264990561083415</real>
+		<key>Frame</key>
+		<string>{{0.52423385308427883, 0.74642192405621877}, {0.31253448986707905, 0.25357807594378096}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;adult and 1st-w. very similar; iris bright red in adult, duller in 1st-w.&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.41794229200707578</real>
+		<key>Frame</key>
+		<string>{{0.75295410827150167, 0.74545012562112689}, {0.15372496043477182, 0.12295375255805448}}</string>
+		<key>Text</key>
+		<string>&lt;p class="right"&gt;lead-grey&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>EndPoint</key>
+		<string>{0.84226435834020519, 0.81625977366932845}</string>
+		<key>StartPoint</key>
+		<string>{0.81038746908491488, 0.78753128788977289}</string>
+		<key>Type</key>
+		<string>line</string>
+	</dict>
+	<dict>
+		<key>EndPoint</key>
+		<string>{0.88718029334602344, 0.59094402418543157}</string>
+		<key>StartPoint</key>
+		<string>{0.8804756560906376, 0.63613970975723111}</string>
+		<key>Type</key>
+		<string>line</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.33814880521890561</real>
+		<key>Frame</key>
+		<string>{{0.85737840065952131, 0.43835908191499134}, {0.12159103109819734, 0.15196733616053337}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;strong, hooked at tip&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.52500060081550581</real>
+		<key>Frame</key>
+		<string>{{0.74428520401810006, 0.21224154537700743}, {0.22850951980712395, 0.097880979707759663}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;&lt;b&gt;1st-winter&lt;/b&gt;&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.27468329229318406</real>
+		<key>Frame</key>
+		<string>{{0, 0.027490872732351707}, {0.35311898873316838, 0.18707935501273759}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;size and proportions similar to Icterine Warbler but shorter-tailed&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+</array>
+</plist>

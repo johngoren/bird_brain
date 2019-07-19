@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>FontScale</key>
+		<real>0.279044218621258</real>
+		<key>Frame</key>
+		<string>{{0.34685452238907422, 0.7625750074361729}, {0.12831257693468795, 0.17131102852094313}}</string>
+		<key>Text</key>
+		<string>&lt;p class="right"&gt;gör luftsprång under spelets kulmination&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.30817266998965487</real>
+		<key>Frame</key>
+		<string>{{0.086015229539555815, 0.23563411605972268}, {0.15785356413178106, 0.15511872644785582}}</string>
+		<key>Text</key>
+		<string>&lt;p class="center"&gt;två ♂♂ under spel med uppburrade halsfjädrar&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.62456876012579821</real>
+		<key>Frame</key>
+		<string>{{0.49110654987465463, 0.47829222694562434}, {0.040033412977895415, 0.076538173451394298}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;♀&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.63682210842378417</real>
+		<key>Frame</key>
+		<string>{{0.67765156819294525, 0.62177992639063273}, {0.065896029781477863, 0.075065471915147564}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;&lt;b&gt;ad. &lt;/b&gt;♂&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.25832697686244382</real>
+		<key>Frame</key>
+		<string>{{0.66404958835184258, 0.30441041347881659}, {0.09165184066763464, 0.18504978719386853}}</string>
+		<key>Text</key>
+		<string>&lt;p class="right"&gt;svart hals anläggs &lt;/p&gt;&lt;p class="right"&gt;under 3:e kal.året&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.30817266998965487</real>
+		<key>Frame</key>
+		<string>{{0.78279849495599518, 0.18339641585292135}, {0.16016730735403642, 0.15511872644785582}}</string>
+		<key>Text</key>
+		<string>&lt;p class="center"&gt;massor av vitt i vingen och hönsfågelstorlek gör arten omisskännlig&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.65010498470695255</real>
+		<key>Frame</key>
+		<string>{{0.93023841255175554, 0.54894614372748796}, {0.040033412977895415, 0.073531742132970895}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;&lt;b&gt;ad. &lt;/b&gt;♂&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+</array>
+</plist>

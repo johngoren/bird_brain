@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>EndPoint</key>
+		<string>{0.7448626839597533, 0.93222100776449945}</string>
+		<key>StartPoint</key>
+		<string>{0.72263748517383797, 0.89343560862087312}</string>
+		<key>Type</key>
+		<string>line</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.33977661374362894</real>
+		<key>Frame</key>
+		<string>{{0.75086560470866393, 0.80395564254844687}, {0.22119741744793092, 0.1651148017758014}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;﻿markert rødbrun issestripe&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.12499396035449541</real>
+		<key>Frame</key>
+		<string>{{0.7955021307293727, 0.2637139385145813}, {0.1858578451991163, 0.44883887243208404}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;﻿fugler med tydelig rødbrun hake og kullsvarte kronestriper er nesten alltid ad. ♂♂&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>EndPoint</key>
+		<string>{0.78901597403457235, 0.69039459691898919}</string>
+		<key>StartPoint</key>
+		<string>{0.75579668926273569, 0.70375475245711872}</string>
+		<key>Type</key>
+		<string>line</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.58061200985169026</real>
+		<key>Frame</key>
+		<string>{{0.26058955164107461, 0.013025559779113252}, {0.18539782374228189, 0.096625883161912021}}</string>
+		<key>Text</key>
+		<string>&lt;p class="right"&gt;&lt;b&gt;ad. sommer&lt;/b&gt;&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+</array>
+</plist>

@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>FontScale</key>
+		<real>0.17735840546306597</real>
+		<key>Frame</key>
+		<string>{{0.30844462590535815, 0.13875502825871863}, {0.10896555473700201, 0.2814045609052262}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;sehr kleine Population in alten Bergwäldern Algeriens&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.2973880529286842</real>
+		<key>Frame</key>
+		<string>{{0.55412583138922233, 0.51063840414430828}, {0.10256759322749884, 0.16782605663097636}}</string>
+		<key>Text</key>
+		<string>&lt;p class="right"&gt;Stirn bei manchen dunkelgrau&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>EndPoint</key>
+		<string>{0.62563370332208135, 0.50144168372885689}</string>
+		<key>StartPoint</key>
+		<string>{0.62341840885277611, 0.44316984461946723}</string>
+		<key>Type</key>
+		<string>line</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.58749809504173112</real>
+		<key>Frame</key>
+		<string>{{0.43174298670065575, 0.6930046340696574}, {0.042906873580820855, 0.084952554967246283}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;♀&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>EndPoint</key>
+		<string>{0.88715397477253266, 0.67835655817002805}</string>
+		<key>StartPoint</key>
+		<string>{0.88026330427388089, 0.56786823608476067}</string>
+		<key>Type</key>
+		<string>line</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.29394924677996653</real>
+		<key>Frame</key>
+		<string>{{0.87534185848557189, 0.66078000546026816}, {0.10064318430566267, 0.16978939309732097}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;breit weißer Überaugen-streif&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.27654809996961754</real>
+		<key>Frame</key>
+		<string>{{0.93721621556843182, 0.49799146451290432}, {0.054430083609607091, 0.18047299626238028}}</string>
+		<key>Text</key>
+		<string>&lt;p class="right"&gt;Stirn schwarz&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>EndPoint</key>
+		<string>{0.93589954591125513, 0.58596535390156079}</string>
+		<key>StartPoint</key>
+		<string>{0.91542735536555386, 0.54182498623566799}</string>
+		<key>Type</key>
+		<string>line</string>
+	</dict>
+	<dict>
+		<key>EndPoint</key>
+		<string>{0.82815846326956444, 0.28319750588293724}</string>
+		<key>StartPoint</key>
+		<string>{0.814611678960662, 0.35962826694222227}</string>
+		<key>Type</key>
+		<string>line</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.49182370113545204</real>
+		<key>Frame</key>
+		<string>{{0.82142877985749552, 0.16759395395278018}, {0.1157874357109364, 0.10147836327725022}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;hell graubeige&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.5874998505910618</real>
+		<key>Frame</key>
+		<string>{{0.77847819753429381, 0.74567470200892516}, {0.042906873580820855, 0.084952301114584267}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;♂&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+</array>
+</plist>

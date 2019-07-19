@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>FontScale</key>
+		<real>0.52888862586015117</real>
+		<key>Frame</key>
+		<string>{{0.88949402564138347, 0.17501042968427441}, {0.10517660042259502, 0.1022702499937829}}</string>
+		<key>Text</key>
+		<string>&lt;p class="right"&gt;&lt;b&gt;sommer&lt;/b&gt;&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.57882999253675116</real>
+		<key>Frame</key>
+		<string>{{0.78683432631288286, 0.70962016445631115}, {0.066792788384606852, 0.093446387856537527}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;﻿variasjon&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.2707401078574973</real>
+		<key>Frame</key>
+		<string>{{0.63095410015975451, 0.4166265160783757}, {0.099193236735218807, 0.19978411183191128}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;﻿mørk strupe med lyse fjærbremmer&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>EndPoint</key>
+		<string>{0.64056591022463893, 0.62148038943151884}</string>
+		<key>StartPoint</key>
+		<string>{0.62157803919803689, 0.69397632381568664}</string>
+		<key>Type</key>
+		<string>line</string>
+	</dict>
+	<dict>
+		<key>EndPoint</key>
+		<string>{0.54881946261348513, 0.8369183514438171}</string>
+		<key>StartPoint</key>
+		<string>{0.56768569306192584, 0.77962519762800941}</string>
+		<key>Type</key>
+		<string>line</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.52888862586015117</real>
+		<key>Frame</key>
+		<string>{{0.41542788631904842, 0.7686751969971517}, {0.12990043366844231, 0.1022702499937829}}</string>
+		<key>Text</key>
+		<string>&lt;p class="right"&gt;﻿lyst rustbeige&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.57696912783190513</real>
+		<key>Frame</key>
+		<string>{{0.45400062262222912, 0.11751364056570859}, {0.11152391017755933, 0.093747775013266366}}</string>
+		<key>Text</key>
+		<string>&lt;p class="center"&gt;&lt;b&gt;høst&lt;/b&gt;&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.15582416177106007</real>
+		<key>Frame</key>
+		<string>{{0.24387370068539735, 0.13297568976025678}, {0.13705969233317644, 0.34711928734810349}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;﻿i profil ser 1. vinter iblant ikke ut til å ha mørkt smekkeparti – jf. sibirjernspurv&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>EndPoint</key>
+		<string>{0.24099749602810541, 0.45800129006852403}</string>
+		<key>StartPoint</key>
+		<string>{0.21646811435503927, 0.53249235711249632}</string>
+		<key>Type</key>
+		<string>line</string>
+	</dict>
+</array>
+</plist>

@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>EndPoint</key>
+		<string>{0.39894845716659771, 0.90476760604390283}</string>
+		<key>StartPoint</key>
+		<string>{0.4234199995132682, 0.87042376246070785}</string>
+		<key>Type</key>
+		<string>line</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.61935093654903883</real>
+		<key>Frame</key>
+		<string>{{0.32293685501508457, 0.88711250992757251}, {0.19332434747441674, 0.061709846707617491}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;dos brun&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>EndPoint</key>
+		<string>{0.25857581228685311, 0.70214786370594939}</string>
+		<key>StartPoint</key>
+		<string>{0.26605661303538336, 0.75289303313891021}</string>
+		<key>Type</key>
+		<string>line</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.59999633791297968</real>
+		<key>Frame</key>
+		<string>{{0.14863951870912401, 0.63886588152126733}, {0.22266424525536291, 0.063700474382234903}}</string>
+		<key>Text</key>
+		<string>&lt;p class="center"&gt;brun-roux&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.57207203275168395</real>
+		<key>Frame</key>
+		<string>{{0.10560977707720071, 0.93319014186234406}, {0.67446426897551115, 0.066809858137656025}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;&lt;b&gt;PERDRIX ROUGE&lt;/b&gt;&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>EndPoint</key>
+		<string>{0.90279484310860214, 0.64307251459481374}</string>
+		<key>StartPoint</key>
+		<string>{0.87450950589955945, 0.65145463555739491}</string>
+		<key>Type</key>
+		<string>line</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.16444082566678017</real>
+		<key>Frame</key>
+		<string>{{0.88210114115198168, 0.43097349449943795}, {0.11530030556006302, 0.23242434594745298}}</string>
+		<key>Text</key>
+		<string>&lt;p class="right"&gt;large et strié de noir&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+</array>
+</plist>

@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>FontScale</key>
+		<real>0.25022429413308439</real>
+		<key>Frame</key>
+		<string>{{0.065984977082869545, 0.16238006954713066}, {0.17732814298322841, 0.18647653114488699}}</string>
+		<key>Text</key>
+		<string>&lt;p class="center"&gt;trotz der geringen Größe Gesang überraschend kräftig und laut&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.18254151587478615</real>
+		<key>Frame</key>
+		<string>{{0.56410006625999565, 0}, {0.17732814298322841, 0.25561833511957044}}</string>
+		<key>Text</key>
+		<string>&lt;p class="center"&gt;in einigen Regionen ein häufiger Gartenvogel, in anderen aber ein scheuer und schwer zu entdeckender Waldbewohner&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.28755104516231189</real>
+		<key>Frame</key>
+		<string>{{0.49055186256282479, 0.54090659698614274}, {0.11746599021430038, 0.1622701748546144}}</string>
+		<key>Text</key>
+		<string>&lt;p class="center"&gt;unverwechselbar!&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.22280638298471106</real>
+		<key>Frame</key>
+		<string>{{0.28935522028893434, 0.70317677184075744}, {0.10391911668797418, 0.20942379546333439}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;kurzer Stummelschwanz wird fast immer gestelzt&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>EndPoint</key>
+		<string>{0.37352381964183951, 0.87343567017262447}</string>
+		<key>StartPoint</key>
+		<string>{0.41302485431197483, 0.87394656305921459}</string>
+		<key>Type</key>
+		<string>line</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.28703460801131492</real>
+		<key>Frame</key>
+		<string>{{0.80115837891606512, 0.62835026602671018}, {0.17732814298322841, 0.16256213388831531}}</string>
+		<key>Text</key>
+		<string>&lt;p class="right"&gt;dunkler und langschnäbliger als Unterarten des Kontinents&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.27202189193458859</real>
+		<key>Frame</key>
+		<string>{{0.66452183411760013, 0.7909123999150256}, {0.310459066694112, 0.1715338351860877}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;&lt;b&gt;&lt;i&gt;islandicus, zetlandicus&lt;/i&gt;  u. a.&lt;/b&gt;&lt;/p&gt;&lt;p class="right"&gt;(nordatlantische Unterarten; Island, Inseln vor NW-Küsten Großbritanniens)&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+</array>
+</plist>

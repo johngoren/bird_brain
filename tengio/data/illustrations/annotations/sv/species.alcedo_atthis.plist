@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>FontScale</key>
+		<real>0.63088887213147371</real>
+		<key>Frame</key>
+		<string>{{0.19604124553005653, 0.016525287535564495}, {0.14266218125176688, 0.089977297559010835}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;lurpassar på fisk&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>EndPoint</key>
+		<string>{0.89410840501898747, 0.47003539192609767}</string>
+		<key>StartPoint</key>
+		<string>{0.90074808511455939, 0.54210153809954698}</string>
+		<key>Type</key>
+		<string>line</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.20215035631920342</real>
+		<key>Frame</key>
+		<string>{{0.89455577647541207, 0.4972838332926296}, {0.061892771774277253, 0.28080917989977272}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;rygg och stjärt ljusast i flykten&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.6064507571843446</real>
+		<key>Frame</key>
+		<string>{{0.40299534395428271, 0.14533936751063758}, {0.032187681536476193, 0.093603108087450398}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;♀&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.34814790548682467</real>
+		<key>Frame</key>
+		<string>{{0.519685341152894, 0.39697640655540384}, {0.040625601015961542, 0.16305045895670511}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;röd bas&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>EndPoint</key>
+		<string>{0.52660698004033868, 0.58023649183998161}</string>
+		<key>StartPoint</key>
+		<string>{0.52326776745145331, 0.65855055303329857}</string>
+		<key>Type</key>
+		<string>line</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.558696239041788</real>
+		<key>Frame</key>
+		<string>{{0.77078920469442314, 0.53155550949312425}, {0.077472206616217662, 0.10160382656557766}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;helsvart&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>EndPoint</key>
+		<string>{0.78264638177531676, 0.6437035428274781}</string>
+		<key>StartPoint</key>
+		<string>{0.77663170793202652, 0.72987657419623864}</string>
+		<key>Type</key>
+		<string>line</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.6064507571843446</real>
+		<key>Frame</key>
+		<string>{{0.69578464528640327, 0.10005946722846298}, {0.032187500852975705, 0.093603108087450398}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;♂&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+</array>
+</plist>

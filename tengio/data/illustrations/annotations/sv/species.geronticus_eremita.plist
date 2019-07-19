@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>FontScale</key>
+		<real>0.67567723180597306</real>
+		<key>Frame</key>
+		<string>{{0.79982053816208776, 0.89815191964411145}, {0.2001794618379123, 0.075424244142621402}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;aktiv flykt kraftfull och smidig&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>EndPoint</key>
+		<string>{0.78006475661815833, 0.37532318737899345}</string>
+		<key>StartPoint</key>
+		<string>{0.79086885442328014, 0.29160839851602566}</string>
+		<key>Type</key>
+		<string>line</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.22315589477051381</real>
+		<key>Frame</key>
+		<string>{{0.74917168294706393, 0.30037436269307621}, {0.072196869730351415, 0.22837149135474286}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;fötter ej utstickande&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.50203512570795106</real>
+		<key>Frame</key>
+		<string>{{0.9229191732458405, 0.37057874963401433}, {0.064425803304635446, 0.10151171080206585}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;kompakt&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>EndPoint</key>
+		<string>{0.93980789076319882, 0.42221349277011694}</string>
+		<key>StartPoint</key>
+		<string>{0.92550243100487817, 0.35998022157017029}</string>
+		<key>Type</key>
+		<string>line</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.57588161808534677</real>
+		<key>Frame</key>
+		<string>{{0.59332698897360092, 0.24704799068647099}, {0.16728940198301365, 0.088494653923458899}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;provianterar på torrmark&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.57044705445429633</real>
+		<key>Frame</key>
+		<string>{{0.4944591971594316, 0.073089216791150213}, {0.038129489821033702, 0.089337729234304178}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;&lt;b&gt;ad.&lt;/b&gt;&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.58237139328019183</real>
+		<key>Frame</key>
+		<string>{{0.28625052008191543, 0.50083992502136354}, {0.049743488307721628, 0.087508495577537981}}</string>
+		<key>Text</key>
+		<string>&lt;p class="right"&gt;&lt;b&gt;juv.&lt;/b&gt;&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.27549658480808836</real>
+		<key>Frame</key>
+		<string>{{0.54115938091152749, 0.57448077136593512}, {0.16757239110675989, 0.18498394282762115}}</string>
+		<key>Text</key>
+		<string>&lt;p class="center"&gt;kretsflyger regelbundet (till skillnad från brons­ibis)&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.37876497972842066</real>
+		<key>Frame</key>
+		<string>{{0.065564781212235676, 0.034583550226563217}, {0.19332830287212913, 0.13454898742192328}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;boet på klipphylla eller i grund grotta (“eremiter”!)&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+</array>
+</plist>

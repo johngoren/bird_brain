@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>FontScale</key>
+		<real>0.25843902090946513</real>
+		<key>Frame</key>
+		<string>{{0.48575095205480373, 0.89680080760125203}, {0.50042514880688094, 0.10114102025323309}}</string>
+		<key>Text</key>
+		<string>&lt;p class="right"&gt;ryggen oftast rätt enfärgad, &lt;/p&gt;&lt;p class="right"&gt;    men en del har distinktare smala&lt;/p&gt;&lt;p&gt;         streck på framrygg och&lt;/p&gt;&lt;p&gt;       skuldror än som visas här&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>EndPoint</key>
+		<string>{0.92531600365451172, 0.79370531828553492}</string>
+		<key>StartPoint</key>
+		<string>{0.91590247671939995, 0.83253072791365534}</string>
+		<key>Type</key>
+		<string>line</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.60476161181175025</real>
+		<key>Frame</key>
+		<string>{{0.86885119751057138, 0.74574067528500798}, {0.087130492405042989, 0.043221635992607289}}</string>
+		<key>Text</key>
+		<string>&lt;p class="right"&gt;skär&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.28741125424086111</real>
+		<key>Frame</key>
+		<string>{{0.76960168102813908, 0.57601653802407382}, {0.16394270696912192, 0.090945590551317401}}</string>
+		<key>Text</key>
+		<string>&lt;p class="right"&gt;&lt;b&gt;ad. vinter&lt;/b&gt;&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.2682276696635848</real>
+		<key>Frame</key>
+		<string>{{0.6866582861982693, 0.48031153325767162}, {0.28415317364164155, 0.097449999400932824}}</string>
+		<key>Text</key>
+		<string>&lt;p class="right"&gt;påminner om &lt;/p&gt;&lt;p class="right"&gt;en miniatyr-&lt;/p&gt;&lt;p class="right"&gt;fältpiplärka&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.38484786795909737</real>
+		<key>Frame</key>
+		<string>{{0.14497920088762636, 0.87794384064323649}, {0.16394231009701724, 0.067919789673378264}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;&lt;b&gt;ad. som.&lt;/b&gt;&lt;/p&gt;&lt;p&gt;(sliten)&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.25843902090946513</real>
+		<key>Frame</key>
+		<string>{{0.48575095205480373, 0.89680080760125203}, {0.50042514880688094, 0.10114102025323309}}</string>
+		<key>Text</key>
+		<string>&lt;p class="right"&gt;ryggen oftast rätt enfärgad, &lt;/p&gt;&lt;p class="right"&gt;    men en del har distinktare smala&lt;/p&gt;&lt;p&gt;         streck på framrygg och&lt;/p&gt;&lt;p&gt;       skuldror än som visas här&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.26478835301881398</real>
+		<key>Frame</key>
+		<string>{{0.42554019136349136, 0.30732216442720756}, {0.42238817635385878, 0.098715770350264256}}</string>
+		<key>Text</key>
+		<string>&lt;p class="right"&gt;varmare brun och kraftigare streckad på ovansidan än adulta&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.62709274917629609</real>
+		<key>Frame</key>
+		<string>{{0.19997818085504188, 0.14039990096507093}, {0.09961092947049853, 0.041682488407598355}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;&lt;b&gt;juv.&lt;/b&gt;&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+</array>
+</plist>

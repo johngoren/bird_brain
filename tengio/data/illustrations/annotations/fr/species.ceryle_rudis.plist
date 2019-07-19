@@ -1,0 +1,136 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>FontScale</key>
+		<real>0.61101839506978539</real>
+		<key>Frame</key>
+		<string>{{0.76251372812180973, 0.87741415989767702}, {0.17134454130597285, 0.065346436009761949}}</string>
+		<key>Text</key>
+		<string>&lt;p class="right"&gt;vole souvent sur place&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.6064498218664689</real>
+		<key>Frame</key>
+		<string>{{0.9352256674752133, 0.64089073123838081}, {0.031553949467967544, 0.065838710829082728}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;♂&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>EndPoint</key>
+		<string>{0.85958750775530091, 0.22125455176186665}</string>
+		<key>StartPoint</key>
+		<string>{0.90866659460751109, 0.29606970939349697}</string>
+		<key>Type</key>
+		<string>line</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.50810715817874297</real>
+		<key>Frame</key>
+		<string>{{0.5832141347821852, 0.15938731793234334}, {0.27040330784809552, 0.078581601954462663}}</string>
+		<key>Text</key>
+		<string>&lt;p class="right"&gt;grande marque blanche à la base des primaires&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>EndPoint</key>
+		<string>{0.1824669896483449, 0.60509679690529827}</string>
+		<key>StartPoint</key>
+		<string>{0.20732217890202279, 0.58388416036833946}</string>
+		<key>Type</key>
+		<string>line</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.41759589269418584</real>
+		<key>Frame</key>
+		<string>{{0.15958879541470927, 0.58341646116141521}, {0.051377658042292239, 0.095613666591915419}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;noir et blanc&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.44308324713168151</real>
+		<key>Frame</key>
+		<string>{{0.046737722851828117, 0.2763717878822578}, {0.050096409306857763, 0.090113708231331233}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;assez longue&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>EndPoint</key>
+		<string>{0.070975191610512786, 0.28124646314151852}</string>
+		<key>StartPoint</key>
+		<string>{0.094249386205625119, 0.22787677085654359}</string>
+		<key>Type</key>
+		<string>line</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.606451692505105</real>
+		<key>Frame</key>
+		<string>{{0.21746635307788989, 0.24161178361255928}, {0.031553949467967544, 0.065838507745411348}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;♀&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.40545358527866221</real>
+		<key>Frame</key>
+		<string>{{0.39168356691736939, 0.46414270893871878}, {0.063509594695664182, 0.098477053610891985}}</string>
+		<key>Text</key>
+		<string>&lt;p class="center"&gt;noir&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>EndPoint</key>
+		<string>{0.42042104147816184, 0.56945950226802089}</string>
+		<key>StartPoint</key>
+		<string>{0.42042104147816184, 0.62892666599258062}</string>
+		<key>Type</key>
+		<string>line</string>
+	</dict>
+	<dict>
+		<key>EndPoint</key>
+		<string>{0.70557875415888172, 0.59827768581217267}</string>
+		<key>StartPoint</key>
+		<string>{0.6891262679566027, 0.61830801612103425}</string>
+		<key>Type</key>
+		<string>line</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.16061170473482991</real>
+		<key>Frame</key>
+		<string>{{0.68501320835716184, 0.36011963535186275}, {0.066659651150345028, 0.24859878375698791}}</string>
+		<key>Text</key>
+		<string>&lt;p class="right"&gt;double bande pectorale chez le ♂, pas chez la ♀&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.6064498218664689</real>
+		<key>Frame</key>
+		<string>{{0.58049614205002409, 0.30745029135796825}, {0.031553949467967544, 0.065838710829082728}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;♂&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+</array>
+</plist>

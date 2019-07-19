@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>FontScale</key>
+		<real>0.36916388570244313</real>
+		<key>Frame</key>
+		<string>{{0.16799871720721579, 0.11409222716332479}, {0.1185945886289516, 0.1527704448073065}}</string>
+		<key>Text</key>
+		<string>&lt;p class="center"&gt;﻿hekker iblant i holker og trehull&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.56969661846947084</real>
+		<key>Frame</key>
+		<string>{{0.71349085175647586, 0.10647285080307657}, {0.22697698253614995, 0.098995376130318641}}</string>
+		<key>Text</key>
+		<string>&lt;p class="center"&gt;﻿provianterer på stubbåker&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.29500580720092845</real>
+		<key>Frame</key>
+		<string>{{0.42250647144894621, 0.61411895735840494}, {0.068423409184842646, 0.19117362997245568}}</string>
+		<key>Text</key>
+		<string>&lt;p class="right"&gt;﻿nesten ubrutt hvit &lt;/p&gt;&lt;p&gt;halskrage&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.48829632151331054</real>
+		<key>Frame</key>
+		<string>{{0.46972262515544339, 0.83793198757006604}, {0.092116333588480273, 0.11549816892081288}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;﻿svart kinnflekk&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>EndPoint</key>
+		<string>{0.62594108578069363, 0.95188279684386268}</string>
+		<key>StartPoint</key>
+		<string>{0.61068309825383826, 0.92010562848819888}</string>
+		<key>Type</key>
+		<string>line</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.49840041776727517</real>
+		<key>Frame</key>
+		<string>{{0.63017782350685336, 0.86418783164002999}, {0.17516465730931799, 0.11315666884510972}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;﻿vinrødbrun&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>EndPoint</key>
+		<string>{0.4979500361520679, 0.7755760081410632}</string>
+		<key>StartPoint</key>
+		<string>{0.53732799268820053, 0.77794573425765934}</string>
+		<key>Type</key>
+		<string>line</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.44015402525297753</real>
+		<key>Frame</key>
+		<string>{{0.27435005464499379, 0.49467216467270653}, {0.058610618686368327, 0.12813089916226861}}</string>
+		<key>Text</key>
+		<string>&lt;p class="right"&gt;&lt;b&gt;juv.&lt;/b&gt;&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+</array>
+</plist>

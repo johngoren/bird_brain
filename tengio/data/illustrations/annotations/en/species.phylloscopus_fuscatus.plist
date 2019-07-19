@@ -1,0 +1,126 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>EndPoint</key>
+		<string>{0.56569217106453462, 0.82190532688290163}</string>
+		<key>StartPoint</key>
+		<string>{0.60340169159355772, 0.85271894908404355}</string>
+		<key>Type</key>
+		<string>line</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.35474860335193958</real>
+		<key>Frame</key>
+		<string>{{0.40073700258483469, 0.70541983769254402}, {0.11839077683940229, 0.087549815460388147}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;beware of the Wren!&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.26129739643554828</real>
+		<key>Frame</key>
+		<string>{{0.63114472249230802, 0.43610633412909838}, {0.2120626097777194, 0.11886140153697845}}</string>
+		<key>Text</key>
+		<string>&lt;p class="right"&gt;supercilium sharply outlined in front of eye&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.35474860335193958</real>
+		<key>Frame</key>
+		<string>{{0.73101937096826486, 0.19699507137380248}, {0.11839077683940272, 0.087549815460388147}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;rather plain ear-coverts&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>EndPoint</key>
+		<string>{0.80916433072979244, 0.37270608368744884}</string>
+		<key>StartPoint</key>
+		<string>{0.81142644384231621, 0.41000034865312152}</string>
+		<key>Type</key>
+		<string>line</string>
+	</dict>
+	<dict>
+		<key>EndPoint</key>
+		<string>{0.54406793850427826, 0.47749685442704304}</string>
+		<key>StartPoint</key>
+		<string>{0.5407738579836705, 0.50815763127995517}</string>
+		<key>Type</key>
+		<string>line</string>
+	</dict>
+	<dict>
+		<key>EndPoint</key>
+		<string>{0.44550442981995803, 0.17018599729601439}</string>
+		<key>StartPoint</key>
+		<string>{0.49816839022431481, 0.17018599729601439}</string>
+		<key>Type</key>
+		<string>line</string>
+	</dict>
+	<dict>
+		<key>EndPoint</key>
+		<string>{0.74928738795330474, 0.29061795385231848}</string>
+		<key>StartPoint</key>
+		<string>{0.71836159069405525, 0.37254306049821267}</string>
+		<key>Type</key>
+		<string>line</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.35474860335193958</real>
+		<key>Frame</key>
+		<string>{{0.47722831216976991, 0.48532253625596899}, {0.16029024409387116, 0.087549815460388147}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;wing and back uniform&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.18078979673469747</real>
+		<key>Frame</key>
+		<string>{{0.28868070952465907, 0.012731256036922843}, {0.19620407316913049, 0.17179163492212726}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;legs usually not strikingly pale or sturdy&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.35474860335193958</real>
+		<key>Frame</key>
+		<string>{{0.7685293702246484, 0.28161025614835655}, {0.08878696632494619, 0.087549815460388147}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;narrow, pointed&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.18078979673469747</real>
+		<key>Frame</key>
+		<string>{{0.14934019905802168, 0.21839995660170136}, {0.19620407316913049, 0.17179163492212726}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;undertail-coverts uniform with flanks&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.19468574348491566</real>
+		<key>Frame</key>
+		<string>{{0.74160561055626895, 0.029884157319999348}, {0.23143137484460391, 0.15952978478210525}}</string>
+		<key>Text</key>
+		<string>&lt;p class="center"&gt;Radde's and Dusky both flick tail and wings nervously, the tail upwards (un-&lt;/p&gt;&lt;p class="center"&gt;like Chiffchaff)&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+</array>
+</plist>

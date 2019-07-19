@@ -1,0 +1,144 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>FontScale</key>
+		<real>0.21525570976477743</real>
+		<key>Frame</key>
+		<string>{{0.37529516494759152, 0.058631205651096412}, {0.14466924943350593, 0.16033801180502899}}</string>
+		<key>Text</key>
+		<string>&lt;p class="center"&gt;posé sur l’eau, ressemble à un laridé, mais plus trapu et bec court et épais&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.36368843069873968</real>
+		<key>Frame</key>
+		<string>{{0.047451129405165604, 0.23614507376976379}, {0.1075597545677086, 0.094899011406700706}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;(forme sombre ; fulmar « bleu »)&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.42333333333333312</real>
+		<key>Frame</key>
+		<string>{{0.044856615467193127, 0.050973682756532787}, {0.043082389551373772, 0.081528360315034951}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;(forme claire)&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.33335407660939981</real>
+		<key>Frame</key>
+		<string>{{0.93642447405992035, 0.3408274884142698}, {0.063575525940079633, 0.10353457466130046}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;(forme sombre)&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.38207507294791276</real>
+		<key>Frame</key>
+		<string>{{0.86117278009930431, 0.52084335574599094}, {0.092509415775585385, 0.090332175472933651}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;(forme intermédiaire)&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.18613845638231974</real>
+		<key>Frame</key>
+		<string>{{0.84612244130717884, 0.00052811245931073578}, {0.12532268339383074, 0.18541935505511714}}</string>
+		<key>Text</key>
+		<string>&lt;p class="right"&gt;lores, bec et sous-alaires plus sombres chez la forme sombre&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.21869715751229146</real>
+		<key>Frame</key>
+		<string>{{0.6069223901043671, 0.060206872209919812}, {0.089162753187685656, 0.15781491138687984}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;longs planés avec les ailes tenues raides&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.72737686139748048</real>
+		<key>Frame</key>
+		<string>{{0.60191982195965343, 0.24240227277623277}, {0.086957513021157506, 0.047449505703350284}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;(forme pâle)&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.38207507294791276</real>
+		<key>Frame</key>
+		<string>{{0.64023380663093055, 0.41550746646284037}, {0.04268089884673034, 0.090332175472933651}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;cou épais&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.25502008032128526</real>
+		<key>Frame</key>
+		<string>{{0.50587269365783927, 0.51497206604718315}, {0.059711432564160588, 0.13533707812295787}}</string>
+		<key>Text</key>
+		<string>&lt;p class="right"&gt;tache pâle diffuse&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>EndPoint</key>
+		<string>{0.60546570660528254, 0.59438068899402707}</string>
+		<key>StartPoint</key>
+		<string>{0.57186734061688005, 0.59438068899402707}</string>
+		<key>Type</key>
+		<string>line</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.31984629822964739</real>
+		<key>Frame</key>
+		<string>{{0.79756001480459571, 0.82512419502824974}, {0.083143488096346765, 0.10790705637175829}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;gris cendré chez les ind. sombres&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.24405459104959809</real>
+		<key>Frame</key>
+		<string>{{0.38036462348693367, 0.83255889697666619}, {0.076001699754227048, 0.14141783764416349}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;porté par les vents ascendants&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.57199048078992887</real>
+		<key>Frame</key>
+		<string>{{0.042180999681926679, 0.48551554029469352}, {0.20334679968024466, 0.060339592515072621}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;niche dans les anfractuosités des falaises&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+</array>
+</plist>

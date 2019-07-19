@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>EndPoint</key>
+		<string>{0.49952929085127451, 0.73806955854520895}</string>
+		<key>StartPoint</key>
+		<string>{0.56336851774260377, 0.65311054458451778}</string>
+		<key>Type</key>
+		<string>line</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.8686797184863646</real>
+		<key>Frame</key>
+		<string>{{0.39684398273934768, 0.73280634492099406}, {0.16889385817346114, 0.054192728249404833}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;grey-green&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.31949685534594291</real>
+		<key>Frame</key>
+		<string>{{0.28208249596602175, 0.55413948091081711}, {0.19497601425830741, 0.14734456108723901}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;often well-&lt;/p&gt;&lt;p&gt;marked pale panel&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>EndPoint</key>
+		<string>{0.36109323163170243, 0.58194034149331053}</string>
+		<key>StartPoint</key>
+		<string>{0.42493245852302991, 0.50810167176562704}</string>
+		<key>Type</key>
+		<string>line</string>
+	</dict>
+	<dict>
+		<key>EndPoint</key>
+		<string>{0.70997988537509948, 0.48903971254898199}</string>
+		<key>StartPoint</key>
+		<string>{0.80190758805011098, 0.41520104282129855}</string>
+		<key>Type</key>
+		<string>line</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.39585582243936579</real>
+		<key>Frame</key>
+		<string>{{0.7574848025384554, 0.32656205216188039}, {0.11686326852347463, 0.11892239863899393}}</string>
+		<key>Text</key>
+		<string>&lt;p class="right"&gt;light yellow&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>EndPoint</key>
+		<string>{0.82017743919340258, 0.84493648260375753}</string>
+		<key>StartPoint</key>
+		<string>{0.86424763511732661, 0.89748218572674987}</string>
+		<key>Type</key>
+		<string>line</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.39585582243936579</real>
+		<key>Frame</key>
+		<string>{{0.68791596574285729, 0.88107760136100588}, {0.31208403425713949, 0.11892239863899393}}</string>
+		<key>Text</key>
+		<string>&lt;p class="right"&gt;pale lores and short supercilium&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.70702853166330515</real>
+		<key>Frame</key>
+		<string>{{0.65766554358781637, 0.1994004998780976}, {0.15043108143019876, 0.066583061095077889}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;&lt;b&gt;summer&lt;/b&gt;&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>EndPoint</key>
+		<string>{0.44499565551137282, 0.17159963929561881}</string>
+		<key>StartPoint</key>
+		<string>{0.52716389316473244, 0.17188712284469024}</string>
+		<key>Type</key>
+		<string>line</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.44561403508774444</real>
+		<key>Frame</key>
+		<string>{{0.31837459007382579, 0.13601453775000238}, {0.14044237891840691, 0.10564327021349641}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;lead-grey&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+</array>
+</plist>

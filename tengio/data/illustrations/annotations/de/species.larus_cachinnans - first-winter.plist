@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>FontScale</key>
+		<real>0.42244979476891104</real>
+		<key>Frame</key>
+		<string>{{0.52449353937806953, 0.034644213959080135}, {0.21655031594764548, 0.079126444502104584}}</string>
+		<key>Text</key>
+		<string>&lt;p class="right"&gt;Mittelmeermöwe&lt;b&gt;1er W&lt;/b&gt;&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.34278002699044785</real>
+		<key>Frame</key>
+		<string>{{0.032188491365614087, 0.05846420605973953}, {0.2608833262243746, 0.097517205229811166}}</string>
+		<key>Text</key>
+		<string>&lt;p class="right"&gt;Steppenmöwe&lt;b&gt;1er W&lt;/b&gt;&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.17104377104377355</real>
+		<key>Frame</key>
+		<string>{{0, 0.25139298185846504}, {0.31495827627367196, 0.19542921695846543}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;ad. mit Silbermöwe; typische Gestalt durch langen Schnabel, langen Hals und lange Beine&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.36705202312136903</real>
+		<key>Frame</key>
+		<string>{{0.4975623714167054, 0.24704946835747149}, {0.25465578612036893, 0.091068699080987733}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;vgl. mit Mittelmeermöwe&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.41412430806561684</real>
+		<key>Frame</key>
+		<string>{{0.33909332656856933, 0.90987287845395404}, {0.14679753404244811, 0.080717189475898385}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;&lt;b&gt;1er W&lt;/b&gt;&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>EndPoint</key>
+		<string>{0.40428520781538163, 0.71225148620111878}</string>
+		<key>StartPoint</key>
+		<string>{0.46180979758699697, 0.74386890665516558}</string>
+		<key>Type</key>
+		<string>line</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.27711188323648506</real>
+		<key>Frame</key>
+		<string>{{0.30608993668736934, 0.6072981165622332}, {0.12695756601382113, 0.12062618842000876}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;Flügelstreifen diffus&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>EndPoint</key>
+		<string>{0.4837378130849409, 0.70553977571970916}</string>
+		<key>StartPoint</key>
+		<string>{0.44014074250112989, 0.68461503127769274}</string>
+		<key>Type</key>
+		<string>line</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.32104302942268925</real>
+		<key>Frame</key>
+		<string>{{0.57122360227323099, 0.71188804729973276}, {0.14679753404244869, 0.10411984431126636}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;Unterflügel hell&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>EndPoint</key>
+		<string>{0.58355976234369855, 0.65985105316539494}</string>
+		<key>StartPoint</key>
+		<string>{0.59705241136891118, 0.74380461246054397}</string>
+		<key>Type</key>
+		<string>line</string>
+	</dict>
+</array>
+</plist>

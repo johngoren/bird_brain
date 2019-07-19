@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>EndPoint</key>
+		<string>{0.71799549526478668, 0.80429004433517881}</string>
+		<key>StartPoint</key>
+		<string>{0.67735910113805076, 0.82654926520514338}</string>
+		<key>Type</key>
+		<string>line</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.35627653617618171</real>
+		<key>Frame</key>
+		<string>{{0.51373022976146365, 0.73466938810086735}, {0.18828921121814773, 0.10850770534388718}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;einfarbig&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.39839086520576239</real>
+		<key>Frame</key>
+		<string>{{0.091505937938949608, 0.47097248053881002}, {0.18758088549162935, 0.097037238512934457}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;tief gegabelt&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.24901960784313704</real>
+		<key>Frame</key>
+		<string>{{0.097211671612226505, 0.10949795359069472}, {0.26246374897075186, 0.15524379683666473}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;etwas kleiner und blasser als Mauersegler&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.26205829249419865</real>
+		<key>Frame</key>
+		<string>{{0.66968695016437374, 0.30927921714239071}, {0.24996812030502094, 0.14751965694503524}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;Kehlfleck klein und diffus&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>EndPoint</key>
+		<string>{0.65392587106962619, 0.43979019477802755}</string>
+		<key>StartPoint</key>
+		<string>{0.59965424654080801, 0.46912740952160076}</string>
+		<key>Type</key>
+		<string>line</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.15011820330969258</real>
+		<key>Frame</key>
+		<string>{{0.56000337927972599, 0.017264874293615853}, {0.39559753468055397, 0.25752206298787905}}</string>
+		<key>Text</key>
+		<string>&lt;p class="right"&gt;an agilerer und erratischerer Flugweise und deutlich schnelleren Flügelschlägen am besten bestimmbar&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>EndPoint</key>
+		<string>{0.16432268306877876, 0.44748188758561758}</string>
+		<key>StartPoint</key>
+		<string>{0.15047405416511184, 0.48526232552908555}</string>
+		<key>Type</key>
+		<string>line</string>
+	</dict>
+</array>
+</plist>

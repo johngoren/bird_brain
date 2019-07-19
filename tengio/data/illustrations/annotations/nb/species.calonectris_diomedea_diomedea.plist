@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>EndPoint</key>
+		<string>{0.70712209611025767, 0.46730973184564256}</string>
+		<key>StartPoint</key>
+		<string>{0.67169878393491322, 0.49400444697759704}</string>
+		<key>Type</key>
+		<string>line</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.15825545171339586</real>
+		<key>Frame</key>
+		<string>{{0.01119506066845658, 0.70654734468002822}, {0.37863165235955232, 0.2171494379341708}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;﻿enkelte &lt;i&gt;diomedea&lt;/i&gt; har mer mørkt i hånden enn vist her&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.12862382723597521</real>
+		<key>Frame</key>
+		<string>{{0.6427900598670897, 0.029934049285141061}, {0.28810764262758121, 0.26717508822479302}}</string>
+		<key>Text</key>
+		<string>&lt;p class="right"&gt;&lt;i&gt;﻿diomedea&lt;/i&gt; er litt mindre enn &lt;i&gt;borea-lis&lt;/i&gt;, men vanskelig å vurdere i felt&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>EndPoint</key>
+		<string>{0.20805628423858777, 0.71346015174719035}</string>
+		<key>StartPoint</key>
+		<string>{0.15685912712226407, 0.74766416378637979}</string>
+		<key>Type</key>
+		<string>line</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.11460025266197463</real>
+		<key>Frame</key>
+		<string>{{0.029803743025285392, 0.047082868785727927}, {0.48543904627791401, 0.29986916774909389}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;﻿beste bestem-melseskarakter er mer hvitt i hånden og smalere svart bakkant hos &lt;i&gt;diomedea&lt;/i&gt;&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.23167768047129489</real>
+		<key>Frame</key>
+		<string>{{0.59506053661881209, 0.32054899799704029}, {0.32478079827500844, 0.1483314332208194}}</string>
+		<key>Text</key>
+		<string>&lt;p class="right"&gt;﻿som regel mindre kraftig nebb enn &lt;i&gt;borealis&lt;/i&gt;&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>EndPoint</key>
+		<string>{0.45317048574122165, 0.23324961432929106}</string>
+		<key>StartPoint</key>
+		<string>{0.524576193163384, 0.19401389034118749}</string>
+		<key>Type</key>
+		<string>line</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.23849765258215988</real>
+		<key>Frame</key>
+		<string>{{0.52946229195836769, 0.59492847471386545}, {0.38697286602979813, 0.14408981395631898}}</string>
+		<key>Text</key>
+		<string>&lt;p class="right"&gt;﻿hånden kan fortone seg svært lys i skarpt sollys&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>EndPoint</key>
+		<string>{0.62214761812035413, 0.75022048409903708}</string>
+		<key>StartPoint</key>
+		<string>{0.57049073256946792, 0.79438151074985619}</string>
+		<key>Type</key>
+		<string>line</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.75370919881305565</real>
+		<key>Frame</key>
+		<string>{{0.68148734647007037, 0.76743036466157311}, {0.27364509812107063, 0.045594617186178021}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;﻿&lt;i&gt;borealis&lt;/i&gt;&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+</array>
+</plist>

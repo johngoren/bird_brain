@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>FontScale</key>
+		<real>0.24892809016292941</real>
+		<key>Frame</key>
+		<string>{{0.68762239708769413, 0.28543229568194101}, {0.11133932481180452, 0.18213973897085037}}</string>
+		<key>Text</key>
+		<string>&lt;p class="right"&gt;iris pâle (sombre chez le juv.)&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>EndPoint</key>
+		<string>{0.54588589995665204, 0.49683853490744773}</string>
+		<key>StartPoint</key>
+		<string>{0.52346619405202477, 0.5360852863576403}</string>
+		<key>Type</key>
+		<string>line</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.78912621359223234</real>
+		<key>Frame</key>
+		<string>{{0.38568524505566709, 0.52286326008091255}, {0.16917395399866675, 0.057455571217682029}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;discrètement strié&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.3569922698524251</real>
+		<key>Frame</key>
+		<string>{{0.20856675497972843, 0.087294248142902889}, {0.26015120688473636, 0.12700470344506612}}</string>
+		<key>Text</key>
+		<string>&lt;p class="center"&gt;aspect général terne et sans caractéristiques remarquables&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.38484848484848394</real>
+		<key>Frame</key>
+		<string>{{0.43461523888942144, 0.8498579770498943}, {0.55400075663019144, 0.1178118120502375}}</string>
+		<key>Text</key>
+		<string>&lt;p class="center"&gt;l’équivalent de la mangouste chez les oiseaux: donne immédiatement l’alarme dès qu’il repère un serpent p. ex.&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+</array>
+</plist>

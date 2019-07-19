@@ -1,0 +1,442 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>FontScale</key>
+		<real>0.5181558547530688</real>
+		<key>Frame</key>
+		<string>{{0.41345594651059775, 0.29906451667472972}, {0.082722213391300523, 0.042798357937456392}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;Iris dunkel&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.3636884306987066</real>
+		<key>Frame</key>
+		<string>{{0.39931273909987497, 0.19405638870943206}, {0.098209020464556998, 0.060975873487386603}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;scharf abge-setzter Kragen kennzeichnend&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.40418061163236269</real>
+		<key>Frame</key>
+		<string>{{0.33827329440826143, 0.10992471336270201}, {0.041298152195352322, 0.054867104212514034}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;&lt;b&gt;ad. &lt;/b&gt;♂&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>EndPoint</key>
+		<string>{0.39607508996964091, 0.23359655386352163}</string>
+		<key>StartPoint</key>
+		<string>{0.37967622586858196, 0.24759614615537537}</string>
+		<key>Type</key>
+		<string>line</string>
+	</dict>
+	<dict>
+		<key>EndPoint</key>
+		<string>{0.40968242061681687, 0.33033316652344108}</string>
+		<key>StartPoint</key>
+		<string>{0.39945032890482218, 0.31686687014576986}</string>
+		<key>Type</key>
+		<string>line</string>
+	</dict>
+	<dict>
+		<key>EndPoint</key>
+		<string>{0.44644410466664264, 0.13756226756682635}</string>
+		<key>StartPoint</key>
+		<string>{0.46533045475597962, 0.16165926224396984}</string>
+		<key>Type</key>
+		<string>line</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.37786558833930406</real>
+		<key>Frame</key>
+		<string>{{0.42818270306410744, 0.03146593309466434}, {0.053268700284279248, 0.058688116683431331}}</string>
+		<key>Text</key>
+		<string>&lt;p class="right"&gt;&lt;b&gt;ad. &lt;/b&gt;♀&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.53361344537823074</real>
+		<key>Frame</key>
+		<string>{{0.46860408877146514, 0.13090940164509579}, {0.067864951321021369, 0.041558585022893814}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;Iris hell&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.40418061163236269</real>
+		<key>Frame</key>
+		<string>{{0.90129036931819606, 0.035286945565581623}, {0.041298152195352322, 0.054867104212514034}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;&lt;b&gt;ad. &lt;/b&gt;♂&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>EndPoint</key>
+		<string>{0.54630047646837732, 0.33736409669715411}</string>
+		<key>StartPoint</key>
+		<string>{0.56188022285773298, 0.3603190748280829}</string>
+		<key>Type</key>
+		<string>line</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.24901960784312768</real>
+		<key>Frame</key>
+		<string>{{0.85094321655345573, 0.24811999180375921}, {0.091645304960094959, 0.089054110763360561}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;Fehlen des dunklen Bugflecks typisch!&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.46725533480502052</real>
+		<key>Frame</key>
+		<string>{{0.87957106671545904, 0.15615886128507012}, {0.043816332207263838, 0.04746060255976392}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;Kragen&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.46725533480502052</real>
+		<key>Frame</key>
+		<string>{{0.50154853320150894, 0.070126999324587491}, {0.091645304960094709, 0.04746060255976392}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;Schwanz relativ kurz&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.25456002759675361</real>
+		<key>Frame</key>
+		<string>{{0.49617815990189745, 0.24783220906925496}, {0.066228134313278078, 0.087115875766008585}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;breiter, voller Handflügel&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>EndPoint</key>
+		<string>{0.87327561668567832, 0.19431243619053684}</string>
+		<key>StartPoint</key>
+		<string>{0.8562779016052755, 0.20409092678415786}</string>
+		<key>Type</key>
+		<string>line</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.20654895271031576</real>
+		<key>Frame</key>
+		<string>{{0.65337609425007248, 0.2414761431006486}, {0.091645304960094959, 0.10736544266197556}}</string>
+		<key>Text</key>
+		<string>&lt;p class="right"&gt;dunkle Bänder gleichmäßiger verteilt (vgl. Wespenbussard-♂)&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.24547420810286599</real>
+		<key>Frame</key>
+		<string>{{0.73482032558944621, 0.039920210456233708}, {0.076130335801418467, 0.090340324999918342}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;Schwanzmuster einzigartig&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>EndPoint</key>
+		<string>{0.54717130514311119, 0.12289453167639439}</string>
+		<key>StartPoint</key>
+		<string>{0.54717130514311119, 0.15764309646445471}</string>
+		<key>Type</key>
+		<string>line</string>
+	</dict>
+	<dict>
+		<key>EndPoint</key>
+		<string>{0.8319320509071737, 0.31493710229902855}</string>
+		<key>StartPoint</key>
+		<string>{0.84624285878920846, 0.31493710229902855}</string>
+		<key>Type</key>
+		<string>line</string>
+	</dict>
+	<dict>
+		<key>EndPoint</key>
+		<string>{0.78287295425804915, 0.29384350116134511}</string>
+		<key>StartPoint</key>
+		<string>{0.74862570609604817, 0.29384350116134511}</string>
+		<key>Type</key>
+		<string>line</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.23226042428676141</real>
+		<key>Frame</key>
+		<string>{{0.19462610347546899, 0.53830576600195512}, {0.051874508245381631, 0.095479976010594603}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;Kragen kann fehlen&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.23226042428676141</real>
+		<key>Frame</key>
+		<string>{{0.26236514579589448, 0.32817298778111104}, {0.064717226306131234, 0.095479976010594603}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;&lt;b&gt;JK&lt;/b&gt;ähnlich Zwerg­adler&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.18407067297445029</real>
+		<key>Frame</key>
+		<string>{{0.34785735720029848, 0.56720869357077486}, {0.070131313331741357, 0.12047665921332644}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;meist 5-6 Bänder (bei Wespenbussard 4)&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.26474880133414208</real>
+		<key>Frame</key>
+		<string>{{0.42121900234373683, 0.33929602083134475}, {0.08742414861712472, 0.083763248888600927}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;&lt;b&gt;JK&lt;/b&gt;ähnlich Schelladler&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.2263814616756426</real>
+		<key>Frame</key>
+		<string>{{0.10019435302877967, 0.32817298778111093}, {0.070634949334123814, 0.09795952183966547}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;&lt;b&gt;JK&lt;/b&gt;ähnlich Schlangenadler&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>EndPoint</key>
+		<string>{0.19000523400973873, 0.54789414051275331}</string>
+		<key>StartPoint</key>
+		<string>{0.19968751818305866, 0.56704957721475979}</string>
+		<key>Type</key>
+		<string>line</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.45667026249549308</real>
+		<key>Frame</key>
+		<string>{{0.23894607168511553, 0.43055029197826761}, {0.055777687263844654, 0.048560682751549566}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;ohne Bugfleck&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.30951499278733374</real>
+		<key>Frame</key>
+		<string>{{0.18673196392828059, 0.6506263341925751}, {0.054820069279008905, 0.071648289278017877}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;6 Finger sichtbar&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>EndPoint</key>
+		<string>{0.23428743866307886, 0.44663241668671838}</string>
+		<key>StartPoint</key>
+		<string>{0.2141419985677849, 0.44663241668671838}</string>
+		<key>Type</key>
+		<string>line</string>
+	</dict>
+	<dict>
+		<key>EndPoint</key>
+		<string>{0.2556919687643287, 0.70225482045703136}</string>
+		<key>StartPoint</key>
+		<string>{0.235546528669035, 0.70225482045703136}</string>
+		<key>Type</key>
+		<string>line</string>
+	</dict>
+	<dict>
+		<key>EndPoint</key>
+		<string>{0.43158684259636154, 0.6305029630275325}</string>
+		<key>StartPoint</key>
+		<string>{0.4099304944939221, 0.6305029630275325}</string>
+		<key>Type</key>
+		<string>line</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.37786558833930406</real>
+		<key>Frame</key>
+		<string>{{0.88032652071903217, 0.40418357902483854}, {0.053268700284279248, 0.058688116683431331}}</string>
+		<key>Text</key>
+		<string>&lt;p class="right"&gt;&lt;b&gt;ad. &lt;/b&gt;♀&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>EndPoint</key>
+		<string>{0.56668720023542618, 0.5498304156301359}</string>
+		<key>StartPoint</key>
+		<string>{0.55812538819492596, 0.5741020262107398}</string>
+		<key>Type</key>
+		<string>line</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.31849529780568581</real>
+		<key>Frame</key>
+		<string>{{0.54142264482404912, 0.68156283589732336}, {0.036427302756049933, 0.069628091503693826}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;6. „Fin-ger“&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.20700896495517834</real>
+		<key>Frame</key>
+		<string>{{0.50864315096086132, 0.56196622092044157}, {0.072598363796994303, 0.10712685677121331}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;Schwanzmuster wie Wespenbussard-♂&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.19126506024095213</real>
+		<key>Frame</key>
+		<string>{{0.68034351105152702, 0.58301180268466113}, {0.069604239550775673, 0.11594495989582895}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;bei ♀ unregelmäßig gesprenkelt/gebändert&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.37786558833930406</real>
+		<key>Frame</key>
+		<string>{{0.69184074682743946, 0.40492555238020467}, {0.053268700284279248, 0.058688116683431331}}</string>
+		<key>Text</key>
+		<string>&lt;p class="right"&gt;&lt;b&gt;ad. &lt;/b&gt;♀&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>EndPoint</key>
+		<string>{0.57852264629141192, 0.69982547670018513}</string>
+		<key>StartPoint</key>
+		<string>{0.56668720023542618, 0.69196776104458901}</string>
+		<key>Type</key>
+		<string>line</string>
+	</dict>
+	<dict>
+		<key>EndPoint</key>
+		<string>{0.76247569616156319, 0.68184003864405396}</string>
+		<key>StartPoint</key>
+		<string>{0.73452389802934281, 0.68184003864405396}</string>
+		<key>Type</key>
+		<string>line</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.40418061163236269</real>
+		<key>Frame</key>
+		<string>{{0.82373042495131599, 0.78585592322807707}, {0.1359509017896085, 0.054867104212514034}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;vermittelt schweren, adlerartigen Eindruck&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.40418061163236269</real>
+		<key>Frame</key>
+		<string>{{0.61352534845698359, 0.85891663266729412}, {0.041298152195352322, 0.054867104212514034}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;&lt;b&gt;ad. &lt;/b&gt;♂&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.38333836402053523</real>
+		<key>Frame</key>
+		<string>{{0.73150208201504763, 0.85898787270175414}, {0.070634949334123814, 0.057850248815489121}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;Muster einzigartig&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>EndPoint</key>
+		<string>{0.74018980305614568, 0.84650283560453887}</string>
+		<key>StartPoint</key>
+		<string>{0.74018980305614568, 0.87147290979896663}</string>
+		<key>Type</key>
+		<string>line</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.39013858682710778</real>
+		<key>Frame</key>
+		<string>{{0.45765000571964759, 0.85653882355156319}, {0.027951798132220266, 0.056841903077221201}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;&lt;b&gt;JK&lt;/b&gt;&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>EndPoint</key>
+		<string>{0.53520995008653027, 0.69685700634139613}</string>
+		<key>StartPoint</key>
+		<string>{0.52828495505377149, 0.72217631234275226}</string>
+		<key>Type</key>
+		<string>line</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.31849529780568581</real>
+		<key>Frame</key>
+		<string>{{0.54142264482404912, 0.68156283589732336}, {0.036427302756049933, 0.069628091503693826}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;6. „Fin-ger“&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.34639130794047135</real>
+		<key>Frame</key>
+		<string>{{0.19985119042055774, 0.75384556495586752}, {0.23872346512923201, 0.064020716544427744}}</string>
+		<key>Text</key>
+		<string>&lt;p class="center"&gt;auf dem Zug im Nahen Osten gerne mit Wespenbussarden vergesellschaftet&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+</array>
+</plist>

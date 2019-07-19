@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>FontScale</key>
+		<real>0.42681600442413065</real>
+		<key>Frame</key>
+		<string>{{0.20215859252889296, 0.11258419772876675}, {0.079777539431396344, 0.095418543884347243}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;très grande et robuste&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>EndPoint</key>
+		<string>{0.87498712022384328, 0.72261193060905204}</string>
+		<key>StartPoint</key>
+		<string>{0.85954132574052911, 0.68788084111496395}</string>
+		<key>Type</key>
+		<string>line</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.14843089411253113</real>
+		<key>Frame</key>
+		<string>{{0.77631522650497742, 0.54417775719411343}, {0.16910117910512976, 0.2743779311725334}}</string>
+		<key>Text</key>
+		<string>&lt;p class="right"&gt;la largeur du trait noir est bien visible lorsque l’oiseau est vu de 3/4 dos&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.25753397024333075</real>
+		<key>Frame</key>
+		<string>{{0.6827718616610996, 0.48741774377184949}, {0.060528438850182456, 0.15813898884953151}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;long et fort&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.20566140703431821</real>
+		<key>Frame</key>
+		<string>{{0.6227244463781707, 0.1564770589544624}, {0.14526812701648756, 0.1980252991359229}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;la taille supérieure n’est pas toujours évidente en l’absence d’une comparaison directe avec la S. de Neumayer&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.25753397024333075</real>
+		<key>Frame</key>
+		<string>{{0.6827718616610996, 0.48741774377184949}, {0.060528438850182456, 0.15813898884953151}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;long et fort&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>EndPoint</key>
+		<string>{0.69594806178299273, 0.65430695519288273}</string>
+		<key>StartPoint</key>
+		<string>{0.69463182285161729, 0.71603631718912197}</string>
+		<key>Type</key>
+		<string>line</string>
+	</dict>
+	<dict>
+		<key>EndPoint</key>
+		<string>{0.52245105490265209, 0.72644947349528433}</string>
+		<key>StartPoint</key>
+		<string>{0.54778619324552669, 0.68397373414468821}</string>
+		<key>Type</key>
+		<string>line</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.32564121462874446</real>
+		<key>Frame</key>
+		<string>{{0.42522978363588904, 0.6851055678664304}, {0.13923609097004291, 0.12506451830772267}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;trait sourcilier noir&lt;i&gt; large&lt;/i&gt; en arrière de l’œil&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>EndPoint</key>
+		<string>{0.46705055381544686, 0.57590091577785818}</string>
+		<key>StartPoint</key>
+		<string>{0.49238569215832412, 0.53342517642726262}</string>
+		<key>Type</key>
+		<string>line</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.32564102564103625</real>
+		<key>Frame</key>
+		<string>{{0.36982928254868641, 0.58073463266482217}, {0.13711271860120403, 0.12506459088966054}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;habituellement un peu plus pâle que chez la Sittelle de Neumayer&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+</array>
+</plist>

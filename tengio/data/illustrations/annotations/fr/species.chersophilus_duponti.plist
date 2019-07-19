@@ -1,0 +1,158 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>FontScale</key>
+		<real>0.18005417890026748</real>
+		<key>Frame</key>
+		<string>{{0.0070639898997839814, 0.074740678074923905}, {0.12390294658596235, 0.2694082631817889}}</string>
+		<key>Text</key>
+		<string>&lt;p class="center"&gt;habitat typique : plaines sableuses arides à végétation en touffes&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>EndPoint</key>
+		<string>{0.25629703142414156, 0.63651700687662072}</string>
+		<key>StartPoint</key>
+		<string>{0.2467982629752298, 0.68174102383150992}</string>
+		<key>Type</key>
+		<string>line</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.43933374151423354</real>
+		<key>Frame</key>
+		<string>{{0.23353099126327836, 0.66903146184904938}, {0.053376274861540174, 0.11041283432716402}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;pointes pâles&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.37031637594435252</real>
+		<key>Frame</key>
+		<string>{{0.15161724785894387, 0.097657717802123026}, {0.0592984783369448, 0.13099092226867515}}</string>
+		<key>Text</key>
+		<string>&lt;p class="right"&gt;assez courtes&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>EndPoint</key>
+		<string>{0.21189503120528924, 0.20282738922461521}</string>
+		<key>StartPoint</key>
+		<string>{0.24341643756484119, 0.22311165314717507}</string>
+		<key>Type</key>
+		<string>line</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.21166600635875452</real>
+		<key>Frame</key>
+		<string>{{0.30616083452804888, 0.1263032544595892}, {0.10462011717291231, 0.22917276349952675}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;&lt;b&gt;&lt;i&gt;duponti&lt;/i&gt;&lt;/b&gt;&lt;/p&gt;&lt;p&gt;(Espagne, côtes d’Afrique du N-O)&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.21860441327228408</real>
+		<key>Frame</key>
+		<string>{{0.34297853965004127, 0.57120786707492699}, {0.062309445210388864, 0.2218989218471295}}</string>
+		<key>Text</key>
+		<string>&lt;p class="right"&gt;tend souvent le cou&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>EndPoint</key>
+		<string>{0.37257968868360336, 0.76801796258550215}</string>
+		<key>StartPoint</key>
+		<string>{0.34928112852900428, 0.76013251697791495}</string>
+		<key>Type</key>
+		<string>line</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.2043478803148035</real>
+		<key>Frame</key>
+		<string>{{0.43625776959289164, 0.46283890158665481}, {0.16362261454798943, 0.23737992065988714}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;attention à la confusion avec le Cochevis huppé muant sa huppe&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.59929039101649662</real>
+		<key>Frame</key>
+		<string>{{0.50406643745556856, 0.90699987766718992}, {0.12870718314307109, 0.08094253527720735}}</string>
+		<key>Text</key>
+		<string>&lt;p class="center"&gt;COCHEVIS HUPPÉ&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.11703351748794151</real>
+		<key>Frame</key>
+		<string>{{0.73422270682209811, 0.069580180654087595}, {0.099548927166068918, 0.4144802673400137}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;extrêmement farouche, court vite se mettre à couvert ; se tient redressé et surveille par-dessus son épaule&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.63856779553670362</real>
+		<key>Frame</key>
+		<string>{{0.6954134124426361, 0.91121826102141812}, {0.14865397267614641, 0.075963874086970029}}</string>
+		<key>Text</key>
+		<string>&lt;p class="right"&gt;ailes sombres unies&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.40016934249519659</real>
+		<key>Frame</key>
+		<string>{{0.68242795775114806, 0.47579146391209798}, {0.074488549994074157, 0.1212188902670035}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;plumage roux&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.68618335636805294</real>
+		<key>Frame</key>
+		<string>{{0.71497813671030919, 0.60361299927325407}, {0.048360082943353207, 0.070692597198649551}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;long&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>EndPoint</key>
+		<string>{0.7305718270521081, 0.68482267417654807}</string>
+		<key>StartPoint</key>
+		<string>{0.72821456422212494, 0.73109695602878255}</string>
+		<key>Type</key>
+		<string>line</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.20990910003267052</real>
+		<key>Frame</key>
+		<string>{{0.61341584725667964, 0.092213912233285747}, {0.11505143648428874, 0.23109090367494456}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;&lt;b&gt;&lt;i&gt;margaritae&lt;/i&gt;&lt;/b&gt;&lt;/p&gt;&lt;p&gt;(S Algérie, Libye, &lt;/p&gt;&lt;p&gt;N-O Égypte)&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+</array>
+</plist>

@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>EndPoint</key>
+		<string>{0.81427941632917333, 0.32635891714455179}</string>
+		<key>StartPoint</key>
+		<string>{0.85402116112091875, 0.37310659731091711}</string>
+		<key>Type</key>
+		<string>line</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.56118899516383403</real>
+		<key>Frame</key>
+		<string>{{0.86240083200528117, 0.34867469508702548}, {0.062217738300333128, 0.0548796764458769}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;vit&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>EndPoint</key>
+		<string>{0.88517529035694209, 0.31049625121068508}</string>
+		<key>StartPoint</key>
+		<string>{0.91331797564911044, 0.34537437374182928}</string>
+		<key>Type</key>
+		<string>line</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.52070184929965679</real>
+		<key>Frame</key>
+		<string>{{0.9190632884342842, 0.3115544461918634}, {0.075062457928324125, 0.05914684290251912}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;ljus&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.48093276888984626</real>
+		<key>Frame</key>
+		<string>{{0.82392857248222329, 0.1696889742891817}, {0.070589982621710817, 0.064037787549119971}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;vit&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>EndPoint</key>
+		<string>{0.77028423004300295, 0.21199649944104601}</string>
+		<key>StartPoint</key>
+		<string>{0.81685944279677891, 0.21434353133806502}</string>
+		<key>Type</key>
+		<string>line</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.45596650514516268</real>
+		<key>Frame</key>
+		<string>{{0.84257168621063028, 0.038364443097009371}, {0.11904087323124969, 0.067544151011208808}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;&lt;b&gt;vinter&lt;/b&gt;&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.15011820330969447</real>
+		<key>Frame</key>
+		<string>{{0.1027085896074952, 0.59477765264772919}, {0.19281088043999436, 0.2051574679190761}}</string>
+		<key>Text</key>
+		<string>&lt;p class="right"&gt;ser mycket lång-&lt;/p&gt;&lt;p class="right"&gt;halsad ut, är &lt;/p&gt;&lt;p class="right"&gt;gänglig och slank; gråhakedopping är kompaktare och kraftfullare&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.64650291013120265</real>
+		<key>Frame</key>
+		<string>{{0.41732481393928561, 0.59259512638935108}, {0.12804985812552169, 0.047637636268841863}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;&lt;b&gt;ad. vinter&lt;/b&gt;&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.35926449787838732</real>
+		<key>Frame</key>
+		<string>{{0.64185755629404562, 0.6087215703806298}, {0.24507822204735191, 0.085724781216771406}}</string>
+		<key>Text</key>
+		<string>&lt;p class="right"&gt;lång, smal, över-&lt;/p&gt;&lt;p class="right"&gt;vägande ljus hals och vitlysande ”ansikte”&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.37484334794728191</real>
+		<key>Frame</key>
+		<string>{{0.64185755629404562, 0.85418103461202743}, {0.23920808499232538, 0.082161976858421956}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;flyger ofta med lätt böjd, nästan ”ormig” hals&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+</array>
+</plist>

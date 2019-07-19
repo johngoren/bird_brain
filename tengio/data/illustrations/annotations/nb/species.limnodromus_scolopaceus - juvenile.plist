@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>EndPoint</key>
+		<string>{0.10901472342947306, 0.65829505738989413}</string>
+		<key>StartPoint</key>
+		<string>{0.12389819927124587, 0.56140954231985929}</string>
+		<key>Type</key>
+		<string>line</string>
+	</dict>
+	<dict>
+		<key>EndPoint</key>
+		<string>{0.62361495244453491, 0.35964183675854156}</string>
+		<key>StartPoint</key>
+		<string>{0.59321858267041827, 0.40192299009709298}</string>
+		<key>Type</key>
+		<string>line</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.70814768924891192</real>
+		<key>Frame</key>
+		<string>{{0.13444782733019509, 0.079707920921461076}, {0.1226804656626764, 0.097006004022880343}}</string>
+		<key>Text</key>
+		<string>&lt;p class="right"&gt;&lt;b&gt;juv.&lt;/b&gt;&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.22096720355241484</real>
+		<key>Frame</key>
+		<string>{{0.71224604073339093, 0.071792351380033495}, {0.24937401208720517, 0.31088132758026493}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;ganske langt, grågrønt, svakt nedbøyd ytterdel&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>EndPoint</key>
+		<string>{0.71601832658295361, 0.8777007396636286}</string>
+		<key>StartPoint</key>
+		<string>{0.68020467218974856, 0.83776985370011636}</string>
+		<key>Type</key>
+		<string>line</string>
+	</dict>
+	<dict>
+		<key>EndPoint</key>
+		<string>{0.77016360180771437, 0.39944592883051283}</string>
+		<key>StartPoint</key>
+		<string>{0.81929744304079066, 0.51194507426985636}</string>
+		<key>Type</key>
+		<string>line</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.36414332720122289</real>
+		<key>Frame</key>
+		<string>{{0.030961704869066031, 0.6126844651081057}, {0.41393784167766745, 0.18864708608023797}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;﻿ganske jevnt mørke tertiærer med lyse kanter&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.27377345281812443</real>
+		<key>Frame</key>
+		<string>{{0.54663139910894165, 0.091679752605803536}, {0.12559673207659741, 0.25091759951506015}}</string>
+		<key>Text</key>
+		<string>&lt;p class="right"&gt;﻿kaldt rustbeige&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.35976076699484721</real>
+		<key>Frame</key>
+		<string>{{0.72678405056623352, 0.71910772672924439}, {0.13206771741330856, 0.1909451610465831}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;﻿bredt, tydelig&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+</array>
+</plist>

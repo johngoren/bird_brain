@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>FontScale</key>
+		<real>0.7273768613974726</real>
+		<key>Frame</key>
+		<string>{{0.23636297530901854, 0.010172272306026018}, {0.47765564959432411, 0.046903218332164785}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;étroite barre alaire&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>EndPoint</key>
+		<string>{0.42245563778395839, 0.10397870897035694}</string>
+		<key>StartPoint</key>
+		<string>{0.36133207455600214, 0.057075490638190694}</string>
+		<key>Type</key>
+		<string>line</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.36629070300361172</real>
+		<key>Frame</key>
+		<string>{{0.26392196775606719, 0.17822356294413835}, {0.42484718311177549, 0.093139999077601551}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;face pâle, faisant ressortir l’œil sombre&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.27014858043390977</real>
+		<key>Frame</key>
+		<string>{{0.18028511433795291, 0.77618818206403351}, {0.17143598526717591, 0.12628722936501519}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;pointe de l’aile arrondie&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.20903536126241179</real>
+		<key>Frame</key>
+		<string>{{0.43634513201357628, 0.82094234113699094}, {0.32237726631787922, 0.16320834682636601}}</string>
+		<key>Text</key>
+		<string>&lt;p class="right"&gt;tête ronde et bec fin donnant un aspect « gentil »&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.16163930253277323</real>
+		<key>Frame</key>
+		<string>{{0.25259009021238682, 0.38245366253681023}, {0.37879328792350841, 0.21106448249473952}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;dessous des ailes très blanc et bord de fuite sombre des primaires étroit&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>EndPoint</key>
+		<string>{0.72044009795620523, 0.47666304781223884}</string>
+		<key>StartPoint</key>
+		<string>{0.64186063929122095, 0.47666304781223884}</string>
+		<key>Type</key>
+		<string>line</string>
+	</dict>
+</array>
+</plist>

@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>FontScale</key>
+		<real>0.57044705445429633</real>
+		<key>Frame</key>
+		<string>{{0.71447298194230446, 0.012095733051345835}, {0.10825973140056279, 0.067765016471783138}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;&lt;b&gt;ad.&lt;/b&gt;&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>EndPoint</key>
+		<string>{0.25652694593993547, 0.84212378191745252}</string>
+		<key>StartPoint</key>
+		<string>{0.28720264424845748, 0.77862391355441662}</string>
+		<key>Type</key>
+		<string>line</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.22315589477051381</real>
+		<key>Frame</key>
+		<string>{{0.16881331868008323, 0.78527312785547587}, {0.20498605571841802, 0.17322578048466294}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;Zehen nicht überstehend&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.50203512570795106</real>
+		<key>Frame</key>
+		<string>{{0.66212851171188714, 0.83852500114819151}, {0.18292193768556006, 0.076999301566526512}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;kompakt&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>EndPoint</key>
+		<string>{0.71008005868277246, 0.87769131138602463}</string>
+		<key>StartPoint</key>
+		<string>{0.66946306542462941, 0.83048573895764033}</string>
+		<key>Type</key>
+		<string>line</string>
+	</dict>
+</array>
+</plist>

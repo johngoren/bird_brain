@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>FontScale</key>
+		<real>0.45034877785356614</real>
+		<key>Frame</key>
+		<string>{{0.2938453708059553, 0.71670163241560292}, {0.32625390874855892, 0.14526679320136529}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;heller grau als &lt;i&gt;argenteus&lt;/i&gt;&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>EndPoint</key>
+		<string>{0.52039168418018011, 0.68161440227973857}</string>
+		<key>StartPoint</key>
+		<string>{0.49557632381253908, 0.7681619972244591}</string>
+		<key>Type</key>
+		<string>line</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.15426663353762587</real>
+		<key>Frame</key>
+		<string>{{0.78655348327749974, 0.1099107732200148}, {0.20987821858547448, 0.42407564928799307}}</string>
+		<key>Text</key>
+		<string>&lt;p class="right"&gt;Striche-lung an Kopf und Brust oft kräftig und fleckig&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.63529731092111141</real>
+		<key>Frame</key>
+		<string>{{0.64884537285849964, 0.015578702402083464}, {0.28255281711205588, 0.10297654603021807}}</string>
+		<key>Text</key>
+		<string>&lt;p class="center"&gt;&lt;b&gt;SK&lt;/b&gt;&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.24946842515343895</real>
+		<key>Frame</key>
+		<string>{{0.13496283359703887, 0.041131438287651409}, {0.33727349048617622, 0.26224049292291668}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;einige Alterskleid-Typen zeigen schwarze Schirmfederflecken&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+</array>
+</plist>

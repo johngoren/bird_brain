@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>EndPoint</key>
+		<string>{0.65652453051244297, 0.34895978447817239}</string>
+		<key>StartPoint</key>
+		<string>{0.6815796568744027, 0.30227110483413683}</string>
+		<key>Type</key>
+		<string>line</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.58104527742600842</real>
+		<key>Frame</key>
+		<string>{{0.49651831122787227, 0.32386099713689165}, {0.28338555908147312, 0.068830089729680508}}</string>
+		<key>Text</key>
+		<string>&lt;p class="right"&gt;gris brunâtre sombre&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.64357612122045382</real>
+		<key>Frame</key>
+		<string>{{0.79208816010558591, 0.032489043182984338}, {0.18448219109636665, 0.062142452560852109}}</string>
+		<key>Text</key>
+		<string>&lt;p class="right"&gt;&lt;b&gt;ad. nuptial&lt;/b&gt;&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.1909774436090303</real>
+		<key>Frame</key>
+		<string>{{0.062922920283544556, 0.017005067113726645}, {0.41681590797911111, 0.20941425241880338}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;tous les ind. illustrés sont de la ssp. &lt;i&gt;antarctica &lt;/i&gt;(Moyen-Orient) ; les oiseaux de l’Atlantique sont plus pâles, plus gris dessus, avec plus de blanc à la queue&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.58386738493885104</real>
+		<key>Frame</key>
+		<string>{{0.61606890819452198, 0.7396620604454438}, {0.13491878621836498, 0.068497401317300519}}</string>
+		<key>Text</key>
+		<string>&lt;p class="right"&gt;&lt;b&gt;ad. nupt.&lt;/b&gt;&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.18419144307469407</real>
+		<key>Frame</key>
+		<string>{{0.47683442525261249, 0.53037066865756355}, {0.32254521587036133, 0.21712951435002859}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;               parties sup.	  plus claires que   chez la S. fuligineuse,  mais différence pas  toujours nette&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+</array>
+</plist>

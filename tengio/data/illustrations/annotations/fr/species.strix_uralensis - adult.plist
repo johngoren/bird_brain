@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>FontScale</key>
+		<real>0.33306821098318024</real>
+		<key>Frame</key>
+		<string>{{0.81034634474172818, 0.7008486791901567}, {0.14616690741644939, 0.12061110467669436}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;iris noir&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.54171161229795195</real>
+		<key>Frame</key>
+		<string>{{0.34773375432461889, 0.92584296893883722}, {0.54082178186486995, 0.074157031061162573}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;expression gentille&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.2845626005010764</real>
+		<key>Frame</key>
+		<string>{{0.11612144285543469, 0.77920466976325697}, {0.31426408555772462, 0.14117007923260005}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;face pâle et unie, bec jaune paille&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.38508908005452924</real>
+		<key>Frame</key>
+		<string>{{0.083802024746907011, 0.64672563238385272}, {0.28102737157855157, 0.10431800572917647}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;gris teinté de chamois&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>EndPoint</key>
+		<string>{0.23892791198891564, 0.66844846433646476}</string>
+		<key>StartPoint</key>
+		<string>{0.29409255030976694, 0.62855930428093143}</string>
+		<key>Type</key>
+		<string>line</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.36153870200750687</real>
+		<key>Frame</key>
+		<string>{{0.47045129379401618, 0}, {0.36897164803963917, 0.11111320762151092}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;longue queue (voir C. hulotte)&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>EndPoint</key>
+		<string>{0.45269469230620191, 0.095794103391739854}</string>
+		<key>StartPoint</key>
+		<string>{0.38570971979512797, 0.14423044096753643}</string>
+		<key>Type</key>
+		<string>line</string>
+	</dict>
+</array>
+</plist>

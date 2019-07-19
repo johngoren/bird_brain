@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>FontScale</key>
+		<real>0.38601823708206617</real>
+		<key>Frame</key>
+		<string>{{0.70963876163960848, 0.82258323183757809}, {0.29036123836039146, 0.13175356246471073}}</string>
+		<key>Text</key>
+		<string>&lt;p class="center"&gt;﻿skriketroster opptrer for det meste i tette familiegrupper&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>EndPoint</key>
+		<string>{0.41339723830101344, 0.5789542917711793}</string>
+		<key>StartPoint</key>
+		<string>{0.39078775258366427, 0.62453648138094298}</string>
+		<key>Type</key>
+		<string>line</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.84105960264901081</real>
+		<key>Frame</key>
+		<string>{{0.22896694554077845, 0.61614261952584959}, {0.17110950757105312, 0.060470480036994477}}</string>
+		<key>Text</key>
+		<string>&lt;p class="right"&gt;﻿jevnt brun&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>EndPoint</key>
+		<string>{0.50835558663809377, 0.29416734833549385}</string>
+		<key>StartPoint</key>
+		<string>{0.47451835741113468, 0.33821869140880101}</string>
+		<key>Type</key>
+		<string>line</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.39456310679611722</real>
+		<key>Frame</key>
+		<string>{{0.51415625450558222, 0.18248718197577909}, {0.10634557757044408, 0.12890023683382557}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;﻿varmt brun&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.39456310679611722</real>
+		<key>Frame</key>
+		<string>{{0.59149849273862998, 0.39228170336240609}, {0.10634557757044408, 0.12890023683382557}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;﻿som regel mørke øyne&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>EndPoint</key>
+		<string>{0.58569782487114586, 0.50241006104567432}</string>
+		<key>StartPoint</key>
+		<string>{0.54219281586505297, 0.57449407698381427}</string>
+		<key>Type</key>
+		<string>line</string>
+	</dict>
+</array>
+</plist>

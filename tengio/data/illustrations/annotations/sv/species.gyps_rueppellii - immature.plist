@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>EndPoint</key>
+		<string>{0.42885690350791683, 0.66189745607623518}</string>
+		<key>StartPoint</key>
+		<string>{0.39324054989002033, 0.58578556635366119}</string>
+		<key>Type</key>
+		<string>line</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.31242312423124263</real>
+		<key>Frame</key>
+		<string>{{0.093856913897111788, 0.092334342826532759}, {0.4246553455198237, 0.21010713976770709}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;ingen rostton &lt;/p&gt;&lt;p&gt;undertill, som är så typiskt för gåsgam&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.20303756994404482</real>
+		<key>Frame</key>
+		<string>{{0.10098283834140817, 0.67613757620322767}, {0.52170888668202975, 0.32330139218868603}}</string>
+		<key>Text</key>
+		<string>&lt;p class="right"&gt;täckare mörka med dis-&lt;/p&gt;&lt;p class="right"&gt;tinkt ljust band hos &lt;/p&gt;&lt;p class="right"&gt;juv. (äldre fåglar &lt;/p&gt;&lt;p class="right"&gt;anlägger flera &lt;/p&gt;&lt;p class="right"&gt;smala band)&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.46547964154402427</real>
+		<key>Frame</key>
+		<string>{{0.52248100096385841, 0.02419199631098333}, {0.4246553455198237, 0.14102083780029093}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;&lt;b&gt;ungfågel&lt;/b&gt;&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+</array>
+</plist>

@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>EndPoint</key>
+		<string>{0.75290634751982599, 0.48873196495054749}</string>
+		<key>StartPoint</key>
+		<string>{0.7151894712777993, 0.51665040895278935}</string>
+		<key>Type</key>
+		<string>line</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.15825545171339586</real>
+		<key>Frame</key>
+		<string>{{0.011919910697906185, 0.73893661647543507}, {0.40314703217671338, 0.22710391900104798}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;﻿enkelte &lt;i&gt;diomedea&lt;/i&gt; har mer mørkt i hånden enn vist her&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.12862382723597521</real>
+		<key>Frame</key>
+		<string>{{0.6844089851791586, 0.031306274466558467}, {0.306761836600078, 0.2794228259236638}}</string>
+		<key>Text</key>
+		<string>&lt;p class="right"&gt;&lt;i&gt;﻿diomedea&lt;/i&gt; er litt mindre enn &lt;i&gt;borea-lis&lt;/i&gt;, men vanskelig å vurdere i felt&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>EndPoint</key>
+		<string>{0.22152736833752792, 0.746166317787057}</string>
+		<key>StartPoint</key>
+		<string>{0.16701533317431111, 0.78193829699896633}</string>
+		<key>Type</key>
+		<string>line</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.11460025266197463</real>
+		<key>Frame</key>
+		<string>{{0.031733455123269486, 0.049241223559106956}, {0.51686991721387698, 0.31361565487471793}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;﻿beste bestem-melseskarakter er mer hvitt i hånden og smalere svart bakkant hos &lt;i&gt;diomedea&lt;/i&gt;&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.23167768047129489</real>
+		<key>Frame</key>
+		<string>{{0.63358910383844014, 0.33524348195207276}, {0.34580948031311681, 0.1551311857675749}}</string>
+		<key>Text</key>
+		<string>&lt;p class="right"&gt;﻿som regel mindre kraftig nebb enn &lt;i&gt;borealis&lt;/i&gt;&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>EndPoint</key>
+		<string>{0.4825120542832082, 0.24394215349396167}</string>
+		<key>StartPoint</key>
+		<string>{0.55854108896197574, 0.20290780052804236}</string>
+		<key>Type</key>
+		<string>line</string>
+	</dict>
+</array>
+</plist>

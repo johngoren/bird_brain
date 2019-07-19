@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>FontScale</key>
+		<real>0.3206926938961111</real>
+		<key>Frame</key>
+		<string>{{0.12002628508027445, 0.14890355767338043}, {0.14724688459681709, 0.087996127873388619}}</string>
+		<key>Text</key>
+		<string>&lt;p class="right"&gt;langer Schwanz&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>EndPoint</key>
+		<string>{0.30712797134253755, 0.22953526040657279}</string>
+		<key>StartPoint</key>
+		<string>{0.27372923201198568, 0.21842513627265558}</string>
+		<key>Type</key>
+		<string>line</string>
+	</dict>
+	<dict>
+		<key>EndPoint</key>
+		<string>{0.7636526299384393, 0.62999968481352986}</string>
+		<key>StartPoint</key>
+		<string>{0.74141279094072121, 0.60172441889272132}</string>
+		<key>Type</key>
+		<string>line</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.52916620687242</real>
+		<key>Frame</key>
+		<string>{{0.6179593271972732, 0.49159529024659271}, {0.10432509485413213, 0.053328642180182399}}</string>
+		<key>Text</key>
+		<string>&lt;p class="right"&gt;♀ &lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.42412857441031632</real>
+		<key>Frame</key>
+		<string>{{0.69126028963023656, 0.62087533533186123}, {0.12752245926210989, 0.066535755906988139}}</string>
+		<key>Text</key>
+		<string>&lt;p class="right"&gt;langer Schnabel&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.23064699205448669</real>
+		<key>Frame</key>
+		<string>{{0.79242177464556562, 0.13643242016436866}, {0.18065681728798763, 0.12235024202473538}}</string>
+		<key>Text</key>
+		<string>&lt;p class="right"&gt;blaue Färbung von Weitem nicht immer leicht erkennbar&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.52916620687242</real>
+		<key>Frame</key>
+		<string>{{0.44952805085189301, 0.09557491549319784}, {0.12591052200437294, 0.053328642180182399}}</string>
+		<key>Text</key>
+		<string>&lt;p class="right"&gt;♂&lt;b&gt; PK&lt;/b&gt;&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.3649425287356336</real>
+		<key>Frame</key>
+		<string>{{0.66950429307902959, 0.89315691151539878}, {0.3227026677438371, 0.077326463972046899}}</string>
+		<key>Text</key>
+		<string>&lt;p class="center"&gt;wirkt im Flug meist dunkel und merkmalsarm&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.52916620687242</real>
+		<key>Frame</key>
+		<string>{{0.84909842320650142, 0.6442761479882263}, {0.10432509485413213, 0.053328642180182399}}</string>
+		<key>Text</key>
+		<string>&lt;p class="center"&gt;&lt;b&gt;ad. &lt;/b&gt;♂&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.19921568627451425</real>
+		<key>Frame</key>
+		<string>{{0.34077973142559442, 0.78004191124205258}, {0.23556232058139606, 0.14165408270741089}}</string>
+		<key>Text</key>
+		<string>&lt;p class="right"&gt;beachte die langgezogene Gestalt – ganz anders als die des Steinrötels&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.24434502685371537</real>
+		<key>Frame</key>
+		<string>{{0.47758628492060706, 0.6208753353318629}, {0.19570457587131759, 0.11549126112166901}}</string>
+		<key>Text</key>
+		<string>&lt;p class="right"&gt;bewohnt felsige Lebensräume bis zur Küste&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+</array>
+</plist>

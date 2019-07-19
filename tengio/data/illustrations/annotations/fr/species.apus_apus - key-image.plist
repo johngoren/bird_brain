@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>FontScale</key>
+		<real>0.18181818181818185</real>
+		<key>Frame</key>
+		<string>{{0.041355491457497687, 0.53826872372460788}, {0.23362577720079117, 0.23053121889829789}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;longues ailes falciformes&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>EndPoint</key>
+		<string>{0.72220775644266677, 0.52506722228447955}</string>
+		<key>StartPoint</key>
+		<string>{0.66431060985792068, 0.5412390615486391}</string>
+		<key>Type</key>
+		<string>line</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.26607552385951466</real>
+		<key>Frame</key>
+		<string>{{0.73388904530270327, 0.38550849277451799}, {0.24614144383654815, 0.15752958582747503}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;marque pâle à la gorge assez nette&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.19689922480620151</real>
+		<key>Frame</key>
+		<string>{{0.55395961484189737, 0.086777374472104568}, {0.39686765214725361, 0.21287421072212195}}</string>
+		<key>Text</key>
+		<string>&lt;p class="right"&gt;sous la lumière forte du bassin méditerranéen, peut paraître aussi pâle que le M. pâle&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+</array>
+</plist>

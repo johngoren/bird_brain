@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>FontScale</key>
+		<real>0.4098031940837345</real>
+		<key>Frame</key>
+		<string>{{0.55726574219558067, 0.53663246962902045}, {0.10417372113351599, 0.20810939827517766}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;white stripes&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>EndPoint</key>
+		<string>{0.75016193658198238, 0.91630489014989658}</string>
+		<key>StartPoint</key>
+		<string>{0.71722463173334372, 0.82700566615931803}</string>
+		<key>Type</key>
+		<string>line</string>
+	</dict>
+	<dict>
+		<key>EndPoint</key>
+		<string>{0.589499130960359, 0.55612101810302994}</string>
+		<key>StartPoint</key>
+		<string>{0.60203729453800559, 0.41267192919069662}</string>
+		<key>Type</key>
+		<string>line</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.38993353946478604</real>
+		<key>Frame</key>
+		<string>{{0.74495383857965647, 0.75859017714906729}, {0.20623066525466233, 0.21871392814547469}}</string>
+		<key>Text</key>
+		<string>&lt;p class="right"&gt;a little black on hindcrown&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.58926066680253675</real>
+		<key>Frame</key>
+		<string>{{0.092669274874559893, 0.052902026847084588}, {0.17409055470285703, 0.14473033911253874}}</string>
+		<key>Text</key>
+		<string>&lt;p class="right"&gt;&lt;b&gt;ad. winter&lt;/b&gt;&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+</array>
+</plist>

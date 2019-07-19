@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>EndPoint</key>
+		<string>{0.75932754503524169, 0.94592592232781381}</string>
+		<key>StartPoint</key>
+		<string>{0.82416655093255509, 0.88721430422539116}</string>
+		<key>Type</key>
+		<string>line</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.44761867900944979</real>
+		<key>Frame</key>
+		<string>{{0.55024305140016039, 0.8331501675944577}, {0.20315204222451591, 0.15276432861702016}}</string>
+		<key>Text</key>
+		<string>&lt;p class="right"&gt;﻿svart bånd&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.3256406752711144</real>
+		<key>Frame</key>
+		<string>{{0.41601769075792022, 0.21251268674040119}, {0.20175580473021143, 0.20998656546325384}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;&lt;b&gt;&lt;i&gt;europaeus&lt;/i&gt;&lt;/b&gt;&lt;/p&gt;&lt;p&gt;(﻿Mellom-Europa)&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.64827543000905119</real>
+		<key>Frame</key>
+		<string>{{0.92262233114431014, 0.23175834678303733}, {0.075112513651592258, 0.10548011510225111}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;&lt;b&gt;ad.&lt;/b&gt;&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.39166617693785721</real>
+		<key>Frame</key>
+		<string>{{0.1566885540805506, 0.055581719937932227}, {0.56311018080702879, 0.17458787866220429}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;﻿(vesteuropeiske fugler – bl.a. u.a. &lt;i&gt;rosaceus&lt;/i&gt; – er svært like, men har mørkt flekket bryst)&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.4703703836616337</real>
+		<key>Frame</key>
+		<string>{{0.45642382922710284, 0.70067646266182548}, {0.20215507185980036, 0.14537515402863055}}</string>
+		<key>Text</key>
+		<string>&lt;p class="right"&gt;﻿rødbrun&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>EndPoint</key>
+		<string>{0.66561684834741452, 0.80489172453466196}</string>
+		<key>StartPoint</key>
+		<string>{0.73930288559149582, 0.73652400752076785}</string>
+		<key>Type</key>
+		<string>line</string>
+	</dict>
+</array>
+</plist>

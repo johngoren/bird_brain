@@ -1,0 +1,124 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>EndPoint</key>
+		<string>{0.39301014876265422, 0.23491393096618157}</string>
+		<key>StartPoint</key>
+		<string>{0.40428086151134701, 0.26221222669654431}</string>
+		<key>Type</key>
+		<string>line</string>
+	</dict>
+	<dict>
+		<key>EndPoint</key>
+		<string>{0.6918576214940273, 0.31673577730487162}</string>
+		<key>StartPoint</key>
+		<string>{0.69515832824434209, 0.33633281511593172}</string>
+		<key>Type</key>
+		<string>line</string>
+	</dict>
+	<dict>
+		<key>EndPoint</key>
+		<string>{0.4956216250589745, 0.23976059610487477}</string>
+		<key>StartPoint</key>
+		<string>{0.50485318960489567, 0.26506224298877806}</string>
+		<key>Type</key>
+		<string>line</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.26458844444205171</real>
+		<key>Frame</key>
+		<string>{{0.75591464508208495, 0.03354505923433871}, {0.13998489406405759, 0.11509258567902332}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;tache pectorale sombre&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>EndPoint</key>
+		<string>{0.74620841311042962, 0.13806931533157277}</string>
+		<key>StartPoint</key>
+		<string>{0.70639055985271171, 0.18165542932852144}</string>
+		<key>Type</key>
+		<string>line</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.60694781881214743</real>
+		<key>Frame</key>
+		<string>{{0.564381544650148, 0.32310917343084206}, {0.36397966467870135, 0.05017262978426057}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;grand capuchon noir&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.39999999999999997</real>
+		<key>Frame</key>
+		<string>{{0.38159312938731987, 0.24506203483947606}, {0.2061466257901145, 0.076130420529065837}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;nettes pointes pâles&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.66534010152284262</real>
+		<key>Frame</key>
+		<string>{{0.6536261820317355, 0}, {0.12487782592123343, 0.045769326306841954}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;&lt;b&gt;juv.&lt;/b&gt;&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.23984867561264375</real>
+		<key>Frame</key>
+		<string>{{0.51235769026505262, 0.63684317238347732}, {0.15060370021335795, 0.12696408739319731}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;tache pectorale sombre&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>EndPoint</key>
+		<string>{0.33405982296752362, 0.8893961721052609}</string>
+		<key>StartPoint</key>
+		<string>{0.35112650775143567, 0.84807936947257068}</string>
+		<key>Type</key>
+		<string>line</string>
+	</dict>
+	<dict>
+		<key>EndPoint</key>
+		<string>{0.53817343808844209, 0.76821917953086716}</string>
+		<key>StartPoint</key>
+		<string>{0.51059759931189097, 0.80834802276677953}</string>
+		<key>Type</key>
+		<string>line</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.35959133357963652</real>
+		<key>Frame</key>
+		<string>{{0.18303881282785561, 0.68539902664744878}, {0.15937832693222731, 0.084685489798886598}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;&lt;b&gt;juv.&lt;/b&gt;&lt;/p&gt;&lt;p&gt;(typique)&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.69629642746469544</real>
+		<key>Frame</key>
+		<string>{{0.2731650260052722, 0.87962143388407243}, {0.11018449055613704, 0.043734488660966686}}</string>
+		<key>Text</key>
+		<string>&lt;p class="center"&gt;gris&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+</array>
+</plist>

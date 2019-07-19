@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>FontScale</key>
+		<real>0.18405797101448818</real>
+		<key>Frame</key>
+		<string>{{0.61506915306691279, 0.059102384530585417}, {0.151919155822828, 0.15099977635172249}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;fehlt heller Bürzel (vgl. mit Goldhähnchen-Laubsänger)&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.18730734732238094</real>
+		<key>Frame</key>
+		<string>{{0.30599428479174723, 0.043517630430076427}, {0.24984741858139828, 0.14838025766872118}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;Goldhähnchen-Laubsänger&lt;/p&gt;&lt;p&gt;breiter Augenstreif und vor dem Auge leuchtender Überaugenstreif auffällig&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.32030264508975997</real>
+		<key>Frame</key>
+		<string>{{0.30599428479174723, 0.21950622804863973}, {0.12381637352237929, 0.086770162173187934}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;GelbbrauenLaubsänger&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.31315900790465018</real>
+		<key>Frame</key>
+		<string>{{0.067340553925182234, 0.40704252850822192}, {0.23161385930249714, 0.088749522630374986}}</string>
+		<key>Text</key>
+		<string>&lt;p class="center"&gt;im Herbst oft mit Wintergoldhähnchen (obere zwei)vergesellschaftet&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.25363734174112551</real>
+		<key>Frame</key>
+		<string>{{0.77895023285263632, 0.64685432855141256}, {0.17516686867896486, 0.10957657996315902}}</string>
+		<key>Text</key>
+		<string>&lt;p class="center"&gt;können angedeuteten Hinterscheitelstreif zeigen&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>EndPoint</key>
+		<string>{0.47202850589328027, 0.38505888181400133}</string>
+		<key>StartPoint</key>
+		<string>{0.52140552644787852, 0.41022551120595085}</string>
+		<key>Type</key>
+		<string>line</string>
+	</dict>
+	<dict>
+		<key>EndPoint</key>
+		<string>{0.55545380777050402, 0.59952260307442917}</string>
+		<key>StartPoint</key>
+		<string>{0.56641936941608806, 0.56578952597336651}</string>
+		<key>Type</key>
+		<string>line</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.25885350318473144</real>
+		<key>Frame</key>
+		<string>{{0.68022645854101971, 0.24718952079723752}, {0.11707962130382525, 0.10736850039500989}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;zwei gelbliche Flügelbinden&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.42838233419652755</real>
+		<key>Frame</key>
+		<string>{{0.36790247155293787, 0.32784000274344782}, {0.099035619850180098, 0.06487828801593197}}</string>
+		<key>Text</key>
+		<string>&lt;p class="right"&gt;reinweiß&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.53714217022834687</real>
+		<key>Frame</key>
+		<string>{{0.47217730772310618, 0.57502571306495942}, {0.12812944309714966, 0.051741818087238343}}</string>
+		<key>Text</key>
+		<string>&lt;p class="center"&gt;moosgrün&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+</array>
+</plist>

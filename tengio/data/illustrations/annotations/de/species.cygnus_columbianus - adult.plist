@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>EndPoint</key>
+		<string>{0.73724546649952816, 0.84061508000620899}</string>
+		<key>StartPoint</key>
+		<string>{0.7434292787556539, 0.74754288912847877}</string>
+		<key>Type</key>
+		<string>line</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.1748958984755497</real>
+		<key>Frame</key>
+		<string>{{0.69801077513905563, 0.48483902580067423}, {0.16233533937688915, 0.25095094720260708}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;weniger Gelb als bei Singschwan&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.26924817311616023</real>
+		<key>Frame</key>
+		<string>{{0.73395632597614902, 0.24489410631796399}, {0.22020683970498631, 0.16301054479338972}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;&lt;b&gt;&lt;i&gt;bewickii&lt;/i&gt;&lt;/b&gt;(Europa, Sibirien)&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.5818147383123945</real>
+		<key>Frame</key>
+		<string>{{0.33203465038454849, 0.56707629373696955}, {0.20028045298729216, 0.075436884791880487}}</string>
+		<key>Text</key>
+		<string>&lt;p class="right"&gt;&lt;b&gt;ad.&lt;/b&gt;&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+</array>
+</plist>

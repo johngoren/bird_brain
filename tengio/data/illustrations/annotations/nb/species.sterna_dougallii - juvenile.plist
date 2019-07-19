@@ -1,0 +1,126 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>EndPoint</key>
+		<string>{0.7787612809022455, 0.35595245403176867}</string>
+		<key>StartPoint</key>
+		<string>{0.74050990051116006, 0.34081709874760924}</string>
+		<key>Type</key>
+		<string>line</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.40481725283164877</real>
+		<key>Frame</key>
+		<string>{{0.24974542896749649, 0.30989936165981791}, {0.19220912218930569, 0.081994665547275372}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;﻿kraftig mønstring&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.69629766045006058</real>
+		<key>Frame</key>
+		<string>{{0.25767940146876445, 0.062313297515788825}, {0.1646166028225472, 0.047670496598025684}}</string>
+		<key>Text</key>
+		<string>&lt;p class="right"&gt;﻿mørke&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>EndPoint</key>
+		<string>{0.4243393057423141, 0.090977360501122387}</string>
+		<key>StartPoint</key>
+		<string>{0.48049561125296975, 0.091912987230722304}</string>
+		<key>Type</key>
+		<string>line</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.42926386208221623</real>
+		<key>Frame</key>
+		<string>{{0.61600455841499657, 0.050388847812965522}, {0.18593131499221302, 0.077325063173709407}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;&lt;b&gt;juv.&lt;/b&gt;&lt;/p&gt;&lt;p&gt;(normal)&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>EndPoint</key>
+		<string>{0.17717955111721642, 0.32476364085492337}</string>
+		<key>StartPoint</key>
+		<string>{0.21487655285999224, 0.2903754611322189}</string>
+		<key>Type</key>
+		<string>line</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.40010745073139758</real>
+		<key>Frame</key>
+		<string>{{0.030646087314900455, 0.31193443471426141}, {0.19770268974646038, 0.082959852892069905}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;﻿bred hvit innerkant&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>EndPoint</key>
+		<string>{0.41111704304808599, 0.33715128135803185}</string>
+		<key>StartPoint</key>
+		<string>{0.44691298582951988, 0.32543785869388581}</string>
+		<key>Type</key>
+		<string>line</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.40656262505007601</real>
+		<key>Frame</key>
+		<string>{{0.75481775536828188, 0.10818216442148416}, {0.24518224463171803, 0.081642662676160924}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;﻿de fleste har mørk panne&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>EndPoint</key>
+		<string>{0.60158037925143848, 0.78142751440989633}</string>
+		<key>StartPoint</key>
+		<string>{0.53809380492945014, 0.74504288010513642}</string>
+		<key>Type</key>
+		<string>line</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.41265678764709934</real>
+		<key>Frame</key>
+		<string>{{0.5399440704377344, 0.77299649424886452}, {0.17848022364063465, 0.080436954503906311}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;varieren­de tydelig&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.11884667036812631</real>
+		<key>Frame</key>
+		<string>{{0.12546954290445553, 0.55188503326753335}, {0.29207315686864926, 0.27929141936314528}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;﻿vingeover-siden ligner makrellterne, men normalt kontrasterer ryggfeltet mer&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.70769142166037968</real>
+		<key>Frame</key>
+		<string>{{0.14597686487800646, 0.85706189136503441}, {0.096925561967714124, 0.046903006363735567}}</string>
+		<key>Text</key>
+		<string>&lt;p class="right"&gt;&lt;b&gt;juv.&lt;/b&gt;&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+</array>
+</plist>

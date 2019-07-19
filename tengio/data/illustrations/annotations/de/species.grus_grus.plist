@@ -1,0 +1,166 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>FontScale</key>
+		<real>0.33072916666666785</real>
+		<key>Frame</key>
+		<string>{{0.21905085310998609, 0.11617434951427276}, {0.056991277055032111, 0.07633228287844375}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;Balztanz&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.28684359119141822</real>
+		<key>Frame</key>
+		<string>{{0.54113971832565078, 0.40361802071618985}, {0.10234349048614932, 0.088010724594872344}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;Kopf bräunlich&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>EndPoint</key>
+		<string>{0.61162941191035169, 0.40923094447716113}</string>
+		<key>StartPoint</key>
+		<string>{0.59246163293397136, 0.43771179879107708}</string>
+		<key>Type</key>
+		<string>line</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.63728448764865886</real>
+		<key>Frame</key>
+		<string>{{0.52781302907377214, 0.22748569118285281}, {0.053252837442122607, 0.03961388170501029}}</string>
+		<key>Text</key>
+		<string>&lt;p class="right"&gt;&lt;b&gt;JK&lt;/b&gt;&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.33816092904660405</real>
+		<key>Frame</key>
+		<string>{{0.38877661944979003, 0.15283096280448386}, {0.072614027561337807, 0.074654728378371726}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;Hinterende kurz&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>EndPoint</key>
+		<string>{0.39177070758221194, 0.2326180721006855}</string>
+		<key>StartPoint</key>
+		<string>{0.39177070758221194, 0.26733037652164449}</string>
+		<key>Type</key>
+		<string>line</string>
+	</dict>
+	<dict>
+		<key>EndPoint</key>
+		<string>{0.80788022498041867, 0.42475370177176308}</string>
+		<key>StartPoint</key>
+		<string>{0.78871244600403845, 0.45323455608567897}</string>
+		<key>Type</key>
+		<string>line</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.35574229691876685</real>
+		<key>Frame</key>
+		<string>{{0.71752385383075956, 0.43318192274448042}, {0.11879871836823593, 0.070965169238553574}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;Mantel außerhalb der Brutzeit grau&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.38936987489162544</real>
+		<key>Frame</key>
+		<string>{{0.88307950020541337, 0.24294756150835681}, {0.061205420780931934, 0.06483632641888043}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;&lt;b&gt;PK&lt;/b&gt;&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.24901966744687964</real>
+		<key>Frame</key>
+		<string>{{0.64688677804424044, 0.032810178123023843}, {0.12281218858337914, 0.10137878893255424}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;Schirmfedern hängen buschig über&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>EndPoint</key>
+		<string>{0.67498934976962899, 0.14015242665545793}</string>
+		<key>StartPoint</key>
+		<string>{0.67498934976962899, 0.17486473107641712}</string>
+		<key>Type</key>
+		<string>line</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.66206450656986404</real>
+		<key>Frame</key>
+		<string>{{0.25356669696021744, 0.48073313738927798}, {0.20176152928286575, 0.038131197271014036}}</string>
+		<key>Text</key>
+		<string>&lt;p class="center"&gt;Paar am Brutplatz im Moor&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.24242424242424238</real>
+		<key>Frame</key>
+		<string>{{0.73398696216327586, 0.58647260069746299}, {0.088335084139797793, 0.10413691326287727}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;helle „Positionslichter“&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>EndPoint</key>
+		<string>{0.74286710078210172, 0.69303975900907}</string>
+		<key>StartPoint</key>
+		<string>{0.72369932180572427, 0.72152061332298745}</string>
+		<key>Type</key>
+		<string>line</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.28684359119141822</real>
+		<key>Frame</key>
+		<string>{{0.54113971832565078, 0.40361802071618985}, {0.10234349048614932, 0.088010724594872344}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;Kopf bräunlich&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.39398138295792867</real>
+		<key>Frame</key>
+		<string>{{0.75050908121561688, 0.77961414848852506}, {0.060536509078409059, 0.06407742446258656}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;Grau-reiher&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.37566948512570797</real>
+		<key>Frame</key>
+		<string>{{0.79939864621967993, 0.66713577299100313}, {0.14488627476666602, 0.067200859547334221}}</string>
+		<key>Text</key>
+		<string>&lt;p class="right"&gt;vorderlastig mit eingezogenem Hals&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+</array>
+</plist>

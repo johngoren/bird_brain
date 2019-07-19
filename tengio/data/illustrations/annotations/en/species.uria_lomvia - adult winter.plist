@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>EndPoint</key>
+		<string>{0.39229106742774067, 0.31748194879233116}</string>
+		<key>StartPoint</key>
+		<string>{0.50159303094299146, 0.27849887208630558}</string>
+		<key>Type</key>
+		<string>line</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.67885986568375201</real>
+		<key>Frame</key>
+		<string>{{0.2333849920873452, 0.39078599208996001}, {0.21104446129629401, 0.048783497970333982}}</string>
+		<key>Text</key>
+		<string>&lt;p class="right"&gt;&lt;b&gt;ad. winter&lt;/b&gt;&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.37518247896601986</real>
+		<key>Frame</key>
+		<string>{{0.2315932922316887, 0.28169491012600867}, {0.16017741089546247, 0.088269470821221177}}</string>
+		<key>Text</key>
+		<string>&lt;p class="right"&gt;white ‘armpit’&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.36451618285879495</real>
+		<key>Frame</key>
+		<string>{{0.7476264398080803, 0.041939254460074939}, {0.16892742469978478, 0.090852369351605247}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;projecting feet&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>EndPoint</key>
+		<string>{0.79542996628047213, 0.18717765782754422}</string>
+		<key>StartPoint</key>
+		<string>{0.80276761081818404, 0.14212433035168662}</string>
+		<key>Type</key>
+		<string>line</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.2727193282999294</real>
+		<key>Frame</key>
+		<string>{{0.23791122712809329, 0.0045581878434308208}, {0.47782169977385353, 0.12143311985318164}}</string>
+		<key>Text</key>
+		<string>&lt;p class="center"&gt;compact and ‘neckless’, slightly hunchbacked (‘flying barrel’), &lt;/p&gt;&lt;p class="center"&gt;bill somewhat pointing down&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>EndPoint</key>
+		<string>{0.22718423239380178, 0.90920740223801289}</string>
+		<key>StartPoint</key>
+		<string>{0.20062022469395938, 0.93315566889620061}</string>
+		<key>Type</key>
+		<string>line</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.38209172822026277</real>
+		<key>Frame</key>
+		<string>{{0.067636669551035339, 0.91332667934482581}, {0.1975349090861287, 0.086673320655174219}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;shorter than in Guillemot &lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>EndPoint</key>
+		<string>{0.49611058500075933, 0.91842846677924062}</string>
+		<key>StartPoint</key>
+		<string>{0.41272899970829346, 0.88666506349722229}</string>
+		<key>Type</key>
+		<string>line</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.65902859249824008</real>
+		<key>Frame</key>
+		<string>{{0.49630014919842536, 0.88628565529564429}, {0.14590506242326998, 0.050251475059957973}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;dark&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.6788575216838848</real>
+		<key>Frame</key>
+		<string>{{0.64459224620908984, 0.83257639094185065}, {0.21104426840326024, 0.048783666412914511}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;&lt;b&gt;ad. winter&lt;/b&gt;&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+</array>
+</plist>

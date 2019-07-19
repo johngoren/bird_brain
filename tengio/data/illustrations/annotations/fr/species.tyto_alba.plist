@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>FontScale</key>
+		<real>0.19728155339805989</real>
+		<key>Frame</key>
+		<string>{{0.86846229356773141, 0.45373244292381337}, {0.056012518125650765, 0.18654307387517019}}</string>
+		<key>Text</key>
+		<string>&lt;p class="right"&gt;pas de virgule sombre&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>EndPoint</key>
+		<string>{0.89628788114153624, 0.67555570203287529}</string>
+		<key>StartPoint</key>
+		<string>{0.91121763751601614, 0.65161298905588516}</string>
+		<key>Type</key>
+		<string>line</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.30193164933130945</real>
+		<key>Frame</key>
+		<string>{{0.18103755127581547, 0.047358317524677965}, {0.072407293272269233, 0.12188688225049353}}</string>
+		<key>Text</key>
+		<string>&lt;p class="right"&gt;jeune âgé de 4 semaines&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.1377947416348709</real>
+		<key>Frame</key>
+		<string>{{0.40878622814988969, 0.32002685385697704}, {0.099391101607405719, 0.26707483139856969}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;formes à ventre pâle : &lt;b&gt;&lt;i&gt;alba &lt;/i&gt;&lt;/b&gt;et al.&lt;/p&gt;&lt;p&gt;(p. ex. O. et S. Europe, Afrique du N.)&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.20215035631920344</real>
+		<key>Frame</key>
+		<string>{{0.63769071889005069, 0.29975359661224765}, {0.10760627093250098, 0.18205017324645015}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;formes à ventre sombre: &lt;b&gt;&lt;i&gt;guttata &lt;/i&gt;&lt;/b&gt;et al.&lt;/p&gt;&lt;p&gt;(p. ex. N., C. et E. Europe)&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.21561969439728668</real>
+		<key>Frame</key>
+		<string>{{0.63649934152039278, 0.49911855390744714}, {0.048544182375563821, 0.17067785710675656}}</string>
+		<key>Text</key>
+		<string>&lt;p class="right"&gt;face pâle en forme de cœur&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.45115452930739425</real>
+		<key>Frame</key>
+		<string>{{0.67902846207095569, 0.033376642473096817}, {0.25888935397258206, 0.081571845119763606}}</string>
+		<key>Text</key>
+		<string>&lt;p class="center"&gt;aspect très pâle, fantomatique ; pattes souvent pendantes lorsqu’elle chasse&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+</array>
+</plist>

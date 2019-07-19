@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>FontScale</key>
+		<real>0.67885752168388491</real>
+		<key>Frame</key>
+		<string>{{0.51516768059889773, 0.21225489660582966}, {0.28805770423898824, 0.049106993676390612}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;&lt;b&gt;ad. internuptial&lt;/b&gt;&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>EndPoint</key>
+		<string>{0.79247320367705942, 0.28398291854969998}</string>
+		<key>StartPoint</key>
+		<string>{0.80304441719462416, 0.23889244774324159}</string>
+		<key>Type</key>
+		<string>line</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.23656154145185698</real>
+		<key>Frame</key>
+		<string>{{0.61294713165379888, 0.28011847398992051}, {0.18631616410824423, 0.14092168921415799}}</string>
+		<key>Text</key>
+		<string>&lt;p class="right"&gt;longue queue, souvent relevée&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.65667115340296167</real>
+		<key>Frame</key>
+		<string>{{0.36133743208351404, 0.2518929451213463}, {0.13879072587678104, 0.050766128299904074}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;blanc&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>EndPoint</key>
+		<string>{0.35141045663722553, 0.28212432052055197}</string>
+		<key>StartPoint</key>
+		<string>{0.27674566491328823, 0.25393033928788661}</string>
+		<key>Type</key>
+		<string>line</string>
+	</dict>
+	<dict>
+		<key>EndPoint</key>
+		<string>{0.43095985153394667, 0.73783698482903937}</string>
+		<key>StartPoint</key>
+		<string>{0.3328599631052826, 0.79170966065899917}</string>
+		<key>Type</key>
+		<string>line</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.38278883221058374</real>
+		<key>Frame</key>
+		<string>{{0.15600170654385678, 0.76144759290185304}, {0.17361594391084692, 0.087088883528768257}}</string>
+		<key>Text</key>
+		<string>&lt;p class="right"&gt;axillaires blanches&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>EndPoint</key>
+		<string>{0.17786456748188756, 0.66148776016392075}</string>
+		<key>StartPoint</key>
+		<string>{0.18745506756960625, 0.69499692344441255}</string>
+		<key>Type</key>
+		<string>line</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.558832808915947</real>
+		<key>Frame</key>
+		<string>{{0.14143656000232568, 0.59307835710274492}, {0.17358792768184225, 0.059654070936115786}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;tronqué&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.67885986568375223</real>
+		<key>Frame</key>
+		<string>{{0.12395838415248824, 0.88327338923903997}, {0.29777795202315888, 0.049106824117410214}}</string>
+		<key>Text</key>
+		<string>&lt;p class="right"&gt;&lt;b&gt;ad. internuptial&lt;/b&gt;&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.36636168825118903</real>
+		<key>Frame</key>
+		<string>{{0.59983998065825217, 0.54282875619141568}, {0.26238891980878698, 0.090993826848084852}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;pieds masqués par la longue queue&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>EndPoint</key>
+		<string>{0.6800646313049683, 0.64568277718309752}</string>
+		<key>StartPoint</key>
+		<string>{0.67435753493223949, 0.68559948572937812}</string>
+		<key>Type</key>
+		<string>line</string>
+	</dict>
+</array>
+</plist>

@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>EndPoint</key>
+		<string>{0.32356267132884181, 0.79165353141307893}</string>
+		<key>StartPoint</key>
+		<string>{0.33887751469843663, 0.72513299111522056}</string>
+		<key>Type</key>
+		<string>line</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.27674390125458731</real>
+		<key>Frame</key>
+		<string>{{0.041277158180410646, 0.76721823093456976}, {0.35860099383753763, 0.18603452947589097}}</string>
+		<key>Text</key>
+		<string>&lt;p class="right"&gt;longue projection primaire et primaires sombres à pointes pâles&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.24415559256237476</real>
+		<key>Frame</key>
+		<string>{{0.45330794294211157, 0.78913478526170999}, {0.36539949064183147, 0.21086521473828998}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;les Rousserolles effarvattes et verderolles imm. sont extrêmement semblables&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.26221532256773844</real>
+		<key>Frame</key>
+		<string>{{0.41058844366854469, 0.10654581870150533}, {0.16647012828540542, 0.19634215480264192}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;rose jaunâtre pâle&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>EndPoint</key>
+		<string>{0.47108161646248831, 0.2827518032502972}</string>
+		<key>StartPoint</key>
+		<string>{0.50748045522199203, 0.32488920376306407}</string>
+		<key>Type</key>
+		<string>line</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.34835146630332886</real>
+		<key>Frame</key>
+		<string>{{0.66795951141219601, 0.10647907513465196}, {0.15732212046148217, 0.1477930378808559}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;&lt;b&gt;imm. automne&lt;/b&gt;&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.18469143178413958</real>
+		<key>Frame</key>
+		<string>{{0.84396298661359948, 0.35457240195398737}, {0.12743481007559096, 0.27875641526994094}}</string>
+		<key>Text</key>
+		<string>&lt;p class="right"&gt;assez court et tronqué&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>EndPoint</key>
+		<string>{0.93381309799505341, 0.64229397238538222}</string>
+		<key>StartPoint</key>
+		<string>{0.92921590396895304, 0.70506308400468976}</string>
+		<key>Type</key>
+		<string>line</string>
+	</dict>
+</array>
+</plist>

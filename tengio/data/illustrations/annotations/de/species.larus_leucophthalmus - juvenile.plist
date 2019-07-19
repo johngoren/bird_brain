@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>FontScale</key>
+		<real>0.21760677728785072</real>
+		<key>Frame</key>
+		<string>{{0.73871042661712505, 0.1987405890359018}, {0.18547428209996575, 0.14976698936152613}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;lang, schlank und ganz dunkel&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>EndPoint</key>
+		<string>{0.5998098439152294, 0.44423357338694308}</string>
+		<key>StartPoint</key>
+		<string>{0.6267995479335694, 0.42645278088869409}</string>
+		<key>Type</key>
+		<string>line</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.63003975241662968</real>
+		<key>Frame</key>
+		<string>{{0.52251569943341158, 0.42746572351055323}, {0.13635888608887925, 0.051727389857639264}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;dunkel&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.25263157894736843</real>
+		<key>Frame</key>
+		<string>{{0.038206547415084086, 0.029622570433591743}, {0.3653086375026815, 0.12900331793380104}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;dunkler und schwächer gemustert als Hemprichmöwe&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>EndPoint</key>
+		<string>{0.78384475240884199, 0.34158587508227667}</string>
+		<key>StartPoint</key>
+		<string>{0.780594734087802, 0.37431796396812145}</string>
+		<key>Type</key>
+		<string>line</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.67428261786604782</real>
+		<key>Frame</key>
+		<string>{{0.36248658098655506, 0.027126733293873433}, {0.12960765025420332, 0.048333311634528704}}</string>
+		<key>Text</key>
+		<string>&lt;p class="center"&gt;&lt;b&gt;JK&lt;/b&gt;&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.67428261786604782</real>
+		<key>Frame</key>
+		<string>{{0.19728984815130476, 0.8325249190753885}, {0.10623591603357613, 0.048333311634528704}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;&lt;b&gt;JK&lt;/b&gt;&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.22677915193123499</real>
+		<key>Frame</key>
+		<string>{{0.20202777509868589, 0.68224656879322965}, {0.15430408322153336, 0.14370947074071302}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;grau-weiß, u-förmig&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>EndPoint</key>
+		<string>{0.28352044052614922, 0.72385576268137097}</string>
+		<key>StartPoint</key>
+		<string>{0.31885877425698372, 0.68811601303623937}</string>
+		<key>Type</key>
+		<string>line</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.50016119537673365</real>
+		<key>Frame</key>
+		<string>{{0.40483359485595649, 0.57010220427728342}, {0.28150333226105689, 0.065159616940130075}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;schlanke Gestalt&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>EndPoint</key>
+		<string>{0.53404415031732633, 0.66341210098754988}</string>
+		<key>StartPoint</key>
+		<string>{0.56697470399306671, 0.63554385680664616}</string>
+		<key>Type</key>
+		<string>line</string>
+	</dict>
+</array>
+</plist>

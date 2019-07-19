@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>FontScale</key>
+		<real>0.46547964154402433</real>
+		<key>Frame</key>
+		<string>{{0.57975408691152941, 0.039483075345176179}, {0.42024591308847059, 0.1395565400768477}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;&lt;b&gt;JK&lt;/b&gt;&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.17476776739356231</real>
+		<key>Frame</key>
+		<string>{{0.11550219115970682, 0.62830257993850058}, {0.55087302263293758, 0.37169742006149931}}</string>
+		<key>Text</key>
+		<string>&lt;p class="right"&gt;im JK dunkle Flügeldecken mit deutlichem hellem Band (ältere Vögel zeigen mehrere helle Bänder)&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>EndPoint</key>
+		<string>{0.43997175770963703, 0.66596336877679796}</string>
+		<key>StartPoint</key>
+		<string>{0.40472522848318238, 0.59064179110020354}</string>
+		<key>Type</key>
+		<string>line</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.31242312423124263</real>
+		<key>Frame</key>
+		<string>{{0.10845025914876406, 0.10231434583529418}, {0.42024591308847059, 0.20792548058002933}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;ohne die für Gänsegeier typische rostrote Unterseite&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+</array>
+</plist>

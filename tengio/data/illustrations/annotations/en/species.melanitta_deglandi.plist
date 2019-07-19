@@ -1,0 +1,151 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>FontScale</key>
+		<real>0.47856806406033209</real>
+		<key>Frame</key>
+		<string>{{0.85548054738067913, 0.40714678507362262}, {0.11395339529831984, 0.12116822653888901}}</string>
+		<key>Text</key>
+		<string>&lt;p class="right"&gt;pinkish-red&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>EndPoint</key>
+		<string>{0.8774124556109032, 0.45988817700378942}</string>
+		<key>StartPoint</key>
+		<string>{0.85323028668295198, 0.40217854704864781}</string>
+		<key>Type</key>
+		<string>line</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.33246073298431877</real>
+		<key>Frame</key>
+		<string>{{0.76299305191525213, 0.10065909006011352}, {0.20644089076374994, 0.17441832327030019}}</string>
+		<key>Text</key>
+		<string>&lt;p class="right"&gt;&lt;i&gt;deglandi
+&lt;/i&gt;(N America)&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.96212121212114965</real>
+		<key>Frame</key>
+		<string>{{0.83462704725422221, 0.27507741333041091}, {0.13480689542477714, 0.060270205946813857}}</string>
+		<key>Text</key>
+		<string>&lt;p class="right"&gt;&lt;b&gt;ad. &lt;/b&gt;♂&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.22462967057261907</real>
+		<key>Frame</key>
+		<string>{{0.39670244362677409, 0.61346950713575599}, {0.19333031255532185, 0.2581459673271147}}</string>
+		<key>Text</key>
+		<string>&lt;p class="right"&gt;’broken-
+nosed’ 
+profile&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.45765765765751598</real>
+		<key>Frame</key>
+		<string>{{0.4696789054806596, 0.35207031846510373}, {0.16014557815543387, 0.12670441022912829}}</string>
+		<key>Text</key>
+		<string>&lt;p class="center"&gt;&lt;i&gt;deglandi&lt;/i&gt;&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.76969696969692036</real>
+		<key>Frame</key>
+		<string>{{0.42472115849064812, 0.46707454666854553}, {0.14276913041720934, 0.075337757433517241}}</string>
+		<key>Text</key>
+		<string>&lt;p class="right"&gt;&lt;b&gt;ad. &lt;/b&gt;♀&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>EndPoint</key>
+		<string>{0.55106103309781862, 0.70541581563996381}</string>
+		<key>StartPoint</key>
+		<string>{0.5456662601004999, 0.65182327455657074}</string>
+		<key>Type</key>
+		<string>line</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.338308817266469</real>
+		<key>Frame</key>
+		<string>{{0.096773006164464492, 0.34840768898603042}, {0.26133979009454528, 0.17140328788612741}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;ad ♂ VELVET SCOTER (bottom)&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.72727272727272729</real>
+		<key>Frame</key>
+		<string>{{0.10594282336076558, 0.66761376411968909}, {0.14136801510962199, 0.079732459950467308}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;&lt;i&gt;deglandi&lt;/i&gt;&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>EndPoint</key>
+		<string>{0.83994513310483054, 0.7922341514072162}</string>
+		<key>StartPoint</key>
+		<string>{0.82398209967030878, 0.73562788788998157}</string>
+		<key>Type</key>
+		<string>line</string>
+	</dict>
+	<dict>
+		<key>EndPoint</key>
+		<string>{0.87749468436213385, 0.88126218870312067}</string>
+		<key>StartPoint</key>
+		<string>{0.86153165092761208, 0.82465592518589581}</string>
+		<key>Type</key>
+		<string>line</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.96212121212114965</real>
+		<key>Frame</key>
+		<string>{{0.83462704725422221, 0.69788203989662001}, {0.13480689542477714, 0.060270205946813857}}</string>
+		<key>Text</key>
+		<string>&lt;p class="right"&gt;&lt;b&gt;ad. &lt;/b&gt;♂&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.32501599488161753</real>
+		<key>Frame</key>
+		<string>{{0.78603759875299972, 0.81950685890482244}, {0.18339634392599741, 0.17841350737664738}}</string>
+		<key>Text</key>
+		<string>&lt;p class="right"&gt;pinkish-red with yellow strip&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.45765765765751598</real>
+		<key>Frame</key>
+		<string>{{0.80896214174375469, 0.57209081460610844}, {0.16014557815543387, 0.12670441022912829}}</string>
+		<key>Text</key>
+		<string>&lt;p class="right"&gt;&lt;i&gt;stejnegeri&lt;/i&gt;&lt;br/&gt;(Asia)&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+</array>
+</plist>

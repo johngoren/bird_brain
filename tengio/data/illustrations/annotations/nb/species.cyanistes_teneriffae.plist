@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>EndPoint</key>
+		<string>{0.43597463190241065, 0.3222614910193598}</string>
+		<key>StartPoint</key>
+		<string>{0.35996031343357954, 0.34350076705849436}</string>
+		<key>Type</key>
+		<string>line</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.25598387503150666</real>
+		<key>Frame</key>
+		<string>{{0.12213998121976705, 0.23550304466350483}, {0.27153399907631115, 0.12459199983445578}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;﻿ad. mangler vingebånd&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.54943758995067438</real>
+		<key>Frame</key>
+		<string>{{0.72820520657596255, 0.19598142012543249}, {0.18958170538233188, 0.058047617234219577}}</string>
+		<key>Text</key>
+		<string>&lt;p class="right"&gt;♂&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.26857145198900045</real>
+		<key>Frame</key>
+		<string>{{0.076522168558546419, 0.41524952766983059}, {0.30416090916767297, 0.11875254305455762}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;&lt;b&gt;&lt;i&gt;teneriffae&lt;/i&gt;&lt;/b&gt;&lt;/p&gt;&lt;p&gt;(﻿de sentrale Kanariøyene)&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>EndPoint</key>
+		<string>{0.47404882174916763, 0.8339464522836022}</string>
+		<key>StartPoint</key>
+		<string>{0.42288667441421862, 0.84549844420577125}</string>
+		<key>Type</key>
+		<string>line</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.39723362084118713</real>
+		<key>Frame</key>
+		<string>{{0.27972878859489209, 0.7788959105833041}, {0.14937637231204237, 0.080289132747652744}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;﻿indigoblå&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>EndPoint</key>
+		<string>{0.83025959190629961, 0.97405165681070605}</string>
+		<key>StartPoint</key>
+		<string>{0.76697058002404328, 0.95598275158923973}</string>
+		<key>Type</key>
+		<string>line</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.54943758995067438</real>
+		<key>Frame</key>
+		<string>{{0.7293888995950919, 0.67171116877309878}, {0.18958170538233188, 0.058047617234219577}}</string>
+		<key>Text</key>
+		<string>&lt;p class="right"&gt;♂&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.42075573506644187</real>
+		<key>Frame</key>
+		<string>{{0.075337290307602056, 0.88668380671089286}, {0.33080475556568423, 0.075800613651796092}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;&lt;b&gt;&lt;i&gt;ultramarinus&lt;/i&gt;&lt;/b&gt;&lt;/p&gt;&lt;p&gt;(﻿NV-Afrika)&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+</array>
+</plist>

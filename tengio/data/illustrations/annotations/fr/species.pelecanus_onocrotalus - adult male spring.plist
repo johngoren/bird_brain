@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>FontScale</key>
+		<real>0.36811594202899672</real>
+		<key>Frame</key>
+		<string>{{0.47937541482968526, 0.60485773459104886}, {0.12711889825333722, 0.15081370494779289}}</string>
+		<key>Text</key>
+		<string>&lt;p class="right"&gt;crête flottante&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>EndPoint</key>
+		<string>{0.55578234998971066, 0.75232840061350481}</string>
+		<key>StartPoint</key>
+		<string>{0.58980060103169663, 0.78812772240904005}</string>
+		<key>Type</key>
+		<string>line</string>
+	</dict>
+	<dict>
+		<key>EndPoint</key>
+		<string>{0.80329887242704578, 0.94451642660389501}</string>
+		<key>StartPoint</key>
+		<string>{0.76654160064294941, 0.90604800331286883}</string>
+		<key>Type</key>
+		<string>line</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.29200524414382145</real>
+		<key>Frame</key>
+		<string>{{0.80253309593154143, 0.80987694508528696}, {0.18148902943398118, 0.19012305491471304}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;masque rosé, petit œil&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.17689902245662462</real>
+		<key>Frame</key>
+		<string>{{0.75699240494723241, 0.01955905859573813}, {0.24300759505276759, 0.31383400708928522}}</string>
+		<key>Text</key>
+		<string>&lt;p class="center"&gt;poche jugulaire jaune-orangée à tout âge&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>EndPoint</key>
+		<string>{0.88234626460514942, 0.335379681915146}</string>
+		<key>StartPoint</key>
+		<string>{0.88713024079676428, 0.44262549954263941}</string>
+		<key>Type</key>
+		<string>line</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.39980001237771035</real>
+		<key>Frame</key>
+		<string>{{0.38007972924625683, 0.01872599258116895}, {0.2802741973537437, 0.1388617492469971}}</string>
+		<key>Text</key>
+		<string>&lt;p class="right"&gt;♂ &lt;b&gt;ad. nuptial&lt;/b&gt;&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+</array>
+</plist>

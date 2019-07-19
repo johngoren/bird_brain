@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>FontScale</key>
+		<real>0.4126674950465124</real>
+		<key>Frame</key>
+		<string>{{0.35889904866521194, 0.43392373580210203}, {0.17549358982094693, 0.085026768849341738}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;﻿isolert kinnflekk&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>EndPoint</key>
+		<string>{0.51214282458970073, 0.45687275838155117}</string>
+		<key>StartPoint</key>
+		<string>{0.56092942386353917, 0.40758208032682375}</string>
+		<key>Type</key>
+		<string>line</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.26835956534617139</real>
+		<key>Frame</key>
+		<string>{{0.76637663502762299, 0.28487178835724614}, {0.21543578265633817, 0.13074914496785336}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;﻿mørk panne møter mørk tøyleflekk&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.69265484574436176</real>
+		<key>Frame</key>
+		<string>{{0.48115824546797542, 0.12787826636119301}, {0.15892221403192899, 0.050656952634539912}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;﻿lyse&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.73845599116593175</real>
+		<key>Frame</key>
+		<string>{{0.63398231488338774, 0.045976818303982571}, {0.20610544435797287, 0.047515064042689077}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;﻿lange tær&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.6557206463554951</real>
+		<key>Frame</key>
+		<string>{{0.068375453433496686, 0.061935324898125206}, {0.16398598246372559, 0.053510262194693875}}</string>
+		<key>Text</key>
+		<string>&lt;p class="right"&gt;&lt;b&gt;juv.&lt;/b&gt;&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>EndPoint</key>
+		<string>{0.75427709122633591, 0.39557216322429506}</string>
+		<key>StartPoint</key>
+		<string>{0.68619335158153805, 0.389133494219985}</string>
+		<key>Type</key>
+		<string>line</string>
+	</dict>
+	<dict>
+		<key>EndPoint</key>
+		<string>{0.47485857789958857, 0.16060309246850396}</string>
+		<key>StartPoint</key>
+		<string>{0.41218473095421054, 0.14972432408455569}</string>
+		<key>Type</key>
+		<string>line</string>
+	</dict>
+	<dict>
+		<key>EndPoint</key>
+		<string>{0.62098608406898181, 0.079850470371650439}</string>
+		<key>StartPoint</key>
+		<string>{0.57605821930405843, 0.079850470371650439}</string>
+		<key>Type</key>
+		<string>line</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.6557206463554951</real>
+		<key>Frame</key>
+		<string>{{0.47268343307904298, 0.61545256154206296}, {0.16398598246372559, 0.053510262194693875}}</string>
+		<key>Text</key>
+		<string>&lt;p class="right"&gt;&lt;b&gt;juv.&lt;/b&gt;&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+</array>
+</plist>

@@ -41,7 +41,7 @@ def status():
 	os.system(cmd)
 
 	click.echo('\nOn phone right now:')
-	cmd = f'{ADB} shell ls {config.OBB_DESTINATION_DIR}'
+	cmd = f'adb shell ls {config.OBB_DESTINATION_DIR}'
 	os.system(cmd)
 
 	click.echo('\n\n')
@@ -61,9 +61,9 @@ def pack(original):
 
 	filename = f'main.{version}.{app_package}.obb'
 	destination_path = f'{destination_dir}/{filename}'
-	cmd = f'{adb} mkdir {destination_dir}'
+	cmd = f'adb mkdir {destination_dir}'
 	os.system(cmd)
-	cmd = f'{adb} push {OBB_SOURCE_DIR}/{filename} {destination_path}'
+	cmd = f'adb push {OBB_SOURCE_DIR}/{filename} {destination_path}'
 	click.echo(cmd)
 	os.system(cmd)
 
@@ -128,7 +128,6 @@ def missing():
 	click.echo(len(need_conversion))
 
 
-
 @cli.command()
 def forge():
 	"""Build new expansion pack from assets"""
@@ -137,7 +136,7 @@ def forge():
 
 	obb_source_dir = config.PATH_OBB_SOURCE
 	obb_filename = config.OBB_FILENAME
-	obb_creation_path = config.OBB_CREATION_PATH
+	obb_creation_path = config.PATH_OBB_CREATION
 
 	cmd = f'cd {obb_source_dir} && zip -r0 {obb_filename} ./ -x "*.obb"'
 	click.echo(cmd)
@@ -193,13 +192,15 @@ def id(ref):
 @cli.command()
 @click.argument('ref')
 def name(ref):
-	"""Compose filename to follow NatureGuides nomenclature"""
+	"""Compose ideal NatureGuides filename"""
 
 	# Future version of this can support other categories but right
 	# now this is strictly for songs.
 
 	# Songs
-	new_name = name_song(ref)
+	clean_ref = ref.replace(".wav", "")
+
+	new_name = name_song(clean_ref)
 	click.echo(new_name)
 
 @cli.command()
@@ -220,7 +221,9 @@ def modernname(name):
 		click.echo(f'No Strix reference found for id {id}.')
 		return
 
-	song_name = name_song(ref)
+	clean_ref = ref.replace(".wav", "")
+
+	song_name = name_song(clean_ref)
 	click.echo(song_name)
 
 def name_song(ref):

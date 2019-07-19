@@ -1,0 +1,232 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>FontScale</key>
+		<real>0.16055625790139785</real>
+		<key>Frame</key>
+		<string>{{0.068033275919406666, 0.055008525155045805}, {0.16451964381714651, 0.24989885963818917}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;auch von unten betrachtet klares Erscheinungsbild durch gelbe Kehle, rein weiße Unterseite, kon­trastreiche Kopfzeichnung und sehr lange Flügel&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>EndPoint</key>
+		<string>{0.20808092300605338, 0.45465714391904377}</string>
+		<key>StartPoint</key>
+		<string>{0.22124032386636955, 0.41852290615529347}</string>
+		<key>Type</key>
+		<string>line</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.3395979841034143</real>
+		<key>Frame</key>
+		<string>{{0.18144185202314442, 0.31908464310709378}, {0.074994828690238782, 0.11814800922115054}}</string>
+		<key>Text</key>
+		<string>&lt;p class="right"&gt;kurzschwänzig&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.2609764600113843</real>
+		<key>Frame</key>
+		<string>{{0.72051525230642888, 0.77220121478379988}, {0.13558275607945877, 0.15374116790297521}}</string>
+		<key>Text</key>
+		<string>&lt;p class="right"&gt;bei manchen Vögeln Grün- und Gelbpigmentierung sehr schwach&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>EndPoint</key>
+		<string>{0.59445195844713206, 0.33174068159792153}</string>
+		<key>StartPoint</key>
+		<string>{0.58213962610123737, 0.37231031473333598}</string>
+		<key>Type</key>
+		<string>line</string>
+	</dict>
+	<dict>
+		<key>EndPoint</key>
+		<string>{0.65715424262118616, 0.47318185517973027}</string>
+		<key>StartPoint</key>
+		<string>{0.58677587301082934, 0.35878626451682949}</string>
+		<key>Type</key>
+		<string>line</string>
+	</dict>
+	<dict>
+		<key>EndPoint</key>
+		<string>{0.62139473353602914, 0.41480897640015146}</string>
+		<key>StartPoint</key>
+		<string>{0.60908240119013457, 0.45537860953556569}</string>
+		<key>Type</key>
+		<string>line</string>
+	</dict>
+	<dict>
+		<key>EndPoint</key>
+		<string>{0.67400822526607951, 0.42314113715280927}</string>
+		<key>StartPoint</key>
+		<string>{0.65182815230304858, 0.48740535242836047}</string>
+		<key>Type</key>
+		<string>line</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.4406443618336911</real>
+		<key>Frame</key>
+		<string>{{0.51575707544837779, 0.44301859083441425}, {0.13332413989375844, 0.091054894224375821}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;Handschwingen­projektion sehr lang&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.7241625089092516</real>
+		<key>Frame</key>
+		<string>{{0.70186266348757553, 0.60776363551467627}, {0.050259692209950017, 0.055405831237753722}}</string>
+		<key>Text</key>
+		<string>&lt;p class="center"&gt;grün&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>EndPoint</key>
+		<string>{0.76754172234181384, 0.56653500865798212}</string>
+		<key>StartPoint</key>
+		<string>{0.73897322885942685, 0.62804401739858928}</string>
+		<key>Type</key>
+		<string>line</string>
+	</dict>
+	<dict>
+		<key>EndPoint</key>
+		<string>{0.88394033145046991, 0.24967744031979838}</string>
+		<key>StartPoint</key>
+		<string>{0.85537183796808303, 0.31118644906039883}</string>
+		<key>Type</key>
+		<string>line</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.7241625089092516</real>
+		<key>Frame</key>
+		<string>{{0.85609800838588535, 0.20850992645300459}, {0.090388504052972871, 0.055405831237753722}}</string>
+		<key>Text</key>
+		<string>&lt;p class="right"&gt;rein weiß&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.16544536720409028</real>
+		<key>Frame</key>
+		<string>{{0.88684990759016602, 0.27694777786784225}, {0.10394020116717352, 0.24251404820444181}}</string>
+		<key>Text</key>
+		<string>&lt;p class="right"&gt;Kehle, Ohrdecken und Brust-seiten hell zitronengelb&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>EndPoint</key>
+		<string>{0.94512032327671802, 0.49797868433237791}</string>
+		<key>StartPoint</key>
+		<string>{0.92049892604118388, 0.51683744522073061}</string>
+		<key>Type</key>
+		<string>line</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.65463917525781556</real>
+		<key>Frame</key>
+		<string>{{0.85922023386218249, 0.085021662532568446}, {0.060390572576876925, 0.061289985802534371}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;&lt;b&gt;Frühjahr&lt;/b&gt;&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.25149401578797997</real>
+		<key>Frame</key>
+		<string>{{0.86965608470927791, 0.72477536399670972}, {0.12113402404806202, 0.15953789449670067}}</string>
+		<key>Text</key>
+		<string>&lt;p class="right"&gt;breiter zitronen-gelber Überaugenstreif und dunkler Augenstreif&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>EndPoint</key>
+		<string>{0.9176320923441309, 0.72439628262645994}</string>
+		<key>StartPoint</key>
+		<string>{0.90352629495319936, 0.69505796784065754}</string>
+		<key>Type</key>
+		<string>line</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.2288288288288374</real>
+		<key>Frame</key>
+		<string>{{0.22744004050072913, 0.48166896755880362}, {0.095896092913481348, 0.17533990783716313}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;kontrastreich helle Schirm-federsäume&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>EndPoint</key>
+		<string>{0.27138437871571019, 0.53488858508859294}</string>
+		<key>StartPoint</key>
+		<string>{0.29046442394630972, 0.48927651446879045}</string>
+		<key>Type</key>
+		<string>line</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.33996988455751831</real>
+		<key>Frame</key>
+		<string>{{0.2842598805703489, 0.82697801128139214}, {0.15183929299572957, 0.1180187645430873}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;deutlicher Augenstreif endet mit dunklem „Haken“&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>EndPoint</key>
+		<string>{0.40315895381967953, 0.79622350691109922}</string>
+		<key>StartPoint</key>
+		<string>{0.37459046033728977, 0.85773251565169961}</string>
+		<key>Type</key>
+		<string>line</string>
+	</dict>
+	<dict>
+		<key>EndPoint</key>
+		<string>{0.48388425030844306, 0.7085521725213183}</string>
+		<key>StartPoint</key>
+		<string>{0.44347446808548929, 0.76058334840585962}</string>
+		<key>Type</key>
+		<string>line</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.25656565656568009</real>
+		<key>Frame</key>
+		<string>{{0.48871946615742273, 0.57313005461982558}, {0.11130811416130232, 0.15638424212502891}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;Ohrdecken „sauberer“ als bei Fitis&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.38587162932011237</real>
+		<key>Frame</key>
+		<string>{{0.43109186095334356, 0.16941386592174218}, {0.060390572576876647, 0.10397972462507504}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;&lt;b&gt;1er W&lt;/b&gt;&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+</array>
+</plist>

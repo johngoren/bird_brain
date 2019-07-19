@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>FontScale</key>
+		<real>0.39074997689581148</real>
+		<key>Frame</key>
+		<string>{{0.72261594250219296, 0.061063357288445537}, {0.24210739741578927, 0.11105278331895838}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;&lt;b&gt;﻿ad. parringsdrakt&lt;/b&gt;&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.38095090467314469</real>
+		<key>Frame</key>
+		<string>{{0.48666804629979488, 0.60148423787430616}, {0.17689702285853737, 0.11390935678005655}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;&lt;b&gt;ung /ad. vinter&lt;/b&gt;&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.19277032830412152</real>
+		<key>Frame</key>
+		<string>{{0.053066329647693887, 0.32224165899871898}, {0.21867979478682875, 0.22510659652785764}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;﻿mye hvitere i flukt enn stående&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+</array>
+</plist>

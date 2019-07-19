@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>EndPoint</key>
+		<string>{0.46912377827741936, 0.40699385223762918}</string>
+		<key>StartPoint</key>
+		<string>{0.53265302746218068, 0.33353624592742992}</string>
+		<key>Type</key>
+		<string>line</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.33858484016003276</real>
+		<key>Frame</key>
+		<string>{{0.26201367140212889, 0.35382796488420204}, {0.27607697785293228, 0.10391097180169594}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;﻿«innrammete» øredekkere&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>EndPoint</key>
+		<string>{0.73374166186820111, 0.3348884031058868}</string>
+		<key>StartPoint</key>
+		<string>{0.66325794327085941, 0.30636418531657322}</string>
+		<key>Type</key>
+		<string>line</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.15767981585854737</real>
+		<key>Frame</key>
+		<string>{{0.74400143062377022, 0.12998855338099588}, {0.20557285694634037, 0.22312735201259268}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;﻿øyenbryn når nebbfestet; tydelig, isolert, mørk tøyleflekk&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.59526231652376105</real>
+		<key>Frame</key>
+		<string>{{0.48459266491701608, 0.073265971856016313}, {0.15063005194897974, 0.059104496961629026}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;﻿lyse&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.65571845942448537</real>
+		<key>Frame</key>
+		<string>{{0.12672347785166621, 0.0094279327928601265}, {0.16437990725947177, 0.053655161407580657}}</string>
+		<key>Text</key>
+		<string>&lt;p class="right"&gt;&lt;b&gt;juv.&lt;/b&gt;&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>EndPoint</key>
+		<string>{0.47450621236120533, 0.10879354560372823}</string>
+		<key>StartPoint</key>
+		<string>{0.41844667216051462, 0.098627368147066741}</string>
+		<key>Type</key>
+		<string>line</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.4541061909293323</real>
+		<key>Frame</key>
+		<string>{{0.43679490067291737, 0.59851078988635698}, {0.22363437744364176, 0.077476767507505734}}</string>
+		<key>Text</key>
+		<string>&lt;p class="center"&gt;&lt;b&gt;juv.&lt;/b&gt;&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+</array>
+</plist>

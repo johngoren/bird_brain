@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>FontScale</key>
+		<real>0.2008576456375771</real>
+		<key>Frame</key>
+		<string>{{0.67275734798556563, 0.84772181748565556}, {0.10961805801502271, 0.13129050822160873}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;on the lookout from top of a dead tree&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.36718171487053541</real>
+		<key>Frame</key>
+		<string>{{0.72334721686781689, 0.02966730842960141}, {0.22477973963069942, 0.071819214595833944}}</string>
+		<key>Text</key>
+		<string>&lt;p class="center"&gt;hawk-like silhouette in flight, but head is proportionately bigger&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.2066191090727951</real>
+		<key>Frame</key>
+		<string>{{0.34810957532298098, 0.52963944982399014}, {0.072187435107772216, 0.12762954256405437}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;large pale shoulder patches&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>EndPoint</key>
+		<string>{0.6345865680425109, 0.43836715051775138}</string>
+		<key>StartPoint</key>
+		<string>{0.61438517116324609, 0.47016301883461781}</string>
+		<key>Type</key>
+		<string>line</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.19583308846892861</real>
+		<key>Frame</key>
+		<string>{{0.62017643775476616, 0.29584298625071287}, {0.066736699500181018, 0.13465907412340761}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;finely &lt;/p&gt;&lt;p&gt;barred, like a hawk&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.626666007939784</real>
+		<key>Frame</key>
+		<string>{{0.48625366968646883, 0.11279521084276853}, {0.039212879317262, 0.042080952280544377}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;long&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>EndPoint</key>
+		<string>{0.48367423257439912, 0.14520333298217558}</string>
+		<key>StartPoint</key>
+		<string>{0.46347283538730455, 0.1769991337503784}</string>
+		<key>Type</key>
+		<string>line</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.57207286503441257</real>
+		<key>Frame</key>
+		<string>{{0.49693963646328038, 0.91173597052774247}, {0.10686005158614173, 0.04609675443069125}}</string>
+		<key>Text</key>
+		<string>&lt;p class="center"&gt;grim look&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.17118922474724296</real>
+		<key>Frame</key>
+		<string>{{0.022006054920795458, 0.050043547555912622}, {0.074751228934644129, 0.154044171967535}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;young &lt;/p&gt;&lt;p&gt;just out &lt;/p&gt;&lt;p&gt;of nest, &lt;/p&gt;&lt;p&gt;&lt;i&gt;c&lt;/i&gt;. 4 &lt;/p&gt;&lt;p&gt;weeks old &lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.27610497179378107</real>
+		<key>Frame</key>
+		<string>{{0.17777760886152902, 0.82014761594381536}, {0.10516199089828243, 0.095509697650968783}}</string>
+		<key>Text</key>
+		<string>&lt;p class="right"&gt;pale nape pattern creates ‘false face’&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+</array>
+</plist>

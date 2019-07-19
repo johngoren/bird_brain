@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>FontScale</key>
+		<real>0.52089403493558184</real>
+		<key>Frame</key>
+		<string>{{0.72401295997703741, 0.75066101385185002}, {0.095562327467271294, 0.064647012144017552}}</string>
+		<key>Text</key>
+		<string>&lt;p class="center"&gt;mâle en parade&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.29502571034248437</real>
+		<key>Frame</key>
+		<string>{{0.13932039330707516, 0.74743626149952369}, {0.14317152349299331, 0.11414002855254776}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;pas de bande noire sur le cou chez le juv.&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.64603130791372576</real>
+		<key>Frame</key>
+		<string>{{0.014724921912856175, 0.62349173983324624}, {0.050512570641527622, 0.05212478495968477}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;&lt;b&gt;juv.&lt;/b&gt;&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.58565530553520329</real>
+		<key>Frame</key>
+		<string>{{0.43427708425831951, 0.5659933398632272}, {0.050512570641527622, 0.057498399970019091}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;&lt;b&gt;ad.&lt;/b&gt;&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.29502571034248437</real>
+		<key>Frame</key>
+		<string>{{0.37972299441010821, 0.75411312046543877}, {0.10189513939999441, 0.11414002855254776}}</string>
+		<key>Text</key>
+		<string>&lt;p class="right"&gt;crête noire et blanche&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>EndPoint</key>
+		<string>{0.41643839178935166, 0.74388149043830087}</string>
+		<key>StartPoint</key>
+		<string>{0.41569580258152394, 0.79736596211691591}</string>
+		<key>Type</key>
+		<string>line</string>
+	</dict>
+</array>
+</plist>

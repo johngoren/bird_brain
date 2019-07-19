@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>FontScale</key>
+		<real>0.4849802513414484</real>
+		<key>Frame</key>
+		<string>{{0.035394920482121423, 0.13408638204142126}, {0.31544458301188849, 0.10499891917700882}}</string>
+		<key>Text</key>
+		<string>&lt;p class="center"&gt;wippt bei der Nahrungssuche schnell mit dem Vorderkörper&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.70221907915180004</real>
+		<key>Frame</key>
+		<string>{{0.63710960220193291, 0.72235853396034611}, {0.046943271771119337, 0.072516403676406188}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;kurz&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.67016848972802323</real>
+		<key>Frame</key>
+		<string>{{0.59651021424890294, 0.87954440006434043}, {0.059502449943438118, 0.075984477028623321}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;dunkel&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>EndPoint</key>
+		<string>{0.59253034726751952, 0.93072904497684372}</string>
+		<key>StartPoint</key>
+		<string>{0.58201661891113343, 0.89667542227337438}</string>
+		<key>Type</key>
+		<string>line</string>
+	</dict>
+	<dict>
+		<key>EndPoint</key>
+		<string>{0.64760739382601262, 0.74492672264922721}</string>
+		<key>StartPoint</key>
+		<string>{0.634028400230221, 0.71035658196487683}</string>
+		<key>Type</key>
+		<string>line</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.70555557549245174</real>
+		<key>Frame</key>
+		<string>{{0.40329877438767231, 0.3629737393214269}, {0.050735998193342471, 0.072173481412154114}}</string>
+		<key>Text</key>
+		<string>&lt;p class="right"&gt;&lt;b&gt;ad.&lt;/b&gt;&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.61515449516248</real>
+		<key>Frame</key>
+		<string>{{0.5976386571100214, 0.39906048002750494}, {0.19070436775804248, 0.082779858740357731}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;drückt sich eng an den Boden&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.6771413810917859</real>
+		<key>Frame</key>
+		<string>{{0.93547628184218645, 0.56397987357117774}, {0.039643895086265889, 0.075202023735341142}}</string>
+		<key>Text</key>
+		<string>&lt;p class="right"&gt;kurz&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>EndPoint</key>
+		<string>{0.96351961296075483, 0.65096885798456428}</string>
+		<key>StartPoint</key>
+		<string>{0.96489652383427416, 0.71498614985363929}</string>
+		<key>Type</key>
+		<string>line</string>
+	</dict>
+</array>
+</plist>

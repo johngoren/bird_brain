@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>FontScale</key>
+		<real>0.7273768613974726</real>
+		<key>Frame</key>
+		<string>{{0.23636297530901854, 0.010172272306026018}, {0.47765564959432411, 0.046903218332164785}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;﻿smalt vingebånd&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>EndPoint</key>
+		<string>{0.42245563778395839, 0.10397870897035694}</string>
+		<key>StartPoint</key>
+		<string>{0.36133207455600214, 0.057075490638190694}</string>
+		<key>Type</key>
+		<string>line</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.39379844961240423</real>
+		<key>Frame</key>
+		<string>{{0.30493871815811879, 0.18472961063501073}, {0.38383043270972389, 0.086633951386729358}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;﻿lys hodeside, mørkt øye står klart fram&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.35763398142264569</real>
+		<key>Frame</key>
+		<string>{{0.12709286539550216, 0.80708090891511597}, {0.27842494052642308, 0.095394502513932944}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;﻿relativt lite spisse vinger&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.20780403676768963</real>
+		<key>Frame</key>
+		<string>{{0.489537380956027, 0.78290399224905149}, {0.37476357209453565, 0.16417542349300016}}</string>
+		<key>Text</key>
+		<string>&lt;p class="right"&gt;﻿rundt hode og lite nebb gir «yndig» utseende&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.21492638348282025</real>
+		<key>Frame</key>
+		<string>{{0.23105953378302035, 0.40117734133263377}, {0.44344180372288577, 0.1587348895330826}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;﻿iøynefallende hvit undervinge, nokså lite svart i vingespisssen&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>EndPoint</key>
+		<string>{0.72044009795620523, 0.47666304781223884}</string>
+		<key>StartPoint</key>
+		<string>{0.64186063929122095, 0.47666304781223884}</string>
+		<key>Type</key>
+		<string>line</string>
+	</dict>
+</array>
+</plist>

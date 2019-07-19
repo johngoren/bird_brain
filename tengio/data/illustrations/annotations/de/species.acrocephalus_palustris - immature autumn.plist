@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>EndPoint</key>
+		<string>{0.32324298711530286, 0.77699715857392426}</string>
+		<key>StartPoint</key>
+		<string>{0.33855783048489785, 0.71047661827605679}</string>
+		<key>Type</key>
+		<string>line</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.22547939768799999</real>
+		<key>Frame</key>
+		<string>{{0, 0.70431162541355519}, {0.41877608012406098, 0.2283309339262066}}</string>
+		<key>Text</key>
+		<string>&lt;p class="right"&gt;lange Handschwingenprojektion und dunkle Handschwingen mit hellen Spitzen&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.24415559256237476</real>
+		<key>Frame</key>
+		<string>{{0.46564904033511506, 0.78542381304689202}, {0.31399376511821442, 0.21086521473828998}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;beachte: Jungvögel von Teich- und Sumpfrohrsänger extrem ähnlich&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.47000044225098625</real>
+		<key>Frame</key>
+		<string>{{0.24629111526862829, 0.15315217719901286}, {0.23372437789012107, 0.10954015534250605}}</string>
+		<key>Text</key>
+		<string>&lt;p class="right"&gt;hell gelblich rosa&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>EndPoint</key>
+		<string>{0.487688524714529, 0.26079849849817288}</string>
+		<key>StartPoint</key>
+		<string>{0.52408771375200691, 0.30293589533775078}</string>
+		<key>Type</key>
+		<string>line</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.48205071624280493</real>
+		<key>Frame</key>
+		<string>{{0.69749680547889403, 0.24111832302457561}, {0.15732212046148217, 0.10680187731385418}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;&lt;b&gt;1er W&lt;/b&gt;&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.18284942986094854</real>
+		<key>Frame</key>
+		<string>{{0.81100023242849761, 0.30619818637389812}, {0.18049438507028381, 0.28156457197800155}}</string>
+		<key>Text</key>
+		<string>&lt;p class="right"&gt;vergleichsweise kurz und stumpf&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>EndPoint</key>
+		<string>{0.93349341339364544, 0.61304372675104313}</string>
+		<key>StartPoint</key>
+		<string>{0.92889656724882808, 0.6758128489624553}</string>
+		<key>Type</key>
+		<string>line</string>
+	</dict>
+</array>
+</plist>

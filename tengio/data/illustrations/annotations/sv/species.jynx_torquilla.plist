@@ -1,0 +1,126 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>FontScale</key>
+		<real>0.28923064248957797</real>
+		<key>Frame</key>
+		<string>{{0.69980600984430186, 0.60754985980432874}, {0.25126964537312324, 0.11493403937690175}}</string>
+		<key>Text</key>
+		<string>&lt;p class="center"&gt;kan i flykten tas för en törnskate-♀&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.33176737404827472</real>
+		<key>Frame</key>
+		<string>{{0.053496314990859745, 0.049050091177186179}, {0.20207659998043578, 0.10019805638895257}}</string>
+		<key>Text</key>
+		<string>&lt;p class="right"&gt;lång, glest tvärbandad&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.45248835453758762</real>
+		<key>Frame</key>
+		<string>{{0.81594529595495002, 0.089329399867641782}, {0.15558180240527966, 0.073465859882461002}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;tvärfläckad&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>EndPoint</key>
+		<string>{0.80568086479632428, 0.15201482308628733}</string>
+		<key>StartPoint</key>
+		<string>{0.77488250856288732, 0.18176248557975419}</string>
+		<key>Type</key>
+		<string>line</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.39166656706070913</real>
+		<key>Frame</key>
+		<string>{{0.8658380521750455, 0.2017933241364665}, {0.09755914627454032, 0.084874351932497483}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;könen lika&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.66655591756198318</real>
+		<key>Frame</key>
+		<string>{{0.51625239461138983, 0.3663627042693422}, {0.18698748843407254, 0.04987195399073556}}</string>
+		<key>Text</key>
+		<string>&lt;p class="center"&gt;mörkt band&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>EndPoint</key>
+		<string>{0.63420601266417154, 0.38157087622023061}</string>
+		<key>StartPoint</key>
+		<string>{0.67204180110926248, 0.34502603705672841}</string>
+		<key>Type</key>
+		<string>line</string>
+	</dict>
+	<dict>
+		<key>EndPoint</key>
+		<string>{0.90526888328804567, 0.4829383620822717}</string>
+		<key>StartPoint</key>
+		<string>{0.90955715682325666, 0.44296460634674711}</string>
+		<key>Type</key>
+		<string>line</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.58749809504173134</real>
+		<key>Frame</key>
+		<string>{{0.72762943667120172, 0.46173488431937831}, {0.2357677617783801, 0.056583070368155769}}</string>
+		<key>Text</key>
+		<string>&lt;p class="right"&gt;kort, spetsig&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>EndPoint</key>
+		<string>{0.26777813899665565, 0.13296174487341209}</string>
+		<key>StartPoint</key>
+		<string>{0.33026452277783319, 0.13436786924811664}</string>
+		<key>Type</key>
+		<string>line</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.31815340970121386</real>
+		<key>Frame</key>
+		<string>{{0.40704066471359501, 0.48249220323802028}, {0.23928983349900723, 0.10448558789334553}}</string>
+		<key>Text</key>
+		<string>&lt;p class="center"&gt;letar ofta myror på marken&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>EndPoint</key>
+		<string>{0.11182403160488656, 0.62458578458679659}</string>
+		<key>StartPoint</key>
+		<string>{0.048423983110427837, 0.70160538244245074}</string>
+		<key>Type</key>
+		<string>line</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.3686264069012461</real>
+		<key>Frame</key>
+		<string>{{0.024288622959114183, 0.68246139478546541}, {0.17052982223366348, 0.090179231413036839}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;gulockra strupe&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+</array>
+</plist>

@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>FontScale</key>
+		<real>0.28000017089854151</real>
+		<key>Frame</key>
+		<string>{{0.21298039734241409, 0.74289719069957783}, {0.34653689516838182, 0.22254292356152536}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;nätt byggd, iögonfallande stjärtteckning&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.19832129611555807</real>
+		<key>Frame</key>
+		<string>{{0.19393990859690202, 0.045601309803367816}, {0.30724115532092078, 0.31419750601660096}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;varierande &lt;/p&gt;&lt;p&gt;tydlig vingfläck, större hos ♂♂ än hos ♀♀&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.60000000000000009</real>
+		<key>Frame</key>
+		<string>{{0.68899261598029882, 0.065963123583860736}, {0.26948075929110693, 0.10385342771581359}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;&lt;b&gt;1:a vint.&lt;/b&gt; ♂&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+</array>
+</plist>

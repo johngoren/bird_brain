@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>EndPoint</key>
+		<string>{0.63138778434102116, 0.43940418280899979}</string>
+		<key>StartPoint</key>
+		<string>{0.71185532130434181, 0.36221859571053}</string>
+		<key>Type</key>
+		<string>line</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.52888720311831572</real>
+		<key>Frame</key>
+		<string>{{0.69037669621016473, 0.24313212687563224}, {0.241899462384981, 0.098633250527765018}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;﻿musegrå&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.21399220250321774</real>
+		<key>Frame</key>
+		<string>{{0.095360364877782253, 0.40286515906408876}, {0.43320719302197008, 0.24377460204566739}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;♀&lt;b&gt; / ung / &lt;/b&gt;&lt;/p&gt;&lt;p&gt;&lt;b&gt;1. som. &lt;/b&gt;♂&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.30806549423893276</real>
+		<key>Frame</key>
+		<string>{{0.057850064633095076, 0.81798426387638634}, {0.52587969950884295, 0.16933368060247089}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;﻿de fleste 1. sommer ♂♂ ﻿ligner på ♀♀&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+</array>
+</plist>

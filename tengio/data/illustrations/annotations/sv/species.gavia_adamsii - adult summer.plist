@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>EndPoint</key>
+		<string>{0.65606478468092333, 0.28030690522585272}</string>
+		<key>StartPoint</key>
+		<string>{0.70711519514102095, 0.24336245482214774}</string>
+		<key>Type</key>
+		<string>line</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.25958521841401389</real>
+		<key>Frame</key>
+		<string>{{0.55889825151051598, 0.25952155617739503}, {0.090276161153882956, 0.11404243389788332}}</string>
+		<key>Text</key>
+		<string>&lt;p class="right"&gt;breda vita &lt;/p&gt;&lt;p class="right"&gt;band&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.47092283538435958</real>
+		<key>Frame</key>
+		<string>{{0.13149900141961826, 0.18190867150725462}, {0.17658569942840677, 0.062863229148116595}}</string>
+		<key>Text</key>
+		<string>&lt;p class="right"&gt;&lt;b&gt;ad. sommar&lt;/b&gt;&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.43838450955777186</real>
+		<key>Frame</key>
+		<string>{{0.57184889525135008, 0.73400262680507733}, {0.081195515706477747, 0.06752914271927872}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;&lt;b&gt;ad. sommar&lt;/b&gt;&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+</array>
+</plist>

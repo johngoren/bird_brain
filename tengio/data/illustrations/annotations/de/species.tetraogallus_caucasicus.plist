@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>FontScale</key>
+		<real>0.33519613999792719</real>
+		<key>Frame</key>
+		<string>{{0.12999110583589901, 0.92002101889863619}, {0.22490468497894731, 0.057429129328822992}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;Balzstellung,singendes ♂&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>EndPoint</key>
+		<string>{0.77316671755208932, 0.12012195509264333}</string>
+		<key>StartPoint</key>
+		<string>{0.70553267464254876, 0.15738470844068503}</string>
+		<key>Type</key>
+		<string>line</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.33008447043533862</real>
+		<key>Frame</key>
+		<string>{{0.12499122908615923, 0.054527882448361965}, {0.42136209889115739, 0.058318473598818296}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;Vögel trockenerer Regionen heller und bunter, manchmal mit zimtfarbenem Bartstreif&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.13091096508181974</real>
+		<key>Frame</key>
+		<string>{{0.88623590615550929, 0.13767695881764833}, {0.11171261978565125, 0.1470466775829809}}</string>
+		<key>Text</key>
+		<string>&lt;p class="right"&gt;dunkel, kräftig gebändert und gewellt&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.49559890504171605</real>
+		<key>Frame</key>
+		<string>{{0.53267324598507504, 0.3254464611422922}, {0.14462570070221542, 0.038841939073378066}}</string>
+		<key>Text</key>
+		<string>&lt;p class="right"&gt;dunkel&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>EndPoint</key>
+		<string>{0.76007338895406518, 0.42351427127848135}</string>
+		<key>StartPoint</key>
+		<string>{0.79552401593468691, 0.41381118003453637}</string>
+		<key>Type</key>
+		<string>line</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.40063091482649321</real>
+		<key>Frame</key>
+		<string>{{0.68093870042393589, 0.067184393287872221}, {0.26115351562439992, 0.048049268696101717}}</string>
+		<key>Text</key>
+		<string>&lt;p class="right"&gt;Flanken kräftig gestreift&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>EndPoint</key>
+		<string>{0.69003086993513263, 0.35429941353615768}</string>
+		<key>StartPoint</key>
+		<string>{0.72548149691575448, 0.34459632229221271}</string>
+		<key>Type</key>
+		<string>line</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.24957258062378621</real>
+		<key>Frame</key>
+		<string>{{0.55847018558573658, 0.37616248116436368}, {0.18996336235390623, 0.077131960675925856}}</string>
+		<key>Text</key>
+		<string>&lt;p class="right"&gt;Nacken zimtfarbenüberhaucht&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>EndPoint</key>
+		<string>{0.94191426536642386, 0.29102970011926454}</string>
+		<key>StartPoint</key>
+		<string>{0.90651857833247407, 0.30220408959343564}</string>
+		<key>Type</key>
+		<string>line</string>
+	</dict>
+</array>
+</plist>

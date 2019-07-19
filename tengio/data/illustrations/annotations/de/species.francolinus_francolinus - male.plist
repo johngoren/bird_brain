@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>EndPoint</key>
+		<string>{0.61271070116303927, 0.54832400728178554}</string>
+		<key>StartPoint</key>
+		<string>{0.71293898071269635, 0.53231623454307042}</string>
+		<key>Type</key>
+		<string>line</string>
+	</dict>
+	<dict>
+		<key>EndPoint</key>
+		<string>{0.82601904380642388, 0.26392027553926911}</string>
+		<key>StartPoint</key>
+		<string>{0.78647103235914062, 0.30534186989368373}</string>
+		<key>Type</key>
+		<string>line</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.64279128768807248</real>
+		<key>Frame</key>
+		<string>{{0.23153200137765242, 0.09135636420351341}, {0.16986562860598844, 0.0501188084429448}}</string>
+		<key>Text</key>
+		<string>&lt;p class="right"&gt;♂&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.35786385803654946</real>
+		<key>Frame</key>
+		<string>{{0.73133154310411241, 0.15635757580189433}, {0.20330300914703142, 0.090022875160369067}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;schwarz&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.26082986929005031</real>
+		<key>Frame</key>
+		<string>{{0.37979817908466557, 0.47017386982579751}, {0.2121378054189223, 0.12351320615280945}}</string>
+		<key>Text</key>
+		<string>&lt;p class="right"&gt;weißer Wangenfleck&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.44143359326901277</real>
+		<key>Frame</key>
+		<string>{{0.10642780605205814, 0.74977551168954826}, {0.36737210424814426, 0.072980248688956736}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;Schwanz bei ♂ und ♀ schwarz&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.64279128768807248</real>
+		<key>Frame</key>
+		<string>{{0.62685211248772255, 0.91843127998423202}, {0.16986593579821688, 0.0501188084429448}}</string>
+		<key>Text</key>
+		<string>&lt;p class="right"&gt;♂&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>EndPoint</key>
+		<string>{0.26051008666875408, 0.86429222516612259}</string>
+		<key>StartPoint</key>
+		<string>{0.15493519069064557, 0.86429222516612259}</string>
+		<key>Type</key>
+		<string>line</string>
+	</dict>
+</array>
+</plist>

@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>FontScale</key>
+		<real>0.22280723425425528</real>
+		<key>Frame</key>
+		<string>{{0.13286535488580889, 0.11883039841065303}, {0.22231980876308002, 0.11902066128568681}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;un­­streaked flanks&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.18102508881699939</real>
+		<key>Frame</key>
+		<string>{{0.058618798960830686, 0.34717315539945226}, {0.16964270344419599, 0.14649165225370753}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;short, strong, down-curved culmen&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>EndPoint</key>
+		<string>{0.10839698545491412, 0.5000702461486014}</string>
+		<key>StartPoint</key>
+		<string>{0.12123538371489857, 0.53466975924689719}</string>
+		<key>Type</key>
+		<string>line</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.274260652800281</real>
+		<key>Frame</key>
+		<string>{{0.17467571649201385, 0.59006477289990233}, {0.17047333138137596, 0.096691465178884092}}</string>
+		<key>Text</key>
+		<string>&lt;p class="right"&gt;white gape stripe&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>EndPoint</key>
+		<string>{0.27303435178502061, 0.60411969383333453}</string>
+		<key>StartPoint</key>
+		<string>{0.26299635917186642, 0.57530004122023737}</string>
+		<key>Type</key>
+		<string>line</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.24973008401055838</real>
+		<key>Frame</key>
+		<string>{{0.77798214626962348, 0.22981245107027098}, {0.21339807364354618, 0.10618930620731784}}</string>
+		<key>Text</key>
+		<string>&lt;p class="right"&gt;&lt;b&gt;ad. &lt;/b&gt;&lt;/p&gt;&lt;p class="right"&gt;&lt;b&gt;summer&lt;/b&gt;&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.61915589118919689</real>
+		<key>Frame</key>
+		<string>{{0.50699306697125213, 0.94105932232679845}, {0.22062163609151292, 0.042830351350194973}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;&lt;b&gt;ad. s.&lt;/b&gt;&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+</array>
+</plist>

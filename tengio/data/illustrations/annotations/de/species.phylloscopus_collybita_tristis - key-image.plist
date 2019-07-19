@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>EndPoint</key>
+		<string>{0.49266177112433429, 0.78941815920312353}</string>
+		<key>StartPoint</key>
+		<string>{0.52970586968189914, 0.74004291028001146}</string>
+		<key>Type</key>
+		<string>line</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.19764198466289426</real>
+		<key>Frame</key>
+		<string>{{0.11657848518014224, 0.60009064406722146}, {0.29485839517237977, 0.26830740775562878}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;Kombination von Ruf und Gefiedermerk-malen für sichere Bestimmung unerlässlich &lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.98506784471397524</real>
+		<key>Frame</key>
+		<string>{{0.40645130179117916, 0.79524292284471265}, {0.19244281327472157, 0.053832645998079839}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;braungrau&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.3402545210984293</real>
+		<key>Frame</key>
+		<string>{{0.57663362566048271, 0.78370811310683008}, {0.34708049212965025, 0.15585041573404593}}</string>
+		<key>Text</key>
+		<string>&lt;p class="right"&gt;Überaugenstreif beige ohne Gelb&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>EndPoint</key>
+		<string>{0.8169253009460814, 0.79722628379508875}</string>
+		<key>StartPoint</key>
+		<string>{0.83275811803496391, 0.82671572950500116}</string>
+		<key>Type</key>
+		<string>line</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.19855164377187129</real>
+		<key>Frame</key>
+		<string>{{0.69523161739640882, 0.13598122730045994}, {0.22928924056545538, 0.2670781644573394}}</string>
+		<key>Text</key>
+		<string>&lt;p class="right"&gt;Gesicht, Brustseiten und Flanken beige ohne jeglichen Gelbanteil&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>EndPoint</key>
+		<string>{0.80158803844197035, 0.41403571779025583}</string>
+		<key>StartPoint</key>
+		<string>{0.75882496333171245, 0.48030204814701383}</string>
+		<key>Type</key>
+		<string>line</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.40868865647626224</real>
+		<key>Frame</key>
+		<string>{{0.63156891295596973, 0.054561995288872386}, {0.17031181403431431, 0.12975356112351255}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;&lt;b&gt;&lt;i&gt;tristis&lt;/i&gt;&lt;/b&gt;&lt;/p&gt;&lt;p&gt;(Sibirien)&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.18260244428465414</real>
+		<key>Frame</key>
+		<string>{{0.11483327219592955, 0.054561995288868168}, {0.37152726891679738, 0.2904057981059317}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;typischer &lt;i&gt;tristis&lt;/i&gt; ohne grünlichen Anflug an Kopf und Mantel, aber mit Grünton auf Flügeln, Bürzel und Schwanz&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+</array>
+</plist>

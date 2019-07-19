@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>EndPoint</key>
+		<string>{0.72750502834324493, 0.11393391297168921}</string>
+		<key>StartPoint</key>
+		<string>{0.70086224526841256, 0.15682924791814679}</string>
+		<key>Type</key>
+		<string>line</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.24541062801932662</real>
+		<key>Frame</key>
+		<string>{{0.50289345902037519, 0.025928771037539829}, {0.30893637656695488, 0.10919050764949623}}</string>
+		<key>Text</key>
+		<string>&lt;p class="right"&gt;plus irrégulièrement marqué que le 1er hiv.&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.58240072041755497</real>
+		<key>Frame</key>
+		<string>{{0.74468345986410356, 0.4005066626281123}, {0.17495886632108093, 0.046010435970614993}}</string>
+		<key>Text</key>
+		<string>&lt;p class="center"&gt;pointe pâle&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>EndPoint</key>
+		<string>{0.86714246934522576, 0.41887377115314645}</string>
+		<key>StartPoint</key>
+		<string>{0.85568396102942335, 0.38923604732516887}</string>
+		<key>Type</key>
+		<string>line</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.64467769066566949</real>
+		<key>Frame</key>
+		<string>{{0.54328644839162221, 0.41964788590702884}, {0.17189208227079941, 0.041565748968826435}}</string>
+		<key>Text</key>
+		<string>&lt;p class="right"&gt;iris pâle&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.51026787973636534</real>
+		<key>Frame</key>
+		<string>{{0.2734420947788645, 0}, {0.20993365076418705, 0.052514595019887637}}</string>
+		<key>Text</key>
+		<string>&lt;p class="right"&gt;&lt;b&gt;2e hiver&lt;/b&gt;&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.28760720831949688</real>
+		<key>Frame</key>
+		<string>{{0.13017787975473244, 0.88187722803536583}, {0.28415253901594373, 0.093170512702325139}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;motif moins uniforme que chez le 1er hiver&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>EndPoint</key>
+		<string>{0.38542241571767749, 0.9256999718578528}</string>
+		<key>StartPoint</key>
+		<string>{0.33833675980636013, 0.93214021181867279}</string>
+		<key>Type</key>
+		<string>line</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.67428261786604793</real>
+		<key>Frame</key>
+		<string>{{0.58886568453867882, 0.94598598466053119}, {0.20993365076418705, 0.039740770926020394}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;&lt;b&gt;2e hiver&lt;/b&gt;&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+</array>
+</plist>

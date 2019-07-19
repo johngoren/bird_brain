@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>EndPoint</key>
+		<string>{0.76937887473013911, 0.10781089939271978}</string>
+		<key>StartPoint</key>
+		<string>{0.7402687464084271, 0.13368053910593256}</string>
+		<key>Type</key>
+		<string>line</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.55715099424451997</real>
+		<key>Frame</key>
+		<string>{{0.64333371606126188, 0.055130632939997475}, {0.22155740397446005, 0.04924109778230424}}</string>
+		<key>Text</key>
+		<string>&lt;p class="right"&gt;dunkelgrau&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.54985708772185216</real>
+		<key>Frame</key>
+		<string>{{0.6935823978636142, 0}, {0.17853784682328352, 0.049894285623868183}}</string>
+		<key>Text</key>
+		<string>&lt;p class="center"&gt;&lt;b&gt;PK&lt;/b&gt;&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.35952491976849382</real>
+		<key>Frame</key>
+		<string>{{0.62404326474963723, 0.48112415197764452}, {0.18612304469183505, 0.076308275389556493}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;hell silbergrau&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.65565067179782988</real>
+		<key>Frame</key>
+		<string>{{0.21280247302646477, 0.94003958571322566}, {0.17853784682328283, 0.041843511746697246}}</string>
+		<key>Text</key>
+		<string>&lt;p class="right"&gt;&lt;b&gt;PK&lt;/b&gt;&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>EndPoint</key>
+		<string>{0.61661871275042268, 0.56094193491579036}</string>
+		<key>StartPoint</key>
+		<string>{0.53920143564740364, 0.5734108311025734}</string>
+		<key>Type</key>
+		<string>line</string>
+	</dict>
+</array>
+</plist>

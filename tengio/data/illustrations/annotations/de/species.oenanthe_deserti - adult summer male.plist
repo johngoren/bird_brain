@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>FontScale</key>
+		<real>0.50825412706352402</real>
+		<key>Frame</key>
+		<string>{{0.15047020829879756, 0.089837322604836914}, {0.31366708907956353, 0.11273694810085941}}</string>
+		<key>Text</key>
+		<string>&lt;p class="center"&gt;♂&lt;b&gt; PK&lt;/b&gt;&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>EndPoint</key>
+		<string>{0.54068763275862131, 0.63200254127565125}</string>
+		<key>StartPoint</key>
+		<string>{0.44304505572762043, 0.76573773462805561}</string>
+		<key>Type</key>
+		<string>line</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.26734980314159057</real>
+		<key>Frame</key>
+		<string>{{0.34662770217142352, 0.63245790597272689}, {0.17195602586020753, 0.21432227916944488}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;weißes Feld&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>EndPoint</key>
+		<string>{0.74865564171105992, 0.49773152126142112}</string>
+		<key>StartPoint</key>
+		<string>{0.65271751120732868, 0.66495039788291732}</string>
+		<key>Type</key>
+		<string>line</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.16159696383019098</real>
+		<key>Frame</key>
+		<string>{{0.6522759339411125, 0.27692966408234265}, {0.27145332317182991, 0.35457980018126428}}</string>
+		<key>Text</key>
+		<string>&lt;p class="right"&gt;schwarze „Brücke“ (vgl.  Mittelmeer-Steinschmätzer)&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+</array>
+</plist>

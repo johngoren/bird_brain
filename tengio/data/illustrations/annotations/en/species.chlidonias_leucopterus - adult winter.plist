@@ -1,0 +1,126 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>FontScale</key>
+		<real>0.62702075207536667</real>
+		<key>Frame</key>
+		<string>{{0.79573048690670933, 0.097107691002724025}, {0.10288123342359216, 0.046668313802542147}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;short&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.64067780040733158</real>
+		<key>Frame</key>
+		<string>{{0.67284282438689003, 0.0089866989862574537}, {0.16939066881343035, 0.045673505777716859}}</string>
+		<key>Text</key>
+		<string>&lt;p class="center"&gt;&lt;b&gt;ad. w.&lt;/b&gt;&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>EndPoint</key>
+		<string>{0.82634468577425435, 0.14935572902691391}</string>
+		<key>StartPoint</key>
+		<string>{0.82525694026405172, 0.17832759674253043}</string>
+		<key>Type</key>
+		<string>line</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.47499492650682751</real>
+		<key>Frame</key>
+		<string>{{0.43857200794601003, 0.19015367230164082}, {0.24302635435207179, 0.061604871095688608}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;dark ear-spot&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>EndPoint</key>
+		<string>{0.68630030021093513, 0.29847388971660682}</string>
+		<key>StartPoint</key>
+		<string>{0.70540069321107923, 0.24105224206271922}</string>
+		<key>Type</key>
+		<string>line</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.62719877500239263</real>
+		<key>Frame</key>
+		<string>{{0.53274919431009971, 0.28113326955579876}, {0.1882505537751803, 0.046655067555652616}}</string>
+		<key>Text</key>
+		<string>&lt;p class="right"&gt;streaked&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>EndPoint</key>
+		<string>{0.60159103056812402, 0.5874725548768952}</string>
+		<key>StartPoint</key>
+		<string>{0.56307870736978183, 0.63451608252122538}</string>
+		<key>Type</key>
+		<string>line</string>
+	</dict>
+	<dict>
+		<key>EndPoint</key>
+		<string>{0.3876833245386711, 0.79691530969769897}</string>
+		<key>StartPoint</key>
+		<string>{0.46177574572645502, 0.7789297226128854}</string>
+		<key>Type</key>
+		<string>line</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.39169973034383998</real>
+		<key>Frame</key>
+		<string>{{0.27881026945299808, 0.76700809364382327}, {0.096314266021590322, 0.074705186018056646}}</string>
+		<key>Text</key>
+		<string>&lt;p class="right"&gt;pale grey&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.49140574816355304</real>
+		<key>Frame</key>
+		<string>{{0.58457310914709371, 0.52523525860190334}, {0.19807492879717148, 0.059547535469243254}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;lacks dark patch&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>EndPoint</key>
+		<string>{0.32107224773432769, 0.70368643713057677}</string>
+		<key>StartPoint</key>
+		<string>{0.35813486778051584, 0.6589193964959944}</string>
+		<key>Type</key>
+		<string>line</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.64524153729268852</real>
+		<key>Frame</key>
+		<string>{{0.21275511120395163, 0.68585205980769803}, {0.1670057632681255, 0.045350461071271102}}</string>
+		<key>Text</key>
+		<string>&lt;p class="center"&gt;whitish&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.64357612122045393</real>
+		<key>Frame</key>
+		<string>{{0.22762225820361276, 0.89988971665941631}, {0.16939066881343035, 0.045467816865342695}}</string>
+		<key>Text</key>
+		<string>&lt;p class="right"&gt;&lt;b&gt;ad. w.&lt;/b&gt;&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+</array>
+</plist>

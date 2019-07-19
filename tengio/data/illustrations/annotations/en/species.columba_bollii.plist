@@ -1,0 +1,118 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>FontScale</key>
+		<real>0.22231947483588341</real>
+		<key>Frame</key>
+		<string>{{0.77648632286081998, 0.71002908897362615}, {0.10555727197331245, 0.19922839912872087}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;underside of tail more boldly marked than upper&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>EndPoint</key>
+		<string>{0.82032131960815668, 0.75597804579674388}</string>
+		<key>StartPoint</key>
+		<string>{0.8324510607240323, 0.70490226474327866}</string>
+		<key>Type</key>
+		<string>line</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.27351709643971378</real>
+		<key>Frame</key>
+		<string>{{0.018676537650839257, 0}, {0.18514080576421543, 0.16193632370053149}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;forages on a variety of naturally occurring fruits&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.29007223385540543</real>
+		<key>Frame</key>
+		<string>{{0.21586915793169142, 0.78260193844313219}, {0.11639984928716915, 0.15269421853306284}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;rather dark grey, contrastingly dark remiges&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.37727441515038784</real>
+		<key>Frame</key>
+		<string>{{0.66954042558097482, 0.33814334307263161}, {0.085062053174940047, 0.1174008925281491}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;extensively pinkish&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>EndPoint</key>
+		<string>{0.65270646130184695, 0.47431160423605095}</string>
+		<key>StartPoint</key>
+		<string>{0.66531872344010901, 0.43978470249682761}</string>
+		<key>Type</key>
+		<string>line</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.41503267973856567</real>
+		<key>Frame</key>
+		<string>{{0.62555490452368112, 0.78453266317733572}, {0.11526750157185002, 0.10672015778273483}}</string>
+		<key>Text</key>
+		<string>&lt;p class="right"&gt;deep yellowish eye&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>EndPoint</key>
+		<string>{0.60165707576317595, 0.78400952514898903}</string>
+		<key>StartPoint</key>
+		<string>{0.62131847657696371, 0.73902530742328076}</string>
+		<key>Type</key>
+		<string>line</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.27866154690071343</real>
+		<key>Frame</key>
+		<string>{{0.55872250193949846, 0.73452938663452416}, {0.069123086980045365, 0.15894677094601883}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;weak &lt;/p&gt;&lt;p&gt;neck patch&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.68800828655813884</real>
+		<key>Frame</key>
+		<string>{{0.60018715504983622, 0.27733451105651807}, {0.054742073117308956, 0.064377644763945932}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;&lt;b&gt;ad.&lt;/b&gt; &lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.37727441515038784</real>
+		<key>Frame</key>
+		<string>{{0.45274965015526919, 0.03475073676148388}, {0.085062053174940616, 0.1174008925281491}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;subdued grey band&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>EndPoint</key>
+		<string>{0.42178895424183471, 0.18606275874866052}</string>
+		<key>StartPoint</key>
+		<string>{0.44729121665528043, 0.13959631660930175}</string>
+		<key>Type</key>
+		<string>line</string>
+	</dict>
+</array>
+</plist>

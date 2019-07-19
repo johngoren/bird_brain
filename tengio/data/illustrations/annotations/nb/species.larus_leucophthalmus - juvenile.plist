@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>FontScale</key>
+		<real>0.29826720010112295</real>
+		<key>Frame</key>
+		<string>{{0.75672300914198842, 0.23520389655964785}, {0.18547428209996575, 0.10926549043279407}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;﻿helt mørkt, svært langt&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>EndPoint</key>
+		<string>{0.5998098439152294, 0.44423357338694308}</string>
+		<key>StartPoint</key>
+		<string>{0.6267995479335694, 0.42645278088869409}</string>
+		<key>Type</key>
+		<string>line</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.63003975241662968</real>
+		<key>Frame</key>
+		<string>{{0.52251569943341158, 0.42746572351055323}, {0.13635888608887925, 0.051727389857639264}}</string>
+		<key>Text</key>
+		<string>&lt;p class="center"&gt;mørk&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.27116884064680263</real>
+		<key>Frame</key>
+		<string>{{0.038206547415084086, 0.035427850784661999}, {0.2946933383936714, 0.12018457512054048}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;﻿mørkere og mindre kontrastrikt tegnet enn juv. sotmåke&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>EndPoint</key>
+		<string>{0.78384475240884199, 0.34158587508227667}</string>
+		<key>StartPoint</key>
+		<string>{0.780594734087802, 0.37431796396812145}</string>
+		<key>Type</key>
+		<string>line</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.67428261786604782</real>
+		<key>Frame</key>
+		<string>{{0.36248658098655506, 0.027126733293873433}, {0.12960765025420332, 0.048333311634528704}}</string>
+		<key>Text</key>
+		<string>&lt;p class="right"&gt;&lt;b&gt;juv.&lt;/b&gt;&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.67428261786604782</real>
+		<key>Frame</key>
+		<string>{{0.19728984815130476, 0.8325249190753885}, {0.10623591603357613, 0.048333311634528704}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;&lt;b&gt;juv.&lt;/b&gt;&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.27972664169152989</real>
+		<key>Frame</key>
+		<string>{{0.20202777509868589, 0.67624149194094707}, {0.19093273824602766, 0.11650771518218374}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;﻿gråhvit, U-formet&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>EndPoint</key>
+		<string>{0.28352044052614922, 0.72385576268137097}</string>
+		<key>StartPoint</key>
+		<string>{0.31885877425698372, 0.68811601303623937}</string>
+		<key>Type</key>
+		<string>line</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.60903006769995172</real>
+		<key>Frame</key>
+		<string>{{0.40483359485595649, 0.58174999376011682}, {0.25709070868796785, 0.053511827457296671}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;﻿hengslete bygd&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>EndPoint</key>
+		<string>{0.53404415031732633, 0.66341210098754988}</string>
+		<key>StartPoint</key>
+		<string>{0.56697470399306671, 0.63554385680664616}</string>
+		<key>Type</key>
+		<string>line</string>
+	</dict>
+</array>
+</plist>

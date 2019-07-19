@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>EndPoint</key>
+		<string>{0.72884734769276938, 0.3492872254932271}</string>
+		<key>StartPoint</key>
+		<string>{0.76190354940674954, 0.32607368919040497}</string>
+		<key>Type</key>
+		<string>line</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.2207426801966173</real>
+		<key>Frame</key>
+		<string>{{0.77238877191315258, 0.15852546163372605}, {0.21025949175513625, 0.18633005026172417}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;eher unscheinbare Kopf-zeichnung&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.37233683939413337</real>
+		<key>Frame</key>
+		<string>{{0.63671731765027728, 0.023549200769691418}, {0.14493495207462392, 0.11046716398751134}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;♀&lt;b&gt; Herbst&lt;/b&gt;(frisch)&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.73248587991595004</real>
+		<key>Frame</key>
+		<string>{{0.10589570501076656, 0.13044915612141461}, {0.10292475699813444, 0.05615261102461528}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;dunkel&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>EndPoint</key>
+		<string>{0.16815264368456539, 0.18809120633810392}</string>
+		<key>StartPoint</key>
+		<string>{0.19462698611390186, 0.23129449587655418}</string>
+		<key>Type</key>
+		<string>line</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.54098976546091504</real>
+		<key>Frame</key>
+		<string>{{0.10439428907274613, 0.038556836733424034}, {0.2004742293444518, 0.076029154934013271}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;dunkelgrau&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>EndPoint</key>
+		<string>{0.28326430697776189, 0.098114191276215221}</string>
+		<key>StartPoint</key>
+		<string>{0.35468151809546755, 0.098114191276215221}</string>
+		<key>Type</key>
+		<string>line</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.323770351521178</real>
+		<key>Frame</key>
+		<string>{{0.2272097605595487, 0.6261549796967727}, {0.25498801314558628, 0.12703755764756305}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;♀&lt;b&gt; Sommer &lt;/b&gt;(abgetragen)&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+</array>
+</plist>

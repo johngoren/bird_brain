@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>FontScale</key>
+		<real>0.25951468710089487</real>
+		<key>Frame</key>
+		<string>{{0.052689704276894032, 0.22765896036248215}, {0.4693611016771233, 0.19902976136382836}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;vit övergump &lt;/p&gt;&lt;p&gt;lätt att se, även &lt;/p&gt;&lt;p&gt;underifrån &lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.47674246632558798</real>
+		<key>Frame</key>
+		<string>{{0.00053847075721048104, 0.47168012372043028}, {0.21512383826868109, 0.10834181951985981}}</string>
+		<key>Text</key>
+		<string>&lt;p class="right"&gt;tvärt av-&lt;/p&gt;&lt;p class="right"&gt;skuren&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>EndPoint</key>
+		<string>{0.30347290037825936, 0.53289813225384475}</string>
+		<key>StartPoint</key>
+		<string>{0.22889472468352468, 0.55341784459751442}</string>
+		<key>Type</key>
+		<string>line</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.35912104772864162</real>
+		<key>Frame</key>
+		<string>{{0.13225448586779073, 0.071587091298126196}, {0.32988874413143482, 0.14382656369149446}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;rätt bred hand&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>EndPoint</key>
+		<string>{0.53489891878482188, 0.16219064998157737}</string>
+		<key>StartPoint</key>
+		<string>{0.44075420816055616, 0.1873847708881804}</string>
+		<key>Type</key>
+		<string>line</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.26303028087659747</real>
+		<key>Frame</key>
+		<string>{{0.65896164291763271, 0.041084445878383669}, {0.33896916890346118, 0.19636958175295488}}</string>
+		<key>Text</key>
+		<string>&lt;p class="right"&gt;ofta i stora &lt;/p&gt;&lt;p class="right"&gt;högröstade flockar i städer&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+</array>
+</plist>

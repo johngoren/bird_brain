@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>FontScale</key>
+		<real>0.16620317356453324</real>
+		<key>Frame</key>
+		<string>{{0, 0.47611419818717832}, {0.35226179018286768, 0.3057837342540573}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;La ssp. &lt;i&gt;rossicus&lt;/i&gt; ressemble à l’O. à bec court, mais avec la tête et le bec plus forts et les pattes orange&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.32340193145013424</real>
+		<key>Frame</key>
+		<string>{{0.077478344562078874, 0.017463322789263235}, {0.38739172281039408, 0.15714880498564535}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;« OIE DE TOUNDRA »&lt;/p&gt;&lt;p&gt;&lt;b&gt;&lt;i&gt;rossicus&lt;/i&gt;  &lt;/b&gt;(N-O Sibérie)&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.56295795739904664</real>
+		<key>Frame</key>
+		<string>{{0.81569451258763903, 0.36152225410609085}, {0.11463729308488045, 0.090277127074008839}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;&lt;b&gt;ad.&lt;/b&gt;&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.22022257704816295</real>
+		<key>Frame</key>
+		<string>{{0.77991837163033273, 0.52242060951755365}, {0.12653099617311966, 0.23077664306109411}}</string>
+		<key>Text</key>
+		<string>&lt;p class="right"&gt;assez court, à base épaisse&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>EndPoint</key>
+		<string>{0.84033923057469551, 0.75807332082582879}</string>
+		<key>StartPoint</key>
+		<string>{0.82841632857861136, 0.7845306514923327}</string>
+		<key>Type</key>
+		<string>line</string>
+	</dict>
+	<dict>
+		<key>EndPoint</key>
+		<string>{0.85204977097900492, 0.84095002728360191}</string>
+		<key>StartPoint</key>
+		<string>{0.9106434397863824, 0.8894960412585261}</string>
+		<key>Type</key>
+		<string>line</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.36363636363636365</real>
+		<key>Frame</key>
+		<string>{{0.71711033084201936, 0.85658059483961635}, {0.24613130341877379, 0.13976112440795502}}</string>
+		<key>Text</key>
+		<string>&lt;p class="right"&gt;petite tache orangée&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>EndPoint</key>
+		<string>{0.66050874766478762, 0.84878616610701241}</string>
+		<key>StartPoint</key>
+		<string>{0.60541103366813309, 0.8821196972352805}</string>
+		<key>Type</key>
+		<string>line</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.60476254192947065</real>
+		<key>Frame</key>
+		<string>{{0.4558641550941836, 0.82586740964678163}, {0.14134422798890403, 0.084036664862363844}}</string>
+		<key>Text</key>
+		<string>&lt;p class="right"&gt;sombre&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.58650525998636927</real>
+		<key>Frame</key>
+		<string>{{0.45902733817583358, 0.62354055140053832}, {0.10856195506329522, 0.086652636429244187}}</string>
+		<key>Text</key>
+		<string>&lt;p class="right"&gt;court&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>EndPoint</key>
+		<string>{0.58112993397031398, 0.68357558681117392}</string>
+		<key>StartPoint</key>
+		<string>{0.66066485332840008, 0.67058448799979697}</string>
+		<key>Type</key>
+		<string>line</string>
+	</dict>
+</array>
+</plist>

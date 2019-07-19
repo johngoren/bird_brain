@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>FontScale</key>
+		<real>0.53333043983051531</real>
+		<key>Frame</key>
+		<string>{{0.097243047942092015, 0.14383457105411226}, {0.15546005674239452, 0.071369765743580463}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;im Wolgadelta rastend&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.79999348963631489</real>
+		<key>Frame</key>
+		<string>{{0.3692976598611985, 0.42425402551518487}, {0.051129966677892234, 0.047579972896940381}}</string>
+		<key>Text</key>
+		<string>&lt;p class="right"&gt;&lt;b&gt;JK&lt;/b&gt;&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.79999348963631489</real>
+		<key>Frame</key>
+		<string>{{0.72188968522377706, 0.407619902642891}, {0.051129800733466554, 0.047579972896940381}}</string>
+		<key>Text</key>
+		<string>&lt;p class="right"&gt;&lt;b&gt;ad.&lt;/b&gt;&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.28684359119141822</real>
+		<key>Frame</key>
+		<string>{{0.83662413344623665, 0.31534567139231678}, {0.07215859254349842, 0.13269834057133853}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;„Gesicht“ rot&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>EndPoint</key>
+		<string>{0.86607193128892379, 0.46419621704621838}</string>
+		<key>StartPoint</key>
+		<string>{0.87933492814705083, 0.51061522319250396}</string>
+		<key>Type</key>
+		<string>line</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.21074557429089633</real>
+		<key>Frame</key>
+		<string>{{0.58509168631261266, 0.26803594484526383}, {0.082443449480717565, 0.1806143198152507}}</string>
+		<key>Text</key>
+		<string>&lt;p class="center"&gt;Nahrungssuche in Gewässern&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>EndPoint</key>
+		<string>{0.47122783163347576, 0.80652455930780431}</string>
+		<key>StartPoint</key>
+		<string>{0.48383694127554133, 0.83181292178258659}</string>
+		<key>Type</key>
+		<string>line</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.26308961089472654</real>
+		<key>Frame</key>
+		<string>{{0.40552469664287732, 0.67259401813407371}, {0.065587888602122446, 0.14467948173694903}}</string>
+		<key>Text</key>
+		<string>&lt;p class="right"&gt;viel Schwarz&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.32670889723333041</real>
+		<key>Frame</key>
+		<string>{{0.53178183968784054, 0.72724255900594748}, {0.073511068516023237, 0.1165063727280134}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;Weißstorch&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.78143455985796129</real>
+		<key>Frame</key>
+		<string>{{0.74745458559051248, 0.80616373356434323}, {0.036029895487870507, 0.04870998866692474}}</string>
+		<key>Text</key>
+		<string>&lt;p class="right"&gt;&lt;b&gt;JK&lt;/b&gt;&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.63728655334707685</real>
+		<key>Frame</key>
+		<string>{{0.88065243325589104, 0.81727349987101938}, {0.051129966677892234, 0.059727713309988058}}</string>
+		<key>Text</key>
+		<string>&lt;p class="right"&gt;&lt;b&gt;ad.&lt;/b&gt;&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+</array>
+</plist>

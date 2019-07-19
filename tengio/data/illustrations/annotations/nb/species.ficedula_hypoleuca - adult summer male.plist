@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>EndPoint</key>
+		<string>{0.82008609053662151, 0.28258030632947673}</string>
+		<key>StartPoint</key>
+		<string>{0.6849787599226167, 0.30456798761488779}</string>
+		<key>Type</key>
+		<string>line</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.3080654942389312</real>
+		<key>Frame</key>
+		<string>{{0.7856307928759767, 0.23152872835415994}, {0.15312164136253742, 0.089746748612976657}}</string>
+		<key>Text</key>
+		<string>&lt;p class="right"&gt;﻿mye hvitt&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.62363024581587989</real>
+		<key>Frame</key>
+		<string>{{0.59693088778508818, 0.03400473379968183}, {0.34047047314728623, 0.044333764523596414}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;&lt;b&gt;ad. &lt;/b&gt;♂ &lt;b&gt;sommer&lt;/b&gt;&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.21830683283197436</real>
+		<key>Frame</key>
+		<string>{{0.71026711321550828, 0.097099092772564705}, {0.27126930905077734, 0.126646867205818}}</string>
+		<key>Text</key>
+		<string>&lt;p class="right"&gt;﻿relativt stor flekk/stripe&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.43793103448275866</real>
+		<key>Frame</key>
+		<string>{{0.59693088778508818, 0.46577372897893288}, {0.32913646930133333, 0.063132946265040873}}</string>
+		<key>Text</key>
+		<string>&lt;p class="right"&gt;﻿stor hvit flekk&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>EndPoint</key>
+		<string>{0.8113453050601096, 0.21147503888356409}</string>
+		<key>StartPoint</key>
+		<string>{0.59985531666202729, 0.24491536099935365}</string>
+		<key>Type</key>
+		<string>line</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.38724431457247821</real>
+		<key>Frame</key>
+		<string>{{0.077368141946131216, 0.46680780309879116}, {0.39318576320065685, 0.071396468398296081}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;&lt;b&gt;&lt;i&gt;iberiae&lt;/i&gt;&lt;/b&gt;(﻿Sentral-Spania)&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>EndPoint</key>
+		<string>{0.75996040005931431, 0.46594510872143419}</string>
+		<key>StartPoint</key>
+		<string>{0.81850690999205322, 0.48275431452608164}</string>
+		<key>Type</key>
+		<string>line</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.84315352697095713</real>
+		<key>Frame</key>
+		<string>{{0.48973852816423474, 0.90259995535734161}, {0.29118906100084907, 0.032791034590247417}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;&lt;b&gt;ad. &lt;/b&gt;♂ &lt;b&gt;som.&lt;/b&gt;&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+</array>
+</plist>

@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>EndPoint</key>
+		<string>{0.73022921372503391, 0.11541648546197239}</string>
+		<key>StartPoint</key>
+		<string>{0.70358653299187424, 0.15831182125498086}</string>
+		<key>Type</key>
+		<string>line</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.28178982287091497</real>
+		<key>Frame</key>
+		<string>{{0.53473282027880575, 0.017355350375339654}, {0.28621133224034911, 0.095093963234744533}}</string>
+		<key>Text</key>
+		<string>&lt;p class="right"&gt;gröber gefleckt als 1er W&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.53942646429394514</real>
+		<key>Frame</key>
+		<string>{{0.77734333524472987, 0.40198923554167526}, {0.2226566647552701, 0.04967592958399971}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;Spitze hell&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>EndPoint</key>
+		<string>{0.86986685916781759, 0.42035634265411587}</string>
+		<key>StartPoint</key>
+		<string>{0.85840814612796656, 0.39071862165132598}</string>
+		<key>Type</key>
+		<string>line</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.64467769066566949</real>
+		<key>Frame</key>
+		<string>{{0.5365534998348318, 0.43062528557272572}, {0.17189208227079941, 0.041565748968826435}}</string>
+		<key>Text</key>
+		<string>&lt;p class="right"&gt;Iris hell&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.51026787973636534</real>
+		<key>Frame</key>
+		<string>{{0.27616648405530325, 0.010977399665693393}, {0.2099337525800658, 0.052514595019887637}}</string>
+		<key>Text</key>
+		<string>&lt;p class="center"&gt;&lt;b&gt;2er W&lt;/b&gt;&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.22010923261429505</real>
+		<key>Frame</key>
+		<string>{{0.10642748510934344, 0.86398487889313558}, {0.30520468701466441, 0.12174187669341613}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;ungleichmäßiger gemustert als 1er W&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.67428261786604793</real>
+		<key>Frame</key>
+		<string>{{0.60215034858686212, 0.94598598466053119}, {0.2099337525800658, 0.039740770926020394}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;&lt;b&gt;2er W&lt;/b&gt;&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>EndPoint</key>
+		<string>{0.38814680520380279, 0.93667737155223052}</string>
+		<key>StartPoint</key>
+		<string>{0.34106104705723433, 0.9431176114556884}</string>
+		<key>Type</key>
+		<string>line</string>
+	</dict>
+</array>
+</plist>

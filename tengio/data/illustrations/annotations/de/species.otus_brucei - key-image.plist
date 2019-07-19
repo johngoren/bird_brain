@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>FontScale</key>
+		<real>0.34467931820927905</real>
+		<key>Frame</key>
+		<string>{{0.47915725049280938, 0.88077949221363838}, {0.36528732304313766, 0.11922050778636158}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;nur gestrichelt, ohne weiße Flecke&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>EndPoint</key>
+		<string>{0.62360870356172704, 0.8587736620922648}</string>
+		<key>StartPoint</key>
+		<string>{0.61210134929755422, 0.91769718817195933}</string>
+		<key>Type</key>
+		<string>line</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.34107945986997817</real>
+		<key>Frame</key>
+		<string>{{0.78615791151472569, 0.68430320148239654}, {0.17836020793497723, 0.12047879797872328}}</string>
+		<key>Text</key>
+		<string>&lt;p class="right"&gt;„Gesicht“ hell&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.25700261015839565</real>
+		<key>Frame</key>
+		<string>{{0.75551617880641408, 0.21645867344832184}, {0.20262027837797042, 0.1598927081520333}}</string>
+		<key>Text</key>
+		<string>&lt;p class="right"&gt;gestrichelt, Bänderung sehr blass&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>EndPoint</key>
+		<string>{0.78007918758721251, 0.38643854973092423}</string>
+		<key>StartPoint</key>
+		<string>{0.71208792317701575, 0.42065562203993073}</string>
+		<key>Type</key>
+		<string>line</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.17872118658359798</real>
+		<key>Frame</key>
+		<string>{{0, 8.9140082763966181e-14}, {0.25402638724398974, 0.22992709552734369}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;Flügel häufig kürzer als bei Zwergohreule&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>EndPoint</key>
+		<string>{0.86985679584744491, 0.75036906584965801}</string>
+		<key>StartPoint</key>
+		<string>{0.80249480526905848, 0.75036906584965801}</string>
+		<key>Type</key>
+		<string>line</string>
+	</dict>
+	<dict>
+		<key>EndPoint</key>
+		<string>{0.33096536033290319, 0.13013407310899397}</string>
+		<key>StartPoint</key>
+		<string>{0.25402638724399423, 0.13013407310899397}</string>
+		<key>Type</key>
+		<string>line</string>
+	</dict>
+</array>
+</plist>

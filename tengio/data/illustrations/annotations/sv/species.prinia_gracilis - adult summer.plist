@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>FontScale</key>
+		<real>0.56969661846947084</real>
+		<key>Frame</key>
+		<string>{{0.56920709322717367, 0.073706563490696583}, {0.2497940119243815, 0.072743108080130209}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;&lt;b&gt;ad. sommar&lt;/b&gt;&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>EndPoint</key>
+		<string>{0.86411251056929983, 0.39280377051121584}</string>
+		<key>StartPoint</key>
+		<string>{0.86358954219383344, 0.43686857660537487}</string>
+		<key>Type</key>
+		<string>line</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.4577090336819169</real>
+		<key>Frame</key>
+		<string>{{0.77254343853400964, 0.29014880361591761}, {0.12824540427200815, 0.090541150907257451}}</string>
+		<key>Text</key>
+		<string>&lt;p class="right"&gt;svart&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.73623188405797446</real>
+		<key>Frame</key>
+		<string>{{0.56134424352886081, 0.51512382935038514}, {0.30504911246932881, 0.056288655228827485}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;saknar ögonbryn&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.31542999068612215</real>
+		<key>Frame</key>
+		<string>{{0.3778777505681834, 0.72147477630881951}, {0.21089408861953213, 0.13138098441453208}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;starkt avrundad stjärt&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>EndPoint</key>
+		<string>{0.28430281086418902, 0.82882816516190005}</string>
+		<key>StartPoint</key>
+		<string>{0.35953110127211507, 0.83082976519902563}</string>
+		<key>Type</key>
+		<string>line</string>
+	</dict>
+</array>
+</plist>

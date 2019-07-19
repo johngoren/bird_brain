@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>EndPoint</key>
+		<string>{0.70944957198282976, 0.41666537430247347}</string>
+		<key>StartPoint</key>
+		<string>{0.63664837143849873, 0.387013487669083}</string>
+		<key>Type</key>
+		<string>line</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.54128929142251392</real>
+		<key>Frame</key>
+		<string>{{0.72515280361565371, 0.35119241656836336}, {0.27484719638434635, 0.093383542300093852}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;dull brownish-grey&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.25677435094772505</real>
+		<key>Frame</key>
+		<string>{{0.52193205806730913, 0.025666866060124503}, {0.45531369622525053, 0.19685576559955079}}</string>
+		<key>Text</key>
+		<string>&lt;p class="right"&gt;darker overall (than Meadow, or Water Pipits) with heavy diffuse streaking below and sullied or yellowish-tinged underparts&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.62666700665527697</real>
+		<key>Frame</key>
+		<string>{{0.053278821611359113, 0.26135768010995947}, {0.13449491119386273, 0.080660878752705445}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;&lt;b&gt;winter&lt;/b&gt;&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.44504604089707367</real>
+		<key>Frame</key>
+		<string>{{0.0098145197705156347, 0.11860712900244058}, {0.31103433687604215, 0.11357816225093066}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;&lt;b&gt;&lt;i&gt;littoralis / petrosus&lt;/i&gt;&lt;/b&gt;&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>EndPoint</key>
+		<string>{0.077469524841019891, 0.91144235200096346}</string>
+		<key>StartPoint</key>
+		<string>{0.095060634348687098, 0.94626839334889978}</string>
+		<key>Type</key>
+		<string>line</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.70555555555556526</real>
+		<key>Frame</key>
+		<string>{{0.025592782526125367, 0.9283578577985393}, {0.18724208906872891, 0.07164214220146034}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;long, strong&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+</array>
+</plist>

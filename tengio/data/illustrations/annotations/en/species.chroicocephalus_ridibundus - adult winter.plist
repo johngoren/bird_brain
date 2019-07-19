@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>FontScale</key>
+		<real>0.69965143403135521</real>
+		<key>Frame</key>
+		<string>{{0.27253698028679496, 0.074134762352736014}, {0.24962799331583399, 0.045304687110754582}}</string>
+		<key>Text</key>
+		<string>&lt;p class="right"&gt;&lt;b&gt;ad. winter&lt;/b&gt;&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.55745430109813598</real>
+		<key>Frame</key>
+		<string>{{0.34079566760715974, 0.93021056302754979}, {0.25960947013374597, 0.056861144030891903}}</string>
+		<key>Text</key>
+		<string>&lt;p class="right"&gt;&lt;b&gt;ad. winter&lt;/b&gt;&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.61935093654903894</real>
+		<key>Frame</key>
+		<string>{{0.71148076533357196, 0.69486555601014088}, {0.14737019288763656, 0.051178560384515626}}</string>
+		<key>Text</key>
+		<string>&lt;p class="center"&gt;white&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>EndPoint</key>
+		<string>{0.78352415045981527, 0.74520268584813609}</string>
+		<key>StartPoint</key>
+		<string>{0.72453010425508735, 0.76762076215130559}</string>
+		<key>Type</key>
+		<string>line</string>
+	</dict>
+	<dict>
+		<key>EndPoint</key>
+		<string>{0.29088301462049199, 0.65114236454963781}</string>
+		<key>StartPoint</key>
+		<string>{0.40149632743486902, 0.66533344554690743}</string>
+		<key>Type</key>
+		<string>line</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.35864381241466398</real>
+		<key>Frame</key>
+		<string>{{0.1476797038679914, 0.57692156297876029}, {0.13337732324932464, 0.088381531224446891}}</string>
+		<key>Text</key>
+		<string>&lt;p class="right"&gt;dark grey&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+</array>
+</plist>

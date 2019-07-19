@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>FontScale</key>
+		<real>0.58749809504173112</real>
+		<key>Frame</key>
+		<string>{{0.68093548726791364, 0.76717608405292437}, {0.061061777825691659, 0.092021777618753145}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;♂&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.32982440836169785</real>
+		<key>Frame</key>
+		<string>{{0.49174086162218539, 0.57061299988248959}, {0.061790249428192341, 0.16391333595324514}}</string>
+		<key>Text</key>
+		<string>&lt;p class="right"&gt;﻿rødbrun&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.36482800339948074</real>
+		<key>Frame</key>
+		<string>{{0.52153327174954534, 0.43680466300964932}, {0.066882622595938607, 0.14818659354439301}}</string>
+		<key>Text</key>
+		<string>&lt;p class="right"&gt;﻿blågrå&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>EndPoint</key>
+		<string>{0.59710907333118812, 0.5057732911418511}</string>
+		<key>StartPoint</key>
+		<string>{0.6585271861908234, 0.52744511507543301}</string>
+		<key>Type</key>
+		<string>line</string>
+	</dict>
+	<dict>
+		<key>EndPoint</key>
+		<string>{0.8020645557164674, 0.27538034432273295}</string>
+		<key>StartPoint</key>
+		<string>{0.77921533827347689, 0.35346773037267998}</string>
+		<key>Type</key>
+		<string>line</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.44761765991548874</real>
+		<key>Frame</key>
+		<string>{{0.78787730179021664, 0.14150349532050382}, {0.19857407155977555, 0.12077856593857005}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;﻿stort rustrødt felt&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>EndPoint</key>
+		<string>{0.87181260696465579, 0.66879318765880102}</string>
+		<key>StartPoint</key>
+		<string>{0.85898959039758616, 0.59160326883396885}</string>
+		<key>Type</key>
+		<string>line</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.2077895724739692</real>
+		<key>Frame</key>
+		<string>{{0.83464361768762019, 0.62835610412055531}, {0.16535638231237992, 0.26017965391475056}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;﻿svart kalott på framissen, skarpt avgrenset i bakkant&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>EndPoint</key>
+		<string>{0.55948959752079308, 0.70640375854040616}</string>
+		<key>StartPoint</key>
+		<string>{0.59974131002967301, 0.70640375854040616}</string>
+		<key>Type</key>
+		<string>line</string>
+	</dict>
+</array>
+</plist>

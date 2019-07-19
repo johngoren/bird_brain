@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>FontScale</key>
+		<real>0.61935093654903883</real>
+		<key>Frame</key>
+		<string>{{0.18742314907232607, 0.40701996181182276}, {0.18033756344485138, 0.049684674104165188}}</string>
+		<key>Text</key>
+		<string>&lt;p class="right"&gt;♂&lt;b&gt; SK&lt;/b&gt;&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.28235131921346956</real>
+		<key>Frame</key>
+		<string>{{0.06542191363769756, 0.29136221129998968}, {0.17833554871626106, 0.10898567615787677}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;♂&lt;b&gt; 1er S&lt;/b&gt;&lt;/p&gt;&lt;p&gt;(dunkelköpfige Variante)&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.61935093654903883</real>
+		<key>Frame</key>
+		<string>{{0.24580258716197062, 0.08787995617530725}, {0.18033756344485138, 0.049684674104165188}}</string>
+		<key>Text</key>
+		<string>&lt;p class="center"&gt;♂&lt;b&gt; PK&lt;/b&gt;&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.50218259188213643</real>
+		<key>Frame</key>
+		<string>{{0.65448208947024278, 0.64853754421758347}, {0.26202682400849986, 0.061277013452849458}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;Profil geschwollen&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>EndPoint</key>
+		<string>{0.65095144414029493, 0.68826379155344508}</string>
+		<key>StartPoint</key>
+		<string>{0.6257351478182468, 0.6609817541970604}</string>
+		<key>Type</key>
+		<string>line</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.45436379265211857</real>
+		<key>Frame</key>
+		<string>{{0.06542191363769756, 0.49475885353940985}, {0.083567243971540459, 0.067726015884608803}}</string>
+		<key>Text</key>
+		<string>&lt;p class="right"&gt;♀&lt;b&gt; / JK&lt;/b&gt;&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.61935093654903883</real>
+		<key>Frame</key>
+		<string>{{0.74613180368609588, 0.92595921461673225}, {0.12552671407728677, 0.049684674104165188}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;♂&lt;b&gt; PK&lt;/b&gt;&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+</array>
+</plist>

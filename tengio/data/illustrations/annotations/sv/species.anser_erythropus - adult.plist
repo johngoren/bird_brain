@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>FontScale</key>
+		<real>0.5647756357776279</real>
+		<key>Frame</key>
+		<string>{{0.82165793444389568, 0.25707934685905859}, {0.095940967291790344, 0.046325690046007145}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;&lt;b&gt;ad.&lt;/b&gt;&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>EndPoint</key>
+		<string>{0.83165882596105234, 0.40612258591071554}</string>
+		<key>StartPoint</key>
+		<string>{0.81603897691684391, 0.43991545967115819}</string>
+		<key>Type</key>
+		<string>line</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.35961303846020232</real>
+		<key>Frame</key>
+		<string>{{0.80680278767153635, 0.33240675181618867}, {0.086087165935078189, 0.072754928910806135}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;liten, skär&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.26878661316672742</real>
+		<key>Frame</key>
+		<string>{{0, 0.024218987284260973}, {0.26748035144341603, 0.097339747468531135}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;långvingad, ving­spetsarna når utanför stjärten&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>EndPoint</key>
+		<string>{0.10005884792919445, 0.12552307991659784}</string>
+		<key>StartPoint</key>
+		<string>{0.13219465986589246, 0.16452621452069441}</string>
+		<key>Type</key>
+		<string>line</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.26765920718375757</real>
+		<key>Frame</key>
+		<string>{{0.70879134346356198, 0.024350554507774787}, {0.22159161546197526, 0.097749751722939052}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;i regel rätt begrän­sad tvärfläckning&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.1536062402535103</real>
+		<key>Frame</key>
+		<string>{{0.47680320832641215, 0.35865980873440462}, {0.15233166513336829, 0.17032915463193954}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;tydlig gul orbitalring i alla dräkter&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>EndPoint</key>
+		<string>{0.7541535949135052, 0.12300576484829936}</string>
+		<key>StartPoint</key>
+		<string>{0.72825413583525411, 0.15103067489357164}</string>
+		<key>Type</key>
+		<string>line</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.37272224033729423</real>
+		<key>Frame</key>
+		<string>{{0.73862114739902685, 0.50702861757631978}, {0.19602340860433234, 0.070196028616093031}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;vita bläsen når hjässan&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>EndPoint</key>
+		<string>{0.72201381678341048, 0.49433807254831308}</string>
+		<key>StartPoint</key>
+		<string>{0.73244853579149416, 0.52552582570876349}</string>
+		<key>Type</key>
+		<string>line</string>
+	</dict>
+</array>
+</plist>

@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>EndPoint</key>
+		<string>{0.65512730929119911, 0.38640726799402764}</string>
+		<key>StartPoint</key>
+		<string>{0.59657389326677612, 0.34039749649038414}</string>
+		<key>Type</key>
+		<string>line</string>
+	</dict>
+	<dict>
+		<key>EndPoint</key>
+		<string>{0.18025657636895218, 0.40583593329814205}</string>
+		<key>StartPoint</key>
+		<string>{0.26978630479329946, 0.49849224522853947}</string>
+		<key>Type</key>
+		<string>line</string>
+	</dict>
+	<dict>
+		<key>EndPoint</key>
+		<string>{0.52411632737043712, 0.64828718465889323}</string>
+		<key>StartPoint</key>
+		<string>{0.46013572874433195, 0.64547281634848819}</string>
+		<key>Type</key>
+		<string>line</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.28484830923473675</real>
+		<key>Frame</key>
+		<string>{{0.047906103031357394, 0.30448787993632659}, {0.20862128554781911, 0.16677657088118097}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;broad&lt;/p&gt;&lt;p&gt;white wing-bars&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>EndPoint</key>
+		<string>{0.12149473860344605, 0.48164349904936965}</string>
+		<key>StartPoint</key>
+		<string>{0.20472718953162899, 0.56778237414589749}</string>
+		<key>Type</key>
+		<string>line</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.13860847108593896</real>
+		<key>Frame</key>
+		<string>{{0.66879268775600198, 0.07093173106811794}, {0.33120731224399802, 0.34273535999121812}}</string>
+		<key>Text</key>
+		<string>&lt;p class="right"&gt;tertials fall short of wing-tip to produce a diagnostic &lt;/p&gt;&lt;p class="right"&gt;primary &lt;/p&gt;&lt;p class="right"&gt;projec-&lt;/p&gt;&lt;p class="right"&gt;tion&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.21609181000301736</real>
+		<key>Frame</key>
+		<string>{{0.53997452045851058, 0.45037231581030673}, {0.2433898654831442, 0.21984185441738072}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;broad whitish mantle stripes&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+</array>
+</plist>

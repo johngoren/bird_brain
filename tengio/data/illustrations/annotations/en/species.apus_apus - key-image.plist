@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>FontScale</key>
+		<real>0.18181818181818185</real>
+		<key>Frame</key>
+		<string>{{0.041355491457497687, 0.54321928676465703}, {0.23362577720079117, 0.23053121889829789}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;narrow, scythe-shapedwings&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>EndPoint</key>
+		<string>{0.72220775644266677, 0.53001778532452326}</string>
+		<key>StartPoint</key>
+		<string>{0.66431060985792068, 0.54618962458868947}</string>
+		<key>Type</key>
+		<string>line</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.26449963373807084</real>
+		<key>Frame</key>
+		<string>{{0.73388904530270327, 0.38952049376578918}, {0.20025066617210685, 0.15846814787624708}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;rather distinct throat-patch&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.19689922480620151</real>
+		<key>Frame</key>
+		<string>{{0.51695082361625666, 0.091727937512154981}, {0.43387644337289888, 0.21287421072212195}}</string>
+		<key>Text</key>
+		<string>&lt;p class="right"&gt;in strong Mediterranean light impression&lt;/p&gt;&lt;p class="right"&gt;might be rather close to Pallid Swift&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+</array>
+</plist>

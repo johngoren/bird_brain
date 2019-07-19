@@ -1,0 +1,141 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>EndPoint</key>
+		<string>{0.68027383728280111, 0.57550104960101278}</string>
+		<key>StartPoint</key>
+		<string>{0.68152576923829145, 0.51848976281738401}</string>
+		<key>Type</key>
+		<string>line</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.35122118531433549</real>
+		<key>Frame</key>
+		<string>{{0.669124092489772, 0.53806388729580379}, {0.065631264345665255, 0.13686804865695529}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;black 
+tips&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.71286439448875982</real>
+		<key>Frame</key>
+		<string>{{0.67777871827281022, 0.034393939035460772}, {0.045569196627814085, 0.067433524037107645}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;&lt;b&gt;juv.&lt;/b&gt;&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.20640544737032748</real>
+		<key>Frame</key>
+		<string>{{0.89953268229699757, 0.3654622893241114}, {0.084520999331105351, 0.23289578300086364}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;extended neck (but on white egrets retracted)&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>EndPoint</key>
+		<string>{0.91146453874412203, 0.40486664767835279}</string>
+		<key>StartPoint</key>
+		<string>{0.89593085103562731, 0.3528232370477784}</string>
+		<key>Type</key>
+		<string>line</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.70555304351570736</real>
+		<key>Frame</key>
+		<string>{{0.83260129636749491, 0.19800752187432968}, {0.041470257955870803, 0.068132309431226751}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;&lt;b&gt;ad.&lt;/b&gt;&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>EndPoint</key>
+		<string>{0.27597970331186028, 0.33844727316268131}</string>
+		<key>StartPoint</key>
+		<string>{0.2857486472081005, 0.40214850604426783}</string>
+		<key>Type</key>
+		<string>line</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.59572405100111492</real>
+		<key>Frame</key>
+		<string>{{0.26013199560215078, 0.24972889581067584}, {0.053851327683394304, 0.080693331417747316}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;light&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.6467836488166907</real>
+		<key>Frame</key>
+		<string>{{0.18229609457857543, 0.083360731697660978}, {0.041349996127057975, 0.074323088360231701}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;&lt;b&gt;juv.&lt;/b&gt;&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.342884648252337</real>
+		<key>Frame</key>
+		<string>{{0.49313463947612535, 0.14123084184984289}, {0.0773012397896439, 0.14019571458206379}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;&lt;b&gt;ad. breeding&lt;/b&gt;&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.6349999999999606</real>
+		<key>Frame</key>
+		<string>{{0.075987305432592869, 0.55284980781630566}, {0.1696851826753184, 0.075702296505447172}}</string>
+		<key>Text</key>
+		<string>&lt;p class="center"&gt;feeding flock&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.41300813008129827</real>
+		<key>Frame</key>
+		<string>{{0.3034608555411128, 0.56363738506832128}, {0.056220994259894463, 0.11639228087711853}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;SPOON-&lt;br/&gt;BILL&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.39379844961239385</real>
+		<key>Frame</key>
+		<string>{{0.36806388894520825, 0.55795971283041101}, {0.059969060543887745, 0.12206995311502884}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;GREAT EGRET&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.40549265474658169</real>
+		<key>Frame</key>
+		<string>{{0.25548560710600193, 0.82151753765446112}, {0.22213707773155705, 0.11854951678717482}}</string>
+		<key>Text</key>
+		<string>&lt;p class="center"&gt;resting birds: &lt;/p&gt;&lt;p class="center"&gt;note postures&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+</array>
+</plist>

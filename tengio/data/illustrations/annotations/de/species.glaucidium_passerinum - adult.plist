@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>FontScale</key>
+		<real>0.57698927341657436</real>
+		<key>Frame</key>
+		<string>{{0.1466574887976396, 0.53865494951667447}, {0.5275331064234754, 0.045361986907588588}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;ernster Gesichtsausdruck&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>EndPoint</key>
+		<string>{0.56870362457333168, 0.52847030331239198}</string>
+		<key>StartPoint</key>
+		<string>{0.64856584251111782, 0.5431728160681647}</string>
+		<key>Type</key>
+		<string>line</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.28912398148335328</real>
+		<key>Frame</key>
+		<string>{{0.67631883283356897, 0.4605453559915374}, {0.30808647416454432, 0.09052649224135241}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;kurze weiße Augenbrauen&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.28484872192738792</real>
+		<key>Frame</key>
+		<string>{{0.59620072583847716, 0.1795000919157525}, {0.24354710267093799, 0.091885193268354121}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;kräftiger gemustert als im JK&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>EndPoint</key>
+		<string>{0.64926384543956384, 0.27779943923279105}</string>
+		<key>StartPoint</key>
+		<string>{0.56126874984282138, 0.32049500079349102}</string>
+		<key>Type</key>
+		<string>line</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.67267004242507178</real>
+		<key>Frame</key>
+		<string>{{0.30949560691273292, 0.025749568145479691}, {0.19113666961698025, 0.038909685604821817}}</string>
+		<key>Text</key>
+		<string>&lt;p class="center"&gt;&lt;b&gt;ad.&lt;/b&gt;&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>EndPoint</key>
+		<string>{0.19686613378529816, 0.44255936235906862}</string>
+		<key>StartPoint</key>
+		<string>{0.28773057446653738, 0.39847144893104658}</string>
+		<key>Type</key>
+		<string>line</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.56969661846947084</real>
+		<key>Frame</key>
+		<string>{{0.02279034972252118, 0.42273601411849032}, {0.20387889476325644, 0.045942663196524285}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;gebändert&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.28483833998348984</real>
+		<key>Frame</key>
+		<string>{{0, 0.67667071921813216}, {0.74885115002991687, 0.091888542350228503}}</string>
+		<key>Text</key>
+		<string>&lt;p class="right"&gt;spechtartige Flugweise in sanften Bögen &lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+</array>
+</plist>

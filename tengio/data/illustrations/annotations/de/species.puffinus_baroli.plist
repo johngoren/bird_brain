@@ -1,0 +1,156 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>FontScale</key>
+		<real>0.45617032769971116</real>
+		<key>Frame</key>
+		<string>{{0.02684658559750297, 0.40973340387115842}, {0.1952640134354881, 0.11540788864504063}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;helles „Gesicht“ mit hervor-tretendem dunklem Auge&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.7273768613974726</real>
+		<key>Frame</key>
+		<string>{{0.035816023583102104, 0.07525230473742725}, {0.16429501444477751, 0.07237741145792638}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;schmaler Flügelstreif&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>EndPoint</key>
+		<string>{0.10157297895410645, 0.23570418990903827}</string>
+		<key>StartPoint</key>
+		<string>{0.080548844283068174, 0.16332677845110963}</string>
+		<key>Type</key>
+		<string>line</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.24541062801931859</real>
+		<key>Frame</key>
+		<string>{{0.75727415031473055, 0.76389196927655134}, {0.23291743230500908, 0.21452067829024796}}</string>
+		<key>Text</key>
+		<string>&lt;p class="right"&gt;silbriges Flügelfeld (vor allem auf Armschwingen) kennzeichnend, oft aus großer Entfernung sichtbar&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.22473791974178275</real>
+		<key>Frame</key>
+		<string>{{0.5863990235999087, 0.74230461684335336}, {0.13194087288080522, 0.23425354494171818}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;merklich kleiner und kompakter als Atlantiksturmtaucher&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.28355343975373615</real>
+		<key>Frame</key>
+		<string>{{0.56706578030941457, 0.1260732719694827}, {0.13042880364949566, 0.1856639595981}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;Atlantiksturmtaucher (zum Vergleich)&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>EndPoint</key>
+		<string>{0.80748854752539945, 0.91100781315480639}</string>
+		<key>StartPoint</key>
+		<string>{0.75978860592046737, 0.87082137703411744}</string>
+		<key>Type</key>
+		<string>line</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.20550161812297801</real>
+		<key>Frame</key>
+		<string>{{0.750342561115101, 0.090814643861894584}, {0.094388013237465554, 0.25618121581327558}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;von Nahem auffällige weiße Spitzen &lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>EndPoint</key>
+		<string>{0.86181269950245698, 0.28569683493667763}</string>
+		<key>StartPoint</key>
+		<string>{0.82764844920267688, 0.30808160136696366}</string>
+		<key>Type</key>
+		<string>line</string>
+	</dict>
+	<dict>
+		<key>EndPoint</key>
+		<string>{0.91981955851129205, 0.65877627544144723}</string>
+		<key>StartPoint</key>
+		<string>{0.90838451462066327, 0.77380910293041971}</string>
+		<key>Type</key>
+		<string>line</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.24541062801931859</real>
+		<key>Frame</key>
+		<string>{{0.75727415031473055, 0.76389196927655134}, {0.23291743230500908, 0.21452067829024796}}</string>
+		<key>Text</key>
+		<string>&lt;p class="right"&gt;silbriges Flügelfeld (vor allem auf Armschwingen) kennzeichnend, oft aus großer Entfernung sichtbar&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.29314231484860759</real>
+		<key>Frame</key>
+		<string>{{0.31647864562828054, 0.69059718785131508}, {0.084605460850347244, 0.1795907711567627}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;Flügel-spitze stumpf&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.20429413106845565</real>
+		<key>Frame</key>
+		<string>{{0.42589496573235802, 0.74230461684335247}, {0.12751806520460837, 0.25769538315664708}}</string>
+		<key>Text</key>
+		<string>&lt;p class="right"&gt;wirkt durch rundlichen Kopf und zierlichen Schnabel „niedlich“&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.18485499072086015</real>
+		<key>Frame</key>
+		<string>{{0.33712721966063813, 0.090814643861893765}, {0.15252677867402206, 0.2847943362364363}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;leuchtend weiße Unterflügel mit vergleichsweise schmalem dunklem Hinterrand bis Spitze&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>EndPoint</key>
+		<string>{0.50296023122557743, 0.19242697481048282}</string>
+		<key>StartPoint</key>
+		<string>{0.47593194566590463, 0.19242697481048282}</string>
+		<key>Type</key>
+		<string>line</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.24540822325383713</real>
+		<key>Frame</key>
+		<string>{{0.12331677405664108, 0.72675964015565642}, {0.15358852794247704, 0.21452278038737976}}</string>
+		<key>Text</key>
+		<string>&lt;p class="right"&gt;hebt den Kopf im Flug oft an&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+</array>
+</plist>

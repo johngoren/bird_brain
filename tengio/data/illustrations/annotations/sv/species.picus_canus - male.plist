@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>EndPoint</key>
+		<string>{0.60369758136003648, 0.79150197966959224}</string>
+		<key>StartPoint</key>
+		<string>{0.4873340533415258, 0.76312874036373479}</string>
+		<key>Type</key>
+		<string>line</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.63856572152392077</real>
+		<key>Frame</key>
+		<string>{{0.61694623866557641, 0.75466796224999022}, {0.24397108409543794, 0.055775040571625412}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;smalt&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.62398598468979694</real>
+		<key>Frame</key>
+		<string>{{0.68064375777311747, 0.68315537458861342}, {0.0796109481075538, 0.057078251594628031}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;♂&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.38484786795909731</real>
+		<key>Frame</key>
+		<string>{{0.33018156602605814, 0.88507301375282688}, {0.25240029172817618, 0.092545735577340665}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;röd pannfläck&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>EndPoint</key>
+		<string>{0.4354932522428781, 0.89908293424755981}</string>
+		<key>StartPoint</key>
+		<string>{0.44007764595521986, 0.86194387684192331}</string>
+		<key>Type</key>
+		<string>line</string>
+	</dict>
+	<dict>
+		<key>EndPoint</key>
+		<string>{0.2042912198406589, 0.71198530242557534}</string>
+		<key>StartPoint</key>
+		<string>{0.26986896246085418, 0.72579626378659257}</string>
+		<key>Type</key>
+		<string>line</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.64827436123173665</real>
+		<key>Frame</key>
+		<string>{{0.057441206832657535, 0.66905032810648546}, {0.12612425475684144, 0.054939746433862721}}</string>
+		<key>Text</key>
+		<string>&lt;p class="right"&gt;grå&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>EndPoint</key>
+		<string>{0.77622156241770779, 0.41642226210294619}</string>
+		<key>StartPoint</key>
+		<string>{0.66599923855448528, 0.45136818157035113}</string>
+		<key>Type</key>
+		<string>line</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.35130276921097575</real>
+		<key>Frame</key>
+		<string>{{0.79261120811735586, 0.32475154068074291}, {0.14561679740754874, 0.10138271641194108}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;ovatt­rad&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.17407395274341236</real>
+		<key>Frame</key>
+		<string>{{0.73113629833675642, 0.021033088007270533}, {0.23224031914591259, 0.20460286254397006}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;saknar svartvit-vattrade stjärt-sidor&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>EndPoint</key>
+		<string>{0.71308022360575118, 0.21235659511152616}</string>
+		<key>StartPoint</key>
+		<string>{0.63820418146726754, 0.24325997505191763}</string>
+		<key>Type</key>
+		<string>line</string>
+	</dict>
+</array>
+</plist>

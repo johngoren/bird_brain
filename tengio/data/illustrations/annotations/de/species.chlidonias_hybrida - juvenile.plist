@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>FontScale</key>
+		<real>0.41412518035618301</real>
+		<key>Frame</key>
+		<string>{{0.45495327943517383, 0.27877416359557827}, {0.17233242297157753, 0.072165691592431094}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;grob gemustert&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>EndPoint</key>
+		<string>{0.50925367821052547, 0.28920795861088205}</string>
+		<key>StartPoint</key>
+		<string>{0.50112991884479119, 0.25570102999758554}</string>
+		<key>Type</key>
+		<string>line</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.66534010152284273</real>
+		<key>Frame</key>
+		<string>{{0.69942678670803426, 0.040696007340975802}, {0.13255180381404486, 0.044917824700241915}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;&lt;b&gt;JK&lt;/b&gt;&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.66534010152284273</real>
+		<key>Frame</key>
+		<string>{{0.25945430924958823, 0.7132411456817227}, {0.13255180381404416, 0.044917824700241915}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;&lt;b&gt;JK&lt;/b&gt;&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>EndPoint</key>
+		<string>{0.37189956477587982, 0.91113531003723658}</string>
+		<key>StartPoint</key>
+		<string>{0.41211266135138563, 0.88145996986769493}</string>
+		<key>Type</key>
+		<string>line</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.31864379310065349</real>
+		<key>Frame</key>
+		<string>{{0.21952332192643706, 0.90620990995797024}, {0.15067734728468307, 0.093790090042029789}}</string>
+		<key>Text</key>
+		<string>&lt;p class="right"&gt;gelblich brauner Farbton&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.1924703690574075</real>
+		<key>Frame</key>
+		<string>{{0.59506987528793687, 0.61263179669404599}, {0.21332419761104343, 0.15527392706006771}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;meist ohne dunklen Armflügel-Vorderrand&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>EndPoint</key>
+		<string>{0.5789265922713499, 0.76110885410678064}</string>
+		<key>StartPoint</key>
+		<string>{0.51985646453903411, 0.77470259340144632}</string>
+		<key>Type</key>
+		<string>line</string>
+	</dict>
+</array>
+</plist>

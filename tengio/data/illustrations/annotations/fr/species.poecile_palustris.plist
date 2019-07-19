@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>EndPoint</key>
+		<string>{0.7007006373160285, 0.57727035718872388}</string>
+		<key>StartPoint</key>
+		<string>{0.73779517497919478, 0.49532846726360824}</string>
+		<key>Type</key>
+		<string>line</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.73623188405797446</real>
+		<key>Frame</key>
+		<string>{{0.60930298284322482, 0.5663843123577057}, {0.16634589875730077, 0.053124972402702059}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;teinté de brun&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>EndPoint</key>
+		<string>{0.88333743698698597, 0.58886450806819923}</string>
+		<key>StartPoint</key>
+		<string>{0.86558632094453269, 0.54767481255390649}</string>
+		<key>Type</key>
+		<string>line</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.38778625954198698</real>
+		<key>Frame</key>
+		<string>{{0.8256428166139268, 0.56361257466712122}, {0.10301896846224103, 0.10086045485150669}}</string>
+		<key>Text</key>
+		<string>&lt;p class="right"&gt;noir brillant&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>EndPoint</key>
+		<string>{0.93031742071091916, 0.34446630391130623}</string>
+		<key>StartPoint</key>
+		<string>{0.90245258520152816, 0.3932507327100358}</string>
+		<key>Type</key>
+		<string>line</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.198631203479774</real>
+		<key>Frame</key>
+		<string>{{0.84475542797666592, 0.14727447572855112}, {0.12610689839728592, 0.19690913530890386}}</string>
+		<key>Text</key>
+		<string>&lt;p class="right"&gt;petite bavette&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>EndPoint</key>
+		<string>{0.63347448925854499, 0.48437220502449158}</string>
+		<key>StartPoint</key>
+		<string>{0.64962514340451682, 0.44993153956677739}</string>
+		<key>Type</key>
+		<string>line</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.626666007939784</real>
+		<key>Frame</key>
+		<string>{{0.50895076996980659, 0.44489011100691062}, {0.1599247734786394, 0.062413307929616496}}</string>
+		<key>Text</key>
+		<string>&lt;p class="center"&gt;brun&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.25753413891344956</real>
+		<key>Frame</key>
+		<string>{{0.33197460845058246, 0.083547452210310763}, {0.20961626135626002, 0.15187228647660514}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;&lt;b&gt;&lt;i&gt;dresseri&lt;/i&gt;&lt;/b&gt;&lt;/p&gt;&lt;p&gt;(G-B, &lt;/p&gt;&lt;p&gt;N-O France)&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.21219293445706849</real>
+		<key>Frame</key>
+		<string>{{0.36561554338836427, 0.7696414062093917}, {0.37564389994444342, 0.18432422654714994}}</string>
+		<key>Text</key>
+		<string>&lt;p class="right"&gt;&lt;b&gt;&lt;i&gt;   palustris&lt;/i&gt;&lt;/b&gt;&lt;/p&gt;&lt;p class="right"&gt;(pays nordiques,Europe continentale)&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.21767170528121424</real>
+		<key>Frame</key>
+		<string>{{0.054862127090737248, 0.13618752496625178}, {0.21000996721908965, 0.17968480777985965}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;petite bavette ne s’élargissant habituellement pas vers le bas&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+</array>
+</plist>

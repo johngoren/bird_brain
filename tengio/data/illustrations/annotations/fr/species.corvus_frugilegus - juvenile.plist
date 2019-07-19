@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>FontScale</key>
+		<real>0.54337495077074205</real>
+		<key>Frame</key>
+		<string>{{0.70341846180864587, 0.91372353756214175}, {0.25564796759720204, 0.086276462437858414}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;calotte souvent pointue&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>EndPoint</key>
+		<string>{0.6963925208828381, 0.97347295841761694}</string>
+		<key>StartPoint</key>
+		<string>{0.66375209588066364, 0.94634841618545362}</string>
+		<key>Type</key>
+		<string>line</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.29912479888631793</real>
+		<key>Frame</key>
+		<string>{{0.71835104516610082, 0.59579910515309054}, {0.16659480752539921, 0.15672544939231856}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;bec pointu, à culmen assez droit&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>EndPoint</key>
+		<string>{0.77997757965720804, 0.81534366151628768}</string>
+		<key>StartPoint</key>
+		<string>{0.77959978134784191, 0.76703278498996363}</string>
+		<key>Type</key>
+		<string>line</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.46999931869605732</real>
+		<key>Frame</key>
+		<string>{{0.29526118337141727, 0.183334038038626}, {0.11921544624742533, 0.099745822312908725}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;&lt;b&gt;juv.&lt;/b&gt;&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+</array>
+</plist>

@@ -1,0 +1,182 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>FontScale</key>
+		<real>0.57207286503441257</real>
+		<key>Frame</key>
+		<string>{{0.83870782256996634, 0.87915646507118173}, {0.11023646139852056, 0.059369268673301043}}</string>
+		<key>Text</key>
+		<string>&lt;p class="center"&gt;♂&lt;b&gt; PK&lt;/b&gt;&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>EndPoint</key>
+		<string>{0.76604594727930797, 0.8148070329471806}</string>
+		<key>StartPoint</key>
+		<string>{0.78914970396068584, 0.83672017335361426}</string>
+		<key>Type</key>
+		<string>line</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.24546738396441622</real>
+		<key>Frame</key>
+		<string>{{0.71075797497645876, 0.66962811834848091}, {0.078679775213997633, 0.13836277177197848}}</string>
+		<key>Text</key>
+		<string>&lt;p class="right"&gt;Handflügel sehr breit&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.61926802725802377</real>
+		<key>Frame</key>
+		<string>{{0.73431951949119723, 0.46515247323527992}, {0.11023646139852056, 0.054844665201457109}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;♀&lt;b&gt; PK&lt;/b&gt;&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>EndPoint</key>
+		<string>{0.60588799185010556, 0.64810677408758954}</string>
+		<key>StartPoint</key>
+		<string>{0.58760525583962397, 0.66926157110849316}</string>
+		<key>Type</key>
+		<string>line</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.38028478425974799</real>
+		<key>Frame</key>
+		<string>{{0.49019111537752968, 0.64537799127371775}, {0.13416260153404155, 0.089310824494452629}}</string>
+		<key>Text</key>
+		<string>&lt;p class="right"&gt;Flügel gleichmäßig breit&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.27012029206426824</real>
+		<key>Frame</key>
+		<string>{{0.32065899121084412, 0.80436619997679093}, {0.11259408926610188, 0.12573489894218079}}</string>
+		<key>Text</key>
+		<string>&lt;p class="right"&gt;im Winter in großen Trupps&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.67133096362462952</real>
+		<key>Frame</key>
+		<string>{{0.13599572568622467, 0.82724024875098123}, {0.059901350667107202, 0.050591361735436997}}</string>
+		<key>Text</key>
+		<string>&lt;p class="right"&gt;kurz&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>EndPoint</key>
+		<string>{0.20074329643453917, 0.86890441337363211}</string>
+		<key>StartPoint</key>
+		<string>{0.22780133011579945, 0.88802686156983413}</string>
+		<key>Type</key>
+		<string>line</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.55624541137427674</real>
+		<key>Frame</key>
+		<string>{{0.024336732274069538, 0.74115388963412332}, {0.10424626527144623, 0.061058566831179349}}</string>
+		<key>Text</key>
+		<string>&lt;p class="right"&gt;hell geschuppt&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.64540569286373128</real>
+		<key>Frame</key>
+		<string>{{0.0009713227135371411, 0.5354198657337258}, {0.056716354872782586, 0.052623563752952629}}</string>
+		<key>Text</key>
+		<string>&lt;p class="right"&gt;&lt;b&gt;JK&lt;/b&gt;&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>EndPoint</key>
+		<string>{0.13305206544655535, 0.77958562368325501}</string>
+		<key>StartPoint</key>
+		<string>{0.15223072976276814, 0.75940105412731729}</string>
+		<key>Type</key>
+		<string>line</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.60476254192947076</real>
+		<key>Frame</key>
+		<string>{{0.082308786312376217, 0.080205059082395974}, {0.10482738547471045, 0.056160137690693918}}</string>
+		<key>Text</key>
+		<string>&lt;p class="right"&gt;&lt;b&gt;SK&lt;/b&gt;&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.36537073120419666</real>
+		<key>Frame</key>
+		<string>{{0.054904473408173192, 0.42397058343056898}, {0.073114900578648154, 0.092956399416546973}}</string>
+		<key>Text</key>
+		<string>&lt;p class="right"&gt;hell gerandet&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>EndPoint</key>
+		<string>{0.13394356182578598, 0.45992164072290581}</string>
+		<key>StartPoint</key>
+		<string>{0.15222015997206451, 0.4379686989073206}</string>
+		<key>Type</key>
+		<string>line</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.68717385909664386</real>
+		<key>Frame</key>
+		<string>{{0.33960379803668328, 0.46722540014442848}, {0.1102362869403387, 0.049424970370062507}}</string>
+		<key>Text</key>
+		<string>&lt;p class="center"&gt;♀&lt;b&gt; PK&lt;/b&gt;&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>EndPoint</key>
+		<string>{0.45468076266057339, 0.6457971017107822}</string>
+		<key>StartPoint</key>
+		<string>{0.42920294562008715, 0.65393527475271096}</string>
+		<key>Type</key>
+		<string>line</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.61926802725802377</real>
+		<key>Frame</key>
+		<string>{{0.32568841728384251, 0.04497725861275461}, {0.11023646139852056, 0.054844665201457109}}</string>
+		<key>Text</key>
+		<string>&lt;p class="right"&gt;♂&lt;b&gt; PK&lt;/b&gt;&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>EndPoint</key>
+		<string>{0.57333457633211748, 0.46810519713236254}</string>
+		<key>StartPoint</key>
+		<string>{0.54592305141967912, 0.47948590430969634}</string>
+		<key>Type</key>
+		<string>line</string>
+	</dict>
+</array>
+</plist>

@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>FontScale</key>
+		<real>0.17069892473118181</real>
+		<key>Frame</key>
+		<string>{{0.47392665167104753, 0.72477735917201336}, {0.31284899387355014, 0.20303144376873158}}</string>
+		<key>Text</key>
+		<string>&lt;p class="center"&gt;first-year aged by distinctly white-tipped secondary coverts; adult has diffuse rufous-buff tip&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.6726654395412649</real>
+		<key>Frame</key>
+		<string>{{0.54682920197247309, 0.28356570703411987}, {0.17498380021513718, 0.05152226813016729}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;&lt;b&gt;1st-winter&lt;/b&gt;&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>EndPoint</key>
+		<string>{0.66459486015169378, 0.21433338663247983}</string>
+		<key>StartPoint</key>
+		<string>{0.59598097332309885, 0.17863257365663385}</string>
+		<key>Type</key>
+		<string>line</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.64827649878988924</real>
+		<key>Frame</key>
+		<string>{{0.64616894084474075, 0.18154212552557367}, {0.14708364878095187, 0.053460597758263846}}</string>
+		<key>Text</key>
+		<string>&lt;p class="right"&gt;very long&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.18085881443867974</real>
+		<key>Frame</key>
+		<string>{{0.077368703582588377, 0.16109212326675021}, {0.27635605040848044, 0.1916259887332859}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;moulted adult type feather with &lt;i&gt;diffuse&lt;/i&gt;, &lt;i&gt;pointed&lt;/i&gt; dark centre&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>EndPoint</key>
+		<string>{0.21212984587999512, 0.36226003847245081}</string>
+		<key>StartPoint</key>
+		<string>{0.21381130993747571, 0.4005414805653813}</string>
+		<key>Type</key>
+		<string>line</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.28222243275599296</real>
+		<key>Frame</key>
+		<string>{{0.077368823108360879, 0.50046045242256654}, {0.18224249174842927, 0.12280118486508207}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;close-up of three me­dian coverts:&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.25078570101786279</real>
+		<key>Frame</key>
+		<string>{{0.073363068950641652, 0.72395868399552421}, {0.16583339328835189, 0.13819467775586355}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;lacks distinct loral stripe (cf. Tawny)&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>EndPoint</key>
+		<string>{0.24904601044681171, 0.84811847539822727}</string>
+		<key>StartPoint</key>
+		<string>{0.30349640066024464, 0.90376157182824113}</string>
+		<key>Type</key>
+		<string>line</string>
+	</dict>
+</array>
+</plist>

@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>FontScale</key>
+		<real>0.36366676393882513</real>
+		<key>Frame</key>
+		<string>{{0.11311673034767171, 0.4795052947941929}, {0.10138306502393749, 0.090359912333323897}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;Singdrossel&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>EndPoint</key>
+		<string>{0.38104362867273955, 0.45945238526369708}</string>
+		<key>StartPoint</key>
+		<string>{0.34429483381154863, 0.48571522806816581}</string>
+		<key>Type</key>
+		<string>line</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.21882403618348348</real>
+		<key>Frame</key>
+		<string>{{0.37997763332389467, 0.34404338317431016}, {0.11983701554517072, 0.15017041766153166}}</string>
+		<key>Text</key>
+		<string>&lt;p class="right"&gt;Ohrdecken kräftiger gemustert&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>EndPoint</key>
+		<string>{0.74423346645325561, 0.20451860214499762}</string>
+		<key>StartPoint</key>
+		<string>{0.70985436486371467, 0.26333514699459354}</string>
+		<key>Type</key>
+		<string>line</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.20380334069184303</real>
+		<key>Frame</key>
+		<string>{{0.73544649190147104, 0.027111721490094796}, {0.22274783329214981, 0.16123826428214702}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;Flanken gräulich getönt  mit viel blasserer Fleckung als bei Singdrossel&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.18870728083209734</real>
+		<key>Frame</key>
+		<string>{{0.7751267539033212, 0.25103149975630051}, {0.21996946814441648, 0.17413687889071899}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;Gesicht beige getönt, Lidring deutlicher als bei Grauwangendrossel&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.16309495144072225</real>
+		<key>Frame</key>
+		<string>{{0.11311662582921536, 0.00094798270182761663}, {0.45815296868295596, 0.2014832256778917}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;im Vergleich zur Sing-drossel Zwergdrossel ohne kräftige Ohrdeckenzeichnung, hellbeige Spitzen der Mittleren Armdecken und beige Flankentönung&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.42492680886657935</real>
+		<key>Frame</key>
+		<string>{{0.51729329600599139, 0.51239853510473177}, {0.45450260054574626, 0.077333075302324972}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;Zwergdrossel (r.) ohne angedeuteten Überaugenstreif hinter dem Auge&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.1732083966519983</real>
+		<key>Frame</key>
+		<string>{{0.7050727831566902, 0.78366642869044667}, {0.26483885497198834, 0.18971884471673917}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;viel kleiner als Singdrossel (l.)&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+</array>
+</plist>

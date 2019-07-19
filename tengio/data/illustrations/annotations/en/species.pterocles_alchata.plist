@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>FontScale</key>
+		<real>0.6109775709502242</real>
+		<key>Frame</key>
+		<string>{{0.53574394901867495, 0.072899151257743683}, {0.027423833238674256, 0.095380849628963676}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;♂&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.46265938069215962</real>
+		<key>Frame</key>
+		<string>{{0.73347876359153841, 0.36795127909783976}, {0.079498361987918223, 0.12595780449602023}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;rufous breast&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>EndPoint</key>
+		<string>{0.70224308481572673, 0.50593547980740572}</string>
+		<key>StartPoint</key>
+		<string>{0.72796590244020964, 0.47004822445435757}</string>
+		<key>Type</key>
+		<string>line</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.6109775709502242</real>
+		<key>Frame</key>
+		<string>{{0.3623757237419708, 0.25094345329927981}, {0.027423650620087066, 0.095380849628963676}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;♀&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.6109775709502242</real>
+		<key>Frame</key>
+		<string>{{0, 0.6325488077492315}, {0.11459243298884692, 0.095380849628963676}}</string>
+		<key>Text</key>
+		<string>&lt;p class="right"&gt;♂&lt;b&gt; eclipse&lt;/b&gt;&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.6109775709502242</real>
+		<key>Frame</key>
+		<string>{{0.9228097057490483, 0.067167719360323688}, {0.027423833238674256, 0.095380849628963676}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;♂&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.28613123735887008</real>
+		<key>Frame</key>
+		<string>{{0.89385662889106487, 0.35499883720481434}, {0.085778529955516422, 0.20366724150562684}}</string>
+		<key>Text</key>
+		<string>&lt;p class="right"&gt;white belly, sharp contrast&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>EndPoint</key>
+		<string>{0.95601119055407391, 0.6117106598234735}</string>
+		<key>StartPoint</key>
+		<string>{0.95800778048367308, 0.56136189693051797}</string>
+		<key>Type</key>
+		<string>line</string>
+	</dict>
+</array>
+</plist>

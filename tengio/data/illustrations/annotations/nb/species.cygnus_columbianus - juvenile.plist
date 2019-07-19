@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>FontScale</key>
+		<real>0.20840673912905253</real>
+		<key>Frame</key>
+		<string>{{0.66828222258005665, 0.18645546562085444}, {0.33171777741994329, 0.23291813084891205}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;﻿ofte åpenbart kortere hals enn hos sang­svane&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.71955510905427722</real>
+		<key>Frame</key>
+		<string>{{0, 0.43895012618988005}, {0.15408606987103357, 0.067460723332303033}}</string>
+		<key>Text</key>
+		<string>&lt;p class="right"&gt;&lt;b&gt;juv.&lt;/b&gt;&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+</array>
+</plist>

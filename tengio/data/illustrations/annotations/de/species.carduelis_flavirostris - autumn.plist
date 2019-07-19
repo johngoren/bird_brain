@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>FontScale</key>
+		<real>0.55294064707735235</real>
+		<key>Frame</key>
+		<string>{{0.36402458696404094, 0.65961225887440988}, {0.19227877260441262, 0.11691728318708533}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;&lt;b&gt;Herbst&lt;/b&gt;&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>EndPoint</key>
+		<string>{0.83948892238841988, 0.30837924311188714}</string>
+		<key>StartPoint</key>
+		<string>{0.80612189248600075, 0.3809050310245663}</string>
+		<key>Type</key>
+		<string>line</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.24415559256237473</real>
+		<key>Frame</key>
+		<string>{{0.81139378371502513, 0.73521672167522734}, {0.16853073804050275, 0.26478327832477239}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;gelblich (wird im Sommer dunkler)&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>EndPoint</key>
+		<string>{0.86187784546282187, 0.71973474521324488}</string>
+		<key>StartPoint</key>
+		<string>{0.8400755875439837, 0.63401095861221624}</string>
+		<key>Type</key>
+		<string>line</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.28222223019698073</real>
+		<key>Frame</key>
+		<string>{{0.77575401694297075, 0.073034750735738438}, {0.20464411133239718, 0.22906883761378705}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;senfgelb überhaucht&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+</array>
+</plist>

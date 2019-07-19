@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>FontScale</key>
+		<real>0.22005631362356479</real>
+		<key>Frame</key>
+		<string>{{0, 0.59184011707886153}, {0.24146195563567632, 0.23429282371562404}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;helle Spitzen der Armschwingen&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>EndPoint</key>
+		<string>{0.33732905803642033, 0.643331624862444}</string>
+		<key>StartPoint</key>
+		<string>{0.22462253275851055, 0.67159568680676618}</string>
+		<key>Type</key>
+		<string>line</string>
+	</dict>
+	<dict>
+		<key>EndPoint</key>
+		<string>{0.12865074246122174, 0.40735139531023229}</string>
+		<key>StartPoint</key>
+		<string>{0.11281121317446516, 0.45773764182448967}</string>
+		<key>Type</key>
+		<string>line</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.35471649093940116</real>
+		<key>Frame</key>
+		<string>{{0.087132141372262356, 0.25269034154124204}, {0.21454780469959453, 0.14534879660873706}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;tief gegabelt&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.58420026742565956</real>
+		<key>Frame</key>
+		<string>{{0.059940479701576475, 0.059057968035105289}, {0.21535796043181887, 0.088253323338090953}}</string>
+		<key>Text</key>
+		<string>&lt;p class="right"&gt;spitz&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>EndPoint</key>
+		<string>{0.38278751835198022, 0.094184663873922297}</string>
+		<key>StartPoint</key>
+		<string>{0.28854034877441237, 0.11933316265512553}</string>
+		<key>Type</key>
+		<string>line</string>
+	</dict>
+	<dict>
+		<key>EndPoint</key>
+		<string>{0.67077328806388559, 0.52059828965484656}</string>
+		<key>StartPoint</key>
+		<string>{0.60869949056782502, 0.55972414987710006}</string>
+		<key>Type</key>
+		<string>line</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.25786802030456935</real>
+		<key>Frame</key>
+		<string>{{0.68534869812731758, 0.33612940348827891}, {0.31433560891310963, 0.19993799554679545}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;deutlich abgesetzter weißer Kehlfleck&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.38182909586877051</real>
+		<key>Frame</key>
+		<string>{{0.60976799410824212, 0.033301244027974519}, {0.38135438272089112, 0.13502798936264301}}</string>
+		<key>Text</key>
+		<string>&lt;p class="center"&gt;meidet Städte&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+</array>
+</plist>

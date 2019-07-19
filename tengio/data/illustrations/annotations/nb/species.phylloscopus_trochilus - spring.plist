@@ -1,0 +1,130 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>EndPoint</key>
+		<string>{0.37213174558111878, 0.51017194775849239}</string>
+		<key>StartPoint</key>
+		<string>{0.33119860807560014, 0.58558425631921629}</string>
+		<key>Type</key>
+		<string>line</string>
+	</dict>
+	<dict>
+		<key>EndPoint</key>
+		<string>{0.34339195656980698, 0.56301595658011072}</string>
+		<key>StartPoint</key>
+		<string>{0.23358600780907343, 0.45733064439542243}</string>
+		<key>Type</key>
+		<string>line</string>
+	</dict>
+	<dict>
+		<key>EndPoint</key>
+		<string>{0.24629407719687332, 0.43072094698872032}</string>
+		<key>StartPoint</key>
+		<string>{0.2213525102065754, 0.47832830792956038}</string>
+		<key>Type</key>
+		<string>line</string>
+	</dict>
+	<dict>
+		<key>EndPoint</key>
+		<string>{0.22563441612927743, 0.5287524794220626}</string>
+		<key>StartPoint</key>
+		<string>{0.29281619733235859, 0.5142939066596921}</string>
+		<key>Type</key>
+		<string>line</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.23962264150944501</real>
+		<key>Frame</key>
+		<string>{{0.099398151950807201, 0.53060614259666938}, {0.24986828930026636, 0.1964882965139734}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;lang håndsving-fjærprojeksjon (omtrent halve tertiærlengden)&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.65463917525781556</real>
+		<key>Frame</key>
+		<string>{{0.7082771993176975, 0.12896367422719282}, {0.12233551444141066, 0.071922131176807041}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;&lt;b&gt;vår&lt;/b&gt;&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>EndPoint</key>
+		<string>{0.58864306682470757, 0.24328835052434708}</string>
+		<key>StartPoint</key>
+		<string>{0.53796697333063448, 0.18434186157016844}</string>
+		<key>Type</key>
+		<string>line</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.27653783342401744</real>
+		<key>Frame</key>
+		<string>{{0.17362569175894182, 0.089805039662496838}, {0.40511978638549856, 0.17025896259256726}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;﻿som regel lyse, men fugler med nesten like mørke bein som gransanger forekommer&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.19598765432098544</real>
+		<key>Frame</key>
+		<string>{{0.7906642523352182, 0.18554674263362311}, {0.20386205920486467, 0.24023474743596615}}</string>
+		<key>Text</key>
+		<string>&lt;p class="right"&gt;﻿blekgule fargetoner glir over i skittenhvit buk&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>EndPoint</key>
+		<string>{0.89428200478056719, 0.4309464373953788}</string>
+		<key>StartPoint</key>
+		<string>{0.84440548981226327, 0.46419865936448856}</string>
+		<key>Type</key>
+		<string>line</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.31242312423125074</real>
+		<key>Frame</key>
+		<string>{{0.89737752066013854, 0.58362090939197864}, {0.089952584148094802, 0.15070281609987118}}</string>
+		<key>Text</key>
+		<string>&lt;p class="right"&gt;﻿lyst kinn&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>EndPoint</key>
+		<string>{0.92048548602225433, 0.67484298684740629}</string>
+		<key>StartPoint</key>
+		<string>{0.87200408280836961, 0.6877957932823715}</string>
+		<key>Type</key>
+		<string>line</string>
+	</dict>
+	<dict>
+		<key>EndPoint</key>
+		<string>{0.84832447161766833, 0.87494477400524784}</string>
+		<key>StartPoint</key>
+		<string>{0.82280980629426925, 0.84385793446663926}</string>
+		<key>Type</key>
+		<string>line</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.31032376298110204</real>
+		<key>Frame</key>
+		<string>{{0.76886466242333174, 0.84827766915408098}, {0.2263378664221054, 0.15172233084591921}}</string>
+		<key>Text</key>
+		<string>&lt;p class="right"&gt;﻿temmelig tydelig øyenbrynstripe og øyestripe&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+</array>
+</plist>

@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>FontScale</key>
+		<real>0.46000182495841113</real>
+		<key>Frame</key>
+		<string>{{0.6443909779453868, 0.47905218379564685}, {0.29011554642493353, 0.18887668378413366}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;Spitze breit schwarz&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>EndPoint</key>
+		<string>{0.63764747813984191, 0.62967700763434542}</string>
+		<key>StartPoint</key>
+		<string>{0.61025178460609697, 0.54891811268224378}</string>
+		<key>Type</key>
+		<string>line</string>
+	</dict>
+	<dict>
+		<key>EndPoint</key>
+		<string>{0.64008190127496389, 0.72550361976838007}</string>
+		<key>StartPoint</key>
+		<string>{0.58709053774191211, 0.57723141482782325}</string>
+		<key>Type</key>
+		<string>line</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.70555557549245185</real>
+		<key>Frame</key>
+		<string>{{0.64515254467929695, 0.6679288675797791}, {0.35484745532070289, 0.12314213401566937}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;helles Querband angedeutet&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>EndPoint</key>
+		<string>{0.36923633621991203, 0.90762345932116106}</string>
+		<key>StartPoint</key>
+		<string>{0.40351040139596001, 0.81172190571116454}</string>
+		<key>Type</key>
+		<string>line</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.63107267931087563</real>
+		<key>Frame</key>
+		<string>{{0.33511370494251114, 0.85967268251616702}, {0.2185695158384317, 0.13767609037943171}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;immer mit Schopf&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.36972572360497469</real>
+		<key>Frame</key>
+		<string>{{0.22340566867181866, 0.60148372180440612}, {0.16296770013611475, 0.23499479123509165}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;einfarbig dunkelbraun&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>EndPoint</key>
+		<string>{0.24454154957623545, 0.65805400997312002}</string>
+		<key>StartPoint</key>
+		<string>{0.28497669316259472, 0.54491343363568878}</string>
+		<key>Type</key>
+		<string>line</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.65054165481004034</real>
+		<key>Frame</key>
+		<string>{{0.013979239049692387, 0.41227427757672647}, {0.17023938316449774, 0.133555812437813}}</string>
+		<key>Text</key>
+		<string>&lt;p class="right"&gt;♀&lt;b&gt; PK&lt;/b&gt;&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+</array>
+</plist>

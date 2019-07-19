@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>EndPoint</key>
+		<string>{0.75923702848704799, 0.30140560571057129}</string>
+		<key>StartPoint</key>
+		<string>{0.64683319675989681, 0.4593841857110324}</string>
+		<key>Type</key>
+		<string>line</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.32944228274967302</real>
+		<key>Frame</key>
+		<string>{{0.73127388425132001, 0.13930071951607673}, {0.20039041906971566, 0.15149438455268199}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;large tache blanche chez le ♂&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.24411340701585293</real>
+		<key>Frame</key>
+		<string>{{0.10415795335160428, 0.66093459421286638}, {0.48621192328488444, 0.20444864737622231}}</string>
+		<key>Text</key>
+		<string>&lt;p class="center"&gt;les ind. égarés sont souvent trouvés en train de se nourrir de mûres&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.7175141242937535</real>
+		<key>Frame</key>
+		<string>{{0.27668476483978888, 0.12692180093394373}, {0.25094808943736008, 0.069557732985280618}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;♂ &lt;b&gt;1er hiver&lt;/b&gt;&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+</array>
+</plist>

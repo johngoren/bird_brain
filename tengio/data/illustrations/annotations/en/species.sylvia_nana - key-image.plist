@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>EndPoint</key>
+		<string>{0.54372742999939239, 0.4572629932818395}</string>
+		<key>StartPoint</key>
+		<string>{0.63014470440519432, 0.51546467334315038}</string>
+		<key>Type</key>
+		<string>line</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.18997756170530819</real>
+		<key>Frame</key>
+		<string>{{0.64197320740237673, 0.38264362852277073}, {0.29429470222929166, 0.25355221432915054}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;dark shafts on tertials and central tail-feathers&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>EndPoint</key>
+		<string>{0.58719379489470735, 0.29885483446917249}</string>
+		<key>StartPoint</key>
+		<string>{0.72529624432905104, 0.40332797531125336}</string>
+		<key>Type</key>
+		<string>line</string>
+	</dict>
+</array>
+</plist>

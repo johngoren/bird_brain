@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>FontScale</key>
+		<real>0.40000000000000002</real>
+		<key>Frame</key>
+		<string>{{0.74136475849702022, 0.050202071004905646}, {0.13406984541787523, 0.060644340581700554}}</string>
+		<key>Text</key>
+		<string>&lt;p class="center"&gt;blends perfectly with bark of old pine tree&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.22628062360802176</real>
+		<key>Frame</key>
+		<string>{{0.88492482376754888, 0.70146878987812511}, {0.044880118466126002, 0.10720200362670501}}</string>
+		<key>Text</key>
+		<string>&lt;p class="right"&gt;tufts folded&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.67195767195772216</real>
+		<key>Frame</key>
+		<string>{{0.61146037311378176, 0.64994497610830559}, {0.11072734504565529, 0.036100095653356055}}</string>
+		<key>Text</key>
+		<string>&lt;p class="right"&gt;‘boxing gloves’&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>EndPoint</key>
+		<string>{0.74816154483534403, 0.67316524994070603}</string>
+		<key>StartPoint</key>
+		<string>{0.72635410304535752, 0.67829626752026928}</string>
+		<key>Type</key>
+		<string>line</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.26392073238073832</real>
+		<key>Frame</key>
+		<string>{{0.77014577318703681, 0.87639092648927042}, {0.075033521938901657, 0.091912961948307392}}</string>
+		<key>Text</key>
+		<string>&lt;p class="center"&gt;rather&lt;/p&gt;&lt;p class="center"&gt;uniform&lt;/p&gt;&lt;p class="center"&gt;above&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.30522969686777501</real>
+		<key>Frame</key>
+		<string>{{0.23760444571410858, 0.037675893479498658}, {0.14669611537875682, 0.079473709411665233}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;young, just out of nest, &lt;i&gt;c&lt;/i&gt;. 5 weeks old—en-&lt;/p&gt;&lt;p&gt;tering ‘roaming’ stage&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.4916190738242619</real>
+		<key>Frame</key>
+		<string>{{0.17598006056849641, 0.71498245002346672}, {0.10781741374386819, 0.049342544917920707}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;breeding habitat&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.24242424242424243</real>
+		<key>Frame</key>
+		<string>{{0.54223849547958836, 0.73926406198078465}, {0.082263026471552134, 0.1000631619598059}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;mobbed by&lt;/p&gt;&lt;p&gt;Hooded Crow&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.27297152068780622</real>
+		<key>Frame</key>
+		<string>{{0.42187916941612574, 0.47918579349399071}, {0.11693626618045433, 0.088865447104364628}}</string>
+		<key>Text</key>
+		<string>&lt;p class="center"&gt;impressive, fierce-looking, unmistakable&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+</array>
+</plist>

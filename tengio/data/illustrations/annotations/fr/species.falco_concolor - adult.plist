@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>EndPoint</key>
+		<string>{0.26833205422010425, 0.046502363026803689}</string>
+		<key>StartPoint</key>
+		<string>{0.32679123581777886, 0.047873534583422347}</string>
+		<key>Type</key>
+		<string>line</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.67898881060920024</real>
+		<key>Frame</key>
+		<string>{{0.49731722061451084, 0.056027214953435545}, {0.11862395409281849, 0.034489110168228157}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;&lt;b&gt;ad.&lt;/b&gt;&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.15023405299088069</real>
+		<key>Frame</key>
+		<string>{{0.82085119322370892, 0.12774848761991955}, {0.17638079335902598, 0.15587491268385326}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;importante variabilité de la teinte du gris chez les ad.&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.34557823129254589</real>
+		<key>Frame</key>
+		<string>{{0.086370385738626473, 0.016801062063398427}, {0.27029302160850277, 0.067763874490898893}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;les ailes dépassent de la queue&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.6789864657187954</real>
+		<key>Frame</key>
+		<string>{{0.55252963166962921, 0.919507652558054}, {0.11862395409281849, 0.034489229276910859}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;&lt;b&gt;ad.&lt;/b&gt;&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.58004673228067694</real>
+		<key>Frame</key>
+		<string>{{0.62880343753429868, 0.84586035028812823}, {0.078376503130992023, 0.04037212622510454}}</string>
+		<key>Text</key>
+		<string>&lt;p class="right"&gt;gris uni&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>EndPoint</key>
+		<string>{0.62520716747447669, 0.84490198991962617}</string>
+		<key>StartPoint</key>
+		<string>{0.65604497370132764, 0.86253216676612332}</string>
+		<key>Type</key>
+		<string>line</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.17053031142039118</real>
+		<key>Frame</key>
+		<string>{{0.41723592875266463, 0.5584765937715177}, {0.18544200773797528, 0.13732291753320947}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;queue courte et ailes très longues et étroites&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+</array>
+</plist>

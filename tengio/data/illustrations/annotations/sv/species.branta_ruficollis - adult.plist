@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>EndPoint</key>
+		<string>{0.34428882381015358, 0.29166671203787814}</string>
+		<key>StartPoint</key>
+		<string>{0.37380062846242795, 0.27692124082002934}</string>
+		<key>Type</key>
+		<string>line</string>
+	</dict>
+	<dict>
+		<key>EndPoint</key>
+		<string>{0.28763523862226659, 0.28041107296054518}</string>
+		<key>StartPoint</key>
+		<string>{0.31714704327454118, 0.26566560174269604}</string>
+		<key>Type</key>
+		<string>line</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.40591290451459427</real>
+		<key>Frame</key>
+		<string>{{0.023356416284958628, 0.25460177152784202}, {0.36514849710192604, 0.075733507017651899}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;två tydliga vita tvärband&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.6439450016048841</real>
+		<key>Frame</key>
+		<string>{{0.2407205813130259, 0.080790552986962846}, {0.38700640776412543, 0.047738871683134634}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;&lt;b&gt;ad.&lt;/b&gt;&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.43534522844730078</real>
+		<key>Frame</key>
+		<string>{{0.10125184162048294, 0.58853821210492274}, {0.63788211580543475, 0.07061340240767737}}</string>
+		<key>Text</key>
+		<string>&lt;p class="right"&gt;brett vitt band längs kroppssidan&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+</array>
+</plist>

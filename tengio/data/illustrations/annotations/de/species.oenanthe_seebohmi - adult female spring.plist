@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>FontScale</key>
+		<real>0.28329131926108042</real>
+		<key>Frame</key>
+		<string>{{0.56956058499000251, 0.074090636193214016}, {0.15499710858214547, 0.10906228068462256}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;&lt;b&gt;ad. &lt;/b&gt;♀&lt;b&gt;&lt;/b&gt;&lt;/p&gt;&lt;p&gt;Frühjahr&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.15491924255971196</real>
+		<key>Frame</key>
+		<string>{{0.7533487500927224, 0.21848182193643598}, {0.24648257106561941, 0.19943550501714011}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;Wangen und Zügel (bei manchen ♀ auch Kehle) dunkel&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>EndPoint</key>
+		<string>{0.84599660902816809, 0.43307879665853133}</string>
+		<key>StartPoint</key>
+		<string>{0.75363803248420613, 0.46743195152097228}</string>
+		<key>Type</key>
+		<string>line</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.69622759594477668</real>
+		<key>Frame</key>
+		<string>{{0.64820318033416469, 0.80258126799683061}, {0.062035475783027032, 0.044376864055270249}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;♀&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.44155945162217464</real>
+		<key>Frame</key>
+		<string>{{0.20345632449651832, 0.93002890717600173}, {0.18561281609391694, 0.069971092823998313}}</string>
+		<key>Text</key>
+		<string>&lt;p class="center"&gt;schmale Endbinde&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>EndPoint</key>
+		<string>{0.29370106764030762, 0.93309388445167141}</string>
+		<key>StartPoint</key>
+		<string>{0.29422921558940895, 0.90612035642687394}</string>
+		<key>Type</key>
+		<string>line</string>
+	</dict>
+</array>
+</plist>

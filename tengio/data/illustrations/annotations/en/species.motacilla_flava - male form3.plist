@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>FontScale</key>
+		<real>0.66935965723098589</real>
+		<key>Frame</key>
+		<string>{{0.38771880226231775, 0.44450710982576641}, {0.052524149615667939, 0.13993281352318238}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;♂&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.39067233244346156</real>
+		<key>Frame</key>
+		<string>{{0.054568769190902366, 0.17974865809008234}, {0.46362664138758308, 0.23975432175965561}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;&lt;b&gt;&lt;i&gt;feldegg&lt;/i&gt;&lt;/b&gt;&lt;/p&gt;&lt;p&gt;(Balkans, Turkey, Caucasus)&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.57207203275168383</real>
+		<key>Frame</key>
+		<string>{{0.054568769190902366, 0.0054866487275753101}, {0.94543107408069427, 0.16373004575090222}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;&lt;b&gt;CITRINE WAGTAIL&lt;/b&gt;&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+</array>
+</plist>

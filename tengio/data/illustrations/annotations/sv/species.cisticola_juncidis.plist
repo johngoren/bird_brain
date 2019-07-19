@@ -1,0 +1,136 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>FontScale</key>
+		<real>0.29398148148146908</real>
+		<key>Frame</key>
+		<string>{{0.7506619687086008, 0.1041546973574512}, {0.20993838441882812, 0.19259625743911271}}</string>
+		<key>Text</key>
+		<string>&lt;p class="center"&gt;karakteristisk stjärtteckning &lt;/p&gt;&lt;p class="center"&gt;och rostbrun övergump &lt;/p&gt;&lt;p class="center"&gt;skymtar vid landning&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.38367327822401232</real>
+		<key>Frame</key>
+		<string>{{0.59835111549155484, 0.81359666842541878}, {0.17149927237708318, 0.14757278211248956}}</string>
+		<key>Text</key>
+		<string>&lt;p class="center"&gt;undulerande sångflykt&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>EndPoint</key>
+		<string>{0.67112675917569409, 0.61257971811108747}</string>
+		<key>StartPoint</key>
+		<string>{0.64259620353682767, 0.54548730519949784}</string>
+		<key>Type</key>
+		<string>line</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.86541737648925132</real>
+		<key>Frame</key>
+		<string>{{0.57137248376946237, 0.24653995133802384}, {0.078360460349670064, 0.065424770322300083}}</string>
+		<key>Text</key>
+		<string>&lt;p class="right"&gt;♂ &lt;b&gt;sommar&lt;/b&gt;&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.54704241444804924</real>
+		<key>Frame</key>
+		<string>{{0.6737108691565854, 0.5401712246154613}, {0.092735940485761142, 0.10350154136926387}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;mörk hjässa&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.45822321041518255</real>
+		<key>Frame</key>
+		<string>{{0.66285879101463618, 0.28070117599404648}, {0.066644822701245929, 0.12356365151916963}}</string>
+		<key>Text</key>
+		<string>&lt;p class="center"&gt;mörk&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>EndPoint</key>
+		<string>{0.69409766708206222, 0.41293479401720151}</string>
+		<key>StartPoint</key>
+		<string>{0.67777612656407726, 0.45131650482741842}</string>
+		<key>Type</key>
+		<string>line</string>
+	</dict>
+	<dict>
+		<key>EndPoint</key>
+		<string>{0.39764443322462295, 0.81503929254567564}</string>
+		<key>StartPoint</key>
+		<string>{0.41696067832063022, 0.77103875935573185}</string>
+		<key>Type</key>
+		<string>line</string>
+	</dict>
+	<dict>
+		<key>EndPoint</key>
+		<string>{0.44984361416167334, 0.87645826634050705}</string>
+		<key>StartPoint</key>
+		<string>{0.43496083638330024, 0.90839131150693941}</string>
+		<key>Type</key>
+		<string>line</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.33560016386726754</real>
+		<key>Frame</key>
+		<string>{{0.33295634476249686, 0.76003105473407206}, {0.096486088652535579, 0.16871187557622977}}</string>
+		<key>Text</key>
+		<string>&lt;p class="right"&gt;kraftigt streckad&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.45822321041518255</real>
+		<key>Frame</key>
+		<string>{{0.52972032587998352, 0.63780670841931741}, {0.066644822701245929, 0.12356365151916963}}</string>
+		<key>Text</key>
+		<string>&lt;p class="center"&gt;ljus&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>EndPoint</key>
+		<string>{0.56095920194740956, 0.77004032644246412}</string>
+		<key>StartPoint</key>
+		<string>{0.54463766142942471, 0.80842203725268935}</string>
+		<key>Type</key>
+		<string>line</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.8654173764893649</real>
+		<key>Frame</key>
+		<string>{{0.43753018668540422, 0.13597543317849856}, {0.078360460349670064, 0.065424770322291478}}</string>
+		<key>Text</key>
+		<string>&lt;p class="right"&gt;♀ &lt;b&gt;sommar&lt;/b&gt;&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.28896473265071937</real>
+		<key>Frame</key>
+		<string>{{0.51546783879577762, 0.39706150554614517}, {0.073716285198883513, 0.19593994246410268}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;kontrastlöst ”an-&lt;/p&gt;&lt;p&gt;sikte”&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+</array>
+</plist>

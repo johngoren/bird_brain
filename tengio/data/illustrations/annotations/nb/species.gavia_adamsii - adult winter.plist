@@ -1,0 +1,126 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>EndPoint</key>
+		<string>{0.42768877254445764, 0.14461644347332189}</string>
+		<key>StartPoint</key>
+		<string>{0.42359809933963555, 0.20406554537474048}</string>
+		<key>Type</key>
+		<string>line</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.45425120902575405</real>
+		<key>Frame</key>
+		<string>{{0.4166099483271779, 0.099966252815838264}, {0.13663303883279343, 0.040456161852513585}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;﻿hvitprikkete&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>EndPoint</key>
+		<string>{0.38710411132954264, 0.29817194118159457}</string>
+		<key>StartPoint</key>
+		<string>{0.40782645435255777, 0.27545705127465481}</string>
+		<key>Type</key>
+		<string>line</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.2130110762049327</real>
+		<key>Frame</key>
+		<string>{{0.29844189784149272, 0.26595701694379098}, {0.16784803490696576, 0.086273731683161756}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;﻿båndmønster litt tydeligere enn hos islom&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.46672541367916626</real>
+		<key>Frame</key>
+		<string>{{0.077899805532274338, 0.23607733889288918}, {0.17165883166524976, 0.039374887022283894}}</string>
+		<key>Text</key>
+		<string>&lt;p class="right"&gt;&lt;b&gt;ad. vinter&lt;/b&gt;&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>EndPoint</key>
+		<string>{0.71859542109640984, 0.30690114291205672}</string>
+		<key>StartPoint</key>
+		<string>{0.7705322434161449, 0.31885127880261049}</string>
+		<key>Type</key>
+		<string>line</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.27336113570884635</real>
+		<key>Frame</key>
+		<string>{{0.77684534992099064, 0.26220050514300669}, {0.21061787198468451, 0.067227041570456753}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;﻿mørk halvkrage ofte mer utbredt enn hos islom&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.265280720733854</real>
+		<key>Frame</key>
+		<string>{{0.76324978133425347, 0.32797110217918257}, {0.23675021866574655, 0.069274768189743749}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;﻿gulhvitt, oppadbøyd nebb-underside, nebb oppadvendt&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>EndPoint</key>
+		<string>{0.82381323166440923, 0.4308239197091292}</string>
+		<key>StartPoint</key>
+		<string>{0.83984635947753594, 0.40140527908655121}</string>
+		<key>Type</key>
+		<string>line</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.49318202341892176</real>
+		<key>Frame</key>
+		<string>{{0.32382523787855344, 0.64517663593740571}, {0.11641897174918613, 0.037262632377895406}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;&lt;b&gt;ad. vinter&lt;/b&gt;&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.6688939543428708</real>
+		<key>Frame</key>
+		<string>{{0.54657677161582685, 0.77521322518660585}, {0.069322850892306456, 0.027474101559341973}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;lys&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>EndPoint</key>
+		<string>{0.56879902714830199, 0.75322833837913938}</string>
+		<key>StartPoint</key>
+		<string>{0.56054368360594331, 0.78337431958800707}</string>
+		<key>Type</key>
+		<string>line</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.23698617918126222</real>
+		<key>Frame</key>
+		<string>{{0.61791865024239145, 0.62312612051154315}, {0.10095148529820805, 0.07754570539740116}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;﻿lyst «ansikt» og nebb&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+</array>
+</plist>

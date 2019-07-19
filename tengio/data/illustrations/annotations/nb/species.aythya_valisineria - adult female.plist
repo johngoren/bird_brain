@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>FontScale</key>
+		<real>0.47856806406033209</real>
+		<key>Frame</key>
+		<string>{{0.72858059534447561, 0.43657033615674351}, {0.14628072418162841, 0.1386532023112578}}</string>
+		<key>Text</key>
+		<string>&lt;p class="right"&gt;&lt;b&gt;ad. &lt;/b&gt;♀&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.47856806406033209</real>
+		<key>Frame</key>
+		<string>{{0.38120864376666386, 0.82072395650279917}, {0.26644499421105233, 0.1386532023112578}}</string>
+		<key>Text</key>
+		<string>&lt;p class="right"&gt;﻿lengre hals enn taffeland&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.39152215799629458</real>
+		<key>Frame</key>
+		<string>{{0.25920424261728547, 0.0063078317635469807}, {0.30801290440195717, 0.16947953838794533}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;﻿mer langstrakt kropp enn taffeland&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+</array>
+</plist>

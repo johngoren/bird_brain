@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>EndPoint</key>
+		<string>{0.53756874418892509, 0.78285631758635799}</string>
+		<key>StartPoint</key>
+		<string>{0.57841786109105586, 0.72915830831434336}</string>
+		<key>Type</key>
+		<string>line</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.30238080590587507</real>
+		<key>Frame</key>
+		<string>{{0.43766306429380869, 0.71224914692956642}, {0.14529216499493985, 0.19152657190747638}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;roux intense&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.3333933780708746</real>
+		<key>Frame</key>
+		<string>{{0.51657557391242048, 0.82628941372236686}, {0.19752262417226479, 0.17371058627763319}}</string>
+		<key>Text</key>
+		<string>&lt;p class="right"&gt;masque étendu&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.37967086231601266</real>
+		<key>Frame</key>
+		<string>{{0.86228462636216197, 0.30250010929912236}, {0.13072169503868578, 0.15253727613568757}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;brun-roux&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>EndPoint</key>
+		<string>{0.88552351820766595, 0.4601191491914316}</string>
+		<key>StartPoint</key>
+		<string>{0.84815080384292174, 0.50924696972467764}</string>
+		<key>Type</key>
+		<string>line</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.55294064707735224</real>
+		<key>Frame</key>
+		<string>{{0.76074239036563351, 0.22717496494063225}, {0.11248412665827115, 0.10473811153490858}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;♂&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+</array>
+</plist>

@@ -1,0 +1,130 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>EndPoint</key>
+		<string>{0.37213174558111878, 0.51017194775849239}</string>
+		<key>StartPoint</key>
+		<string>{0.33119860807560014, 0.58558425631921629}</string>
+		<key>Type</key>
+		<string>line</string>
+	</dict>
+	<dict>
+		<key>EndPoint</key>
+		<string>{0.34339195656980698, 0.56301595658011072}</string>
+		<key>StartPoint</key>
+		<string>{0.23358600780907343, 0.45733064439542243}</string>
+		<key>Type</key>
+		<string>line</string>
+	</dict>
+	<dict>
+		<key>EndPoint</key>
+		<string>{0.24629407719687332, 0.43072094698872032}</string>
+		<key>StartPoint</key>
+		<string>{0.2213525102065754, 0.47832830792956038}</string>
+		<key>Type</key>
+		<string>line</string>
+	</dict>
+	<dict>
+		<key>EndPoint</key>
+		<string>{0.22563441612927743, 0.5287524794220626}</string>
+		<key>StartPoint</key>
+		<string>{0.29281619733235859, 0.5142939066596921}</string>
+		<key>Type</key>
+		<string>line</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.23962264150944501</real>
+		<key>Frame</key>
+		<string>{{0.099398151950807201, 0.53060614259666938}, {0.24986828930026636, 0.1964882965139734}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;Handschwingenprojektion lang, etwa wie Schirm-federlänge&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.65463917525781556</real>
+		<key>Frame</key>
+		<string>{{0.71719128494960516, 0.10018555344059026}, {0.12233551444141066, 0.071922131176807041}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;&lt;b&gt;Frühjahr&lt;/b&gt;&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>EndPoint</key>
+		<string>{0.58864306682470757, 0.24328835052434708}</string>
+		<key>StartPoint</key>
+		<string>{0.53796697333063448, 0.18434186157016844}</string>
+		<key>Type</key>
+		<string>line</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.30220107079115943</real>
+		<key>Frame</key>
+		<string>{{0.1740346168575789, 0.071407432653985192}, {0.38135827014198553, 0.15580038983020952}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;Beine in der Regel hell, doch ausnahmsweise fast so dunkel wie bei Zilpzalp&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.17029835735840576</real>
+		<key>Frame</key>
+		<string>{{0.7906642523352182, 0.14930762756908642}, {0.20386205920486467, 0.27647386250050293}}</string>
+		<key>Text</key>
+		<string>&lt;p class="right"&gt;weicher Übergang von hellgelber Tönung in Weiß der  Unterseite&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>EndPoint</key>
+		<string>{0.89428200478056719, 0.4309464373953788}</string>
+		<key>StartPoint</key>
+		<string>{0.84440548981226327, 0.46419865936448856}</string>
+		<key>Type</key>
+		<string>line</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.22378854625547609</real>
+		<key>Frame</key>
+		<string>{{0.90457372739198572, 0.53060614259666938}, {0.089952584148095927, 0.21039077032396275}}</string>
+		<key>Text</key>
+		<string>&lt;p class="right"&gt;heller Wangenfleck&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>EndPoint</key>
+		<string>{0.92048548602225433, 0.67484298684740629}</string>
+		<key>StartPoint</key>
+		<string>{0.87200408280836961, 0.6877957932823715}</string>
+		<key>Type</key>
+		<string>line</string>
+	</dict>
+	<dict>
+		<key>EndPoint</key>
+		<string>{0.88993537668887612, 0.85054935336076942}</string>
+		<key>StartPoint</key>
+		<string>{0.84875211790395422, 0.81725336090953993}</string>
+		<key>Type</key>
+		<string>line</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.33487552017662148</real>
+		<key>Frame</key>
+		<string>{{0.74880233360435966, 0.85105816391606204}, {0.24606208658840159, 0.14059864576406375}}</string>
+		<key>Text</key>
+		<string>&lt;p class="right"&gt;Überaugenstreif und Augenstreif recht deutlich&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+</array>
+</plist>

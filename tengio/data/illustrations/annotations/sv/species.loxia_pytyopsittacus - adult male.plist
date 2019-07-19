@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>FontScale</key>
+		<real>0.76574762514946326</real>
+		<key>Frame</key>
+		<string>{{0.87281567855029041, 0.89949426815430933}, {0.12718432144970962, 0.058246764052399015}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;hög&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.61935093654903894</real>
+		<key>Frame</key>
+		<string>{{0.80642732896261804, 0.39610371198275729}, {0.13577746329861984, 0.072014618229666885}}</string>
+		<key>Text</key>
+		<string>&lt;p class="right"&gt;&lt;b&gt;ad. &lt;/b&gt;♂&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>EndPoint</key>
+		<string>{0.47347357911243609, 0.85019830307267263}</string>
+		<key>StartPoint</key>
+		<string>{0.53223727132060983, 0.82334575101396679}</string>
+		<key>Type</key>
+		<string>line</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.21818084969438167</real>
+		<key>Frame</key>
+		<string>{{0.3447286439317962, 0.67183545250002963}, {0.13730404845446093, 0.2044282131463081}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;kraftigt huvud, ”tjur­nacke”&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>EndPoint</key>
+		<string>{0.85735951779411701, 0.88099849654992701}</string>
+		<key>StartPoint</key>
+		<string>{0.86508820044122203, 0.93192849200713179}</string>
+		<key>Type</key>
+		<string>line</string>
+	</dict>
+</array>
+</plist>

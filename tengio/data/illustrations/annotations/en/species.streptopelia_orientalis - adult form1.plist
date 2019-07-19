@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>FontScale</key>
+		<real>0.17959622808324163</real>
+		<key>Frame</key>
+		<string>{{0.78402841838802639, 0.39493902696479216}, {0.16155883476727553, 0.30603616705701614}}</string>
+		<key>Text</key>
+		<string>&lt;p class="right"&gt;dark, duller than &lt;i&gt;meena &lt;/i&gt;&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>EndPoint</key>
+		<string>{0.85439552001743457, 0.56956537970975596}</string>
+		<key>StartPoint</key>
+		<string>{0.80466111780885496, 0.60341488515421116}</string>
+		<key>Type</key>
+		<string>line</string>
+	</dict>
+	<dict>
+		<key>EndPoint</key>
+		<string>{0.44305900071685483, 0.54779603247098374}</string>
+		<key>StartPoint</key>
+		<string>{0.34925830708841549, 0.57333550605483496}</string>
+		<key>Type</key>
+		<string>line</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.25559748427672635</real>
+		<key>Frame</key>
+		<string>{{0.05886100827878233, 0.38200975239665225}, {0.34259869442733004, 0.2150370979433682}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;both races darker, more rufous than Turtle Dove&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.43338408442867865</real>
+		<key>Frame</key>
+		<string>{{0.046769286757744645, 0.054774681840811516}, {0.47918828294120036, 0.12682270354470776}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;clearly a larger, heavier and darker bird than Turtle Dove&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.69027406205894126</real>
+		<key>Frame</key>
+		<string>{{0.80401273370470761, 0.1806581018353437}, {0.1007655726254558, 0.079624810320338704}}</string>
+		<key>Text</key>
+		<string>&lt;p class="right"&gt;&lt;b&gt;ad.&lt;/b&gt;&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.36658574513072478</real>
+		<key>Frame</key>
+		<string>{{0.75715792611904176, 0.039843804096826647}, {0.21466529284659783, 0.14993201997227981}}</string>
+		<key>Text</key>
+		<string>&lt;p class="center"&gt;&lt;b&gt;&lt;i&gt;orientalis&lt;/i&gt;&lt;/b&gt;&lt;/p&gt;&lt;p class="center"&gt;(Siberia)&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+</array>
+</plist>

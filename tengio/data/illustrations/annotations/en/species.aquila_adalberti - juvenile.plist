@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>FontScale</key>
+		<real>0.20247449604850987</real>
+		<key>Frame</key>
+		<string>{{0.2861057250369789, 0.25730316306964485}, {0.29167609733013417, 0.10263534565124896}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;rufous-brown, practically unstreaked&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>EndPoint</key>
+		<string>{0.47061857289501069, 0.27268522431676778}</string>
+		<key>StartPoint</key>
+		<string>{0.40551292698862168, 0.29651145206675056}</string>
+		<key>Type</key>
+		<string>line</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.65745948729609893</real>
+		<key>Frame</key>
+		<string>{{0.27472712844394187, 0.18393618203778225}, {0.12516451815293625, 0.031608091888621771}}</string>
+		<key>Text</key>
+		<string>&lt;p class="right"&gt;&lt;b&gt;juv.&lt;/b&gt;&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.41114436100602958</real>
+		<key>Frame</key>
+		<string>{{0.596342152220804, 0.65764819360446292}, {0.24713714766373612, 0.050544387466854961}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;unstreaked breast&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.42777878507778783</real>
+		<key>Frame</key>
+		<string>{{0.74800122934083557, 0.57044813712275766}, {0.18400939119229498, 0.048578939892314675}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;&lt;b&gt;juv.&lt;/b&gt;&lt;/p&gt;&lt;p&gt;(fresh)&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.42777878507778783</real>
+		<key>Frame</key>
+		<string>{{0.69875018518614052, 0.90751293586715964}, {0.18400939119229498, 0.048578939892314675}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;&lt;b&gt;juv.&lt;/b&gt;&lt;/p&gt;&lt;p&gt;(fresh)&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>EndPoint</key>
+		<string>{0.51976952746729688, 0.85791467349092354}</string>
+		<key>StartPoint</key>
+		<string>{0.63291187348315803, 0.85050351546227276}</string>
+		<key>Type</key>
+		<string>line</string>
+	</dict>
+	<dict>
+		<key>EndPoint</key>
+		<string>{0.58170089136829828, 0.69698321907657101}</string>
+		<key>StartPoint</key>
+		<string>{0.48542182738094519, 0.69490444413458041}</string>
+		<key>Type</key>
+		<string>line</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.3711727903279996</real>
+		<key>Frame</key>
+		<string>{{0.38872120466407251, 0.83477931157460616}, {0.16253739851523305, 0.055987508861135467}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;reddish-brown&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.25537100590527262</real>
+		<key>Frame</key>
+		<string>{{0.079650176151257385, 0.51183578682588726}, {0.71283257086817453, 0.081375878259295334}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;body and &lt;/p&gt;&lt;p&gt;coverts soon bleach &lt;/p&gt;&lt;p&gt;to pale tawny—very &lt;/p&gt;&lt;p&gt;similar to juv. Tawny Eagle!&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+</array>
+</plist>

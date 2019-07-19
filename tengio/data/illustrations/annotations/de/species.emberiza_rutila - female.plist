@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>FontScale</key>
+		<real>0.63080689303349335</real>
+		<key>Frame</key>
+		<string>{{0.88892851544862461, 0.4102384443766004}, {0.11107148455137551, 0.091551089763154014}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;rosa&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>EndPoint</key>
+		<string>{0.91620852528647201, 0.51512651371693086}</string>
+		<key>StartPoint</key>
+		<string>{0.88941626423197129, 0.58057277031305732}</string>
+		<key>Type</key>
+		<string>line</string>
+	</dict>
+	<dict>
+		<key>EndPoint</key>
+		<string>{0.69042329369623023, 0.74704640448650927}</string>
+		<key>StartPoint</key>
+		<string>{0.71488211307233696, 0.68122669361151245}</string>
+		<key>Type</key>
+		<string>line</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.26794667571396968</real>
+		<key>Frame</key>
+		<string>{{0.54969162213619582, 0.65300951255716388}, {0.28046819485221469, 0.21553190885254461}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;blasse Kopfzeichnung&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.5144489915535414</real>
+		<key>Frame</key>
+		<string>{{0.26608810765743324, 0}, {0.28731216177971303, 0.11225808473825183}}</string>
+		<key>Text</key>
+		<string>&lt;p class="center"&gt;&lt;b&gt;ad. &lt;/b&gt;♀&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+</array>
+</plist>

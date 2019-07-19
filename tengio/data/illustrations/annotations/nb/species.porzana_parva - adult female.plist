@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>FontScale</key>
+		<real>0.2761169924414989</real>
+		<key>Frame</key>
+		<string>{{0.08468250450478175, 0}, {0.79835391594520622, 0.17574450148717199}}</string>
+		<key>Text</key>
+		<string>&lt;p class="center"&gt;﻿legg merke til mer langstrakt form, spesielt vinger og stjert, hos sumprikse sammenlignet med dvergrikse&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.62854219948849099</real>
+		<key>Frame</key>
+		<string>{{0.50703969888845279, 0.35076250817912491}, {0.16169317039547881, 0.077204113308953728}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;&lt;b&gt;ad. &lt;/b&gt;♀&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.28968788949423585</real>
+		<key>Frame</key>
+		<string>{{0.72526934606577176, 0.3437309473114683}, {0.15777063023341778, 0.16751146647341644}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;﻿rød nebbrot&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>EndPoint</key>
+		<string>{0.76310944759728938, 0.52274067177045591}</string>
+		<key>StartPoint</key>
+		<string>{0.75946549479695147, 0.58851128052880908}</string>
+		<key>Type</key>
+		<string>line</string>
+	</dict>
+	<dict>
+		<key>EndPoint</key>
+		<string>{0.49026456948147973, 0.81644668989884628}</string>
+		<key>StartPoint</key>
+		<string>{0.38516462563498882, 0.80474731618993456}</string>
+		<key>Type</key>
+		<string>line</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.56969661846947073</real>
+		<key>Frame</key>
+		<string>{{0.50363939321744622, 0.75338643481565482}, {0.44025201838472755, 0.085178745345438442}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;﻿lyse kanter&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.52282270223985461</real>
+		<key>Frame</key>
+		<string>{{0.41140997647729921, 0.84568851001979273}, {0.51074729994196422, 0.092815485978086393}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;﻿lang håndsvingfjærprojeksjon&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>EndPoint</key>
+		<string>{0.39941332570760174, 0.9144509067701303}</string>
+		<key>StartPoint</key>
+		<string>{0.31570003232889143, 0.90301696737834303}</string>
+		<key>Type</key>
+		<string>line</string>
+	</dict>
+	<dict>
+		<key>EndPoint</key>
+		<string>{0.36697813459612338, 0.86639280256430551}</string>
+		<key>StartPoint</key>
+		<string>{0.33437370012649509, 0.839718751233415}</string>
+		<key>Type</key>
+		<string>line</string>
+	</dict>
+	<dict>
+		<key>EndPoint</key>
+		<string>{0.29989823268532928, 0.9530617205179871}</string>
+		<key>StartPoint</key>
+		<string>{0.2696717892579375, 0.92908014794852389}</string>
+		<key>Type</key>
+		<string>line</string>
+	</dict>
+	<dict>
+		<key>EndPoint</key>
+		<string>{0.3501049916267519, 0.85224459023241717}</string>
+		<key>StartPoint</key>
+		<string>{0.28403719199410721, 0.93994930308856461}</string>
+		<key>Type</key>
+		<string>line</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.28235131921346956</real>
+		<key>Frame</key>
+		<string>{{0.027381689646340572, 0.64761641283885996}, {0.19276977795237843, 0.17186405689176437}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;﻿ganske lang og spiss stjert&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>EndPoint</key>
+		<string>{0.18032104506420416, 0.86866071234023923}</string>
+		<key>StartPoint</key>
+		<string>{0.14279752370024282, 0.82907964183381244}</string>
+		<key>Type</key>
+		<string>line</string>
+	</dict>
+</array>
+</plist>

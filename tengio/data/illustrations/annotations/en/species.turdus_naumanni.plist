@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>FontScale</key>
+		<real>0.52916620687242</real>
+		<key>Frame</key>
+		<string>{{0.042979988272949674, 0.069852750049231624}, {0.27180367458702032, 0.05674276224978099}}</string>
+		<key>Text</key>
+		<string>&lt;p class="right"&gt;&lt;b&gt;1st-winter &lt;/b&gt;♂&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.22623023825427596</real>
+		<key>Frame</key>
+		<string>{{0.49135686301113213, 0.01089357418283206}, {0.34223454367734396, 0.13272475199991365}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;always more patterned than in Red-throated Thrush&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>EndPoint</key>
+		<string>{0.59525825227145723, 0.15055120545213471}</string>
+		<key>StartPoint</key>
+		<string>{0.57411777868963554, 0.17404623503124295}</string>
+		<key>Type</key>
+		<string>line</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.17305168542490543</real>
+		<key>Frame</key>
+		<string>{{0.10481367093447132, 0.49391591813444341}, {0.4496995102656301, 0.1735108918093137}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;sexes similar—♀♀ often have more black streaking on throat and paler, more reduced red spotting &lt;/p&gt;&lt;p&gt;on underparts&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.52191086995763292</real>
+		<key>Frame</key>
+		<string>{{0.65463814339304849, 0.30426089863918887}, {0.21565667920681197, 0.057531570993372097}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;&lt;b&gt;ad.&lt;/b&gt; &lt;b&gt;winter&lt;/b&gt;&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>EndPoint</key>
+		<string>{0.59005928219536019, 0.78472232198193126}</string>
+		<key>StartPoint</key>
+		<string>{0.55037991364251571, 0.80954725889573731}</string>
+		<key>Type</key>
+		<string>line</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.3386666666666488</real>
+		<key>Frame</key>
+		<string>{{0.45415744490185456, 0.77550163112821269}, {0.13391786886586757, 0.088660488977898841}}</string>
+		<key>Text</key>
+		<string>&lt;p class="center"&gt;rusty-red&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>EndPoint</key>
+		<string>{0.51224128325149321, 0.78306077000893737}</string>
+		<key>StartPoint</key>
+		<string>{0.48881423668912993, 0.8075622237426282}</string>
+		<key>Type</key>
+		<string>line</string>
+	</dict>
+</array>
+</plist>

@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>EndPoint</key>
+		<string>{0.39154691523358082, 0.3151504509106951}</string>
+		<key>StartPoint</key>
+		<string>{0.50084868531047722, 0.27616737401016034}</string>
+		<key>Type</key>
+		<string>line</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.67885986568375201</real>
+		<key>Frame</key>
+		<string>{{0.23532838940400988, 0.39080137938601106}, {0.21104446129629401, 0.048783497970333982}}</string>
+		<key>Text</key>
+		<string>&lt;p class="right"&gt;&lt;b&gt;ad. vinter&lt;/b&gt;&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.37518247896601986</real>
+		<key>Frame</key>
+		<string>{{0.23532838940400988, 0.28327488760535313}, {0.16017741089546247, 0.088269470821221177}}</string>
+		<key>Text</key>
+		<string>&lt;p class="right"&gt;vit ”armhåla”&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.3645155070378665</real>
+		<key>Frame</key>
+		<string>{{0.74956983712474512, 0.044301442809777047}, {0.16892761759281855, 0.090852537794185659}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;utstickan­de fötter&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>EndPoint</key>
+		<string>{0.7973731707041033, 0.18953984617724592}</string>
+		<key>StartPoint</key>
+		<string>{0.80471081524181509, 0.14448651870138773}</string>
+		<key>Type</key>
+		<string>line</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.27271895000540913</real>
+		<key>Frame</key>
+		<string>{{0.27580197735158823, 0.0045734909181909342}, {0.44187415397398916, 0.12143328829576261}}</string>
+		<key>Text</key>
+		<string>&lt;p class="center"&gt;kompakt och halslös, lättkutryggig (”fly­gan­de tunna”), näbben svagt nedåtpekande&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>EndPoint</key>
+		<string>{0.22718423239380178, 0.90920740223801289}</string>
+		<key>StartPoint</key>
+		<string>{0.20062022469395938, 0.93315566889620061}</string>
+		<key>Type</key>
+		<string>line</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.38209172822026277</real>
+		<key>Frame</key>
+		<string>{{0.067636669551035339, 0.91332667934482581}, {0.1975349090861287, 0.086673320655174219}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;kortare än hos sillgrissla &lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>EndPoint</key>
+		<string>{0.49805417510216843, 0.91609705306289957}</string>
+		<key>StartPoint</key>
+		<string>{0.41467220424021572, 0.88433348125578426}</string>
+		<key>Type</key>
+		<string>line</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.65902859249824008</real>
+		<key>Frame</key>
+		<string>{{0.50272298904726287, 0.88395407309546492}, {0.14590467663720183, 0.050251475059957973}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;mörk&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.67885986568375201</real>
+		<key>Frame</key>
+		<string>{{0.66893169882842429, 0.83024497718425172}, {0.21104465418932841, 0.048783497970333982}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;&lt;b&gt;ad. vinter&lt;/b&gt;&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+</array>
+</plist>

@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>FontScale</key>
+		<real>0.65154520283738726</real>
+		<key>Frame</key>
+		<string>{{0.57075559721774216, 0.2546200026401052}, {0.068007336890816061, 0.059166781118996849}}</string>
+		<key>Text</key>
+		<string>&lt;p class="right"&gt;&lt;b&gt;ad.&lt;/b&gt;&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>EndPoint</key>
+		<string>{0.70859884740296053, 0.34230569426304541}</string>
+		<key>StartPoint</key>
+		<string>{0.61915561483895942, 0.39011355728550684}</string>
+		<key>Type</key>
+		<string>line</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.25806451612903225</real>
+		<key>Frame</key>
+		<string>{{0.6843307629382287, 0.21493188778177899}, {0.22716095833286165, 0.14938060057097188}}</string>
+		<key>Text</key>
+		<string>&lt;p class="right"&gt;assez fortement lavé de chamois&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>EndPoint</key>
+		<string>{0.81593088097544864, 0.56354986036143084}</string>
+		<key>StartPoint</key>
+		<string>{0.7446089822777624, 0.58555788773718254}</string>
+		<key>Type</key>
+		<string>line</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.36233291621899105</real>
+		<key>Frame</key>
+		<string>{{0.7641941421269447, 0.47068167115232473}, {0.15504158196353959, 0.10639340418664278}}</string>
+		<key>Text</key>
+		<string>&lt;p class="right"&gt;poitrine faiblement striée&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.31631382316314116</real>
+		<key>Frame</key>
+		<string>{{0.76177433342946821, 0.63476839916552363}, {0.17877100829343712, 0.12187210795884106}}</string>
+		<key>Text</key>
+		<string>&lt;p class="right"&gt;absence de moustache sombre&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>EndPoint</key>
+		<string>{0.80464967236422713, 0.75693312624170817}</string>
+		<key>StartPoint</key>
+		<string>{0.73355598611567108, 0.78589552930605056}</string>
+		<key>Type</key>
+		<string>line</string>
+	</dict>
+	<dict>
+		<key>EndPoint</key>
+		<string>{0.86502770435472742, 0.9146341115890696}</string>
+		<key>StartPoint</key>
+		<string>{0.83405169307714877, 0.86363905769844396}</string>
+		<key>Type</key>
+		<string>line</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.3916661769378571</real>
+		<key>Frame</key>
+		<string>{{0.77851132053426364, 0.90157477291809018}, {0.16395641201440375, 0.0984252270819099}}</string>
+		<key>Text</key>
+		<string>&lt;p class="right"&gt;assez long et fort&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>EndPoint</key>
+		<string>{0.44807789580623103, 0.6449507906879719}</string>
+		<key>StartPoint</key>
+		<string>{0.57157437483644091, 0.57257987661773146}</string>
+		<key>Type</key>
+		<string>line</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.22965641952983112</real>
+		<key>Frame</key>
+		<string>{{0.26873948726136621, 0.63021526935386307}, {0.27620276722506226, 0.1678587190566414}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;centres des couv. alaires moins sombres et plus diffus que chez le P. rousseline&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+</array>
+</plist>

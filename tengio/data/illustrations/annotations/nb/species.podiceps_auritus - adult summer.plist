@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>FontScale</key>
+		<real>0.46063840244890814</real>
+		<key>Frame</key>
+		<string>{{0.017543954436995648, 0.19885097999437343}, {0.26581600057039523, 0.12371348146907422}}</string>
+		<key>Text</key>
+		<string>&lt;p class="right"&gt;&lt;b&gt;ad. sommer&lt;/b&gt;&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>EndPoint</key>
+		<string>{0.91127765711047726, 0.50021081093837683}</string>
+		<key>StartPoint</key>
+		<string>{0.86419791698048432, 0.48180373128708948}</string>
+		<key>Type</key>
+		<string>line</string>
+	</dict>
+	<dict>
+		<key>EndPoint</key>
+		<string>{0.67660769438260848, 0.97968714623835662}</string>
+		<key>StartPoint</key>
+		<string>{0.72565533553097827, 0.95379098770156712}</string>
+		<key>Type</key>
+		<string>line</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.28672932895862974</real>
+		<key>Frame</key>
+		<string>{{0.90062623177645862, 0.40379219949594386}, {0.075937539920449909, 0.19874904556251113}}</string>
+		<key>Text</key>
+		<string>&lt;p class="right"&gt;rød-brun&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+</array>
+</plist>

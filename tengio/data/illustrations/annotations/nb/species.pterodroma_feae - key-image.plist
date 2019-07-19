@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>FontScale</key>
+		<real>0.92028985507244798</real>
+		<key>Frame</key>
+		<string>{{0.17398530153629829, 0.62480423303585275}, {0.22513712190136528, 0.056238013352660092}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;﻿spiss&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>EndPoint</key>
+		<string>{0.23086482591083313, 0.54900517156053208}</string>
+		<key>StartPoint</key>
+		<string>{0.22707285761919896, 0.62439671119996731}</string>
+		<key>Type</key>
+		<string>line</string>
+	</dict>
+	<dict>
+		<key>EndPoint</key>
+		<string>{0.62143755994933603, 0.35828495236455316}</string>
+		<key>StartPoint</key>
+		<string>{0.71244479894859691, 0.42430348977854793}</string>
+		<key>Type</key>
+		<string>line</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.19689922480619182</real>
+		<key>Frame</key>
+		<string>{{0.14659351298588968, 0.10276876126225504}, {0.58238313012375564, 0.26285158414831117}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;﻿svartaktig vingeunderside i skarp kontrast mot hvit kropp&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+</array>
+</plist>

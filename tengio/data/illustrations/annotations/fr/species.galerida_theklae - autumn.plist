@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>FontScale</key>
+		<real>0.31648732202226193</real>
+		<key>Frame</key>
+		<string>{{0.39674037819793406, 0.4429334261969165}, {0.18726215562020709, 0.094346252112334633}}</string>
+		<key>Text</key>
+		<string>&lt;p class="right"&gt;assez fournie, en éventail&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.32697331711816546</real>
+		<key>Frame</key>
+		<string>{{0.36216162220798287, 0.044416334998420105}, {0.16023577166684935, 0.091320579113429695}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;&lt;b&gt;automne&lt;/b&gt;&lt;/p&gt;&lt;p&gt;(plum. frais)&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>EndPoint</key>
+		<string>{0.79290951034646895, 0.3822528204663676}</string>
+		<key>StartPoint</key>
+		<string>{0.77840865389540859, 0.4151029463497698}</string>
+		<key>Type</key>
+		<string>line</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.26910410866655227</real>
+		<key>Frame</key>
+		<string>{{0.70111456547806572, 0.10330801192020655}, {0.14601871419135237, 0.11095851647092028}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;stries toujours nettes&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>EndPoint</key>
+		<string>{0.74381733344264955, 0.218664881640044}</string>
+		<key>StartPoint</key>
+		<string>{0.7196928360833702, 0.27174289546532926}</string>
+		<key>Type</key>
+		<string>line</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.26232702183528561</real>
+		<key>Frame</key>
+		<string>{{0.76443503699218829, 0.26281982303198281}, {0.2355649630078118, 0.11382507400483734}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;assez court, mandibule inférieure convexe&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>EndPoint</key>
+		<string>{0.65276724937330588, 0.5218775693054799}</string>
+		<key>StartPoint</key>
+		<string>{0.5915205561114566, 0.5218775693054799}</string>
+		<key>Type</key>
+		<string>line</string>
+	</dict>
+	<dict>
+		<key>EndPoint</key>
+		<string>{0.31810868938863934, 0.84046294528097953}</string>
+		<key>StartPoint</key>
+		<string>{0.40578663264552411, 0.79983726292756185}</string>
+		<key>Type</key>
+		<string>line</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.21724400835349927</real>
+		<key>Frame</key>
+		<string>{{0.10644501502858202, 0.71923379187772585}, {0.20551485531605201, 0.13744633465463768}}</string>
+		<key>Text</key>
+		<string>&lt;p class="right"&gt;nuance rouille contrastant avec le croupion&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+</array>
+</plist>

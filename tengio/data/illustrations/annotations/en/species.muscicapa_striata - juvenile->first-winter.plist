@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>FontScale</key>
+		<real>0.3351090836200904</real>
+		<key>Frame</key>
+		<string>{{0.43012406851359752, 0.74552560358397657}, {0.21994810996854694, 0.13644181419478055}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;&lt;b&gt;juv. &lt;/b&gt;→&lt;b&gt;&lt;/b&gt;&lt;/p&gt;&lt;p&gt;&lt;b&gt;1st-wint.&lt;/b&gt;&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.31678175660396773</real>
+		<key>Frame</key>
+		<string>{{0.24321571209469869, 0.048603073452813915}, {0.5205764063287398, 0.14433562024670857}}</string>
+		<key>Text</key>
+		<string>&lt;p class="center"&gt;all flycatchers wear a pale- spotted juv. plumage for a &lt;/p&gt;&lt;p class="center"&gt;short period after fledging&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+</array>
+</plist>

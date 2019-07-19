@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>EndPoint</key>
+		<string>{0.29619772468082833, 0.21865788711522288}</string>
+		<key>StartPoint</key>
+		<string>{0.32630299080001585, 0.29018978169295534}</string>
+		<key>Type</key>
+		<string>line</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.63818640387181003</real>
+		<key>Frame</key>
+		<string>{{0.13438204876044416, 0.12726573553546064}, {0.14720368930229347, 0.1015908408771527}}</string>
+		<key>Text</key>
+		<string>&lt;p class="right"&gt;weiß&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.69174583069453244</real>
+		<key>Frame</key>
+		<string>{{0.43788600292220181, 0.20295405019590895}, {0.2105995875356208, 0.093725022297002192}}</string>
+		<key>Text</key>
+		<string>&lt;p class="right"&gt;&lt;b&gt;ad.&lt;/b&gt;&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.25528931178568054</real>
+		<key>Frame</key>
+		<string>{{0.70965582157389628, 0.19601415982890641}, {0.28962381729222458, 0.25396242777344497}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;&lt;b&gt;&lt;i&gt;hrota &lt;/i&gt;&lt;/b&gt;(Spitzbergen, Grönland)&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+</array>
+</plist>

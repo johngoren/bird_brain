@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>FontScale</key>
+		<real>0.71840024361287957</real>
+		<key>Frame</key>
+		<string>{{0.19434385376340763, 0.11334733144904642}, {0.18817977331025942, 0.052911445134411733}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;&lt;b&gt;ad. &lt;/b&gt;♀ &lt;b&gt;vinter&lt;/b&gt;&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>EndPoint</key>
+		<string>{0.82114451050281612, 0.47679580981941072}</string>
+		<key>StartPoint</key>
+		<string>{0.82956261851015145, 0.44207073592846796}</string>
+		<key>Type</key>
+		<string>line</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.54591420943537761</real>
+		<key>Frame</key>
+		<string>{{0.73219764397965514, 0.44545888616873691}, {0.24531271697775273, 0.069629246532683459}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;﻿toppet isse&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.56223914209115489</real>
+		<key>Frame</key>
+		<string>{{0.21917455221983972, 0.60719493929151236}, {0.11005173404642507, 0.06760752183331295}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;&lt;b&gt;juv.&lt;/b&gt;&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.36243878563982346</real>
+		<key>Frame</key>
+		<string>{{0.29123501413772251, 0.81842698632402766}, {0.18006857556655839, 0.10487728295239691}}</string>
+		<key>Text</key>
+		<string>&lt;p class="right"&gt;﻿stort rundt hode&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.61935093654903883</real>
+		<key>Frame</key>
+		<string>{{0.45799885201438006, 0.61051579176341819}, {0.14851503524945966, 0.061373274554596915}}</string>
+		<key>Text</key>
+		<string>&lt;p class="right"&gt;&lt;b&gt;ad. &lt;/b&gt;♀&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>EndPoint</key>
+		<string>{0.4349327505931862, 0.80480265887560287}</string>
+		<key>StartPoint</key>
+		<string>{0.43311762613829907, 0.84741116957263418}</string>
+		<key>Type</key>
+		<string>line</string>
+	</dict>
+</array>
+</plist>

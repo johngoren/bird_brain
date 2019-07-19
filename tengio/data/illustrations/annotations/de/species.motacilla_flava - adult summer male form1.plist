@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>FontScale</key>
+		<real>0.48979467415626216</real>
+		<key>Frame</key>
+		<string>{{0.77743232606054136, 0.34138100409154942}, {0.15712819231251623, 0.10248195440050607}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;♂&lt;b&gt; PK&lt;/b&gt;&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.35435837280163185</real>
+		<key>Frame</key>
+		<string>{{0.21875718482142026, 0.11209704822642651}, {0.36973233059663946, 0.14165071101788745}}</string>
+		<key>Text</key>
+		<string>&lt;p class="center"&gt;&lt;b&gt;&lt;i&gt;flava&lt;/i&gt;&lt;/b&gt;&lt;/p&gt;&lt;p class="center"&gt;„Wiesenschafstelze“(Mitteleuropa)&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+</array>
+</plist>

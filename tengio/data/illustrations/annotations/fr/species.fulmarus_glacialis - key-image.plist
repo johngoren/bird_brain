@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>FontScale</key>
+		<real>0.21869715751229146</real>
+		<key>Frame</key>
+		<string>{{0.58723396580559373, 0.080291827455109849}, {0.41276603419440638, 0.21224495225296697}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;longs planés avec les ailes tenues raides&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.72737686139748048</real>
+		<key>Frame</key>
+		<string>{{0.56407530212532153, 0.32532604984939606}, {0.40255719467968221, 0.063814743384709868}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;(forme pâle)&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.38207507294791276</real>
+		<key>Frame</key>
+		<string>{{0.74144433730594983, 0.5581348715626091}, {0.19758503100205552, 0.12148755844216995}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;cou épais&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.25502008032128526</real>
+		<key>Frame</key>
+		<string>{{0.11943905181293672, 0.691904608554613}, {0.27642541682953881, 0.18201456016944742}}</string>
+		<key>Text</key>
+		<string>&lt;p class="right"&gt;tache pâle diffuse&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>EndPoint</key>
+		<string>{0.58049046081615163, 0.79870110349740919}</string>
+		<key>StartPoint</key>
+		<string>{0.42495169839982372, 0.79870110349740919}</string>
+		<key>Type</key>
+		<string>line</string>
+	</dict>
+</array>
+</plist>

@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>FontScale</key>
+		<real>0.20215035631920344</real>
+		<key>Frame</key>
+		<string>{{0.61981877838541188, 0.38160801408754996}, {0.28970177706990874, 0.2325854278375433}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;formes à ventre sombre: &lt;b&gt;&lt;i&gt;guttata &lt;/i&gt;&lt;/b&gt;et al.&lt;/p&gt;&lt;p&gt;(p. ex. N., C. et E. Europe)&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.21561969439728668</real>
+		<key>Frame</key>
+		<string>{{0.61661130601266068, 0.63631463183707027}, {0.13069253100897993, 0.21805627377146219}}</string>
+		<key>Text</key>
+		<string>&lt;p class="right"&gt;face pâle en forme de cœur&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+</array>
+</plist>

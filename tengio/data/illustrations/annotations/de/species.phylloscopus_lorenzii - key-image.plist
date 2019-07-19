@@ -1,0 +1,132 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>FontScale</key>
+		<real>0.48288973384036254</real>
+		<key>Frame</key>
+		<string>{{0.43719206973324809, 0.72629903994003575}, {0.11054501607982331, 0.098279996987126583}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;braun&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>EndPoint</key>
+		<string>{0.51107289094967423, 0.79333670807598611}</string>
+		<key>StartPoint</key>
+		<string>{0.55911415214718829, 0.7267267861635982}</string>
+		<key>Type</key>
+		<string>line</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.74541452677929676</real>
+		<key>Frame</key>
+		<string>{{0.56535100870097277, 0.87970539364122446}, {0.2127858186844459, 0.063667127325782225}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;braune „Kappe“&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>EndPoint</key>
+		<string>{0.87072069027794063, 0.62792765653815252}</string>
+		<key>StartPoint</key>
+		<string>{0.8371964985924476, 0.66758531691940881}</string>
+		<key>Type</key>
+		<string>line</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.36669051755397791</real>
+		<key>Frame</key>
+		<string>{{0.82892349068699434, 0.48186759214905667}, {0.11146810681662912, 0.12942358559888087}}</string>
+		<key>Text</key>
+		<string>&lt;p class="right"&gt;Kehle weiß&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.33485405132979251</real>
+		<key>Frame</key>
+		<string>{{0.77813682738542256, 0.82457903692716061}, {0.16304721460681226, 0.14172861698544645}}</string>
+		<key>Text</key>
+		<string>&lt;p class="right"&gt;weißer Überaugen-streif&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.38163071959928707</real>
+		<key>Frame</key>
+		<string>{{0.78773870342155017, 0.31347434636071159}, {0.15265289408207064, 0.12435686948046686}}</string>
+		<key>Text</key>
+		<string>&lt;p class="right"&gt;rosabraun&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>EndPoint</key>
+		<string>{0.8341685540242737, 0.44302349346134468}</string>
+		<key>StartPoint</key>
+		<string>{0.75014544884819057, 0.54994503010749085}</string>
+		<key>Type</key>
+		<string>line</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.1822421524663754</real>
+		<key>Frame</key>
+		<string>{{0.16193115474779973, 0.13444422694215613}, {0.27526091498544986, 0.26041396540079553}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;Schwung- und Steuerfedern im Gegensatz zum „Taigazilpzalp“ nicht grün gesäumt&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>EndPoint</key>
+		<string>{0.37091923460205778, 0.4170326891936354}</string>
+		<key>StartPoint</key>
+		<string>{0.4800745783778716, 0.58182918604278144}</string>
+		<key>Type</key>
+		<string>line</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.24372610931605762</real>
+		<key>Frame</key>
+		<string>{{0.15665922188436565, 0.64552869095688881}, {0.26852745788067822, 0.19472021984071627}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;Braun der Oberseite  reicht bis auf Oberschwanz-decken&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>EndPoint</key>
+		<string>{0.26690232022594557, 0.65521220660694046}</string>
+		<key>StartPoint</key>
+		<string>{0.3149435814234598, 0.58860228469455289}</string>
+		<key>Type</key>
+		<string>line</string>
+	</dict>
+	<dict>
+		<key>EndPoint</key>
+		<string>{0.71048832823732633, 0.8912015285742283}</string>
+		<key>StartPoint</key>
+		<string>{0.72381103153063742, 0.86694805846715306}</string>
+		<key>Type</key>
+		<string>line</string>
+	</dict>
+	<dict>
+		<key>EndPoint</key>
+		<string>{0.84961190234781314, 0.79568112877294306}</string>
+		<key>StartPoint</key>
+		<string>{0.88816022417703799, 0.8190413790909199}</string>
+		<key>Type</key>
+		<string>line</string>
+	</dict>
+</array>
+</plist>

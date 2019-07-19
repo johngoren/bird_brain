@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>FontScale</key>
+		<real>0.18181818181818185</real>
+		<key>Frame</key>
+		<string>{{0.046723391243192601, 0.49183072069365974}, {0.23362577720079117, 0.23053121889829789}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;﻿smale, lange, ljåformete vinger&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>EndPoint</key>
+		<string>{0.72757565622836107, 0.52198790054596167}</string>
+		<key>StartPoint</key>
+		<string>{0.66967850964361575, 0.53815973981012122}</string>
+		<key>Type</key>
+		<string>line</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.27701982269703157</real>
+		<key>Frame</key>
+		<string>{{0.73925694508839834, 0.38865273600063338}, {0.24864457716370009, 0.15130602086284181}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;﻿nokså tydelig strupefelt&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.1634491634491636</real>
+		<key>Frame</key>
+		<string>{{0.56612355662710112, 0.069836476221455432}, {0.43387644337289888, 0.25643916547455592}}</string>
+		<key>Text</key>
+		<string>&lt;p class="right"&gt;﻿i skarpt lys (for eksempel ved Middelhavet) kan den fortone seg nesten like lys som gråseiler&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+</array>
+</plist>

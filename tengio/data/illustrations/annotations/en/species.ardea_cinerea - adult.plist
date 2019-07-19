@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>EndPoint</key>
+		<string>{0.8559526694362013, 0.46990221161150819}</string>
+		<key>StartPoint</key>
+		<string>{0.79367338534257448, 0.43361005848770257}</string>
+		<key>Type</key>
+		<string>line</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.40031058150599608</real>
+		<key>Frame</key>
+		<string>{{0.75551723796957304, 0.45748146387980659}, {0.21636525096608186, 0.073351992454833106}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;white forehead&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.60596011181759091</real>
+		<key>Frame</key>
+		<string>{{0.55764323614875611, 0.011802975884871217}, {0.34821304071255749, 0.048457940022060143}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;&lt;b&gt;ad.&lt;/b&gt;&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.33378265962684323</real>
+		<key>Frame</key>
+		<string>{{0.6899963857567164, 0.6299949009822986}, {0.2134748198216383, 0.087972151660140427}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;’neck keel’ rounded&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>EndPoint</key>
+		<string>{0.2462742800673578, 0.78744405627350422}</string>
+		<key>StartPoint</key>
+		<string>{0.29075395332358173, 0.76329819033557611}</string>
+		<key>Type</key>
+		<string>line</string>
+	</dict>
+	<dict>
+		<key>EndPoint</key>
+		<string>{0.76554315126215833, 0.7242738735064993}</string>
+		<key>StartPoint</key>
+		<string>{0.72142334041522382, 0.74822453941578848}</string>
+		<key>Type</key>
+		<string>line</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.30802266950748824</real>
+		<key>Frame</key>
+		<string>{{0.11977068109626521, 0.7832942524802744}, {0.25017278569781326, 0.095329278202700041}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;toes usually  kept folded&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.59074615474756242</real>
+		<key>Frame</key>
+		<string>{{0.46092812206888284, 0.69904210996152605}, {0.14996291903210004, 0.049705916015255862}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;&lt;b&gt;ad.&lt;/b&gt;&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+</array>
+</plist>

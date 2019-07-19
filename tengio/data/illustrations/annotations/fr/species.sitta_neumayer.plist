@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>FontScale</key>
+		<real>0.27546435431737115</real>
+		<key>Frame</key>
+		<string>{{0.19258850695043625, 0.34735263098447755}, {0.14748023435320601, 0.15761866772501962}}</string>
+		<key>Text</key>
+		<string>&lt;p class="center"&gt;niche dans des habitats très différents de la Sittelle torchepot&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.19290693016844127</real>
+		<key>Frame</key>
+		<string>{{0.75850789742261426, 0.078019234610116089}, {0.11135249927493429, 0.22507394884841642}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;maçonne l’entrée de son nid au diamètre approprié&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.25351459861227432</real>
+		<key>Frame</key>
+		<string>{{0.31502270807249505, 0.0908733019309345}, {0.28747409730082191, 0.17126557906687198}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;l’ind. illustré provient de la zone de contact avec la S. des rochers. D’autres populations ont un bec plus épais et un trait sourcilier un peu plus large qu’illustré&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.42333364913398841</real>
+		<key>Frame</key>
+		<string>{{0.72299546299232531, 0.48061292166386727}, {0.063044296776081171, 0.10256289482789152}}</string>
+		<key>Text</key>
+		<string>&lt;p class="center"&gt;long&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>EndPoint</key>
+		<string>{0.7656953482096458, 0.60371439765762092}</string>
+		<key>StartPoint</key>
+		<string>{0.76433627259727688, 0.67748525784603619}</string>
+		<key>Type</key>
+		<string>line</string>
+	</dict>
+	<dict>
+		<key>EndPoint</key>
+		<string>{0.61917864102816544, 0.73480475598386408}</string>
+		<key>StartPoint</key>
+		<string>{0.64768644944250942, 0.68257393655927379}</string>
+		<key>Type</key>
+		<string>line</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.34701326574557162</real>
+		<key>Frame</key>
+		<string>{{0.50980659431922537, 0.69807035389570327}, {0.15554875370227014, 0.12512007124554966}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;trait sourcilier noir &lt;i&gt;étroit&lt;/i&gt; en arrière de l’œil&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+</array>
+</plist>

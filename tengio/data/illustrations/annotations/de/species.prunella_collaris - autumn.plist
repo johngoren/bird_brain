@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>EndPoint</key>
+		<string>{0.67338512045552634, 0.19458076940332797}</string>
+		<key>StartPoint</key>
+		<string>{0.60676156858018737, 0.21774273056977703}</string>
+		<key>Type</key>
+		<string>line</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.35259146874554376</real>
+		<key>Frame</key>
+		<string>{{0.67361147446188563, 0.11906173371236199}, {0.17558220719842044, 0.067305937085044801}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;breite rotbraune Strichel&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.26967354732912979</real>
+		<key>Frame</key>
+		<string>{{0.69739669768907953, 0.19432088603862707}, {0.18127811319934306, 0.088000841933329896}}</string>
+		<key>Text</key>
+		<string>&lt;p class="right"&gt;zwei weiße Flügelbinden&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.31733232187099053</real>
+		<key>Frame</key>
+		<string>{{0.79690882225671411, 0.30338432358157147}, {0.17952803577607956, 0.074784374538938395}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;Kehle gebändert&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>EndPoint</key>
+		<string>{0.78782379376962619, 0.3703287691070285}</string>
+		<key>StartPoint</key>
+		<string>{0.72708995190672521, 0.38974192159133186}</string>
+		<key>Type</key>
+		<string>line</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.35280912385411156</real>
+		<key>Frame</key>
+		<string>{{0.80992109615238439, 0.37947767966350526}, {0.17340648958633584, 0.067264414686521001}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;Basis gelb­orange&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>EndPoint</key>
+		<string>{0.79589908439126067, 0.43765571797589559}</string>
+		<key>StartPoint</key>
+		<string>{0.74111229479834551, 0.45518453186735341}</string>
+		<key>Type</key>
+		<string>line</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.33412981927813318</real>
+		<key>Frame</key>
+		<string>{{0.37687145687708729, 0.41993677117433115}, {0.1584086918687872, 0.071024786902831802}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;&lt;b&gt;Herbst&lt;/b&gt;&lt;/p&gt;&lt;p&gt;(frisch)&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>EndPoint</key>
+		<string>{0.44283471924656725, 0.78245912157745567}</string>
+		<key>StartPoint</key>
+		<string>{0.3706079929360423, 0.71751231521338132}</string>
+		<key>Type</key>
+		<string>line</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.22666607485325252</real>
+		<key>Frame</key>
+		<string>{{0.3020602896318354, 0.60905820476994232}, {0.19531058587259217, 0.10469806400219039}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;dunkles Flügelfeld&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+</array>
+</plist>

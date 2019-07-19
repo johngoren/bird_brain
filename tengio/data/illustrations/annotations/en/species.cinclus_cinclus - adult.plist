@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>FontScale</key>
+		<real>0.21072320334779648</real>
+		<key>Frame</key>
+		<string>{{0.011339851275074763, 0.056276330544114496}, {0.29588633359896421, 0.31538999779837557}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;&lt;b&gt;&lt;i&gt;cinclus&lt;/i&gt;&lt;/b&gt;&lt;/p&gt;&lt;p&gt;(N &amp;amp; E Europe,&lt;/p&gt;&lt;p&gt;parts of France, NW Iberia&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.39976535582447137</real>
+		<key>Frame</key>
+		<string>{{0.78115570343022855, 0.22023555657391583}, {0.13147018554901851, 0.16624749911823122}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;brown-black&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>EndPoint</key>
+		<string>{0.77127555712224483, 0.3542156521970285}</string>
+		<key>StartPoint</key>
+		<string>{0.70837707447943143, 0.38443937846124021}</string>
+		<key>Type</key>
+		<string>line</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.62428912999990438</real>
+		<key>Frame</key>
+		<string>{{0.67708410187274637, 0.12522202949538774}, {0.099699118213858587, 0.10645706844189065}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;&lt;b&gt;ad.&lt;/b&gt;&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+</array>
+</plist>

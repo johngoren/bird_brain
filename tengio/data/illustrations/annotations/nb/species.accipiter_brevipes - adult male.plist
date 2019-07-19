@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>FontScale</key>
+		<real>0.5783242258654715</real>
+		<key>Frame</key>
+		<string>{{0, 0.088145768249931505}, {0.20682862770847038, 0.046479813261245402}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;﻿ens-farget&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>EndPoint</key>
+		<string>{0.18603917764481276, 0.088370220711867647}</string>
+		<key>StartPoint</key>
+		<string>{0.13583373213479183, 0.099178515066476916}</string>
+		<key>Type</key>
+		<string>line</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.24901960784316601</real>
+		<key>Frame</key>
+		<string>{{0.35456336178594861, 0.024013785471408866}, {0.58765594221930451, 0.10794492150839326}}</string>
+		<key>Text</key>
+		<string>&lt;p class="center"&gt;﻿legg merke til korte tær, en tilpasning til andre byttedyr enn spurvehauk – tar mest øgler og insekter&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.67844054742334214</real>
+		<key>Frame</key>
+		<string>{{0.70256073539067421, 0.21818828510554031}, {0.18820332698108194, 0.039620866006271058}}</string>
+		<key>Text</key>
+		<string>&lt;p class="right"&gt;&lt;b&gt;ad. &lt;/b&gt;♂&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.34699453551911302</real>
+		<key>Frame</key>
+		<string>{{0.48522652659224802, 0.46595299352934882}, {0.24031516743269934, 0.077466355435446929}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;﻿grått kinn, mørke øyne&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>EndPoint</key>
+		<string>{0.53110719367374115, 0.68786961236058275}</string>
+		<key>StartPoint</key>
+		<string>{0.45487303544583546, 0.69536225985351507}</string>
+		<key>Type</key>
+		<string>line</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.67844054742334214</real>
+		<key>Frame</key>
+		<string>{{0.57927944121662911, 0.65078862686040895}, {0.18820332698108194, 0.039620866006271058}}</string>
+		<key>Text</key>
+		<string>&lt;p class="right"&gt;&lt;b&gt;ad. &lt;/b&gt;♂&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.30238095238091084</real>
+		<key>Frame</key>
+		<string>{{0.19186447097731282, 0.671360389071051}, {0.28999781133727509, 0.088895817712816919}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;﻿svært lys med svarte vingespisser&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+</array>
+</plist>

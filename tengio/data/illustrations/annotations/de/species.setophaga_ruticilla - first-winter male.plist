@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>FontScale</key>
+		<real>0.26826753243268231</real>
+		<key>Frame</key>
+		<string>{{0.18061156647503834, 0.76772419657185165}, {0.37890572603576006, 0.23227580342814846}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;anmutige Gestalt, auffälliges Schwanzmuster&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.19832129611555807</real>
+		<key>Frame</key>
+		<string>{{0.19393990859690202, 0.045601309803367816}, {0.30724115532092078, 0.31419750601660096}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;Flügelbinde variabel, bei ♂ ausgedehnter als bei ♀&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.60000000000000009</real>
+		<key>Frame</key>
+		<string>{{0.68899261598029882, 0.065963123583860736}, {0.26948075929110693, 0.10385342771581359}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;♂&lt;b&gt; 1er W&lt;/b&gt;&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+</array>
+</plist>

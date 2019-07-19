@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>FontScale</key>
+		<real>0.20905349794237668</real>
+		<key>Frame</key>
+		<string>{{0.75005898234311053, 0.044477390659885804}, {0.24994101765688939, 0.3002223869533453}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;ind. de type ♀ presque identique à la S. d’hiver; la barre alaire d’un roux soutenu peut constituer un indice et les marques faciales peuvent être plus marquées, mais forte variabilité&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.61935093654903883</real>
+		<key>Frame</key>
+		<string>{{0.62239986495819932, 0.30050488003743292}, {0.074418118567737668, 0.1013359897426056}}</string>
+		<key>Text</key>
+		<string>&lt;p class="right"&gt;♀ &lt;b&gt;ad.&lt;/b&gt;&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>EndPoint</key>
+		<string>{0.81769016344940826, 0.62373579455145356}</string>
+		<key>StartPoint</key>
+		<string>{0.79547629374600715, 0.75401193024527724}</string>
+		<key>Type</key>
+		<string>line</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.39197530864187868</real>
+		<key>Frame</key>
+		<string>{{0.69250284361574699, 0.71534469977717219}, {0.17781234048915578, 0.16011860637514916}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;ligne blanche des scapulaires absente&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.23518518518523909</real>
+		<key>Frame</key>
+		<string>{{0.81173101565074735, 0.73313565604154496}, {0.16118374259520082, 0.26686434395845499}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;bordures chamois du bandeau vert indistinctes&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.86750613114482089</real>
+		<key>Frame</key>
+		<string>{{0.80073000709518005, 0.35112428959728798}, {0.184144837443529, 0.07234823812758627}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;ligne blanche diagnostique&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>EndPoint</key>
+		<string>{0.8925609131742267, 0.42478062247589826}</string>
+		<key>StartPoint</key>
+		<string>{0.87497891207626233, 0.53933567989735354}</string>
+		<key>Type</key>
+		<string>line</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.61935093654903883</real>
+		<key>Frame</key>
+		<string>{{0.90264693845778132, 0.69110285384541459}, {0.070267819788166, 0.1013359897426056}}</string>
+		<key>Text</key>
+		<string>&lt;p class="right"&gt;♂ &lt;b&gt;ad.&lt;/b&gt;&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.20905349794237668</real>
+		<key>Frame</key>
+		<string>{{0.75005898234311053, 0.044477390659885804}, {0.24994101765688939, 0.3002223869533453}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;ind. de type ♀ presque identique à la S. d’hiver; la barre alaire d’un roux soutenu peut constituer un indice et les marques faciales peuvent être plus marquées, mais forte variabilité&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.338308817266469</real>
+		<key>Frame</key>
+		<string>{{0.45212132304852409, 0.44087143076296564}, {0.2117030292982259, 0.18551848769513934}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;mélange de critères chez les hybrides&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.338308817266469</real>
+		<key>Frame</key>
+		<string>{{0.45856070650475683, 0.81448151230486043}, {0.12737843782752351, 0.18551848769513934}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;hybride S. d’hiver × S. à ailes vertes&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.18075075609323316</real>
+		<key>Frame</key>
+		<string>{{0.34776347981967309, 0.020756115641223104}, {0.068760132756864337, 0.34723251791451981}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;S. à ailes vertes ♂ parmi des S. d’hiver&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+</array>
+</plist>

@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>EndPoint</key>
+		<string>{0.28518171015299149, 0.53656461441222481}</string>
+		<key>StartPoint</key>
+		<string>{0.33825650888954945, 0.62170026615749574}</string>
+		<key>Type</key>
+		<string>line</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.16997053957961175</real>
+		<key>Frame</key>
+		<string>{{0, 0.26300556748952386}, {0.36104021330013247, 0.27490889044737177}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;croissant brun pâle à peine visible (la ♀ 1er hiver a un croissant encore plus sombre, souvent indiscernable)&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>EndPoint</key>
+		<string>{0.61134851796653322, 0.67074278456465675}</string>
+		<key>StartPoint</key>
+		<string>{0.57807077203095802, 0.58786579633778124}</string>
+		<key>Type</key>
+		<string>line</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.33871184478463656</real>
+		<key>Frame</key>
+		<string>{{0.58446026796949224, 0.63726817377743994}, {0.14326092083940642, 0.1379532873268198}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;liserés pâles&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.52191086995763292</real>
+		<key>Frame</key>
+		<string>{{0.65389699775592469, 0.27178121298565944}, {0.2162839510511175, 0.089529486995289564}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;♂ &lt;b&gt;1er hiver&lt;/b&gt;&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+</array>
+</plist>

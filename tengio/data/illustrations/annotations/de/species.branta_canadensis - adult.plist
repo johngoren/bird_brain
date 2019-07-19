@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>FontScale</key>
+		<real>0.36363636363636798</real>
+		<key>Frame</key>
+		<string>{{0.62688427461588569, 0.13729676573300029}, {0.11006192394883565, 0.085426461954473176}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;Hals lang&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.69174583069453244</real>
+		<key>Frame</key>
+		<string>{{0.00062952480954690132, 0.051717428936074901}, {0.18893992833875783, 0.044906910320306317}}</string>
+		<key>Text</key>
+		<string>&lt;p class="right"&gt;&lt;b&gt;ad.&lt;/b&gt;&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>EndPoint</key>
+		<string>{0.72862095963916973, 0.55113922940046589}</string>
+		<key>StartPoint</key>
+		<string>{0.6804421640990117, 0.58578794682716762}</string>
+		<key>Type</key>
+		<string>line</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.67790953068915738</real>
+		<key>Frame</key>
+		<string>{{0.59657582703869527, 0.49886798293069823}, {0.2239418471044336, 0.045823471388380659}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;Brust hell&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+</array>
+</plist>

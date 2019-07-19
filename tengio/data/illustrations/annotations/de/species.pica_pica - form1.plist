@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>FontScale</key>
+		<real>0.26558456226423294</real>
+		<key>Frame</key>
+		<string>{{0.3361080683376535, 0.052288297676567383}, {0.36161834689725836, 0.13106520484550904}}</string>
+		<key>Text</key>
+		<string>&lt;p class="center"&gt;je nach Lichteinfall und Abnutzungsgrad glänzt das Gefieder metallisch grün und blau&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.28059719385679882</real>
+		<key>Frame</key>
+		<string>{{0.72729322110703121, 0.63399882283959375}, {0.10966569749601038, 0.12405289795852717}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;&lt;b&gt;&lt;i&gt;pica&lt;/i&gt;&lt;/b&gt;&lt;/p&gt;&lt;p&gt;(Europa)&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.44022022703911662</real>
+		<key>Frame</key>
+		<string>{{0.06394819099501467, 0.052288297676571324}, {0.1431212235038376, 0.079071548554431881}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;Schwanz bei ♂ meist länger&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>EndPoint</key>
+		<string>{0.13212184141775127, 0.20080596703395875}</string>
+		<key>StartPoint</key>
+		<string>{0.13521248120461046, 0.1604274469071906}</string>
+		<key>Type</key>
+		<string>line</string>
+	</dict>
+</array>
+</plist>

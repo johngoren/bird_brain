@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>EndPoint</key>
+		<string>{0.79041301068659586, 0.6297636619954099}</string>
+		<key>StartPoint</key>
+		<string>{0.79289739674792969, 0.69278000088593616}</string>
+		<key>Type</key>
+		<string>line</string>
+	</dict>
+	<dict>
+		<key>EndPoint</key>
+		<string>{0.49926851481291612, 0.80682924373040066}</string>
+		<key>StartPoint</key>
+		<string>{0.49565076126867397, 0.85863693873627722}</string>
+		<key>Type</key>
+		<string>line</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.31663931482426949</real>
+		<key>Frame</key>
+		<string>{{0.14461751144688481, 0.14853070199033194}, {0.24640274390640637, 0.16573804365815442}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;Beine nicht auffallend hell oder kräftig&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.32987012987016351</real>
+		<key>Frame</key>
+		<string>{{0.63608515673331911, 0.31426874564848761}, {0.18077897581819924, 0.15909042933013859}}</string>
+		<key>Text</key>
+		<string>&lt;p class="right"&gt;Ohrdecken recht einfarbig&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>EndPoint</key>
+		<string>{0.72465262001221886, 0.49105886614163813}</string>
+		<key>StartPoint</key>
+		<string>{0.69068808516152835, 0.62948820075359757}</string>
+		<key>Type</key>
+		<string>line</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.41336855006212048</real>
+		<key>Frame</key>
+		<string>{{0.37826964541815505, 0.83731184279019411}, {0.22008453381241969, 0.12695494269301905}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;Mantel und Flügel gleich gefärbt&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.35474860335193958</real>
+		<key>Frame</key>
+		<string>{{0.74578530001955345, 0.47583850634479663}, {0.097511083926180714, 0.14793343818233232}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;schlank, spitz&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.30184194890071792</real>
+		<key>Frame</key>
+		<string>{{0.046296855445605502, 0.49794587769323939}, {0.23494125822899728, 0.17386311205370056}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;Unterschwanzdecken wie Flanken gefärbt&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.26129739643554828</real>
+		<key>Frame</key>
+		<string>{{0.59490137561371359, 0.73689143810931479}, {0.23289966754760205, 0.20084080936174742}}</string>
+		<key>Text</key>
+		<string>&lt;p class="right"&gt;Überaugenstreif vor dem Auge scharf begrenzt&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.19782175328023599</real>
+		<key>Frame</key>
+		<string>{{0.67490604622241135, 0.015888109065045342}, {0.32509395377758871, 0.26528518585056937}}</string>
+		<key>Text</key>
+		<string>&lt;p class="center"&gt;Beide Arten zucken nervös mit den Flügeln und schlagen den Schwanz (im Gegensatz zum Zilpzalp) aufwärts&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>EndPoint</key>
+		<string>{0.39102025535329304, 0.28756428072517726}</string>
+		<key>StartPoint</key>
+		<string>{0.44885892329561056, 0.28756428072517726}</string>
+		<key>Type</key>
+		<string>line</string>
+	</dict>
+</array>
+</plist>

@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>FontScale</key>
+		<real>0.25351459861227432</real>
+		<key>Frame</key>
+		<string>{{0.052905409885353902, 0.079791910304502417}, {0.55506765352622789, 0.21288922269440047}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;bird depicted is from contact zone with Eastern Rock. Other populations show both stouter bill and &lt;/p&gt;&lt;p&gt;slightly broader eye-stripe than illustrated&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.42333364913398841</real>
+		<key>Frame</key>
+		<string>{{0.84063718085953687, 0.5642521570757375}, {0.12172870602352687, 0.1274893360134666}}</string>
+		<key>Text</key>
+		<string>&lt;p class="center"&gt;long&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>EndPoint</key>
+		<string>{0.92308400064593144, 0.71727168195417734}</string>
+		<key>StartPoint</key>
+		<string>{0.92045983757104799, 0.80897149208868702}</string>
+		<key>Type</key>
+		<string>line</string>
+	</dict>
+	<dict>
+		<key>EndPoint</key>
+		<string>{0.64018308671589874, 0.88022167248267424}</string>
+		<key>StartPoint</key>
+		<string>{0.69522721929096909, 0.81529690120886811}</string>
+		<key>Type</key>
+		<string>line</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.34701326574557162</real>
+		<key>Frame</key>
+		<string>{{0.42900271986509081, 0.84220886648023696}, {0.27835775062256141, 0.15552871076640895}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;black eye-stripe &lt;/p&gt;&lt;p&gt;&lt;i&gt;narrow &lt;/i&gt;behind eye&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+</array>
+</plist>

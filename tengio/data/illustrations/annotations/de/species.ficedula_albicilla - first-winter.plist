@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>FontScale</key>
+		<real>0.2503848463950934</real>
+		<key>Frame</key>
+		<string>{{0.32105039066139474, 0.62978898045609832}, {0.17545152009774376, 0.21237788272601391}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;Schirmfedern hell gesäumt&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>EndPoint</key>
+		<string>{0.40930145397822665, 0.6294382273320861}</string>
+		<key>StartPoint</key>
+		<string>{0.51307165194226378, 0.44990787109768443}</string>
+		<key>Type</key>
+		<string>line</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.20040975591015869</real>
+		<key>Frame</key>
+		<string>{{0.028797466563700323, 0.42277948861751991}, {0.31850690149607125, 0.26533739988140304}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;Oberschwanzdecken tiefer schwarz als obere Steuerfedern&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>EndPoint</key>
+		<string>{0.28133682147420863, 0.47093116899206949}</string>
+		<key>StartPoint</key>
+		<string>{0.33353948629190738, 0.4081246293730853}</string>
+		<key>Type</key>
+		<string>line</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.68443332177932248</real>
+		<key>Frame</key>
+		<string>{{0.72622818880118623, 0.16875636088520943}, {0.22795041586293327, 0.077693767752022774}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;&lt;b&gt;1er W&lt;/b&gt;&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.3107033639143722</real>
+		<key>Frame</key>
+		<string>{{0.8398858564173457, 0.3139148199446205}, {0.13878506971124069, 0.17114782046171589}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;graubraun&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.59749936423540806</real>
+		<key>Frame</key>
+		<string>{{0.82076319776096829, 0.56296107767540837}, {0.13445083101836422, 0.088997924896732306}}</string>
+		<key>Text</key>
+		<string>&lt;p class="right"&gt;dunkel&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>EndPoint</key>
+		<string>{0.78817015675652613, 0.46189228821205358}</string>
+		<key>StartPoint</key>
+		<string>{0.83393071081733294, 0.46189228821205358}</string>
+		<key>Type</key>
+		<string>line</string>
+	</dict>
+	<dict>
+		<key>EndPoint</key>
+		<string>{0.89864791673364053, 0.75900383071111599}</string>
+		<key>StartPoint</key>
+		<string>{0.89864791673364053, 0.69201018845086559}</string>
+		<key>Type</key>
+		<string>line</string>
+	</dict>
+</array>
+</plist>

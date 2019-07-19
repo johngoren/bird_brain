@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>FontScale</key>
+		<real>0.47382785999269911</real>
+		<key>Frame</key>
+		<string>{{0.30357182874558053, 0.0071065289020940019}, {0.69381254913695112, 0.14930822956666043}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;(forme blanche ; Groenland)&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.6399968750152587</real>
+		<key>Frame</key>
+		<string>{{0.057438664495640487, 0.12076901391608687}, {0.20918962177262854, 0.11054178802542221}}</string>
+		<key>Text</key>
+		<string>&lt;p class="right"&gt;&lt;b&gt;ad.&lt;/b&gt;&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.47603166779514167</real>
+		<key>Frame</key>
+		<string>{{0, 0.36475989811195969}, {0.27129951591154922, 0.14861700109689926}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;sombre&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+</array>
+</plist>

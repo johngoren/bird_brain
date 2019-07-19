@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>FontScale</key>
+		<real>0.30696785555923334</real>
+		<key>Frame</key>
+		<string>{{0.031755998286533631, 0.21635288429087421}, {0.27060215703417445, 0.16817568098320437}}</string>
+		<key>Text</key>
+		<string>&lt;p class="center"&gt;gesellig, meist im Familienverband oder großen Trupp&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>EndPoint</key>
+		<string>{0.82356568179421064, 0.56645240718535517}</string>
+		<key>StartPoint</key>
+		<string>{0.84679847405321418, 0.52960797703966866}</string>
+		<key>Type</key>
+		<string>line</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.21971790696362528</real>
+		<key>Frame</key>
+		<string>{{0.85152989891253716, 0.68999764452123857}, {0.11361038453476796, 0.23495821920957277}}</string>
+		<key>Text</key>
+		<string>&lt;p class="right"&gt;in S-Europa meist ausgesetzte zentralafrikanische Unterart:&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.30128262102150039</real>
+		<key>Frame</key>
+		<string>{{0.83518207792371246, 0.077002834222934538}, {0.12995820552359355, 0.17134917365493813}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;&lt;b&gt;&lt;i&gt;meleagris&lt;/i&gt;(&lt;/b&gt;Äthiopien, Kenia)&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.27614537045113785</real>
+		<key>Frame</key>
+		<string>{{0.6539175767722949, 0.1626774210504037}, {0.13962092660821984, 0.18694692604945415}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;&lt;b&gt;&lt;i&gt;sabyi&lt;/i&gt;&lt;/b&gt;(ehemals Marokko)&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>EndPoint</key>
+		<string>{0.7162582883998041, 0.88531721755600512}</string>
+		<key>StartPoint</key>
+		<string>{0.74237803798788315, 0.8459528714153397}</string>
+		<key>Type</key>
+		<string>line</string>
+	</dict>
+</array>
+</plist>

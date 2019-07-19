@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>FontScale</key>
+		<real>0.20680670900505196</real>
+		<key>Frame</key>
+		<string>{{0, 0.21988871794927695}, {0.41288913162206331, 0.25250069414648613}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;Gefieder anfangs bräunlich, oberseits aber frühzeitig aus-geblichen weißlich mit dunklen Schaftstreifen &lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.20680670900505196</real>
+		<key>Frame</key>
+		<string>{{0.58711086837793669, 0.21668157674369432}, {0.41288913162206331, 0.25250069414648613}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;im 2en KJ (nicht abgebildet) schmutzig weißlich mit dunkel markierten Ohrdecken&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.58064116005375133</real>
+		<key>Frame</key>
+		<string>{{0.60349535772801466, 0.076307473207446103}, {0.20294594650412057, 0.089933062225716065}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;&lt;b&gt;JK&lt;/b&gt;&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+</array>
+</plist>

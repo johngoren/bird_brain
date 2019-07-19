@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>FontScale</key>
+		<real>0.6399968750152587</real>
+		<key>Frame</key>
+		<string>{{0.13853762277459439, 0.31295348002362483}, {0.20918979201060919, 0.11054178802542221}}</string>
+		<key>Text</key>
+		<string>&lt;p class="right"&gt;&lt;b&gt;ad.&lt;/b&gt;&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.53197471913678129</real>
+		<key>Frame</key>
+		<string>{{0.10605936353862985, 0.049743452639103763}, {0.89394063646137012, 0.13298827246841224}}</string>
+		<key>Text</key>
+		<string>&lt;p class="right"&gt;﻿(hvit morf, s.k. «grønlandsfalk», sjelden gjest og hekkefugl i Norge)&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+</array>
+</plist>

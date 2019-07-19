@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>FontScale</key>
+		<real>0.36238033272754866</real>
+		<key>Frame</key>
+		<string>{{0.33918495297805151, 0.86844793699779765}, {0.42131661442006296, 0.13155206300220243}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;small yellow spot, often hidden&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>EndPoint</key>
+		<string>{0.75513931593938188, 0.96284167444343394}</string>
+		<key>StartPoint</key>
+		<string>{0.70346935817207767, 0.97999225544479895}</string>
+		<key>Type</key>
+		<string>line</string>
+	</dict>
+	<dict>
+		<key>EndPoint</key>
+		<string>{0.83448275862069432, 0.58446636566584376}</string>
+		<key>StartPoint</key>
+		<string>{0.78265412748171326, 0.61449589660236781}</string>
+		<key>Type</key>
+		<string>line</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.39759270044651518</real>
+		<key>Frame</key>
+		<string>{{0.81818181818181723, 0.48874723580566365}, {0.15801108641642725, 0.11990129674965311}}</string>
+		<key>Text</key>
+		<string>&lt;p class="right"&gt;yellow patch&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>EndPoint</key>
+		<string>{0.38307210031347594, 0.72185146970044456}</string>
+		<key>StartPoint</key>
+		<string>{0.35799373040752275, 0.81156469337330417}</string>
+		<key>Type</key>
+		<string>line</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.67200098437644162</real>
+		<key>Frame</key>
+		<string>{{0.17742946708463581, 0.78721262062947284}, {0.25753978701345359, 0.070940194240889251}}</string>
+		<key>Text</key>
+		<string>&lt;p class="center"&gt;yellow&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.60000000000000009</real>
+		<key>Frame</key>
+		<string>{{0.045913523026603099, 0.72271169063872698}, {0.29577926694204992, 0.079453133936222595}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;&lt;b&gt;1st-w.&lt;/b&gt; ♂&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.14545454545454548</real>
+		<key>Frame</key>
+		<string>{{0.375548589341693, 0.0051310243013408512}, {0.57847439916405508, 0.32774417748691814}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;brighter birds with blue-grey in wing coverts and upper-&lt;/p&gt;&lt;p&gt;tail-coverts probably ♂♂, but reliable age/sex determination requires critical judgement&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+</array>
+</plist>

@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>FontScale</key>
+		<real>0.30068067475584515</real>
+		<key>Frame</key>
+		<string>{{0.010772124871750716, 0.57924883354842494}, {0.23488349870226058, 0.17146966673924452}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;pale tips &lt;/p&gt;&lt;p&gt;to secondaries&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>EndPoint</key>
+		<string>{0.33710569421382391, 0.6398270299587725}</string>
+		<key>StartPoint</key>
+		<string>{0.22439916893592332, 0.6680910919030858}</string>
+		<key>Type</key>
+		<string>line</string>
+	</dict>
+	<dict>
+		<key>EndPoint</key>
+		<string>{0.12842737863862511, 0.40384680040656012}</string>
+		<key>StartPoint</key>
+		<string>{0.11258784935186833, 0.45423304692081673}</string>
+		<key>Type</key>
+		<string>line</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.35471649093940116</real>
+		<key>Frame</key>
+		<string>{{0.086908777549665722, 0.24918574663756987}, {0.21454780469959453, 0.14534879660873706}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;deeply forked&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.58420026742565956</real>
+		<key>Frame</key>
+		<string>{{0.05971711587898005, 0.055553373131432368}, {0.21535796043181887, 0.088253323338090953}}</string>
+		<key>Text</key>
+		<string>&lt;p class="right"&gt;pointed&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>EndPoint</key>
+		<string>{0.38256415452938358, 0.09068006897024937}</string>
+		<key>StartPoint</key>
+		<string>{0.28831698495181557, 0.1158285677514541}</string>
+		<key>Type</key>
+		<string>line</string>
+	</dict>
+	<dict>
+		<key>EndPoint</key>
+		<string>{0.67054992424128901, 0.51709369475117439}</string>
+		<key>StartPoint</key>
+		<string>{0.60847612674522833, 0.55621955497341957}</string>
+		<key>Type</key>
+		<string>line</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.25786802030456935</real>
+		<key>Frame</key>
+		<string>{{0.685125334304721, 0.33262480858460747}, {0.31433560891310963, 0.19993799554679545}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;well-defined white throat patch&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.35723582639882784</real>
+		<key>Frame</key>
+		<string>{{0.66119667203452259, 0.001353955394416501}, {0.30889727657897331, 0.14432375278552162}}</string>
+		<key>Text</key>
+		<string>&lt;p class="right"&gt;not attracted to urban areas&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+</array>
+</plist>

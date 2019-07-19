@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>FontScale</key>
+		<real>0.33306821098318024</real>
+		<key>Frame</key>
+		<string>{{0.81058173125393129, 0.69442348334067172}, {0.14616676613136512, 0.12061110467669436}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;iris svart&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.54171161229795195</real>
+		<key>Frame</key>
+		<string>{{0.33222096805567436, 0.91941777308934558}, {0.54082178186486995, 0.074157031061162573}}</string>
+		<key>Text</key>
+		<string>&lt;p class="center"&gt;bedrägligt mild uppsyn&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.22117638323830252</real>
+		<key>Frame</key>
+		<string>{{0.12663632156759203, 0.7275773100857309}, {0.284496731228297, 0.18162755114812312}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;ljust, oteck­-&lt;/p&gt;&lt;p&gt;nat ansikte, halmgul &lt;/p&gt;&lt;p&gt;näbb&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.606451692505105</real>
+		<key>Frame</key>
+		<string>{{0.046583783630036651, 0.64599396466737424}, {0.23410825376157304, 0.066240601445816755}}</string>
+		<key>Text</key>
+		<string>&lt;p class="right"&gt;beigegrå&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>EndPoint</key>
+		<string>{0.25097460407553607, 0.67056371348275989}</string>
+		<key>StartPoint</key>
+		<string>{0.30613924363198947, 0.63067465648265109}</string>
+		<key>Type</key>
+		<string>line</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.40213646334276365</real>
+		<key>Frame</key>
+		<string>{{0.47199873369405332, 0.014281744647160283}, {0.36897221317997525, 0.099895753111875957}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;lång &lt;/p&gt;&lt;p&gt;(jfr kattuggla)&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>EndPoint</key>
+		<string>{0.4568669448969796, 0.097909454777692667}</string>
+		<key>StartPoint</key>
+		<string>{0.38988239726187796, 0.14634558876761355}</string>
+		<key>Type</key>
+		<string>line</string>
+	</dict>
+</array>
+</plist>

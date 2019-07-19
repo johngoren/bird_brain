@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>FontScale</key>
+		<real>0.29090779959250856</real>
+		<key>Frame</key>
+		<string>{{0, 0.11915545061149083}, {0.41227813209182063, 0.27070063614313261}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;seldom spreads tail to reveal its graduated shape&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>EndPoint</key>
+		<string>{0.049261173871271303, 0.40314764191212249}</string>
+		<key>StartPoint</key>
+		<string>{0.099280211955932993, 0.47259551402057232}</string>
+		<key>Type</key>
+		<string>line</string>
+	</dict>
+	<dict>
+		<key>EndPoint</key>
+		<string>{0.71946575992494077, 0.56932647874306541}</string>
+		<key>StartPoint</key>
+		<string>{0.65336665906989511, 0.5447716953904379}</string>
+		<key>Type</key>
+		<string>line</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.46540225485023229</real>
+		<key>Frame</key>
+		<string>{{0.52141057882200792, 0.71814334754687259}, {0.26184025614442535, 0.16920615572443376}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;plain underwing&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.46540225485023229</real>
+		<key>Frame</key>
+		<string>{{0.73815974385557481, 0.43732454021959699}, {0.26184025614442535, 0.16920615572443376}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;rather heavy&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>EndPoint</key>
+		<string>{0.5054969442120163, 0.76874108294018484}</string>
+		<key>StartPoint</key>
+		<string>{0.36062752463187669, 0.71293475713874999}</string>
+		<key>Type</key>
+		<string>line</string>
+	</dict>
+</array>
+</plist>

@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>FontScale</key>
+		<real>0.20081881476424326</real>
+		<key>Frame</key>
+		<string>{{0.087703562552523928, 0.33953881351803622}, {0.24380192664411873, 0.25836717178067986}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;rather plain yellowish-brown&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>EndPoint</key>
+		<string>{0.33662455535618291, 0.583260354536693}</string>
+		<key>StartPoint</key>
+		<string>{0.42463250751962089, 0.583260354536693}</string>
+		<key>Type</key>
+		<string>line</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.36460777977547759</real>
+		<key>Frame</key>
+		<string>{{0.28847451936690943, 0.62114000154430193}, {0.25314059253438975, 0.1423035713690369}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;&lt;b&gt;autumn &lt;/b&gt;♀&lt;/p&gt;&lt;p&gt;(fresh)&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.33403416490184562</real>
+		<key>Frame</key>
+		<string>{{0.77958303704294463, 0.51818811529840592}, {0.19203763817959524, 0.15532839051428143}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;yellow­orange&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>EndPoint</key>
+		<string>{0.76250257085394368, 0.58903964795927}</string>
+		<key>StartPoint</key>
+		<string>{0.71515094659777201, 0.58903964795927}</string>
+		<key>Type</key>
+		<string>line</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.5657132991885826</real>
+		<key>Frame</key>
+		<string>{{0.045993767977364979, 0.83472038155541106}, {0.60630887685545032, 0.091716049959238641}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;&lt;b&gt;&lt;i&gt;hispanica&lt;/i&gt;&lt;/b&gt;  (SW Europe)&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.59403750804456168</real>
+		<key>Frame</key>
+		<string>{{0.045993767977364979, 0.91265704857294339}, {0.95400623202263513, 0.087342951427056392}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;&lt;b&gt;BLACK-EARED WHEATEAR&lt;/b&gt;&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+</array>
+</plist>

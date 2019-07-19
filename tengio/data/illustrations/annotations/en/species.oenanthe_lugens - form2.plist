@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>EndPoint</key>
+		<string>{0.25619647238746268, 0.16288075701723473}</string>
+		<key>StartPoint</key>
+		<string>{0.25505300403532011, 0.11992984459994969}</string>
+		<key>Type</key>
+		<string>line</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.57407878071918661</real>
+		<key>Frame</key>
+		<string>{{0.20637559393865706, 0.052699310996240124}, {0.12797264374953121, 0.054916634938439519}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;white!&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.13300170179342857</real>
+		<key>Frame</key>
+		<string>{{0.54346589464285255, 0.1122769012198508}, {0.41974075902732877, 0.23703813110320457}}</string>
+		<key>Text</key>
+		<string>&lt;p class="right"&gt;this very odd &lt;/p&gt;&lt;p class="right"&gt;colour morph is restricted to an area of dark basalt desert in N &lt;/p&gt;&lt;p class="right"&gt;Jordan and S Syria&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+</array>
+</plist>

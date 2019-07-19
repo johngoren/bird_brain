@@ -1,0 +1,178 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>FontScale</key>
+		<real>0.59499750329111478</real>
+		<key>Frame</key>
+		<string>{{0.61102881138137988, 0.34571266114911614}, {0.08278293939067688, 0.074872095534295913}}</string>
+		<key>Text</key>
+		<string>&lt;p class="right"&gt;&lt;b&gt;ad. som.&lt;/b&gt;&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.60476161181175025</real>
+		<key>Frame</key>
+		<string>{{0.78836336680100394, 0.027384873031583212}, {0.20650359348582104, 0.073663256792408621}}</string>
+		<key>Text</key>
+		<string>&lt;p class="center"&gt;﻿SKOGSNIPE, ad. sommer&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.32984045498011888</real>
+		<key>Frame</key>
+		<string>{{0.60068626734734132, 0.067847792026349274}, {0.064799490706540286, 0.13506138873039411}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;﻿nettere bygd&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.39353720426932093</real>
+		<key>Frame</key>
+		<string>{{0.73631956291716771, 0.5192346467932899}, {0.2435752908509308, 0.11320075821495279}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;﻿eremittsnipe ser slankere og mer smalvinget ut&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.26714094071057587</real>
+		<key>Frame</key>
+		<string>{{0.7500601759983353, 0.76006827989006887}, {0.11773568343373093, 0.166761072977371}}</string>
+		<key>Text</key>
+		<string>&lt;p class="right"&gt;﻿EREMITTSNIPE&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.32297359653865199</real>
+		<key>Frame</key>
+		<string>{{0.92122032950103383, 0.78900740246879575}, {0.066921824120850806, 0.13793297776200261}}</string>
+		<key>Text</key>
+		<string>&lt;p class="right"&gt;﻿SKOG-SNIPE&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.28995228302913578</real>
+		<key>Frame</key>
+		<string>{{0.57124350092555043, 0.42903478421023317}, {0.13316237999665342, 0.15364152143821341}}</string>
+		<key>Text</key>
+		<string>&lt;p class="center"&gt;﻿SKOGSNIPE, juv. (for sammenligning)&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.26757433187393731</real>
+		<key>Frame</key>
+		<string>{{0.21160320983156145, 0.55811721166219241}, {0.1263273847690457, 0.16649096943300298}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;﻿mer langstrakt bakparti enn hos skogsnipe&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>EndPoint</key>
+		<string>{0.23848879743138837, 0.5792276565895581}</string>
+		<key>StartPoint</key>
+		<string>{0.21778775628961719, 0.5265697414060948}</string>
+		<key>Type</key>
+		<string>line</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.34063963491015736</real>
+		<key>Frame</key>
+		<string>{{0.20594089269282845, 0.2119548706869441}, {0.08890123842934472, 0.1307795844744534}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;﻿antydning til tverrvatring&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.56728846570006353</real>
+		<key>Frame</key>
+		<string>{{0.21421483970540348, 0.12216283135489094}, {0.070847152189699614, 0.078529200931495166}}</string>
+		<key>Text</key>
+		<string>&lt;p class="right"&gt;&lt;b&gt;juv.&lt;/b&gt;&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>EndPoint</key>
+		<string>{0.2645845578177084, 0.35331584602573773}</string>
+		<key>StartPoint</key>
+		<string>{0.28543052620136172, 0.4063424173728592}</string>
+		<key>Type</key>
+		<string>line</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.2094834833362991</real>
+		<key>Frame</key>
+		<string>{{0.40772683719122982, 0.15255917781888687}, {0.13208981041290888, 0.21265977250131268}}</string>
+		<key>Text</key>
+		<string>&lt;p class="right"&gt;﻿ofte noe tydeligere hvit øyering enn hos skogsnipe&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>EndPoint</key>
+		<string>{0.060857245471250515, 0.69207424096210612}</string>
+		<key>StartPoint</key>
+		<string>{0.08911179678656117, 0.63915674098263597}</string>
+		<key>Type</key>
+		<string>line</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.70819615442802686</real>
+		<key>Frame</key>
+		<string>{{0.00016366784646139543, 0.32176284030115548}, {0.050110085909803495, 0.062904478696385407}}</string>
+		<key>Text</key>
+		<string>&lt;p class="right"&gt;hvit&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.61419079126172682</real>
+		<key>Frame</key>
+		<string>{{0.0048963707391527283, 0.65508647154256516}, {0.052429099932641811, 0.072532363791329171}}</string>
+		<key>Text</key>
+		<string>&lt;p class="right"&gt;mørk&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.42760576613569728</real>
+		<key>Frame</key>
+		<string>{{0.025337944071673627, 0.075546168559664492}, {0.13735592921736786, 0.10418173335609959}}</string>
+		<key>Text</key>
+		<string>&lt;p class="center"&gt;﻿SKOGSNIPE (for sammenligning)&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>EndPoint</key>
+		<string>{0.055039943653053994, 0.35405905809387023}</string>
+		<key>StartPoint</key>
+		<string>{0.084227464407023445, 0.30350523955270209}</string>
+		<key>Type</key>
+		<string>line</string>
+	</dict>
+</array>
+</plist>

@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>EndPoint</key>
+		<string>{0.32986214028817129, 0.57287160780355362}</string>
+		<key>StartPoint</key>
+		<string>{0.37370738119158087, 0.48676130379176569}</string>
+		<key>Type</key>
+		<string>line</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.33291689644988398</real>
+		<key>Frame</key>
+		<string>{{0, 0.48744387821497953}, {0.36939195200349512, 0.2426138251238959}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;gris en hiver (plus brun et moins uni en été)&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.32491187448353048</real>
+		<key>Frame</key>
+		<string>{{0.41177071264085391, 0.59087112668602215}, {0.1692451252672455, 0.24859122746582316}}</string>
+		<key>Text</key>
+		<string>&lt;p class="right"&gt;motif de la tête mal défini&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.38399775001318287</real>
+		<key>Frame</key>
+		<string>{{0.71597023806105442, 0.77089093362810035}, {0.14461221018477707, 0.21034040353962866}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;front fuyant&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>EndPoint</key>
+		<string>{0.75732525840522702, 0.80420326838126277}</string>
+		<key>StartPoint</key>
+		<string>{0.74124807693030736, 0.7165446817665827}</string>
+		<key>Type</key>
+		<string>line</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.57476581672202032</real>
+		<key>Frame</key>
+		<string>{{0.78145594995975354, 0.085580126469209566}, {0.21854405004024641, 0.14052721881883598}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;♀ &lt;b&gt;ad. hiv.&lt;/b&gt;&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+</array>
+</plist>

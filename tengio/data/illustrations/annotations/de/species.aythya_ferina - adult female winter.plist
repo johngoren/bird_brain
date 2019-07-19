@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>EndPoint</key>
+		<string>{0.30718421481913982, 0.61072871455132327}</string>
+		<key>StartPoint</key>
+		<string>{0.37371709541801418, 0.48677988538784445}</string>
+		<key>Type</key>
+		<string>line</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.33291689644988398</real>
+		<key>Frame</key>
+		<string>{{0.0038859790701649744, 0.48744387821497953}, {0.36939195200349512, 0.2426138251238959}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;im Winter grau (brauner meliert im Sommer) &lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.41469387755101966</real>
+		<key>Frame</key>
+		<string>{{0.40074159161024164, 0.62854330627190091}, {0.21079617903008749, 0.19477075999547447}}</string>
+		<key>Text</key>
+		<string>&lt;p class="right"&gt;diffuse Kopfzeichnung&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.38399775001318287</real>
+		<key>Frame</key>
+		<string>{{0.71745332968420816, 0.78965959646037087}, {0.14137356487444999, 0.21034040353962866}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;flache Stirn&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>EndPoint</key>
+		<string>{0.75880835002838065, 0.82297193121353429}</string>
+		<key>StartPoint</key>
+		<string>{0.74273116855346155, 0.73531334459885533}</string>
+		<key>Type</key>
+		<string>line</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.50704538534767052</real>
+		<key>Frame</key>
+		<string>{{0.79853899689633645, 0.088245471248282636}, {0.15902154646751454, 0.15929588165110672}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;♀&lt;b&gt; PK&lt;/b&gt;&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+</array>
+</plist>

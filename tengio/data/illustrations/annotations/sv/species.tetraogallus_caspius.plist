@@ -1,0 +1,124 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>EndPoint</key>
+		<string>{0.80548023371245692, 0.51280846945647163}</string>
+		<key>StartPoint</key>
+		<string>{0.74879064587221522, 0.51195092663105124}</string>
+		<key>Type</key>
+		<string>line</string>
+	</dict>
+	<dict>
+		<key>EndPoint</key>
+		<string>{0.53941718652292836, 0.34618241426728485}</string>
+		<key>StartPoint</key>
+		<string>{0.5743424750561329, 0.33703312912537475}</string>
+		<key>Type</key>
+		<string>line</string>
+	</dict>
+	<dict>
+		<key>EndPoint</key>
+		<string>{0.60916417881895779, 0.41736490400367965}</string>
+		<key>StartPoint</key>
+		<string>{0.64721427935724274, 0.40642820584898592}</string>
+		<key>Type</key>
+		<string>line</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.19878693015065635</real>
+		<key>Frame</key>
+		<string>{{0.74697367190297881, 0.19103338969287278}, {0.10356751624658762, 0.091310445431778325}}</string>
+		<key>Text</key>
+		<string>&lt;p class="right"&gt;ljus-&lt;/p&gt;&lt;p class="right"&gt;grått, &lt;/p&gt;&lt;p class="right"&gt;glest fläckat&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.41116843626405686</real>
+		<key>Frame</key>
+		<string>{{0.63250431184096167, 0.11530163892290334}, {0.17549050659298471, 0.044145711433976061}}</string>
+		<key>Text</key>
+		<string>&lt;p class="right"&gt;otydlig bandning&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.39687500000000187</real>
+		<key>Frame</key>
+		<string>{{0.68628674133041834, 0.04509032009158194}, {0.14555745902404843, 0.045735617355772334}}</string>
+		<key>Text</key>
+		<string>&lt;p class="right"&gt;&lt;b&gt;&lt;i&gt;’tauricus’&lt;/i&gt;&lt;/b&gt;(Turkiet)&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>EndPoint</key>
+		<string>{0.69206552988194403, 0.13288138824436352}</string>
+		<key>StartPoint</key>
+		<string>{0.62543374747160607, 0.16801736161436076}</string>
+		<key>Type</key>
+		<string>line</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.49559890504171605</real>
+		<key>Frame</key>
+		<string>{{0.3924178623440378, 0.32096111083539847}, {0.14248251036865511, 0.036625026717006938}}</string>
+		<key>Text</key>
+		<string>&lt;p class="right"&gt;ljus&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.26956752454229993</real>
+		<key>Frame</key>
+		<string>{{0.060556793334998825, 0.041284973803776819}, {0.41256858620250986, 0.06733497727106208}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;en del fåglar i Armenien har mer enfärgat, beige bröst, är alltså &lt;/p&gt;&lt;p&gt;mer lika rasen &lt;i&gt;caspius&lt;/i&gt; i Iran&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.38399812500915553</real>
+		<key>Frame</key>
+		<string>{{0.50557900967156055, 0.39960657347099598}, {0.092943891641340037, 0.047269301478072213}}</string>
+		<key>Text</key>
+		<string>&lt;p class="right"&gt;mörk­-grå&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>EndPoint</key>
+		<string>{0.79631104603351344, 0.27501763069950202}</string>
+		<key>StartPoint</key>
+		<string>{0.76621337767436426, 0.28406720623115161}</string>
+		<key>Type</key>
+		<string>line</string>
+	</dict>
+	<dict>
+		<key>EndPoint</key>
+		<string>{0.16902812244953824, 0.31582373626711813}</string>
+		<key>StartPoint</key>
+		<string>{0.23503641438014639, 0.32504209151598257}</string>
+		<key>Type</key>
+		<string>line</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.23159334397081063</real>
+		<key>Frame</key>
+		<string>{{0.070938223748351292, 0.24782773640146541}, {0.20745848288081195, 0.078375841148353442}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;mycket &lt;/p&gt;&lt;p&gt;vitt i vingen &lt;/p&gt;&lt;p&gt;(hos båda &lt;/p&gt;&lt;p&gt;arterna)&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+</array>
+</plist>

@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>FontScale</key>
+		<real>0.32939284278246883</real>
+		<key>Frame</key>
+		<string>{{0.033521217385843974, 0.044395812891921425}, {0.19647079871603909, 0.12974794752137542}}</string>
+		<key>Text</key>
+		<string>&lt;p class="center"&gt;par som patrullerar enbergssida vid Döda havet&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>EndPoint</key>
+		<string>{0.36461813631097184, 0.63096094041543771}</string>
+		<key>StartPoint</key>
+		<string>{0.34577644185014411, 0.42205011840424184}</string>
+		<key>Type</key>
+		<string>line</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.27994037856303061</real>
+		<key>Frame</key>
+		<string>{{0.35657327529596355, 0.61708036424691248}, {0.12841561511637442, 0.15266838424180257}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;långa armpennor når nästan i höjd med stjärt­spetsen&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.15666656440458962</real>
+		<key>Frame</key>
+		<string>{{0.87673062225117693, 0.076391741962452048}, {0.10998417100128863, 0.27279621176147012}}</string>
+		<key>Text</key>
+		<string>&lt;p class="right"&gt;utbredd stjärt flyter nästan sam­man med vingbak­kanten&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>EndPoint</key>
+		<string>{0.87407811331542284, 0.85354272021556676}</string>
+		<key>StartPoint</key>
+		<string>{0.88749081946966557, 0.80871307748895105}</string>
+		<key>Type</key>
+		<string>line</string>
+	</dict>
+	<dict>
+		<key>EndPoint</key>
+		<string>{0.84431610882386299, 0.81489702233031813}</string>
+		<key>StartPoint</key>
+		<string>{0.86026341833709641, 0.761501188287241}</string>
+		<key>Type</key>
+		<string>line</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.26111104470713825</real>
+		<key>Frame</key>
+		<string>{{0.80595744638999378, 0.78060478818574031}, {0.098419150704352587, 0.16367766184380042}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;mycket kort stjärt och &lt;/p&gt;&lt;p&gt;bred arm&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+</array>
+</plist>

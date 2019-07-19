@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>FontScale</key>
+		<real>0.4310564276622818</real>
+		<key>Frame</key>
+		<string>{{0.10152604509124537, 0.57886627070257934}, {0.28390741446250939, 0.1103695101147756}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;profondément fourchue&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>EndPoint</key>
+		<string>{0.14602959340587365, 0.54757159074471018}</string>
+		<key>StartPoint</key>
+		<string>{0.13187033801749029, 0.59406618129426014}</string>
+		<key>Type</key>
+		<string>line</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.24901960784313495</real>
+		<key>Frame</key>
+		<string>{{0.10152604509124537, 0.13027063773713191}, {0.26835084380702912, 0.19105116727547217}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;légèrement plus petit et plus pâle que le M. noir&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.26205829249419521</real>
+		<key>Frame</key>
+		<string>{{0.68489744467174296, 0.37325213454900075}, {0.25557493662175962, 0.18154543517818686}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;petite tache blanche diffuse à la gorge&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>EndPoint</key>
+		<string>{0.67072741392635937, 0.53674561133793253}</string>
+		<key>StartPoint</key>
+		<string>{0.61523847004668641, 0.57284952811644285}</string>
+		<key>Type</key>
+		<string>line</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.17278911564625796</real>
+		<key>Frame</key>
+		<string>{{0.54099916610855348, 0.0038397182166029923}, {0.45900083389144641, 0.27533844695582582}}</string>
+		<key>Text</key>
+		<string>&lt;p class="right"&gt;le vol agile et irrégulier avec des battements d’ailes plus rapides que le M. noir est le meilleur critère d’identification&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+</array>
+</plist>

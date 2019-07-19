@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>FontScale</key>
+		<real>0.34703531637883561</real>
+		<key>Frame</key>
+		<string>{{0.027216794237854638, 0.28064848182642138}, {0.42631842327547292, 0.19319198767462226}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;juvenile entirely different from juv. Horned Lark!&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>EndPoint</key>
+		<string>{0.48789552391001439, 0.45878313340538368}</string>
+		<key>StartPoint</key>
+		<string>{0.42638396326144784, 0.44975421997758674}</string>
+		<key>Type</key>
+		<string>line</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.69629519448369614</real>
+		<key>Frame</key>
+		<string>{{0.43674151941885148, 0.06246262595422309}, {0.079247898513674933, 0.09628738370689488}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;&lt;b&gt;juv.&lt;/b&gt;&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+</array>
+</plist>

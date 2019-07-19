@@ -1,0 +1,118 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>FontScale</key>
+		<real>0.35362613921079528</real>
+		<key>Frame</key>
+		<string>{{0.69787849215630593, 0.60152793036396923}, {0.075730971932451804, 0.18290215935256754}}</string>
+		<key>Text</key>
+		<string>&lt;p class="right"&gt;hellster Flügel-bereich&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>EndPoint</key>
+		<string>{0.77824793284986371, 0.70600862001994402}</string>
+		<key>StartPoint</key>
+		<string>{0.80675974483772439, 0.71724456155373217}</string>
+		<key>Type</key>
+		<string>line</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.36226214846247479</real>
+		<key>Frame</key>
+		<string>{{0.67102724259172419, 0.78629414761986394}, {0.075730791553186252, 0.17854193362369991}}</string>
+		<key>Text</key>
+		<string>&lt;p class="right"&gt;im Flug recht hell&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>EndPoint</key>
+		<string>{0.87585753942112243, 0.8695738996349538}</string>
+		<key>StartPoint</key>
+		<string>{0.87402310013620932, 0.78885809363193371}</string>
+		<key>Type</key>
+		<string>line</string>
+	</dict>
+	<dict>
+		<key>EndPoint</key>
+		<string>{0.91146392026885392, 0.71725079636837097}</string>
+		<key>StartPoint</key>
+		<string>{0.88070880261778706, 0.69863336028250489}</string>
+		<key>Type</key>
+		<string>line</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.64443045940843302</real>
+		<key>Frame</key>
+		<string>{{0.91519438797760655, 0.65936885446998272}, {0.047673698713164479, 0.10036611944838762}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;weiß&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.51196933517002785</real>
+		<key>Frame</key>
+		<string>{{0.86861685406040978, 0.80806859437400613}, {0.10990201997394265, 0.12633370794304671}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;dunkle Spitzen&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.54856836736402381</real>
+		<key>Frame</key>
+		<string>{{0.59067874141829058, 0.063506867418638008}, {0.072272379897255434, 0.11790505671327901}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;&lt;b&gt;ad.&lt;/b&gt;&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.36922799558296593</real>
+		<key>Frame</key>
+		<string>{{0.55546401894706809, 0.5829764101208541}, {0.10362247660681614, 0.17517356549046584}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;dunkle Augenpartie&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>EndPoint</key>
+		<string>{0.45389404940532263, 0.67536964003919098}</string>
+		<key>StartPoint</key>
+		<string>{0.43469886668853253, 0.71058838004132574}</string>
+		<key>Type</key>
+		<string>line</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.3764684256179589</real>
+		<key>Frame</key>
+		<string>{{0.45493612901782854, 0.53714107510110654}, {0.050453559080308075, 0.17180453940857843}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;heller Fleck&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.16805469598970715</real>
+		<key>Frame</key>
+		<string>{{0.20780499111708306, 0.014766088131300703}, {0.056336232555777216, 0.38486865293622913}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;drei Vögel mit Spieß-enten-♀&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+</array>
+</plist>

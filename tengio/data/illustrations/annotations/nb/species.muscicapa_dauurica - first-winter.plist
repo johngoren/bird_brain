@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>FontScale</key>
+		<real>0.31678175660396773</real>
+		<key>Frame</key>
+		<string>{{0.23509343913327452, 0.013927431823062768}, {0.60418772533527654, 0.15704977549319166}}</string>
+		<key>Text</key>
+		<string>&lt;p class="center"&gt;﻿kompakt kroppsform med stort hode og kort stjert&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.78067389071366855</real>
+		<key>Frame</key>
+		<string>{{0.64163306961347422, 0.29339148466787757}, {0.25755599475668978, 0.063727638834586361}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;&lt;b&gt;1. vinter&lt;/b&gt;&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>EndPoint</key>
+		<string>{0.41529168342686884, 0.60577593070048774}</string>
+		<key>StartPoint</key>
+		<string>{0.30955199286488577, 0.56701925532033215}</string>
+		<key>Type</key>
+		<string>line</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.22708985248100208</real>
+		<key>Frame</key>
+		<string>{{0.10780081932685096, 0.41634770014896422}, {0.24103140147047458, 0.21907849783448186}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;﻿lyst vinge-bånd hos 1. vinter&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>EndPoint</key>
+		<string>{0.748684278729283, 0.88771569818656526}</string>
+		<key>StartPoint</key>
+		<string>{0.69514659266644252, 0.82607658492772162}</string>
+		<key>Type</key>
+		<string>line</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.28863636363636436</real>
+		<key>Frame</key>
+		<string>{{0.74487485324333125, 0.81789888761120411}, {0.22576607937734516, 0.17236395001729474}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;﻿lyse «briller»&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>EndPoint</key>
+		<string>{0.81554402470800735, 0.72630870065759456}</string>
+		<key>StartPoint</key>
+		<string>{0.70810922382847452, 0.75948459419090908}</string>
+		<key>Type</key>
+		<string>line</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.23810674817083091</real>
+		<key>Frame</key>
+		<string>{{0.83634686491519616, 0.5385204431299766}, {0.16365313508480372, 0.20894201502973894}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;﻿mørk underskjeggstripe&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+</array>
+</plist>

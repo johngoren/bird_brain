@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>FontScale</key>
+		<real>0.4177851665532788</real>
+		<key>Frame</key>
+		<string>{{0.2908581909450727, 0.32592715448987675}, {0.16271873709493939, 0.12806154385901813}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;enfärgad, obandad&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>EndPoint</key>
+		<string>{0.40540985632921983, 0.52642252372462983}</string>
+		<key>StartPoint</key>
+		<string>{0.3569889589330893, 0.45925493991654071}</string>
+		<key>Type</key>
+		<string>line</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.16147538954083923</real>
+		<key>Frame</key>
+		<string>{{0.019403417318274243, 0}, {0.41867074993803982, 0.33133354613570076}}</string>
+		<key>Text</key>
+		<string>&lt;p class="center"&gt;1:a årets fåglar lägger sig till med adultliknande grå ovansida mycket fort!&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.41412430806561684</real>
+		<key>Frame</key>
+		<string>{{0.75672696473887791, 0.52574434888093458}, {0.15650921381628125, 0.12919360778438688}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;&lt;b&gt;1:a vint.&lt;/b&gt; (jan.)&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.41412430806561684</real>
+		<key>Frame</key>
+		<string>{{0.79167746149212836, 0.66097435290519246}, {0.16022362659792094, 0.12919360778438688}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;tydligt tvåfärgad&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>EndPoint</key>
+		<string>{0.80671512057388139, 0.79368637875993153}</string>
+		<key>StartPoint</key>
+		<string>{0.78977333082583667, 0.8410800717591137}</string>
+		<key>Type</key>
+		<string>line</string>
+	</dict>
+</array>
+</plist>

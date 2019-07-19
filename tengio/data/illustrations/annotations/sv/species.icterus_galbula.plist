@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>FontScale</key>
+		<real>0.46808400871143285</real>
+		<key>Frame</key>
+		<string>{{0.89577971626960384, 0.39043905839958748}, {0.096001476815687575, 0.081595113633255625}}</string>
+		<key>Text</key>
+		<string>&lt;p class="right"&gt;lång, spetsig&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>EndPoint</key>
+		<string>{0.95974640461661798, 0.48386324704499523}</string>
+		<key>StartPoint</key>
+		<string>{0.94257386782911712, 0.52271621313236971}</string>
+		<key>Type</key>
+		<string>line</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.22517730496454397</real>
+		<key>Frame</key>
+		<string>{{0.75132007612475804, 0.041181061844855989}, {0.23645787971923796, 0.16961464161200901}}</string>
+		<key>Text</key>
+		<string>&lt;p class="right"&gt;bjärta färger och svarta centra på skulderfjädrarna indikerar ♂ &lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.54918918918916915</real>
+		<key>Frame</key>
+		<string>{{0.21515316827379721, 0.13369472164254093}, {0.11977163216030347, 0.069545010412729383}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;&lt;b&gt;1:a vint.&lt;/b&gt;&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.46808400871143285</real>
+		<key>Frame</key>
+		<string>{{0.12007628379301055, 0.057410413566663425}, {0.096001476815687006, 0.081595113633255625}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;rätt lång&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>EndPoint</key>
+		<string>{0.1535263112148661, 0.14758464307660868}</string>
+		<key>StartPoint</key>
+		<string>{0.17087367259382102, 0.21675373451413513}</string>
+		<key>Type</key>
+		<string>line</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.54918918918916915</real>
+		<key>Frame</key>
+		<string>{{0.086248929104056293, 0.8118901448079483}, {0.11977163216030293, 0.069545010412729383}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;&lt;b&gt;1:a v.&lt;/b&gt;&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.2360594795538975</real>
+		<key>Frame</key>
+		<string>{{0.32324057378880183, 0.62716356039274979}, {0.16813596413444665, 0.16179552692777502}}</string>
+		<key>Text</key>
+		<string>&lt;p class="right"&gt;bjärt färgade fåglar är oftast ♂♂&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.19720496894409678</real>
+		<key>Frame</key>
+		<string>{{0.085448281655800193, 0.27109310707957568}, {0.32226723440209448, 0.19367345602506675}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;obs. att könsbestämning av ungfåglar efter hur klara färger de har &lt;/p&gt;&lt;p&gt;inte alltid &lt;/p&gt;&lt;p&gt;håller&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.43849805783339996</real>
+		<key>Frame</key>
+		<string>{{0.53941538481880424, 0.91289957344524875}, {0.2710191612357627, 0.087100426554751392}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;♀♀ oftast mattare färgade än ♂♂&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.54918918918916915</real>
+		<key>Frame</key>
+		<string>{{0.86800632368369113, 0.81538619127735024}, {0.11977163216030293, 0.069545010412729383}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;&lt;b&gt;1:a v.&lt;/b&gt;&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+</array>
+</plist>

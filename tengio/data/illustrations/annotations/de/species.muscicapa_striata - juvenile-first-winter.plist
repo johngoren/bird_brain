@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>FontScale</key>
+		<real>0.3351090836200904</real>
+		<key>Frame</key>
+		<string>{{0.43012406851359752, 0.74552560358397657}, {0.21994810996854694, 0.13644181419478055}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;&lt;b&gt;JK &gt; 1er W&lt;/b&gt;&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.23698144962815559</real>
+		<key>Frame</key>
+		<string>{{0.24321571209469869, 0}, {0.5205764063287398, 0.19293869369952257}}</string>
+		<key>Text</key>
+		<string>&lt;p class="center"&gt;alle Fliegenschnäpper tragen nach dem Flüggewerden für kurze Zeit ein hell geflecktes Jugendkleid&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+</array>
+</plist>

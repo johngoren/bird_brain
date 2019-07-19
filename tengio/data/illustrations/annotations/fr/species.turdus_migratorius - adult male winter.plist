@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>FontScale</key>
+		<real>0.41120843477726071</real>
+		<key>Frame</key>
+		<string>{{0.59366188716603241, 0.85513458510441298}, {0.33123117244847883, 0.11126969025467895}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;tête du ♂ en moyenne plus noire que chez la ♀&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.32876574672126019</real>
+		<key>Frame</key>
+		<string>{{0.74675192485230413, 0.29107768010796814}, {0.17034383084861765, 0.13917214802358949}}</string>
+		<key>Text</key>
+		<string>&lt;p class="right"&gt;♂ &lt;b&gt;ad.&lt;/b&gt;&lt;/p&gt;&lt;p class="right"&gt;&lt;b&gt;internuptial&lt;/b&gt;&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.21334438714679521</real>
+		<key>Frame</key>
+		<string>{{0.64701144575367475, 0.1166026865297369}, {0.25515006281045377, 0.21446561486660826}}</string>
+		<key>Text</key>
+		<string>&lt;p class="right"&gt;parties inf. plus intensément colorées chez le ♂&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+</array>
+</plist>

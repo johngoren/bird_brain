@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>EndPoint</key>
+		<string>{0.7182715081794131, 0.80276350838735688}</string>
+		<key>StartPoint</key>
+		<string>{0.67763511405267185, 0.82502272925732134}</string>
+		<key>Type</key>
+		<string>line</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.35627653617618171</real>
+		<key>Frame</key>
+		<string>{{0.51400624267608541, 0.73314285215304487}, {0.18828921121814773, 0.10850770534388718}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;enfärgat brun&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.39839086520576239</real>
+		<key>Frame</key>
+		<string>{{0.091781950853572228, 0.46944594459098804}, {0.18758088549162935, 0.097037238512934457}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;djupt kluven&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.24901960784313704</real>
+		<key>Frame</key>
+		<string>{{0.097487684526849167, 0.10797141764287217}, {0.26246374897075186, 0.15524379683666473}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;aningen mindre och slankare än tornseglare&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.26205829249419521</real>
+		<key>Frame</key>
+		<string>{{0.66996296307899628, 0.30775268119456672}, {0.24996812030502094, 0.14751965694503719}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;diffus &lt;/p&gt;&lt;p&gt;och liten strupfläck&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>EndPoint</key>
+		<string>{0.65420188398424806, 0.43826365883020557}</string>
+		<key>StartPoint</key>
+		<string>{0.59993025945542977, 0.46760087357377822}</string>
+		<key>Type</key>
+		<string>line</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.19689922480620214</real>
+		<key>Frame</key>
+		<string>{{0.55394637838902583, 0.032632516236846647}, {0.39559753468055397, 0.19633774305813406}}</string>
+		<key>Text</key>
+		<string>&lt;p class="right"&gt;känns säkrast &lt;/p&gt;&lt;p class="right"&gt;igen på vildare &lt;/p&gt;&lt;p class="right"&gt;flykt med klart &lt;/p&gt;&lt;p class="right"&gt;snabbare vingslag&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>EndPoint</key>
+		<string>{0.16459869598340054, 0.4459553516378012}</string>
+		<key>StartPoint</key>
+		<string>{0.15075006707973368, 0.48373578958126356}</string>
+		<key>Type</key>
+		<string>line</string>
+	</dict>
+</array>
+</plist>

@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>FontScale</key>
+		<real>0.15116025525466703</real>
+		<key>Frame</key>
+		<string>{{0.72504955838437968, 0.39109410543523421}, {0.21797440410414878, 0.33220148148387407}}</string>
+		<key>Text</key>
+		<string>&lt;p class="right"&gt;dünner, schwarzer, aufwärts gebogener Schnabel einzigartig&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.61935093654903894</real>
+		<key>Frame</key>
+		<string>{{0.67021787040291658, 0.043188513285978336}, {0.17311616703678964, 0.081077879718528492}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;♂&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>EndPoint</key>
+		<string>{0.8831997775472511, 0.72767253293309797}</string>
+		<key>StartPoint</key>
+		<string>{0.87935267065727707, 0.79298138572993881}</string>
+		<key>Type</key>
+		<string>line</string>
+	</dict>
+</array>
+</plist>

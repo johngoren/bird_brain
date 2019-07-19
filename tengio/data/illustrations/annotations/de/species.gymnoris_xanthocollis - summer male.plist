@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>EndPoint</key>
+		<string>{0.47449051444984153, 0.76451730473813573}</string>
+		<key>StartPoint</key>
+		<string>{0.56324992070290836, 0.70725240014348834}</string>
+		<key>Type</key>
+		<string>line</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.23320301985538339</real>
+		<key>Frame</key>
+		<string>{{0.34999567185159364, 0.66974462100054599}, {0.23093905426190284, 0.23549051855774045}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;rotbrauner Schulterfleck&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>EndPoint</key>
+		<string>{0.80680691448479547, 0.69546062422137589}</string>
+		<key>StartPoint</key>
+		<string>{0.74102694008136893, 0.72929022468034432}</string>
+		<key>Type</key>
+		<string>line</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.39166617693785716</real>
+		<key>Frame</key>
+		<string>{{0.81859769916747804, 0.55463463735088525}, {0.14718400158359185, 0.14021404785149105}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;gelber Fleck&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.42837575588125038</real>
+		<key>Frame</key>
+		<string>{{0.78137600025625553, 0.69684184428001961}, {0.17129900781528143, 0.1281984316829517}}</string>
+		<key>Text</key>
+		<string>&lt;p class="right"&gt;schwarz&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>EndPoint</key>
+		<string>{0.84498380472891021, 0.84537665707356247}</string>
+		<key>StartPoint</key>
+		<string>{0.79663491432591838, 0.87634900821114226}</string>
+		<key>Type</key>
+		<string>line</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.46999988047284846</real>
+		<key>Frame</key>
+		<string>{{0.63677841498643106, 0.17917890925562188}, {0.31461460889731768, 0.11684492349173649}}</string>
+		<key>Text</key>
+		<string>&lt;p class="center"&gt;♂&lt;b&gt; PK&lt;/b&gt;&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+</array>
+</plist>

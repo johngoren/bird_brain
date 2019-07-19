@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>FontScale</key>
+		<real>0.2481680508060547</real>
+		<key>Frame</key>
+		<string>{{0.28967715421859797, 0.66979436492177669}, {0.19319481498558613, 0.19070516061830978}}</string>
+		<key>Text</key>
+		<string>&lt;p class="right"&gt;les autres espèces du même genre habitent l’Afrique subsaharienne&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.27169407674822516</real>
+		<key>Frame</key>
+		<string>{{0.30843712773508608, 0.16950774424746418}, {0.15797872434937185, 0.17419197560629446}}</string>
+		<key>Text</key>
+		<string>&lt;p class="center"&gt;comportement discret, se déplace calmement dans les buissons touffus&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.39984258166076952</real>
+		<key>Frame</key>
+		<string>{{0.66191452346680435, 0.22680313935262417}, {0.066230958080500835, 0.11836390159528876}}</string>
+		<key>Text</key>
+		<string>&lt;p class="center"&gt;sexes identiques&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.54978354978356259</real>
+		<key>Frame</key>
+		<string>{{0.53651891101449034, 0.8118683121337511}, {0.11130546965335464, 0.086082837523845643}}</string>
+		<key>Text</key>
+		<string>&lt;p class="right"&gt;impossible à confondre !&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.27169407674822516</real>
+		<key>Frame</key>
+		<string>{{0.80113327429968872, 0.52429666849010093}, {0.12835771353386444, 0.17419197560629446}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;ailes rousses bien visibles en vol&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+</array>
+</plist>

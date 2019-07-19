@@ -1,0 +1,172 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>EndPoint</key>
+		<string>{0.90781756151889825, 0.71635310157082599}</string>
+		<key>StartPoint</key>
+		<string>{0.93241480551093581, 0.69685535094671891}</string>
+		<key>Type</key>
+		<string>line</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.31494110353378968</real>
+		<key>Frame</key>
+		<string>{{0.80551712878100556, 0.87022720602658532}, {0.19448287121899438, 0.099372066840482914}}</string>
+		<key>Text</key>
+		<string>&lt;p class="right"&gt;côtés de la queue blancs (contrairement à la F. d’Arabie)&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>EndPoint</key>
+		<string>{0.65448652286865139, 0.73337757962354644}</string>
+		<key>StartPoint</key>
+		<string>{0.67288679743669544, 0.71866373164928254}</string>
+		<key>Type</key>
+		<string>line</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.50876314471706152</real>
+		<key>Frame</key>
+		<string>{{0.62657842756650417, 0.64988982409540552}, {0.16851567249055993, 0.06151457454446712}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;beaucoup de blanc aux rectrices externes&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.68208793789517252</real>
+		<key>Frame</key>
+		<string>{{0.44273548046686462, 0.27140731161276338}, {0.059348548315131783, 0.04588315765816256}}</string>
+		<key>Text</key>
+		<string>&lt;p class="right"&gt;fort&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>EndPoint</key>
+		<string>{0.47037866925251048, 0.35158211203661499}</string>
+		<key>StartPoint</key>
+		<string>{0.4787287968878412, 0.32314123095695613}</string>
+		<key>Type</key>
+		<string>line</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.36363636363636803</real>
+		<key>Frame</key>
+		<string>{{0.23463639831370209, 0.045925746432243217}, {0.069731641634404387, 0.086064958075730752}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;&lt;b&gt;imm. automne&lt;/b&gt;&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.19999999999999998</real>
+		<key>Frame</key>
+		<string>{{0.37282015253993028, 0.038532908229600864}, {0.18886280407258541, 0.156481741955876}}</string>
+		<key>Text</key>
+		<string>&lt;p class="right"&gt;♀♀ à œil sombre et imm. étonnamment semblables à la F. babillarde lorsque la taille ne peut être jugée !&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.23090909090909123</real>
+		<key>Frame</key>
+		<string>{{0.11951916719903946, 0.081411369804912925}, {0.1031879843670295, 0.13553536704839633}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;taches diffuses (comparer avec la F. grisette)&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>EndPoint</key>
+		<string>{0.20779593821954059, 0.28451651901437064}</string>
+		<key>StartPoint</key>
+		<string>{0.17837011782069748, 0.2228078660228246}</string>
+		<key>Type</key>
+		<string>line</string>
+	</dict>
+	<dict>
+		<key>EndPoint</key>
+		<string>{0.42351613848456465, 0.82433075272003731}</string>
+		<key>StartPoint</key>
+		<string>{0.45035694366673917, 0.78551835215618215}</string>
+		<key>Type</key>
+		<string>line</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.72817480983372396</real>
+		<key>Frame</key>
+		<string>{{0.39786825797715436, 0.79445061444952592}, {0.072569584381436597, 0.042979169244156644}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;gris&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>EndPoint</key>
+		<string>{0.35691152256495751, 0.61072127190964764}</string>
+		<key>StartPoint</key>
+		<string>{0.32748570216611522, 0.5490126189181016}</string>
+		<key>Type</key>
+		<string>line</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.76969696969696488</real>
+		<key>Frame</key>
+		<string>{{0.29925315153005011, 0.50188327537626198}, {0.080522415546525727, 0.040660610114519213}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;tacheté&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>EndPoint</key>
+		<string>{0.52007339566466715, 0.68645356970595883}</string>
+		<key>StartPoint</key>
+		<string>{0.55685523980320506, 0.62915907363550527}</string>
+		<key>Type</key>
+		<string>line</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.23764584514711559</real>
+		<key>Frame</key>
+		<string>{{0.4871387878052772, 0.51167455319856237}, {0.10815850384520957, 0.13169322767583447}}</string>
+		<key>Text</key>
+		<string>&lt;p class="right"&gt;côtés de la poitrine et flancs teintés de chamois rosé&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.42035581299130542</real>
+		<key>Frame</key>
+		<string>{{0.55950955140758618, 0.886337432609835}, {0.055669818155622809, 0.074452041399086177}}</string>
+		<key>Text</key>
+		<string>&lt;p class="right"&gt;œil pâle&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.36363636363636803</real>
+		<key>Frame</key>
+		<string>{{0.50403855403109099, 0.40817481836159519}, {0.077540103859617238, 0.086064958075730752}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;♂ &lt;b&gt;ad. nuptial&lt;/b&gt;&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+</array>
+</plist>

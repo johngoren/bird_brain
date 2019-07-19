@@ -1,0 +1,138 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>FontScale</key>
+		<real>0.28322500345733642</real>
+		<key>Frame</key>
+		<string>{{0.40997210368920878, 0.076714027069243393}, {0.10890822470932288, 0.22288354817147507}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;Spiegel ohne weiße Kanten&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.43238963626647037</real>
+		<key>Frame</key>
+		<string>{{0.39820791885831336, 0.72394885509699791}, {0.19028222585661481, 0.14599377137371169}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;Spiegel purpurblau bis türkis&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.55294064707735235</real>
+		<key>Frame</key>
+		<string>{{0.67135198788185957, 0.8618642564044755}, {0.1022789512528475, 0.11416450216693609}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;gelbgrün&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>EndPoint</key>
+		<string>{0.68787312739648043, 0.90159980302645837}</string>
+		<key>StartPoint</key>
+		<string>{0.66964678463221794, 0.83697656796490993}</string>
+		<key>Type</key>
+		<string>line</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.70554291579045592</real>
+		<key>Frame</key>
+		<string>{{0.61882069783477767, 0.076714027069256729}, {0.07010407326972376, 0.089471798651292428}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;♂&lt;b&gt; PK&lt;/b&gt;&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>EndPoint</key>
+		<string>{0.7459133247856099, 0.42738055373114231}</string>
+		<key>StartPoint</key>
+		<string>{0.76849468344570482, 0.47575431811697483}</string>
+		<key>Type</key>
+		<string>line</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.25890254019673631</real>
+		<key>Frame</key>
+		<string>{{0.68652392853882171, 0.2650641675192863}, {0.071879980260242796, 0.24382222612988175}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;ohne deutlich weiße Kanten&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.70554291579045592</real>
+		<key>Frame</key>
+		<string>{{0.8627277730950913, 0.10653742566835323}, {0.076922609648965343, 0.089471798651292428}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;♂&lt;b&gt; PK&lt;/b&gt;&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>EndPoint</key>
+		<string>{0.89805110888595263, 0.60888089449515892}</string>
+		<key>StartPoint</key>
+		<string>{0.87133462558885788, 0.43497342629860947}</string>
+		<key>Type</key>
+		<string>line</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.26766066474074934</real>
+		<key>Frame</key>
+		<string>{{0.89045723630376405, 0.56576588623453905}, {0.053554524854775694, 0.23584411912969047}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;auf­fallend weiß&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>EndPoint</key>
+		<string>{0.06168380502519076, 0.32110165389510886}</string>
+		<key>StartPoint</key>
+		<string>{0.06598299576218454, 0.24755088932412336}</string>
+		<key>Type</key>
+		<string>line</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.39654565964051652</real>
+		<key>Frame</key>
+		<string>{{0.0073011992583361905, 0.29959757524072272}, {0.11423774214541102, 0.15919022732130189}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;Schwanzseitenohne Weiß&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.68318854680658825</real>
+		<key>Frame</key>
+		<string>{{0.054675791624467562, 0.10653742566835457}, {0.061867242203225599, 0.092399373491430264}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;♀&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.38250955748596716</real>
+		<key>Frame</key>
+		<string>{{0.13623259481465855, 0.38110015084895299}, {0.11820019853111094, 0.16503167689807413}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;viel dunkler als Stockenten-♀&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+</array>
+</plist>

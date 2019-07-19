@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>EndPoint</key>
+		<string>{0.56748664333263299, 0.77450166179068602}</string>
+		<key>StartPoint</key>
+		<string>{0.62103054065175289, 0.71938741052074084}</string>
+		<key>Type</key>
+		<string>line</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.29620991253644491</real>
+		<key>Frame</key>
+		<string>{{0.40864309742711952, 0.71967650094420133}, {0.22073089405035162, 0.14259186856870165}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;parties sup. presque unies&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>EndPoint</key>
+		<string>{0.84260678857370541, 0.7396310481491486}</string>
+		<key>StartPoint</key>
+		<string>{0.79727547744658545, 0.69174013485727037}</string>
+		<key>Type</key>
+		<string>line</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.26506652752412835</real>
+		<key>Frame</key>
+		<string>{{0.82640223918684985, 0.68974468013677737}, {0.15765006592324204, 0.15934537382619399}}</string>
+		<key>Text</key>
+		<string>&lt;p class="right"&gt;stries réduites ou absentes&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>EndPoint</key>
+		<string>{0.84067742342733576, 0.55836303589304026}</string>
+		<key>StartPoint</key>
+		<string>{0.80992672852429193, 0.5886377027315387}</string>
+		<key>Type</key>
+		<string>line</string>
+	</dict>
+	<dict>
+		<key>EndPoint</key>
+		<string>{0.44752362401536089, 0.64564618259948359}</string>
+		<key>StartPoint</key>
+		<string>{0.59012580852302132, 0.6302464290661467}</string>
+		<key>Type</key>
+		<string>line</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.35200973985282891</real>
+		<key>Frame</key>
+		<string>{{0.22198475749192276, 0.58685404611125003}, {0.2450170044288883, 0.11998851206447357}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;centres des couv. alaires sombres et bien définis&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.65154520283738726</real>
+		<key>Frame</key>
+		<string>{{0.66492796098894125, 0.30814015792565469}, {0.25480344816550832, 0.064826085332539723}}</string>
+		<key>Text</key>
+		<string>&lt;p class="right"&gt;&lt;b&gt;ad. &lt;/b&gt;(plum. frais)&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.66842105263157847</real>
+		<key>Frame</key>
+		<string>{{0.83084648537578398, 0.47855905555105333}, {0.16665923208499869, 0.063189399482340522}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;blanchâtre&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+</array>
+</plist>

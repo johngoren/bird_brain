@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>FontScale</key>
+		<real>0.42333379267993793</real>
+		<key>Frame</key>
+		<string>{{0.1340005787172153, 0.82250550584953408}, {0.36127312704989928, 0.10008165380357012}}</string>
+		<key>Text</key>
+		<string>&lt;p class="right"&gt;﻿hvit nakkeflekk&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>EndPoint</key>
+		<string>{0.51544575564759676, 0.9072376259245919}</string>
+		<key>StartPoint</key>
+		<string>{0.61380403305663622, 0.91741055383624071}</string>
+		<key>Type</key>
+		<string>line</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.69925578169596403</real>
+		<key>Frame</key>
+		<string>{{0.14670837573858805, 0.56571457355653221}, {0.17415314547843666, 0.060590054728739344}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;&lt;b&gt;juv.&lt;/b&gt;&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+</array>
+</plist>

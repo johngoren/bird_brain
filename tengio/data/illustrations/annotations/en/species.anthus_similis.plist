@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>FontScale</key>
+		<real>0.65154520283738726</real>
+		<key>Frame</key>
+		<string>{{0.57075559721774216, 0.17393818978391706}, {0.068007336890816061, 0.040418516599129754}}</string>
+		<key>Text</key>
+		<string>&lt;p class="right"&gt;&lt;b&gt;ad.&lt;/b&gt;&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>EndPoint</key>
+		<string>{0.70859884740296053, 0.23383878798005686}</string>
+		<key>StartPoint</key>
+		<string>{0.61915561483895942, 0.26649770348292956}</string>
+		<key>Type</key>
+		<string>line</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.25806451612903225</real>
+		<key>Frame</key>
+		<string>{{0.69853164373775001, 0.14431188786345736}, {0.20263828273811396, 0.10204615105936943}}</string>
+		<key>Text</key>
+		<string>&lt;p class="right"&gt;rather strongly washed with cinnamon-buff&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>EndPoint</key>
+		<string>{0.81593088097544864, 0.38497699139056935}</string>
+		<key>StartPoint</key>
+		<string>{0.7446089822777624, 0.40001130292446685}</string>
+		<key>Type</key>
+		<string>line</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.36233291621899105</real>
+		<key>Frame</key>
+		<string>{{0.78742615058512744, 0.34952943734795666}, {0.15504158196353959, 0.072680370502275729}}</string>
+		<key>Text</key>
+		<string>&lt;p class="right"&gt;diffusely streaked breast&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.31631382316314116</real>
+		<key>Frame</key>
+		<string>{{0.78257663454430659, 0.4429595262952728}, {0.15796870717860106, 0.083254314758113165}}</string>
+		<key>Text</key>
+		<string>&lt;p class="right"&gt;lacks dark moustachial stripe&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>EndPoint</key>
+		<string>{0.80464967236422713, 0.51708261880767958}</string>
+		<key>StartPoint</key>
+		<string>{0.73355598611567108, 0.53686766282845289}</string>
+		<key>Type</key>
+		<string>line</string>
+	</dict>
+	<dict>
+		<key>EndPoint</key>
+		<string>{0.86502770435472742, 0.62481266214300846}</string>
+		<key>StartPoint</key>
+		<string>{0.83405169307714877, 0.58997648560661087}</string>
+		<key>Type</key>
+		<string>line</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.3916661769378571</real>
+		<key>Frame</key>
+		<string>{{0.77851132053426364, 0.615891455228185}, {0.16395641201440375, 0.067237081337622379}}</string>
+		<key>Text</key>
+		<string>&lt;p class="right"&gt;rather long and strong&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>EndPoint</key>
+		<string>{0.44807789580623103, 0.4405842897996346}</string>
+		<key>StartPoint</key>
+		<string>{0.57157437483644091, 0.39114565318090139}</string>
+		<key>Type</key>
+		<string>line</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.22965641952983112</real>
+		<key>Frame</key>
+		<string>{{0.29274589600149081, 0.41807654305498576}, {0.26794249755104144, 0.11466908109897443}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;wing covert centres less black and more diffuse than in Tawny Pipit&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.16603830355952098</real>
+		<key>Frame</key>
+		<string>{{0.59592360638077146, 0.78284371144631792}, {0.34654412616789415, 0.15860491242929367}}</string>
+		<key>Text</key>
+		<string>&lt;p class="right"&gt;occupies quite a different habitat to Tawny Pipit; stony hillsides with rock outcrops and sparse vegetation&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+</array>
+</plist>

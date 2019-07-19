@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>FontScale</key>
+		<real>0.18181818181818185</real>
+		<key>Frame</key>
+		<string>{{0.56290654947244401, 0.43423345632260119}, {0.10727969348658975, 0.18866231043318032}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;smala lie-&lt;/p&gt;&lt;p&gt;formade vingar&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>EndPoint</key>
+		<string>{0.87555022763336532, 0.45891351160654192}</string>
+		<key>StartPoint</key>
+		<string>{0.84896417101846766, 0.47214823345511014}</string>
+		<key>Type</key>
+		<string>line</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.26449963373807084</real>
+		<key>Frame</key>
+		<string>{{0.88091421230769362, 0.34393323361318018}, {0.091954022988505552, 0.12968728075649105}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;ganska tydlig ljus strupfläck&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.19689922480620151</real>
+		<key>Frame</key>
+		<string>{{0.781297354070147, 0.10022553987388171}, {0.19923371647509569, 0.17421215494545647}}</string>
+		<key>Text</key>
+		<string>&lt;p class="right"&gt;i Sydeuropas &lt;/p&gt;&lt;p class="right"&gt;starka  ljus kan intrycket ibland påminna om blek tornseglare&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.18181818181818185</real>
+		<key>Frame</key>
+		<string>{{0.056541343521053708, 0.46567177765716139}, {0.080896328839850887, 0.18866231043318032}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;ljusbrämad kropp hos juv.&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.69629642746469544</real>
+		<key>Frame</key>
+		<string>{{0.15933440993654893, 0.38399637040566598}, {0.078941566399078525, 0.049263843540713101}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;&lt;b&gt;juv.&lt;/b&gt;&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.20370276355174349</real>
+		<key>Frame</key>
+		<string>{{0.22129230137545938, 0.43326021394637826}, {0.16858237547892693, 0.16839358319193826}}</string>
+		<key>Text</key>
+		<string>&lt;p class="right"&gt;ljus panna och strupe likt blek tornseglare&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>EndPoint</key>
+		<string>{0.39169381123029473, 0.29419434839980468}</string>
+		<key>StartPoint</key>
+		<string>{0.36769409866603053, 0.31968469277650935}</string>
+		<key>Type</key>
+		<string>line</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.2534930139720557</real>
+		<key>Frame</key>
+		<string>{{0.28033777682694883, 0.27241782903162032}, {0.082530539793986252, 0.13531827849251743}}</string>
+		<key>Text</key>
+		<string>&lt;p class="right"&gt;ganska jämnmörk&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.36153803718210509</real>
+		<key>Frame</key>
+		<string>{{0.25738788184551864, 0.63089593371318453}, {0.21390441952993999, 0.094878642723007195}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;skriande flock i högsommarskymningen&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+</array>
+</plist>

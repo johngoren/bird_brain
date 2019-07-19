@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>FontScale</key>
+		<real>0.42368640533780083</real>
+		<key>Frame</key>
+		<string>{{0.81082034379579115, 0.54525944371200274}, {0.09757357138501177, 0.073552441990587358}}</string>
+		<key>Text</key>
+		<string>&lt;p class="right"&gt;pale eye&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>EndPoint</key>
+		<string>{0.5890214135534364, 0.4321738546249525}</string>
+		<key>StartPoint</key>
+		<string>{0.64692822463500887, 0.39024512012853363}</string>
+		<key>Type</key>
+		<string>line</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.35241068331598624</real>
+		<key>Frame</key>
+		<string>{{0.52649575151500361, 0.37880026828125335}, {0.13604349560907789, 0.088428561409038958}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;golden-buff&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>EndPoint</key>
+		<string>{0.27097777894504388, 0.57336182156762372}</string>
+		<key>StartPoint</key>
+		<string>{0.33848297833879704, 0.63597146372378532}</string>
+		<key>Type</key>
+		<string>line</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.25361957064403429</real>
+		<key>Frame</key>
+		<string>{{0.34523306616337068, 0.55630151173393716}, {0.15912488034572886, 0.12287367915525688}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;plain tertials and central tail-feathers&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>EndPoint</key>
+		<string>{0.30170944865578847, 0.47824667452308389}</string>
+		<key>StartPoint</key>
+		<string>{0.38430125120609371, 0.55337066043745176}</string>
+		<key>Type</key>
+		<string>line</string>
+	</dict>
+</array>
+</plist>

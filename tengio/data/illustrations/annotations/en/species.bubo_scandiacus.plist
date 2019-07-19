@@ -1,0 +1,128 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>FontScale</key>
+		<real>0.67142954716207903</real>
+		<key>Frame</key>
+		<string>{{0.48346644042878867, 0.62622761300972685}, {0.051680075038895767, 0.049343055402993614}}</string>
+		<key>Text</key>
+		<string>&lt;p class="center"&gt;&lt;b&gt;ad.&lt;/b&gt; ♂&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.2334241188776148</real>
+		<key>Frame</key>
+		<string>{{0.023705742911490905, 0.32109447830035465}, {0.063312281747659821, 0.14193214267714888}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;young, &lt;i&gt;c.&lt;/i&gt; 7 weeks old&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.33975488874603404</real>
+		<key>Frame</key>
+		<string>{{0.63482595704555023, 0.14137493500022263}, {0.066120465633439748, 0.097512608183808247}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;narrowly barred&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>EndPoint</key>
+		<string>{0.6307587639898502, 0.22471590963067142}</string>
+		<key>StartPoint</key>
+		<string>{0.6112696599087738, 0.26326061202838513}</string>
+		<key>Type</key>
+		<string>line</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.67142954716207903</real>
+		<key>Frame</key>
+		<string>{{0.60430951401987831, 0.044097709872099433}, {0.051680075038895767, 0.049343055402993614}}</string>
+		<key>Text</key>
+		<string>&lt;p class="center"&gt;&lt;b&gt;ad.&lt;/b&gt; ♀&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.17403543061394139</real>
+		<key>Frame</key>
+		<string>{{0.27658886078101647, 0.03572233227574894}, {0.071201634913584888, 0.19036575039893872}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;white ter-&lt;/p&gt;&lt;p&gt;­tia­ls dis­tinctly barred&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>EndPoint</key>
+		<string>{0.33690327171852252, 0.18435823818376748}</string>
+		<key>StartPoint</key>
+		<string>{0.35821231325453406, 0.14528806634139646}</string>
+		<key>Type</key>
+		<string>line</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.671427254192835</real>
+		<key>Frame</key>
+		<string>{{0.79987245251241057, 0.36398541745027846}, {0.051680075038895767, 0.049343223912847428}}</string>
+		<key>Text</key>
+		<string>&lt;p class="center"&gt;&lt;b&gt;ad.&lt;/b&gt; ♀&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>EndPoint</key>
+		<string>{0.10767730853817678, 0.85068297983214314}</string>
+		<key>StartPoint</key>
+		<string>{0.1314391394507084, 0.80368784517180958}</string>
+		<key>Type</key>
+		<string>line</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.69629519448369603</real>
+		<key>Frame</key>
+		<string>{{0.041721158567898445, 0.83492326690096863}, {0.11711112594762318, 0.047580947861332885}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;densely barred&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.28059679339154298</real>
+		<key>Frame</key>
+		<string>{{0.023705742911490905, 0.71267827374829196}, {0.093571423773307932, 0.11807114737264818}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;dusky tertial tips marked grey&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>EndPoint</key>
+		<string>{0.054102018513854808, 0.74809922883011115}</string>
+		<key>StartPoint</key>
+		<string>{0.068474465791868208, 0.71967387869458133}</string>
+		<key>Type</key>
+		<string>line</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.67142954716207903</real>
+		<key>Frame</key>
+		<string>{{0.21344653220572626, 0.66968172137915127}, {0.088038383889132613, 0.049343055402993614}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;&lt;b&gt;1st-w.&lt;/b&gt; ♀&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+</array>
+</plist>

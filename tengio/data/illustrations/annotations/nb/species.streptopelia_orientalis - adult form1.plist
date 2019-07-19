@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>FontScale</key>
+		<real>0.15909467862122553</real>
+		<key>Frame</key>
+		<string>{{0.83844116523272438, 0.30876189563806544}, {0.16155883476727553, 0.34547315935908407}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;   ﻿mørk,  matt-ere enn &lt;i&gt;meena&lt;/i&gt;&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.2424242424242424</real>
+		<key>Frame</key>
+		<string>{{0.092113242461653672, 0.42874989142131253}, {0.37183998505521204, 0.22672213269953326}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;﻿begge underarter mørkere og mer mørkt rødbrune enn turteldue&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.43338408442867865</real>
+		<key>Frame</key>
+		<string>{{0.046769286757744645, 0.054774681840811516}, {0.47918828294120036, 0.12682270354470776}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;﻿en klart større, tyngre og mørkere fugl enn turteldue&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.69027406205894126</real>
+		<key>Frame</key>
+		<string>{{0.85137258963717199, 0.17509379957045632}, {0.1007655726254558, 0.079624810320338704}}</string>
+		<key>Text</key>
+		<string>&lt;p class="right"&gt;&lt;b&gt;ad.&lt;/b&gt;&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.36658574513072478</real>
+		<key>Frame</key>
+		<string>{{0.75715792611904176, 0.039843804096826647}, {0.21466529284659783, 0.14993201997227981}}</string>
+		<key>Text</key>
+		<string>&lt;p class="center"&gt;&lt;b&gt;&lt;i&gt;orientalis&lt;/i&gt;&lt;/b&gt;&lt;/p&gt;&lt;p class="center"&gt;(﻿Sibir)&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>EndPoint</key>
+		<string>{0.85456346059411525, 0.62517748956782049}</string>
+		<key>StartPoint</key>
+		<string>{0.80466111780885496, 0.60341488515421116}</string>
+		<key>Type</key>
+		<string>line</string>
+	</dict>
+	<dict>
+		<key>EndPoint</key>
+		<string>{0.47933416527998912, 0.59453617149565097}</string>
+		<key>StartPoint</key>
+		<string>{0.385533471651543, 0.62007564507950252}</string>
+		<key>Type</key>
+		<string>line</string>
+	</dict>
+</array>
+</plist>

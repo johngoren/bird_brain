@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>FontScale</key>
+		<real>0.44718309859154826</real>
+		<key>Frame</key>
+		<string>{{0.29659165624341638, 0.8640357648504311}, {0.22510144792184475, 0.11924007840880102}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;gris-brun pâle&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>EndPoint</key>
+		<string>{0.42130159969042147, 0.5012772164518261}</string>
+		<key>StartPoint</key>
+		<string>{0.29685721131181697, 0.60211560062939329}</string>
+		<key>Type</key>
+		<string>line</string>
+	</dict>
+	<dict>
+		<key>EndPoint</key>
+		<string>{0.4574715790908308, 0.81795235367965158}</string>
+		<key>StartPoint</key>
+		<string>{0.37931178779292374, 0.88093897388175202}</string>
+		<key>Type</key>
+		<string>line</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.4286919831223624</real>
+		<key>Frame</key>
+		<string>{{0.33040190757793791, 0.0053182635631102105}, {0.58960089929667359, 0.12438335643875795}}</string>
+		<key>Text</key>
+		<string>&lt;p class="center"&gt;blanc des rectrices externes entourant leur pointe&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.86345609065155615</real>
+		<key>Frame</key>
+		<string>{{0.63330850355033019, 0.26668075937113755}, {0.22014472750419331, 0.061754324645403098}}</string>
+		<key>Text</key>
+		<string>&lt;p class="right"&gt;♀ &lt;b&gt;ad.&lt;/b&gt;&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.25041077883667368</real>
+		<key>Frame</key>
+		<string>{{0.80727887465889969, 0.54914119158775843}, {0.18145296771539246, 0.21293870809740703}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;seconde barre alaire&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.18983557548579921</real>
+		<key>Frame</key>
+		<string>{{0.093002673566180138, 0.45341324131589955}, {0.24120688262396772, 0.28088595935030947}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;tertiaires brun assez pâle à fins liserés blancs&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>EndPoint</key>
+		<string>{0.31737664681791761, 0.11014144588041197}</string>
+		<key>StartPoint</key>
+		<string>{0.2162230260220134, 0.11014144588041197}</string>
+		<key>Type</key>
+		<string>line</string>
+	</dict>
+	<dict>
+		<key>EndPoint</key>
+		<string>{0.79543143003143768, 0.62656854603120882}</string>
+		<key>StartPoint</key>
+		<string>{0.70564027074959235, 0.62656854603120882}</string>
+		<key>Type</key>
+		<string>line</string>
+	</dict>
+</array>
+</plist>

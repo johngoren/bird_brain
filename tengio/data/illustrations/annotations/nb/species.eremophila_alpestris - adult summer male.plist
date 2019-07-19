@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>FontScale</key>
+		<real>0.56969661846947084</real>
+		<key>Frame</key>
+		<string>{{0.37396210224210785, 0.53998939724566897}, {0.19386725846020311, 0.1047367739200956}}</string>
+		<key>Text</key>
+		<string>&lt;p class="right"&gt;﻿brunrosa&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.40792707407226725</real>
+		<key>Frame</key>
+		<string>{{0.46158322466143181, 0.65848217378641283}, {0.16390594172788958, 0.14627169836025466}}</string>
+		<key>Text</key>
+		<string>&lt;p class="right"&gt;﻿lange «horn»&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.36862744362770233</real>
+		<key>Frame</key>
+		<string>{{0.69256015847193664, 0.80530369100046328}, {0.24132196418098634, 0.16186582676666417}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;&lt;b&gt;&lt;i&gt;flava&lt;/i&gt;&lt;/b&gt;&lt;/p&gt;&lt;p&gt;(﻿N-Europa)&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>EndPoint</key>
+		<string>{0.90023048621746793, 0.55902126557920417}</string>
+		<key>StartPoint</key>
+		<string>{0.85553970003592084, 0.60010120378076948}</string>
+		<key>Type</key>
+		<string>line</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.50313358088067728</real>
+		<key>Frame</key>
+		<string>{{0.87733312538028441, 0.42573098806444132}, {0.12266687461971572, 0.11859312953676768}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;gul&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.54109588098576911</real>
+		<key>Frame</key>
+		<string>{{0.69311584367149282, 0.11690555700385905}, {0.23516708827030794, 0.11027285187049726}}</string>
+		<key>Text</key>
+		<string>&lt;p class="right"&gt;&lt;b&gt;ad. &lt;/b&gt;♂&lt;b&gt; som.&lt;/b&gt;&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>EndPoint</key>
+		<string>{0.63713536062581921, 0.76778827848944009}</string>
+		<key>StartPoint</key>
+		<string>{0.69127386441849414, 0.76909582864365633}</string>
+		<key>Type</key>
+		<string>line</string>
+	</dict>
+	<dict>
+		<key>EndPoint</key>
+		<string>{0.58116886621793096, 0.62147916665532077}</string>
+		<key>StartPoint</key>
+		<string>{0.64333758525536311, 0.6263381515450489}</string>
+		<key>Type</key>
+		<string>line</string>
+	</dict>
+</array>
+</plist>

@@ -1,0 +1,121 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>FontScale</key>
+		<real>0.29090779959250862</real>
+		<key>Frame</key>
+		<string>{{0.35049726725595642, 0.030487464809896666}, {0.1939041497319286, 0.12859655011300958}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;slightly larger and heavier looking than Manx or Yelkouan&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.36337693925605125</real>
+		<key>Frame</key>
+		<string>{{0.055723787107924541, 0.25185316493915916}, {0.18704895251918399, 0.10295022987741895}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;dingy, brownish above and below, lacks strong contrast&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.36368843069873974</real>
+		<key>Frame</key>
+		<string>{{0.55517386975077232, 0.62715808045161425}, {0.077659631129908993, 0.10286205518467983}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;SOOTY&lt;/p&gt;&lt;p&gt;(to compare)&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.24245895379915983</real>
+		<key>Frame</key>
+		<string>{{0.73732625283227926, 0.66975216172224683}, {0.21544905525769853, 0.15429308277701975}}</string>
+		<key>Text</key>
+		<string>&lt;p class="right"&gt;darkest Balearic (left) like Sooty;&lt;br/&gt;size, shape and flight-style&lt;br/&gt;obviously different&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>EndPoint</key>
+		<string>{0.44550051348854347, 0.40376007743883974}</string>
+		<key>StartPoint</key>
+		<string>{0.4337389476964324, 0.44538209461408329}</string>
+		<key>Type</key>
+		<string>line</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.3784308325236565</real>
+		<key>Frame</key>
+		<string>{{0.34853863948088881, 0.30089802225415729}, {0.1537522803429939, 0.098854892924785179}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;brownish vent and belly, looks oil-stained&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.19671265113040137</real>
+		<key>Frame</key>
+		<string>{{0.34880899985979685, 0.47410217015963441}, {0.075920260071314513, 0.19017454756259858}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;diffuse, brownish ’arm-pits’&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>EndPoint</key>
+		<string>{0.46311836432248077, 0.56689010653756744}</string>
+		<key>StartPoint</key>
+		<string>{0.41648330022993207, 0.60948418780819824}</string>
+		<key>Type</key>
+		<string>line</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.39584600082951005</real>
+		<key>Frame</key>
+		<string>{{0.65408457239180617, 0.31994699147298822}, {0.10731789080850707, 0.094505791015116677}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;short tail, toes usually project&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.13883352548303848</real>
+		<key>Frame</key>
+		<string>{{0.65506388627934009, 0.021208671172101342}, {0.14004188591750388, 0.26945753411076334}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;main figures depict typical ’intermediate’ plumage—a few are paler (like Yelkouan) or darker (like Sooty Shearwater, above)&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>EndPoint</key>
+		<string>{0.72655380006939585, 0.42196418686155823}</string>
+		<key>StartPoint</key>
+		<string>{0.74770157819140837, 0.43751721238776164}</string>
+		<key>Type</key>
+		<string>line</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.13460519342872221</real>
+		<key>Frame</key>
+		<string>{{0.88346164738333588, 0.012813572166482764}, {0.11653835261666406, 0.27792196181771422}}</string>
+		<key>Text</key>
+		<string>&lt;p class="right"&gt;upperparts 
+much browner than Manx and ’fresh’ Yelkouan; bleached or faded birds more similar&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+</array>
+</plist>

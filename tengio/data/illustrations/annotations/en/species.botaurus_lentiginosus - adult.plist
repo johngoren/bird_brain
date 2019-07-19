@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>FontScale</key>
+		<real>0.4204919917850744</real>
+		<key>Frame</key>
+		<string>{{0.23770117011618894, 0.38435757357252526}, {0.1386637160608902, 0.070941154595217118}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;rather uniform&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>EndPoint</key>
+		<string>{0.28712586897747888, 0.39496894211129147}</string>
+		<key>StartPoint</key>
+		<string>{0.31276411204728294, 0.3730520634500214}</string>
+		<key>Type</key>
+		<string>line</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.64989009172795664</real>
+		<key>Frame</key>
+		<string>{{0.35962058838859418, 0.13564388246512188}, {0.16498072118966731, 0.045900357268044978}}</string>
+		<key>Text</key>
+		<string>&lt;p class="right"&gt;&lt;b&gt;ad.&lt;/b&gt;&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.46014492753624098</real>
+		<key>Frame</key>
+		<string>{{0.59613379465094418, 0.41114065548812484}, {0.3818893145016688, 0.064827808827527075}}</string>
+		<key>Text</key>
+		<string>&lt;p class="right"&gt;dark culmen and slender bill (cf. Bittern)&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>EndPoint</key>
+		<string>{0.81812655517483956, 0.43791735913427954}</string>
+		<key>StartPoint</key>
+		<string>{0.77589667176954358, 0.42066300220756303}</string>
+		<key>Type</key>
+		<string>line</string>
+	</dict>
+	<dict>
+		<key>EndPoint</key>
+		<string>{0.32183776325272878, 0.73223532555320514}</string>
+		<key>StartPoint</key>
+		<string>{0.27479095161779166, 0.71891484040185505}</string>
+		<key>Type</key>
+		<string>line</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.55080600426955595</real>
+		<key>Frame</key>
+		<string>{{0.17340975302415115, 0.67535345855403406}, {0.12398967627844171, 0.054157338816294566}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;trailing edge buff&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.55080600426955595</real>
+		<key>Frame</key>
+		<string>{{0.64863723838136067, 0.57533335637615846}, {0.12398967627844171, 0.054157338816294566}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;heavily striped&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>EndPoint</key>
+		<string>{0.63764879295766697, 0.60457633535814448}</string>
+		<key>StartPoint</key>
+		<string>{0.58871814896221397, 0.60851650520573974}</string>
+		<key>Type</key>
+		<string>line</string>
+	</dict>
+	<dict>
+		<key>EndPoint</key>
+		<string>{0.31976876462939724, 0.89876775041785362}</string>
+		<key>StartPoint</key>
+		<string>{0.37863543654204207, 0.94280838141481382}</string>
+		<key>Type</key>
+		<string>line</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.35555362655367484</real>
+		<key>Frame</key>
+		<string>{{0.33350432140901393, 0.87664173740497953}, {0.11383034486996965, 0.083897857221750277}}</string>
+		<key>Text</key>
+		<string>&lt;p class="right"&gt;plain&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+</array>
+</plist>

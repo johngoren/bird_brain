@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>FontScale</key>
+		<real>0.19546032178480671</real>
+		<key>Frame</key>
+		<string>{{0, 0.53446325433405362}, {0.24577739181188843, 0.29120885422067661}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;barre sombre chez de nombreux ind.&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>EndPoint</key>
+		<string>{0.33427733894130207, 0.60841414487084977}</string>
+		<key>StartPoint</key>
+		<string>{0.2148024103165917, 0.62858256956269676}</string>
+		<key>Type</key>
+		<string>line</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.21783876500857768</real>
+		<key>Frame</key>
+		<string>{{0.033187480173529189, 0.11989008011267241}, {0.54446471337366575, 0.26129314656331726}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;couvertures sous-caudales latérales souvent sombres laissant peu de place au blanc&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>EndPoint</key>
+		<string>{0.26790237859424371, 0.3899228773757854}</string>
+		<key>StartPoint</key>
+		<string>{0.2546273865248283, 0.45042815145134452}</string>
+		<key>Type</key>
+		<string>line</string>
+	</dict>
+</array>
+</plist>

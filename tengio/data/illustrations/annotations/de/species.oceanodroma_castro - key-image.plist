@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>FontScale</key>
+		<real>0.29967046255570667</real>
+		<key>Frame</key>
+		<string>{{0.82035183964620828, 0.056787775742226966}, {0.17964816035379169, 0.24467520747125882}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;Schnabel kräftig&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>EndPoint</key>
+		<string>{0.12814182977894628, 0.20780801511075378}</string>
+		<key>StartPoint</key>
+		<string>{0.17194690216290467, 0.22702027540582531}</string>
+		<key>Type</key>
+		<string>line</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.27244043206241181</real>
+		<key>Frame</key>
+		<string>{{0, 0.00074900544350959219}, {0.17943296096521644, 0.26913014358319887}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;leicht gekerbt&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>EndPoint</key>
+		<string>{0.80672607210323433, 0.25168628552178512}</string>
+		<key>StartPoint</key>
+		<string>{0.74945527489074248, 0.22433375416744541}</string>
+		<key>Type</key>
+		<string>line</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.25331218619105378</real>
+		<key>Frame</key>
+		<string>{{0.07322295080635359, 0.61347128638607773}, {0.44545541484539125, 0.28945284354983442}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;Oberflügel etwas einfarbiger als bei Wellenläufer&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+</array>
+</plist>

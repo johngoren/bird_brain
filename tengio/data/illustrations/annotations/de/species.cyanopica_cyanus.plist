@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>FontScale</key>
+		<real>0.20816579434651322</real>
+		<key>Frame</key>
+		<string>{{0.3299927622918834, 0.56737182531359809}, {0.13341914447997244, 0.27604076369947161}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;zumeist in Familienverbänden anzutreffen&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.48831118512474758</real>
+		<key>Frame</key>
+		<string>{{0.66187823945514102, 0.37068577554609711}, {0.1205829003143301, 0.1176754631021588}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;unverwechselbar!&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.24102565359917863</real>
+		<key>Frame</key>
+		<string>{{0.67177931560784154, 0.053115305170626306}, {0.30131312815978195, 0.23840717363255182}}</string>
+		<key>Text</key>
+		<string>&lt;p class="center"&gt;Gefieder leuchtet bei guten Lichverhältnissen farbenfroh, kann im Schatten des Laubs aber erstaunlich unscheinbar wirken&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+</array>
+</plist>

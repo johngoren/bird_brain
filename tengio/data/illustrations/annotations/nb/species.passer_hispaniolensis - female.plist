@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>FontScale</key>
+		<real>0.18989878111385697</real>
+		<key>Frame</key>
+		<string>{{0.67702710124084242, 0.31555081260300877}, {0.1798925144757556, 0.33490989193269177}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;♀ o﻿ftest umulig å skille fra gråspurv-♀&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.26857108511417221</real>
+		<key>Frame</key>
+		<string>{{0.63640117968707, 0.072704630342189033}, {0.23027810786620589, 0.23680501657114417}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;﻿iblant antydning til streker på hvitere underside&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>EndPoint</key>
+		<string>{0.62670973748312753, 0.2853415541813521}</string>
+		<key>StartPoint</key>
+		<string>{0.54921805384359612, 0.37460576060991357}</string>
+		<key>Type</key>
+		<string>line</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.55294142462401852</real>
+		<key>Frame</key>
+		<string>{{0.44180530230296883, 0.80860846829273025}, {0.080192481537244453, 0.11501938076756843}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;♀&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+</array>
+</plist>

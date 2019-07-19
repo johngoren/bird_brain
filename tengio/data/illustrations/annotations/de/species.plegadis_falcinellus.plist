@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>FontScale</key>
+		<real>0.2263664242269923</real>
+		<key>Frame</key>
+		<string>{{0.84305810239333612, 0.015163808275266638}, {0.12589359130883027, 0.23954100580987386}}</string>
+		<key>Text</key>
+		<string>&lt;p class="right"&gt;Flugformation ungeordnet oder in wogender Linie&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.60799421099261974</real>
+		<key>Frame</key>
+		<string>{{0.59693449992893444, 0.082346881682844111}, {0.086572237220277612, 0.089185127030060721}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;&lt;b&gt;PK&lt;/b&gt;&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>EndPoint</key>
+		<string>{0.57806235818951324, 0.82512931460530459}</string>
+		<key>StartPoint</key>
+		<string>{0.58188649107683954, 0.76216253369187037}</string>
+		<key>Type</key>
+		<string>line</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.27865242269496787</real>
+		<key>Frame</key>
+		<string>{{0.55434210638615544, 0.79364592414858703}, {0.065780136216867027, 0.19459382558563182}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;weit über-stehend&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>EndPoint</key>
+		<string>{0.70967514272617416, 0.87236369600174435}</string>
+		<key>StartPoint</key>
+		<string>{0.69917888056821254, 0.79083003304946253}</string>
+		<key>Type</key>
+		<string>line</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.34478537720545854</real>
+		<key>Frame</key>
+		<string>{{0.69786940414168042, 0.82169556462106919}, {0.078896126470807265, 0.15726896941051557}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;lang, dünn&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.58498007250958362</real>
+		<key>Frame</key>
+		<string>{{0.44494537086450991, 0.14849765774374682}, {0.084903225371614779, 0.092693825805544833}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;&lt;b&gt;SK&lt;/b&gt;&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.63897352397759444</real>
+		<key>Frame</key>
+		<string>{{0.30404867578086386, 0.11276502749295396}, {0.065780136216867027, 0.084861170152051094}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;&lt;b&gt;JK&lt;/b&gt;&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>EndPoint</key>
+		<string>{0.26339282336698178, 0.69566143992355356}</string>
+		<key>StartPoint</key>
+		<string>{0.28875236330217641, 0.64328942527536415}</string>
+		<key>Type</key>
+		<string>line</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.2765077291530475</real>
+		<key>Frame</key>
+		<string>{{0.20805705203242389, 0.66513530417895095}, {0.064007961444352598, 0.19610316538712463}}</string>
+		<key>Text</key>
+		<string>&lt;p class="right"&gt;matt grünlich&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.54827006360901076</real>
+		<key>Frame</key>
+		<string>{{0.060555817064915411, 0.72635844772585911}, {0.14818647644927913, 0.098900240118868249}}</string>
+		<key>Text</key>
+		<string>&lt;p class="center"&gt;bewohnt Feuchtgebiete&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+</array>
+</plist>

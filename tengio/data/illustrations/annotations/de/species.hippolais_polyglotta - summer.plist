@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>EndPoint</key>
+		<string>{0.4778446525077637, 0.22328446621564019}</string>
+		<key>StartPoint</key>
+		<string>{0.5572246652449302, 0.22356116151593397}</string>
+		<key>Type</key>
+		<string>line</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.34794520547954033</real>
+		<key>Frame</key>
+		<string>{{0.29220382108038134, 0.15329106555599323}, {0.26502188004428812, 0.13022028029698349}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;variabel bräunlich oder grau&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.70702853166330515</real>
+		<key>Frame</key>
+		<string>{{0.72705748507105172, 0.25338675703772812}, {0.14532648503880247, 0.064084432461226554}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;&lt;b&gt;ad.&lt;/b&gt;&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.3464271532525805</real>
+		<key>Frame</key>
+		<string>{{0.75157046924060122, 0.32789052927090845}, {0.19446658308536804, 0.13079090873832863}}</string>
+		<key>Text</key>
+		<string>&lt;p class="right"&gt;gelb mit beigebraunem Anflug&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>EndPoint</key>
+		<string>{0.75443557481210932, 0.53156028015011081}</string>
+		<key>StartPoint</key>
+		<string>{0.84331038502454891, 0.46338925700984851}</string>
+		<key>Type</key>
+		<string>line</string>
+	</dict>
+	<dict>
+		<key>EndPoint</key>
+		<string>{0.40949553338055761, 0.60359903826113959}</string>
+		<key>StartPoint</key>
+		<string>{0.47116849593261839, 0.53253127469836836}</string>
+		<key>Type</key>
+		<string>line</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.29255969628425926</real>
+		<key>Frame</key>
+		<string>{{0.30246252645710014, 0.54265202384281774}, {0.17538109017092809, 0.15487274139604396}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;schwaches Flügelfeld&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+</array>
+</plist>

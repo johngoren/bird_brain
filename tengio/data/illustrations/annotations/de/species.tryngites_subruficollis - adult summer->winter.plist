@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>FontScale</key>
+		<real>0.49183477425552358</real>
+		<key>Frame</key>
+		<string>{{0.14842916084191174, 0.72942404007783779}, {0.2632258077735381, 0.12930088312047722}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;grob gefleckt&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.30580476575623716</real>
+		<key>Frame</key>
+		<string>{{0.74367975576347412, 0.33424070058050598}, {0.25632024423652588, 0.20795840281734618}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;&lt;b&gt;PK &gt; SK&lt;/b&gt;&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>EndPoint</key>
+		<string>{0.37290520760070001, 0.68454236355699261}</string>
+		<key>StartPoint</key>
+		<string>{0.32123190086864623, 0.74430681454109549}</string>
+		<key>Type</key>
+		<string>line</string>
+	</dict>
+</array>
+</plist>

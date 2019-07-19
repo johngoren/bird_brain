@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>FontScale</key>
+		<real>0.32987012987014364</real>
+		<key>Frame</key>
+		<string>{{0.1580642122515829, 0.63358171686854048}, {0.36762265055934573, 0.19112079797542136}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;intar ofta typiskt hukad, smygande hållning&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.65128205128203875</real>
+		<key>Frame</key>
+		<string>{{0.26595346839400225, 0.30333987049670724}, {0.13663960109570863, 0.096801443130414125}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;otecknad&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>EndPoint</key>
+		<string>{0.38697279847114346, 0.50025017252404902}</string>
+		<key>StartPoint</key>
+		<string>{0.3438164024565713, 0.41317227712547888}</string>
+		<key>Type</key>
+		<string>line</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.36363636363636803</real>
+		<key>Frame</key>
+		<string>{{0.67353510270979844, 0.19325925503943259}, {0.15584003665015791, 0.17337386673485164}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;&lt;b&gt;ad. sommar &lt;/b&gt;♂&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>EndPoint</key>
+		<string>{0.80641042624989356, 0.80249606478838109}</string>
+		<key>StartPoint</key>
+		<string>{0.88033454619932505, 0.64984763523657807}</string>
+		<key>Type</key>
+		<string>line</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.29777256740914421</real>
+		<key>Frame</key>
+		<string>{{0.80759967763713625, 0.42297652585275503}, {0.1076391498106633, 0.2117221307442094}}</string>
+		<key>Text</key>
+		<string>&lt;p class="right"&gt;ljus ögonring&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.42035581299130542</real>
+		<key>Frame</key>
+		<string>{{0.81339154585737461, 0.85001981535499371}, {0.1118851545180615, 0.14998018464500629}}</string>
+		<key>Text</key>
+		<string>&lt;p class="right"&gt;mörkt öga&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+</array>
+</plist>

@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>FontScale</key>
+		<real>0.42779370999116745</real>
+		<key>Frame</key>
+		<string>{{0.091071595725760859, 0.057589009136204232}, {0.2254491269778495, 0.077081476658424589}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;Flügelspitze lang&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>EndPoint</key>
+		<string>{0.087479530145314746, 0.10741355608902567}</string>
+		<key>StartPoint</key>
+		<string>{0.040823603383750996, 0.16387020014346243}</string>
+		<key>Type</key>
+		<string>line</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.6047634720500521</real>
+		<key>Frame</key>
+		<string>{{0.23972550185073813, 0.016085972908394988}, {0.19679152521850896, 0.054525401078747558}}</string>
+		<key>Text</key>
+		<string>&lt;p class="right"&gt;&lt;b&gt;SK&lt;/b&gt;&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.36184611307322889</real>
+		<key>Frame</key>
+		<string>{{0.37046739875897622, 0.49716074305788538}, {0.14695977286692471, 0.091129819224095673}}</string>
+		<key>Text</key>
+		<string>&lt;p class="right"&gt;recht spitz&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.58999804942457879</real>
+		<key>Frame</key>
+		<string>{{0.59125891650526208, 0.86470743853190746}, {0.27086607300206433, 0.055889965913387851}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;kurzhalsig&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>EndPoint</key>
+		<string>{0.55779084906019494, 0.87721224705528389}</string>
+		<key>StartPoint</key>
+		<string>{0.58553374830100635, 0.89935969964702855}</string>
+		<key>Type</key>
+		<string>line</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.58829531462494922</real>
+		<key>Frame</key>
+		<string>{{0.61963759191539802, 0.92557548321335759}, {0.19679152521850896, 0.056051731250532352}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;&lt;b&gt;SK&lt;/b&gt;&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>EndPoint</key>
+		<string>{0.43670234264954322, 0.56766926199410206}</string>
+		<key>StartPoint</key>
+		<string>{0.38805890008637561, 0.57464964549577136}</string>
+		<key>Type</key>
+		<string>line</string>
+	</dict>
+</array>
+</plist>

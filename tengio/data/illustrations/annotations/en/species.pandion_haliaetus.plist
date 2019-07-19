@@ -1,0 +1,194 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>FontScale</key>
+		<real>0.18390735786578866</real>
+		<key>Frame</key>
+		<string>{{0.79440500106551637, 0.47557386879503383}, {0.07418856423899052, 0.22895710655116019}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;hovers &lt;/p&gt;&lt;p&gt;and dives for fish&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>EndPoint</key>
+		<string>{0.60187493036012785, 0.44926416137969355}</string>
+		<key>StartPoint</key>
+		<string>{0.62542799984200637, 0.44926416137969355}</string>
+		<key>Type</key>
+		<string>line</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.28092997469446862</real>
+		<key>Frame</key>
+		<string>{{0.53208358627697172, 0.36068945097691313}, {0.065499818247869768, 0.14988395800844664}}</string>
+		<key>Text</key>
+		<string>&lt;p class="right"&gt;darker trailing band&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.38095090467314469</real>
+		<key>Frame</key>
+		<string>{{0.63465746243325361, 0.18121932094664264}, {0.047060727707179027, 0.11053103172585291}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;dark band&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>EndPoint</key>
+		<string>{0.70320667752124333, 0.36257819633058747}</string>
+		<key>StartPoint</key>
+		<string>{0.6686650937585803, 0.27884572801387153}</string>
+		<key>Type</key>
+		<string>line</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.74697952918648658</real>
+		<key>Frame</key>
+		<string>{{0.72677665416683923, 0.14917716894488309}, {0.050103811990404888, 0.056369545463015702}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;&lt;b&gt;ad.&lt;/b&gt;&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.66095165096718245</real>
+		<key>Frame</key>
+		<string>{{0.57482272870469442, 0.68200210130621908}, {0.034740141374783741, 0.063706470010028632}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;&lt;b&gt;ad.&lt;/b&gt;&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>EndPoint</key>
+		<string>{0.50638570746182376, 0.34852889195516223}</string>
+		<key>StartPoint</key>
+		<string>{0.47171301338129906, 0.26447903039378295}</string>
+		<key>Type</key>
+		<string>line</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.37375601910906792</real>
+		<key>Frame</key>
+		<string>{{0.36847028207928534, 0.17488426845961058}, {0.10308903005481809, 0.11265877839450195}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;greater coverts cross-barred&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.2685703513675215</real>
+		<key>Frame</key>
+		<string>{{0.33325997788424505, 0.35554636124785471}, {0.066071081253773409, 0.15678162654968233}}</string>
+		<key>Text</key>
+		<string>&lt;p class="right"&gt;finely cross-barred&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>EndPoint</key>
+		<string>{0.40398273109720217, 0.40224210837885077}</string>
+		<key>StartPoint</key>
+		<string>{0.42551236429523437, 0.40197888401069315}</string>
+		<key>Type</key>
+		<string>line</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.70554291579045592</real>
+		<key>Frame</key>
+		<string>{{0.56578183573377416, 0.14586657931187108}, {0.055543444417481838, 0.059680135096027716}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;&lt;b&gt;juv.&lt;/b&gt;&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.55876451563396756</real>
+		<key>Frame</key>
+		<string>{{0.35092662071051844, 0.66792685536319973}, {0.041207799835992015, 0.075357141250542256}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;&lt;b&gt;juv.&lt;/b&gt;&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.45990390598318764</real>
+		<key>Frame</key>
+		<string>{{0.3149596686181379, 0.0033015777659632832}, {0.14656050151735828, 0.091555857609869895}}</string>
+		<key>Text</key>
+		<string>&lt;p class="center"&gt;head-on silhouette&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>EndPoint</key>
+		<string>{0.19157693778618948, 0.58799610458669804}</string>
+		<key>StartPoint</key>
+		<string>{0.17586692670577178, 0.63143981914219138}</string>
+		<key>Type</key>
+		<string>line</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.27171788925527945</real>
+		<key>Frame</key>
+		<string>{{0.16177065409112376, 0.5623949481156626}, {0.045114986926844472, 0.15496549250336702}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;uni­form&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.66666666666666663</real>
+		<key>Frame</key>
+		<string>{{0.20965326168083098, 0.091851836059400727}, {0.052644810337573456, 0.063160344795629583}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;&lt;b&gt;ad.&lt;/b&gt;&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>EndPoint</key>
+		<string>{0.045878485500021056, 0.71481524901703852}</string>
+		<key>StartPoint</key>
+		<string>{0.062779526670228916, 0.67250577645389098}</string>
+		<key>Type</key>
+		<string>line</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.40028666362629484</real>
+		<key>Frame</key>
+		<string>{{0.016108189077248165, 0.69880469100497478}, {0.061547448648101896, 0.10519185462978715}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;light-tipped&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.66803484784647371</real>
+		<key>Frame</key>
+		<string>{{0.089147866194560818, 0.18396067221969034}, {0.054158489440596078, 0.063030988078179764}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;&lt;b&gt;juv.&lt;/b&gt;&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+</array>
+</plist>

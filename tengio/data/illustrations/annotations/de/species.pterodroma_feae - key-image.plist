@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>FontScale</key>
+		<real>0.92028985507244809</real>
+		<key>Frame</key>
+		<string>{{0.17398530153629829, 0.62591352589695359}, {0.22513712190136528, 0.056219353867673259}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;spitz&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>EndPoint</key>
+		<string>{0.23086482591083313, 0.55013961416226731}</string>
+		<key>StartPoint</key>
+		<string>{0.22707285761919896, 0.62550613927472676}</string>
+		<key>Type</key>
+		<string>line</string>
+	</dict>
+	<dict>
+		<key>EndPoint</key>
+		<string>{0.62143755994933603, 0.35948267495885206}</string>
+		<key>StartPoint</key>
+		<string>{0.71244479894859691, 0.42547930776003628}</string>
+		<key>Type</key>
+		<string>line</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.14345419631763418</real>
+		<key>Frame</key>
+		<string>{{0.27216540677640955, 0.053881600293392444}, {0.51570768766248565, 0.36065937665978037}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;schwarze Unterflügel kontrastieren zu weißer Körperunter-seite&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+</array>
+</plist>

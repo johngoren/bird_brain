@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>FontScale</key>
+		<real>0.22280710800548711</real>
+		<key>Frame</key>
+		<string>{{0.46643878662515192, 0.78929434783546337}, {0.28805686004915226, 0.21070565216453671}}</string>
+		<key>Text</key>
+		<string>&lt;p class="right"&gt;svart framhjässa går över i grå nacke utan skarp gräns&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.20888866931326119</real>
+		<key>Frame</key>
+		<string>{{0.41821858521484884, 0.5548554214941801}, {0.20403740964874856, 0.22474515804773787}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;&lt;b&gt;&lt;i&gt;mystacea&lt;/i&gt;&lt;/b&gt;&lt;/p&gt;&lt;p&gt;(n.ö. Turkiet, Kaukasus)&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>EndPoint</key>
+		<string>{0.65940729478154603, 0.80785407032824597}</string>
+		<key>StartPoint</key>
+		<string>{0.69569088155160608, 0.74358125723496471}</string>
+		<key>Type</key>
+		<string>line</string>
+	</dict>
+	<dict>
+		<key>EndPoint</key>
+		<string>{0.89316577757850757, 0.57184883093755701}</string>
+		<key>StartPoint</key>
+		<string>{0.87205037992412859, 0.61354881252259796}</string>
+		<key>Type</key>
+		<string>line</string>
+	</dict>
+	<dict>
+		<key>EndPoint</key>
+		<string>{0.82882583844506375, 0.41645782415559229}</string>
+		<key>StartPoint</key>
+		<string>{0.79583896515832753, 0.47345413850150325}</string>
+		<key>Type</key>
+		<string>line</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.53890083504302855</real>
+		<key>Frame</key>
+		<string>{{0.78252573141283055, 0.32373033049283778}, {0.11861964645704065, 0.087115687982636136}}</string>
+		<key>Text</key>
+		<string>&lt;p class="center"&gt;skär&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.32413798219951412</real>
+		<key>Frame</key>
+		<string>{{0.83807849413663704, 0.42821096043305185}, {0.10275547406409645, 0.14483559341186306}}</string>
+		<key>Text</key>
+		<string>&lt;p class="right"&gt;gul­skär&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.51407638665547672</real>
+		<key>Frame</key>
+		<string>{{0.75152067960702784, 0.13481485298935497}, {0.16407165087334985, 0.091322453662228312}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;&lt;b&gt;ad. &lt;/b&gt;♂&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+</array>
+</plist>

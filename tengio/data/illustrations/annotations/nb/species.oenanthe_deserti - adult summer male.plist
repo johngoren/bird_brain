@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>FontScale</key>
+		<real>0.50825412706352402</real>
+		<key>Frame</key>
+		<string>{{0.15047020829879756, 0.089837322604836914}, {0.31366708907956353, 0.11273694810085941}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;&lt;b&gt;ad. sommer&lt;/b&gt; ♂&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>EndPoint</key>
+		<string>{0.54070301518203057, 0.63202278830224756}</string>
+		<key>StartPoint</key>
+		<string>{0.41230186202457741, 0.79444520477571723}</string>
+		<key>Type</key>
+		<string>line</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.22280701754385729</real>
+		<key>Frame</key>
+		<string>{{0.34411302846598668, 0.72043671489585803}, {0.19919530246588496, 0.25716882608299974}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;hvitaktige indre vinge-dekkere&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>EndPoint</key>
+		<string>{0.8098180272462262, 0.6611467585973092}</string>
+		<key>StartPoint</key>
+		<string>{0.65228540205817798, 0.66466253545316201}</string>
+		<key>Type</key>
+		<string>line</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.16493506493504864</real>
+		<key>Frame</key>
+		<string>{{0.73001054822568001, 0.34235342321594286}, {0.26998945177431999, 0.34740350190162678}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;          ﻿svart    flyter sammen   foran knoken (jf. middel-havsstein-skvett)&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+</array>
+</plist>

@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>FontScale</key>
+		<real>0.22535107948632133</real>
+		<key>Frame</key>
+		<string>{{0.38213350857225914, 0.53059608583092066}, {0.34783660941350936, 0.27038189985155608}}</string>
+		<key>Text</key>
+		<string>&lt;p class="right"&gt;bande pectorale distincte&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.39700822254171853</real>
+		<key>Frame</key>
+		<string>{{0.20995649162865535, 0.093046188902668817}, {0.25298343355894171, 0.1534750404286849}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;&lt;b&gt;ad.&lt;/b&gt; (roux)&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+</array>
+</plist>

@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>EndPoint</key>
+		<string>{0.073617173801286517, 0.36595491535021218}</string>
+		<key>StartPoint</key>
+		<string>{0.08552461573884558, 0.46403586749439424}</string>
+		<key>Type</key>
+		<string>line</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.15063009636767496</real>
+		<key>Frame</key>
+		<string>{{0.04183986227265625, 0.0015764009741146994}, {0.29750368798769017, 0.34758220984111238}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;﻿lengre håndsvingfjærprojeksjon enn hos brushane og myrsnipe&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.36425685177053813</real>
+		<key>Frame</key>
+		<string>{{0.69285787056349379, 0.46253527867885724}, {0.29628010302794106, 0.1437346792780107}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;﻿bryststrekingen slutter brått&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>EndPoint</key>
+		<string>{0.33325764809733005, 0.73789904142746388}</string>
+		<key>StartPoint</key>
+		<string>{0.40097422479515121, 0.69158341195421524}</string>
+		<key>Type</key>
+		<string>line</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.65321527650879663</real>
+		<key>Frame</key>
+		<string>{{0.25151702938474052, 0.32991766754633922}, {0.11792397296625746, 0.080151741159334502}}</string>
+		<key>Text</key>
+		<string>&lt;p class="right"&gt;&lt;b&gt;juv.&lt;/b&gt;&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.38660201276560729</real>
+		<key>Frame</key>
+		<string>{{0.49412707615802393, 0.23117543201474436}, {0.18507924326663977, 0.13542697667174142}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;﻿hvit, ustreket&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>EndPoint</key>
+		<string>{0.50854753092359262, 0.3819165239709752}</string>
+		<key>StartPoint</key>
+		<string>{0.49156344000387719, 0.45334323357528672}</string>
+		<key>Type</key>
+		<string>line</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.38485053720624296</real>
+		<key>Frame</key>
+		<string>{{0, 0.62773969701256271}, {0.30812270232062439, 0.13604331214951171}}</string>
+		<key>Text</key>
+		<string>&lt;p class="right"&gt;﻿tydelige hvite bånd&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>EndPoint</key>
+		<string>{0.31192750630741906, 0.67592617353718454}</string>
+		<key>StartPoint</key>
+		<string>{0.38846637791514349, 0.62531393472047858}</string>
+		<key>Type</key>
+		<string>line</string>
+	</dict>
+	<dict>
+		<key>EndPoint</key>
+		<string>{0.68066272591239474, 0.53150149486796183}</string>
+		<key>StartPoint</key>
+		<string>{0.62083773355790739, 0.53571751077564267}</string>
+		<key>Type</key>
+		<string>line</string>
+	</dict>
+</array>
+</plist>

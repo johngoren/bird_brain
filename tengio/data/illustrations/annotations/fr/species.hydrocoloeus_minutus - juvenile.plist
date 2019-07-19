@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>FontScale</key>
+		<real>0.67428146161536306</real>
+		<key>Frame</key>
+		<string>{{0.18539714572115962, 0.039408311831384324}, {0.17558121196077006, 0.053969022004673822}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;&lt;b&gt;juv.&lt;/b&gt;&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.24180524487539584</real>
+		<key>Frame</key>
+		<string>{{0.1705226912505369, 0.60317938265010818}, {0.25875281072197254, 0.15049429989831431}}</string>
+		<key>Text</key>
+		<string>&lt;p class="right"&gt;barre des secondaires grise&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>EndPoint</key>
+		<string>{0.4030856502615961, 0.71823212999388553}</string>
+		<key>StartPoint</key>
+		<string>{0.46900724905094593, 0.72724549188335597}</string>
+		<key>Type</key>
+		<string>line</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.67428261786604782</real>
+		<key>Frame</key>
+		<string>{{0.45835843125288617, 0.93187459163317576}, {0.17558121196077006, 0.053968929459327103}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;&lt;b&gt;juv.&lt;/b&gt;&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+</array>
+</plist>

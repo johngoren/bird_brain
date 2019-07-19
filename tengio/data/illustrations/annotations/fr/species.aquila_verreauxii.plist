@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>FontScale</key>
+		<real>0.63902232911886103</real>
+		<key>Frame</key>
+		<string>{{0.48457087064379745, 0.77731991123396682}, {0.062477515367669892, 0.061740311590359337}}</string>
+		<key>Text</key>
+		<string>&lt;p class="right"&gt;&lt;b&gt;juv.&lt;/b&gt;&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.22512425950997156</real>
+		<key>Frame</key>
+		<string>{{0.91357185872241053, 0.63879951615060837}, {0.070507625741627444, 0.17525182669728273}}</string>
+		<key>Text</key>
+		<string>&lt;p class="right"&gt;croupion blanc pur&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>EndPoint</key>
+		<string>{0.92945954388487051, 0.68239093725195188}</string>
+		<key>StartPoint</key>
+		<string>{0.94799252292374658, 0.73919480174950758}</string>
+		<key>Type</key>
+		<string>line</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.33401663752054578</real>
+		<key>Frame</key>
+		<string>{{0.91689769012531841, 0.34961914299806085}, {0.069177293180464922, 0.11811818119559629}}</string>
+		<key>Text</key>
+		<string>&lt;p class="right"&gt;panneau alaire pâle&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.59338311190520454</real>
+		<key>Frame</key>
+		<string>{{0.80532944948512186, 0.77086213190127884}, {0.051037998137979046, 0.066488979752592783}}</string>
+		<key>Text</key>
+		<string>&lt;p class="right"&gt;&lt;b&gt;ad.&lt;/b&gt;&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>EndPoint</key>
+		<string>{0.9345626009143434, 0.46529029098358204}</string>
+		<key>StartPoint</key>
+		<string>{0.90310958012731124, 0.51171875041732184}</string>
+		<key>Type</key>
+		<string>line</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.20646809011135803</real>
+		<key>Frame</key>
+		<string>{{0.61291645258692262, 0.1080667330234802}, {0.13361983954799855, 0.19108733795966498}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;forme de l’aile typique : base étroite, milieu large et main étroite&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.59338311190520454</real>
+		<key>Frame</key>
+		<string>{{0.63214086203736164, 0.77211311218032386}, {0.051037955171203603, 0.066488979752592783}}</string>
+		<key>Text</key>
+		<string>&lt;p class="right"&gt;&lt;b&gt;ad.&lt;/b&gt;&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.63902232911886103</real>
+		<key>Frame</key>
+		<string>{{0.32441724272714767, 0.77561059939295152}, {0.062477515367669892, 0.061740311590359337}}</string>
+		<key>Text</key>
+		<string>&lt;p class="right"&gt;&lt;b&gt;juv.&lt;/b&gt;&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.21673391097294792</real>
+		<key>Frame</key>
+		<string>{{0.21327770596350207, 0.2024376832431686}, {0.13815442411562678, 0.18203629296349519}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;les jeunes posés peuvent rappeler de loin les A. impériaux et des steppes&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.59338311190520454</real>
+		<key>Frame</key>
+		<string>{{0.050186009950030808, 0.52854961976255721}, {0.051037955171203603, 0.066488979752592783}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;&lt;b&gt;ad.&lt;/b&gt;&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+</array>
+</plist>

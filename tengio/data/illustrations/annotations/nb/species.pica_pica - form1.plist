@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>FontScale</key>
+		<real>0.28059719385679882</real>
+		<key>Frame</key>
+		<string>{{0.75432664644123704, 0.64781550984073899}, {0.11172505669896715, 0.12588625159244776}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;&lt;b&gt;&lt;i&gt;pica&lt;/i&gt;&lt;/b&gt;&lt;/p&gt;&lt;p&gt;(Europa)&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.34557823129251597</real>
+		<key>Frame</key>
+		<string>{{0.74167114177039084, 0.53374479895621996}, {0.25832885822960916, 0.10221514477308688}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;skjæra bør være den fuglen som flest mennesker kjenner igjen&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.21873525877797972</real>
+		<key>Frame</key>
+		<string>{{0.36522411377370506, 0.0084340735061942881}, {0.27404450419040355, 0.16148895765289328}}</string>
+		<key>Text</key>
+		<string>&lt;p class="center"&gt;﻿grønn og blå metallglans avhengig av lysvinkelen og fjærslitasjen&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+</array>
+</plist>

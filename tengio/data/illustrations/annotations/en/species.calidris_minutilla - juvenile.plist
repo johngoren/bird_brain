@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>EndPoint</key>
+		<string>{0.46517812731618452, 0.39307524837827063}</string>
+		<key>StartPoint</key>
+		<string>{0.52870759670295364, 0.31961746346985348}</string>
+		<key>Type</key>
+		<string>line</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.2588783360830908</real>
+		<key>Frame</key>
+		<string>{{0.3678989921981784, 0.37024473844331773}, {0.22252674532364858, 0.13590430281141214}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;pale-framed dark ear-&lt;/p&gt;&lt;p&gt;coverts&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>EndPoint</key>
+		<string>{0.7297960122820778, 0.33592900565983452}</string>
+		<key>StartPoint</key>
+		<string>{0.65931229123735657, 0.30740496780932275}</string>
+		<key>Type</key>
+		<string>line</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.1521455833145029</real>
+		<key>Frame</key>
+		<string>{{0.7451623701118818, 0.12706878398073615}, {0.2548376298881182, 0.23124351697823611}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;supercilium reaches bill-&lt;/p&gt;&lt;p&gt;base; dark &lt;/p&gt;&lt;p&gt;loral patch promi­nent, iso­lated&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.59526231652376105</real>
+		<key>Frame</key>
+		<string>{{0.48064701410720012, 0.059347010275002006}, {0.15062983204980979, 0.059104496961629026}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;pale&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>EndPoint</key>
+		<string>{0.47056033679250958, 0.094874942800754231}</string>
+		<key>StartPoint</key>
+		<string>{0.41450124610957939, 0.08470840568474379}</string>
+		<key>Type</key>
+		<string>line</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.65572283330109327</real>
+		<key>Frame</key>
+		<string>{{0.11557239093388492, 0.017791979285576402}, {0.16437990725947177, 0.053654803510854394}}</string>
+		<key>Text</key>
+		<string>&lt;p class="right"&gt;&lt;b&gt;juv.&lt;/b&gt;&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.45410409323767953</real>
+		<key>Frame</key>
+		<string>{{0.44306221055978834, 0.59705813216382086}, {0.22363393764530187, 0.077477125404232294}}</string>
+		<key>Text</key>
+		<string>&lt;p class="center"&gt;&lt;b&gt;juv.&lt;/b&gt;&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+</array>
+</plist>

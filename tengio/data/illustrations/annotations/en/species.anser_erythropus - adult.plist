@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>FontScale</key>
+		<real>0.35961369622475853</real>
+		<key>Frame</key>
+		<string>{{0.80884599804671742, 0.34028609981813168}, {0.10946085767941212, 0.07275479583574801}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;small, pink&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>EndPoint</key>
+		<string>{0.8251789028692379, 0.41400193391266255}</string>
+		<key>StartPoint</key>
+		<string>{0.8095590538250288, 0.44037834816327326}</string>
+		<key>Type</key>
+		<string>line</string>
+	</dict>
+	<dict>
+		<key>EndPoint</key>
+		<string>{0.10210610895108477, 0.13525133857050975}</string>
+		<key>StartPoint</key>
+		<string>{0.13729541143413099, 0.16758102231585045}</string>
+		<key>Type</key>
+		<string>line</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.56477725815532753</real>
+		<key>Frame</key>
+		<string>{{0.82152999627887557, 0.26063242681360421}, {0.08106639943070254, 0.046325556970949026}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;&lt;b&gt;ad.&lt;/b&gt;&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.26765920718375757</real>
+		<key>Frame</key>
+		<string>{{0.70657289534979484, 0.024813309924832241}, {0.22159179897287637, 0.097749751722939052}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;usually rather few belly &lt;/p&gt;&lt;p&gt;markings&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.26878698063062567</real>
+		<key>Frame</key>
+		<string>{{0.014827268287516907, 0.037042641626093303}, {0.26748035144341603, 0.097339614393473037}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;long-winged, wing-tips project beyond tail&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.15360636026335456</real>
+		<key>Frame</key>
+		<string>{{0.47884632694614282, 0.34676193137680283}, {0.15233138986701619, 0.17032902155688143}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;prominent yellow orbital ring in all plumages&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>EndPoint</key>
+		<string>{0.72637703178038726, 0.12347917530344121}</string>
+		<key>StartPoint</key>
+		<string>{0.69387411750700412, 0.15579853248601194}</string>
+		<key>Type</key>
+		<string>line</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.37272224033729423</real>
+		<key>Frame</key>
+		<string>{{0.71850473802874071, 0.50440131460600457}, {0.23863757606280733, 0.070196028616093031}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;white blaze reaches crown&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>EndPoint</key>
+		<string>{0.72873246787830304, 0.49472385244102074}</string>
+		<key>StartPoint</key>
+		<string>{0.72643046535233846, 0.52146000681777727}</string>
+		<key>Type</key>
+		<string>line</string>
+	</dict>
+</array>
+</plist>

@@ -1,0 +1,172 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>FontScale</key>
+		<real>0.17756680159749455</real>
+		<key>Frame</key>
+		<string>{{0.031837955509458227, 0.25604601386355863}, {0.066333516278016341, 0.23278588867845207}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;geringe Handschwingenprojektion&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.63999583336045995</real>
+		<key>Frame</key>
+		<string>{{0.1287198437798415, 0.15784263005463869}, {0.06633360554575346, 0.064586429403177589}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;&lt;b&gt;JK&lt;/b&gt;&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.28959105397427665</real>
+		<key>Frame</key>
+		<string>{{0.21530657322071362, 0.2051213652035635}, {0.13427072744953039, 0.1427359206798384}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;Brust stärker gebändert als bei Kleinem Sumpfhuhn im JK&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>EndPoint</key>
+		<string>{0.065543030842761613, 0.52967526255987829}</string>
+		<key>StartPoint</key>
+		<string>{0.050510815504593493, 0.50075734493760182}</string>
+		<key>Type</key>
+		<string>line</string>
+	</dict>
+	<dict>
+		<key>EndPoint</key>
+		<string>{0.26719309812296665, 0.35653351418556467}</string>
+		<key>StartPoint</key>
+		<string>{0.26407084996258429, 0.4129530880137412}</string>
+		<key>Type</key>
+		<string>line</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.3859902622899325</real>
+		<key>Frame</key>
+		<string>{{0.93536805318767879, 0.61186431455565715}, {0.06398747088441735, 0.10708831218807995}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;Basis ohne Rot&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>EndPoint</key>
+		<string>{0.7065769153697905, 0.4074256476546792}</string>
+		<key>StartPoint</key>
+		<string>{0.71530832117670617, 0.46099811390924994}</string>
+		<key>Type</key>
+		<string>line</string>
+	</dict>
+	<dict>
+		<key>EndPoint</key>
+		<string>{0.80504676883918236, 0.73077124354205869}</string>
+		<key>StartPoint</key>
+		<string>{0.82110644885650919, 0.67052873155215265}</string>
+		<key>Type</key>
+		<string>line</string>
+	</dict>
+	<dict>
+		<key>EndPoint</key>
+		<string>{0.84095900782369326, 0.38080259235606267}</string>
+		<key>StartPoint</key>
+		<string>{0.82106274315876993, 0.44053586563288638}</string>
+		<key>Type</key>
+		<string>line</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.66206673603604549</real>
+		<key>Frame</key>
+		<string>{{0.84477885434302058, 0.33992529514202119}, {0.10240294878409449, 0.062433352198218141}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;Querbänderung&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.66206450656986415</real>
+		<key>Frame</key>
+		<string>{{0.69336306942449288, 0.34122217698321805}, {0.066921165790061715, 0.062433562439132631}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;kurz&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.25052626213715945</real>
+		<key>Frame</key>
+		<string>{{0.75227509168570805, 0.69390427919010678}, {0.11355498862015635, 0.1649928648479688}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;wärmer braun, reichlich weiß gesprenkelt&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.68571428571428572</real>
+		<key>Frame</key>
+		<string>{{0.92192260007511739, 0.16499082114619562}, {0.056674657877163671, 0.060280274993258762}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;&lt;b&gt;ad.&lt;/b&gt;&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>EndPoint</key>
+		<string>{0.94331315571300001, 0.72821575050891563}</string>
+		<key>StartPoint</key>
+		<string>{0.94009081571429232, 0.77973417223863761}</string>
+		<key>Type</key>
+		<string>line</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.68570950258438479</real>
+		<key>Frame</key>
+		<string>{{0.52994942513087528, 0.50288828065002933}, {0.056674657877163671, 0.06028069547508768}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;&lt;b&gt;ad.&lt;/b&gt;&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.12986837985549909</real>
+		<key>Frame</key>
+		<string>{{0.25621332879587411, 0.59933338823796756}, {0.13130521457029137, 0.31828414087906154}}</string>
+		<key>Text</key>
+		<string>&lt;p class="right"&gt;Vorsicht: bei mauserbedingt fehlenden oder unordentlich liegenden Schirmfedern mehr Handschwingen sichtbar&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>EndPoint</key>
+		<string>{0.39547977481517188, 0.73280265314845761}</string>
+		<key>StartPoint</key>
+		<string>{0.41435830962794029, 0.77945300352719216}</string>
+		<key>Type</key>
+		<string>line</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.28959105397427665</real>
+		<key>Frame</key>
+		<string>{{0.38050515262377543, 0.20219210999579701}, {0.28798271824864252, 0.1427359206798384}}</string>
+		<key>Text</key>
+		<string>&lt;p class="center"&gt;Geschlechter kaum unterscheidbar, Kehle beim ♀ oft hell, ♂ und ♀ zeigen manchmal braunen Ohrfleck&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+</array>
+</plist>

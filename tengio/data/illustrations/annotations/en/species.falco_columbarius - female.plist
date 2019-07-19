@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>FontScale</key>
+		<real>0.20659305556139326</real>
+		<key>Frame</key>
+		<string>{{0.013300383521415287, 0.27842017927566198}, {0.43815528215606991, 0.13060030166264133}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;dark marking on cheek appears &lt;/p&gt;&lt;p&gt;as ‘double &lt;/p&gt;&lt;p&gt;moustache’&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.71781204020460054</real>
+		<key>Frame</key>
+		<string>{{0.076107467781148158, 0.15086782364034193}, {0.22488603981717242, 0.037587994999407168}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;♀&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.71781466093217183</real>
+		<key>Frame</key>
+		<string>{{0.26609868668460379, 0.59034715540373217}, {0.22488603981717242, 0.037587857766357743}}</string>
+		<key>Text</key>
+		<string>&lt;p class="right"&gt;♀&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+</array>
+</plist>

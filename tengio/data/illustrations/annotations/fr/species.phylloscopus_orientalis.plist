@@ -1,0 +1,118 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>FontScale</key>
+		<real>0.17084449355610062</real>
+		<key>Frame</key>
+		<string>{{0, 0.59698091015628718}, {0.45536218105385678, 0.15740341044266171}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;attention à la confusion avec les P. véloces de type &lt;i&gt;tristis&lt;/i&gt; (et les P. fitis grisâtres) dont les plumes ternes du corps font paraître les ailes et le croupion plus colorés&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.22678571428575053</real>
+		<key>Frame</key>
+		<string>{{0.46895049546011602, 0.65601404239832417}, {0.19627999697675505, 0.11857671911025321}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;croupion coloré évident lorsqu’il chasse des insectes&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.3043738765730335</real>
+		<key>Frame</key>
+		<string>{{0.58436198811229623, 0.59206731173524452}, {0.35210986047336706, 0.088350242944147839}}</string>
+		<key>Text</key>
+		<string>&lt;p class="right"&gt;souvent observé lorsqu’il moucheronne ou vole sur place entre les branches&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.19920380565538823</real>
+		<key>Frame</key>
+		<string>{{0.72680022271466493, 0.43050653194751581}, {0.21670090392497571, 0.13499494074726878}}</string>
+		<key>Text</key>
+		<string>&lt;p class="right"&gt;tendance à avoir les lores et le trait sourcilier plus sombres&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>EndPoint</key>
+		<string>{0.80956890147516591, 0.50902676089372367}</string>
+		<key>StartPoint</key>
+		<string>{0.78598665133581436, 0.49094910483294407}</string>
+		<key>Type</key>
+		<string>line</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.47924528301882113</real>
+		<key>Frame</key>
+		<string>{{0.3932269211672299, 0.085363581680115125}, {0.18602189954908085, 0.056112197436116409}}</string>
+		<key>Text</key>
+		<string>&lt;p class="right"&gt;&lt;b&gt;printemps&lt;/b&gt;&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.17034677836825252</real>
+		<key>Frame</key>
+		<string>{{0.68516236956242971, 0.09160198315882348}, {0.24981681141724105, 0.15786330800425244}}</string>
+		<key>Text</key>
+		<string>&lt;p class="right"&gt;la possibilité de le distinguer du P. de Bonelli sur la base de critères de plumages est encore assez incertaine&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.24517374517384627</real>
+		<key>Frame</key>
+		<string>{{0.258336695577979, 0.34496189887517026}, {0.26271941048881869, 0.10968346517695651}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;tertiaires et grandes couv. à liserés usés pâles chez la plupart&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>EndPoint</key>
+		<string>{0.40394022428262044, 0.38821063526763361}</string>
+		<key>StartPoint</key>
+		<string>{0.43559763150682351, 0.36081623699103921}</string>
+		<key>Type</key>
+		<string>line</string>
+	</dict>
+	<dict>
+		<key>EndPoint</key>
+		<string>{0.48405562655992851, 0.42809639140740041}</string>
+		<key>StartPoint</key>
+		<string>{0.57983012384494004, 0.34626038233282536}</string>
+		<key>Type</key>
+		<string>line</string>
+	</dict>
+	<dict>
+		<key>EndPoint</key>
+		<string>{0.55809964967482206, 0.47840411971539198}</string>
+		<key>StartPoint</key>
+		<string>{0.59340931932472241, 0.4478335593197762}</string>
+		<key>Type</key>
+		<string>line</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.28700564971755144</real>
+		<key>Frame</key>
+		<string>{{0.47604548717738576, 0.45909199101874903}, {0.19816215660717235, 0.093696782511229634}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;gris-brun, un peu moins vert dessus&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+</array>
+</plist>

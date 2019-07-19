@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>FontScale</key>
+		<real>0.71904852465731395</real>
+		<key>Frame</key>
+		<string>{{0.26826955978346528, 0.88017967590163793}, {0.090716159938867488, 0.05703072767289824}}</string>
+		<key>Text</key>
+		<string>&lt;p class="right"&gt;&lt;b&gt;juv.&lt;/b&gt;&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>EndPoint</key>
+		<string>{0.4138923044400426, 0.12288876436681712}</string>
+		<key>StartPoint</key>
+		<string>{0.37389015632507072, 0.16560478075246843}</string>
+		<key>Type</key>
+		<string>line</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.54990937772705928</real>
+		<key>Frame</key>
+		<string>{{0.38372098226183993, 0.047954701834293831}, {0.3620610674890386, 0.074572033600933202}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;very long, all dark&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.34926579004401959</real>
+		<key>Frame</key>
+		<string>{{0.77766744194292736, 0.22231861998719915}, {0.16062499385585161, 0.11741161534361014}}</string>
+		<key>Text</key>
+		<string>&lt;p class="right"&gt;yellow-buff&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>EndPoint</key>
+		<string>{0.84723941830538918, 0.34009539949905332}</string>
+		<key>StartPoint</key>
+		<string>{0.79631105863677443, 0.39366594613646516}</string>
+		<key>Type</key>
+		<string>line</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.71904852465731395</real>
+		<key>Frame</key>
+		<string>{{0.84757627585991413, 0.39668295529364062}, {0.090716159938867488, 0.05703072767289824}}</string>
+		<key>Text</key>
+		<string>&lt;p class="right"&gt;&lt;b&gt;ad.&lt;/b&gt;&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.62463424165308523</real>
+		<key>Frame</key>
+		<string>{{0.53781309991114246, 0.73331745493113365}, {0.13017909781466769, 0.065650996789423266}}</string>
+		<key>Text</key>
+		<string>&lt;p class="right"&gt;heavy&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>EndPoint</key>
+		<string>{0.63231649930445499, 0.80073279510362305}</string>
+		<key>StartPoint</key>
+		<string>{0.6415476648674785, 0.84714611158945208}</string>
+		<key>Type</key>
+		<string>line</string>
+	</dict>
+</array>
+</plist>

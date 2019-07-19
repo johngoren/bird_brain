@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>FontScale</key>
+		<real>0.18181818181818185</real>
+		<key>Frame</key>
+		<string>{{0.053871158093257245, 0.49183072069365974}, {0.23362577720079117, 0.23053121889829789}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;schmale, sichelförmige Flügel&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>EndPoint</key>
+		<string>{0.73472342307842609, 0.52198790054596167}</string>
+		<key>StartPoint</key>
+		<string>{0.67682627649367999, 0.53815973981012122}</string>
+		<key>Type</key>
+		<string>line</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.26449963373807084</real>
+		<key>Frame</key>
+		<string>{{0.74640471193846303, 0.3814906089872282}, {0.20025066617210685, 0.15846814787624708}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;recht deutlicher Kehlfleck&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.19689922480620151</real>
+		<key>Frame</key>
+		<string>{{0.52946649025201642, 0.083698052733593417}, {0.43387644337289888, 0.21287421072212195}}</string>
+		<key>Text</key>
+		<string>&lt;p class="right"&gt;kann im grellen Licht des Mittel-meerraums sehr ähnlich Fahlsegler wirken&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+</array>
+</plist>

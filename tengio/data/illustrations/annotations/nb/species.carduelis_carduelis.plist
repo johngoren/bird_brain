@@ -1,0 +1,136 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>FontScale</key>
+		<real>0.2910279410981047</real>
+		<key>Frame</key>
+		<string>{{0.88717855602758777, 0.6788268826999605}, {0.067294780297651138, 0.15677912202128899}}</string>
+		<key>Text</key>
+		<string>&lt;p class="right"&gt;﻿rødt «ansikt»&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.55153608893788675</real>
+		<key>Frame</key>
+		<string>{{0.78386600343951918, 0.098169371720414553}, {0.059996799562416346, 0.082727324655926054}}</string>
+		<key>Text</key>
+		<string>&lt;p class="right"&gt;&lt;b&gt;ad.&lt;/b&gt;&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>EndPoint</key>
+		<string>{0.93786699310597066, 0.68448730289712478}</string>
+		<key>StartPoint</key>
+		<string>{0.93786699310597066, 0.73788067930676737}</string>
+		<key>Type</key>
+		<string>line</string>
+	</dict>
+	<dict>
+		<key>EndPoint</key>
+		<string>{0.68846553435003632, 0.49771364335446294}</string>
+		<key>StartPoint</key>
+		<string>{0.68235257480013056, 0.57758151904726196}</string>
+		<key>Type</key>
+		<string>line</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.49387268600797107</real>
+		<key>Frame</key>
+		<string>{{0.63780273290200284, 0.39756149433036025}, {0.061698785711688388, 0.092386370782788843}}</string>
+		<key>Text</key>
+		<string>&lt;p class="right"&gt;﻿hvit&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.55153608893788675</real>
+		<key>Frame</key>
+		<string>{{0.5800055530756002, 0.82534905023983474}, {0.059996799562416346, 0.082727324655926054}}</string>
+		<key>Text</key>
+		<string>&lt;p class="right"&gt;&lt;b&gt;ad.&lt;/b&gt;&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.25813024674987012</real>
+		<key>Frame</key>
+		<string>{{0.72262310687495734, 0.73381900668870381}, {0.14255224558505261, 0.17676001035724118}}</string>
+		<key>Text</key>
+		<string>&lt;p class="right"&gt;﻿i alle drakter svarte vinger med bredt gult vingebånd&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>EndPoint</key>
+		<string>{0.73032588748884841, 0.88845887515423594}</string>
+		<key>StartPoint</key>
+		<string>{0.70180055172699563, 0.87757372725632443}</string>
+		<key>Type</key>
+		<string>line</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.55153608893788675</real>
+		<key>Frame</key>
+		<string>{{0.52374799191315491, 0.69149759048137516}, {0.059996799562416346, 0.082727324655926054}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;&lt;b&gt;ad.&lt;/b&gt;&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.64827543000905119</real>
+		<key>Frame</key>
+		<string>{{0.12250743892313583, 0.13435505614854573}, {0.053285396196484383, 0.070382283481555397}}</string>
+		<key>Text</key>
+		<string>&lt;p class="right"&gt;&lt;b&gt;juv.&lt;/b&gt;&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>EndPoint</key>
+		<string>{0.32199519087549683, 0.63128092143963543}</string>
+		<key>StartPoint</key>
+		<string>{0.32668735802408266, 0.57619545960023333}</string>
+		<key>Type</key>
+		<string>line</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.22280710800548711</real>
+		<key>Frame</key>
+		<string>{{0.31100973493738104, 0.36276695859871361}, {0.066372811540109419, 0.20478298694088612}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;﻿relativt langt og spisst&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>EndPoint</key>
+		<string>{0.28907791953025602, 0.8096861106818396}</string>
+		<key>StartPoint</key>
+		<string>{0.28223916842162133, 0.7539194704676323}</string>
+		<key>Type</key>
+		<string>line</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.38155269715341444</real>
+		<key>Frame</key>
+		<string>{{0.26506531608000483, 0.77784184108067522}, {0.087182005745739061, 0.11958270883531077}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;﻿gråhvit, finstreket&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+</array>
+</plist>

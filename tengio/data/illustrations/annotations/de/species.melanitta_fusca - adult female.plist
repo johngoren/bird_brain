@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>EndPoint</key>
+		<string>{0.66960211517678925, 0.35997461556290067}</string>
+		<key>StartPoint</key>
+		<string>{0.64676516449992716, 0.39738024007759548}</string>
+		<key>Type</key>
+		<string>line</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.27661969294493721</real>
+		<key>Frame</key>
+		<string>{{0.17550713417626115, 0}, {0.26795303905419865, 0.12428928972769117}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;weißer Spiegel oft nur als Linie sichtbar&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.21303075384463704</real>
+		<key>Frame</key>
+		<string>{{0.62157794418233969, 0.37872062074065177}, {0.33039808034721579, 0.1613892104324626}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;Kopfmuster variabel, heller Wangenfleck im Sommer oft deutlich&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.63999791667344863</real>
+		<key>Frame</key>
+		<string>{{0.11447130052215819, 0.22413263400559857}, {0.14270491561831186, 0.053720276683901613}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;♀&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.52090433668026626</real>
+		<key>Frame</key>
+		<string>{{0.8027558057918931, 0.19113150237754034}, {0.19705432404412335, 0.066002263256106128}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;Gefieder abgenutzt&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.63373076885884727</real>
+		<key>Frame</key>
+		<string>{{0.4764146819342393, 0.63101892208220522}, {0.13462730369115236, 0.054251532117854329}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;♀&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>EndPoint</key>
+		<string>{0.2553714934038992, 0.80822802801052218}</string>
+		<key>StartPoint</key>
+		<string>{0.32771676710774483, 0.82830138403392017}</string>
+		<key>Type</key>
+		<string>line</string>
+	</dict>
+</array>
+</plist>

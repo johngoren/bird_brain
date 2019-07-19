@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>EndPoint</key>
+		<string>{0.52357039272486339, 0.43329642479710889}</string>
+		<key>StartPoint</key>
+		<string>{0.57319356266118071, 0.29571673705603463}</string>
+		<key>Type</key>
+		<string>line</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.26797806104090111</real>
+		<key>Frame</key>
+		<string>{{0.055254506354630993, 0.6763380017315449}, {0.39337984910643264, 0.23769294662054008}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;raies dorsales pâles moins nettes que chez la B. des marais&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.6742849303793127</real>
+		<key>Frame</key>
+		<string>{{0, 0.22986433238996171}, {0.12840458483210215, 0.094465250650995369}}</string>
+		<key>Text</key>
+		<string>&lt;p class="center"&gt;courte&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>EndPoint</key>
+		<string>{0.82533635070355504, 0.80852037857093573}</string>
+		<key>StartPoint</key>
+		<string>{0.80157626944925464, 0.71876727340402979}</string>
+		<key>Type</key>
+		<string>line</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.59030982498596196</real>
+		<key>Frame</key>
+		<string>{{0.54483235613224346, 0.17505258615860989}, {0.31747029630836487, 0.1079034978961861}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;taches alignées&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>EndPoint</key>
+		<string>{0.070688459701472334, 0.33250266496457009}</string>
+		<key>StartPoint</key>
+		<string>{0.074203528878291861, 0.42012713352845921}</string>
+		<key>Type</key>
+		<string>line</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.36178751828645511</real>
+		<key>Frame</key>
+		<string>{{0.78989511998213635, 0.76304963535529347}, {0.21010488001786368, 0.17606050993731992}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;relativement court&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>EndPoint</key>
+		<string>{0.36723270285070619, 0.78989450856789023}</string>
+		<key>StartPoint</key>
+		<string>{0.39154775528824542, 0.71636651002042595}</string>
+		<key>Type</key>
+		<string>line</string>
+	</dict>
+</array>
+</plist>

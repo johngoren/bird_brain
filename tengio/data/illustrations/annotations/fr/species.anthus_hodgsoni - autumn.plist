@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>FontScale</key>
+		<real>0.4043709777934083</real>
+		<key>Frame</key>
+		<string>{{0.79346050422778747, 0.41818386020190484}, {0.20653949577221253, 0.11214221111151837}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;&lt;b&gt;automne&lt;/b&gt;&lt;/p&gt;&lt;p&gt;(plum. frais)&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>EndPoint</key>
+		<string>{0.62040261308729328, 0.82168064681308595}</string>
+		<key>StartPoint</key>
+		<string>{0.67746170125377414, 0.75494394273490972}</string>
+		<key>Type</key>
+		<string>line</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.22086853950846949</real>
+		<key>Frame</key>
+		<string>{{0.40348346268426039, 0.59241209511267756}, {0.183124955511275, 0.20531242548167714}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;tache noire surmontée d’une tache blanche&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>EndPoint</key>
+		<string>{0.57915640837263693, 0.76137866557993539}</string>
+		<key>StartPoint</key>
+		<string>{0.62796657390721089, 0.7042903919380199}</string>
+		<key>Type</key>
+		<string>line</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.22655513936372904</real>
+		<key>Frame</key>
+		<string>{{0.47199619750922989, 0.79984097608010618}, {0.31430356558675909, 0.20015902391989374}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;épais sourcil blanchâtre, teinté de chamois roussâtre devant l’œil&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>EndPoint</key>
+		<string>{0.34201064218532934, 0.25079553742420191}</string>
+		<key>StartPoint</key>
+		<string>{0.41959406419505541, 0.35280410089749314}</string>
+		<key>Type</key>
+		<string>line</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.24531842683170288</real>
+		<key>Frame</key>
+		<string>{{0.076509690521964047, 0.10048777246786064}, {0.30681248298361125, 0.18484977318963969}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;stries des flancs habituellement fines, parfois un peu plus épaisses&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+</array>
+</plist>

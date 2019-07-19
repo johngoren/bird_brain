@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>FontScale</key>
+		<real>0.27390893664685639</real>
+		<key>Frame</key>
+		<string>{{0.050310606883014031, 0.37728042913792659}, {0.0928224726039759, 0.13639973997968038}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;lärkkotts­specialist&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.58181473831239439</real>
+		<key>Frame</key>
+		<string>{{0.21901004716062011, 0.10369119106214147}, {0.051108483194994413, 0.064214783979366336}}</string>
+		<key>Text</key>
+		<string>&lt;p class="right"&gt;&lt;b&gt;juv.&lt;/b&gt;&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.13061155074643524</real>
+		<key>Frame</key>
+		<string>{{0.34842141060519494, 0.65086966721371309}, {0.17124290019638966, 0.28604750133679624}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;enstaka mindre kors­näb-&lt;/p&gt;&lt;p&gt;­bar har också vita ving­-&lt;/p&gt;&lt;p&gt;band, men dessa band &lt;/p&gt;&lt;p&gt;är sma­lare, och tertial­-&lt;/p&gt;&lt;p&gt;spetsarna är jämntvitkantade, har inte&lt;/p&gt;&lt;p&gt;mer vitt på sidorna&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.21377731095178096</real>
+		<key>Frame</key>
+		<string>{{0.46770976210532544, 0.46345147690167199}, {0.13658295608853488, 0.17476647811876084}}</string>
+		<key>Text</key>
+		<string>&lt;p class="right"&gt;    MINDRE KORSNÄBB ♀, vingbandad variant för jämförelse&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>EndPoint</key>
+		<string>{0.65739758916303237, 0.84469947199958983}</string>
+		<key>StartPoint</key>
+		<string>{0.67761285416439532, 0.80005788429012192}</string>
+		<key>Type</key>
+		<string>line</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.26074536187888137</real>
+		<key>Frame</key>
+		<string>{{0.6071055934079943, 0.79972786048282374}, {0.055528986124202435, 0.14328579986054185}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;kraftigt svart­fläckad&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.37151716827002057</real>
+		<key>Frame</key>
+		<string>{{0.81153918197906039, 0.73029869663948155}, {0.17795101554276843, 0.10056361031904645}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;breda vita vingband, det nedre bredast mot ryggen&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>EndPoint</key>
+		<string>{0.8094977034648988, 0.8075945211887896}</string>
+		<key>StartPoint</key>
+		<string>{0.78581780242344268, 0.75530239203231331}</string>
+		<key>Type</key>
+		<string>line</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.61935288762321228</real>
+		<key>Frame</key>
+		<string>{{0.66314159925691629, 0.35353238737478515}, {0.054585853710262033, 0.060322811895035286}}</string>
+		<key>Text</key>
+		<string>&lt;p class="right"&gt;&lt;b&gt;ad. &lt;/b&gt;♀&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.66895312755185365</real>
+		<key>Frame</key>
+		<string>{{0.93490434381156673, 0.22638058697599267}, {0.054585853710262033, 0.055850112957048594}}</string>
+		<key>Text</key>
+		<string>&lt;p class="right"&gt;&lt;b&gt;ad. &lt;/b&gt;♂&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.28870357399306573</real>
+		<key>Frame</key>
+		<string>{{0.93265011965868672, 0.081792854524063069}, {0.062721575511683683, 0.12940992458111836}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;mer klar-­&lt;/p&gt;&lt;p&gt;röd än tegel­röd&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+</array>
+</plist>

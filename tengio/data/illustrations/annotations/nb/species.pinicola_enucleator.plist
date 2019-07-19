@@ -1,0 +1,118 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>FontScale</key>
+		<real>0.20938420544802738</real>
+		<key>Frame</key>
+		<string>{{0.056789500383027783, 0.214621524853367}, {0.072832826047377688, 0.12343110678695036}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;﻿vinterflokk med fugler som spiser rognebær&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.60626468574811743</real>
+		<key>Frame</key>
+		<string>{{0.21778834860527765, 0.2082877159742422}, {0.089133369385224148, 0.042629110402933393}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;&lt;b&gt;1. vinter &lt;/b&gt;♂&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>EndPoint</key>
+		<string>{0.57414018544576928, 0.17394788094523125}</string>
+		<key>StartPoint</key>
+		<string>{0.54653725258371377, 0.15123499729046336}</string>
+		<key>Type</key>
+		<string>line</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.17084809584434138</real>
+		<key>Frame</key>
+		<string>{{0.57732389037653953, 0.085615558453593685}, {0.1699378132587942, 0.15127194771724586}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;﻿oransjerøde innslag hos ung ♂ a﻿nlegges ofte allerede 1. vinter (men enkelt ♀♀ kan ﻿også ha svak oransje tone)&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>EndPoint</key>
+		<string>{0.70542023098358109, 0.75428768841137916}</string>
+		<key>StartPoint</key>
+		<string>{0.720475201450821, 0.76446154802888477}</string>
+		<key>Type</key>
+		<string>line</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.24615245932733959</real>
+		<key>Frame</key>
+		<string>{{0.72500665806666154, 0.67431965514323955}, {0.065382106535564755, 0.10499397118672511}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;﻿kraftig, avrundet form&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.61707656962072988</real>
+		<key>Frame</key>
+		<string>{{0.50193660452897981, 0.41324966589255502}, {0.11560938190281299, 0.041882199867094107}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;♀&lt;b&gt; / 1. vinter &lt;/b&gt;♂&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>EndPoint</key>
+		<string>{0.51280937926862014, 0.71652860680341057}</string>
+		<key>StartPoint</key>
+		<string>{0.48605013192708418, 0.75914615969583155}</string>
+		<key>Type</key>
+		<string>line</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.36868447256450365</real>
+		<key>Frame</key>
+		<string>{{0.42607858991899128, 0.74270450477809369}, {0.1140614612899344, 0.07009930210075381}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;﻿hvite vingebånd og tertiærkanter&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.71992793690084733</real>
+		<key>Frame</key>
+		<string>{{0.69311825393920135, 0.31913799647630331}, {0.057015873776548966, 0.03589876555341355}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;&lt;b&gt;ad. &lt;/b&gt;♂&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>EndPoint</key>
+		<string>{0.68239639606095992, 0.89154542699821338}</string>
+		<key>StartPoint</key>
+		<string>{0.65728908600216329, 0.92254685278062798}</string>
+		<key>Type</key>
+		<string>line</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.27428418368201068</real>
+		<key>Frame</key>
+		<string>{{0.54868317688831891, 0.84343711833581425}, {0.10226873944469496, 0.094225353701469255}}</string>
+		<key>Text</key>
+		<string>&lt;p class="right"&gt;﻿langstjertet inntrykk i den raske flukten&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+</array>
+</plist>

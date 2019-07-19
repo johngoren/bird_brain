@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>FontScale</key>
+		<real>0.3447573803868324</real>
+		<key>Frame</key>
+		<string>{{0.56178116282921742, 0.31989215037722718}, {0.16490519633405853, 0.072945271426392524}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;framträdande vit fläck (”ring”)&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.55988791306427921</real>
+		<key>Frame</key>
+		<string>{{0.73519498108714432, 0.38623722558147811}, {0.19618747274286311, 0.044916884436621729}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;ljusgult öga&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>EndPoint</key>
+		<string>{0.72871222152610349, 0.33254061786922101}</string>
+		<key>StartPoint</key>
+		<string>{0.80447947389580587, 0.29861474929786475}</string>
+		<key>Type</key>
+		<string>line</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.70555557549245174</real>
+		<key>Frame</key>
+		<string>{{0.2899104337379334, 0.04229418089001348}, {0.084220828584053095, 0.035643429890008127}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;&lt;b&gt;ad.&lt;/b&gt;&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.55428262759659108</real>
+		<key>Frame</key>
+		<string>{{0.21803134881894162, 0.72311815433677229}, {0.23866030036959784, 0.045371114728265771}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;rätt långstjärtad&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.70555557549245174</real>
+		<key>Frame</key>
+		<string>{{0.7184193524370297, 0.64693031877968443}, {0.084220828584053095, 0.035643429890008127}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;&lt;b&gt;ad.&lt;/b&gt;&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.26382728733926175</real>
+		<key>Frame</key>
+		<string>{{0.71741201863829329, 0.80306834751182121}, {0.096223502329962032, 0.09532153001380253}}</string>
+		<key>Text</key>
+		<string>&lt;p class="right"&gt;brett vitt band&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>EndPoint</key>
+		<string>{0.6564260583232846, 0.83764742595860409}</string>
+		<key>StartPoint</key>
+		<string>{0.73260038897681412, 0.86108657911976716}</string>
+		<key>Type</key>
+		<string>line</string>
+	</dict>
+</array>
+</plist>

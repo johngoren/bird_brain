@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>FontScale</key>
+		<real>0.63537122137552604</real>
+		<key>Frame</key>
+		<string>{{0.52284208087426276, 0.38789894366415456}, {0.1675681530300891, 0.046053378641618598}}</string>
+		<key>Text</key>
+		<string>&lt;p class="right"&gt;﻿hvitprikket&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>EndPoint</key>
+		<string>{0.69315249223294695, 0.42026633293920745}</string>
+		<key>StartPoint</key>
+		<string>{0.75434374636737067, 0.4271606183248588}</string>
+		<key>Type</key>
+		<string>line</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.33390529297293775</real>
+		<key>Frame</key>
+		<string>{{0.70127341489047945, 0.50905689290812339}, {0.21307379337402854, 0.087632607364407089}}</string>
+		<key>Text</key>
+		<string>&lt;p class="right"&gt;﻿svart øyenbryn og panne&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.73399537071604581</real>
+		<key>Frame</key>
+		<string>{{0.81581915610093925, 0.044537711333218044}, {0.075361940395910057, 0.039865362376126902}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;♂&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.73399263050612129</real>
+		<key>Frame</key>
+		<string>{{0.61592053510991263, 0.92236760324215838}, {0.075361607860034818, 0.039865511205225572}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;♂&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.70939569408011283</real>
+		<key>Frame</key>
+		<string>{{0.3725791838312566, 0.044537711333217544}, {0.063006480915847582, 0.041247771420346815}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;♀&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.39213160657731538</real>
+		<key>Frame</key>
+		<string>{{0.072654014996239899, 0.38464007892830365}, {0.17412723016164719, 0.074620333952156115}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;﻿svært lik ♀ av ﻿beduinhøne&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+</array>
+</plist>

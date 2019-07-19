@@ -1,0 +1,194 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>FontScale</key>
+		<real>0.66534010152284262</real>
+		<key>Frame</key>
+		<string>{{0.36497533683081729, 0.049573502777108404}, {0.059213137887938902, 0.045363822336471904}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;&lt;b&gt;JK&lt;/b&gt;&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.3032258462525525</real>
+		<key>Frame</key>
+		<string>{{0, 0.26551834591393764}, {0.092514443362126525, 0.099537590650085772}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;beachte kleinen Schnabel&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>EndPoint</key>
+		<string>{0.040763960424930891, 0.27032827992706421}</string>
+		<key>StartPoint</key>
+		<string>{0.058726434069835333, 0.24009665688894571}</string>
+		<key>Type</key>
+		<string>line</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.51886550951522503</real>
+		<key>Frame</key>
+		<string>{{0.5494650071561209, 0.06165363536477679}, {0.074466336793826651, 0.058169929597000465}}</string>
+		<key>Text</key>
+		<string>&lt;p class="center"&gt;&lt;b&gt;SK&lt;/b&gt;&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.62666500922747426</real>
+		<key>Frame</key>
+		<string>{{0.43631950184896379, 0.34579051225229446}, {0.10200354778625904, 0.048163484021582666}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;düster grau&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>EndPoint</key>
+		<string>{0.43305187086735408, 0.37283164031324884}</string>
+		<key>StartPoint</key>
+		<string>{0.40836937105659371, 0.32677655477053491}</string>
+		<key>Type</key>
+		<string>line</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.5199590583418654</real>
+		<key>Frame</key>
+		<string>{{0.028409893558312069, 0.55614758073410853}, {0.15887683920832596, 0.058047589852676343}}</string>
+		<key>Text</key>
+		<string>&lt;p class="center"&gt;Tordalk, Winter&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.50848066278147086</real>
+		<key>Frame</key>
+		<string>{{0.18967126534213297, 0.55614758073411197}, {0.16592183856947823, 0.059357950789534465}}</string>
+		<key>Text</key>
+		<string>&lt;p class="center"&gt;Papageitaucher, Winter&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.19890769718332368</real>
+		<key>Frame</key>
+		<string>{{0.025343135416377231, 0.40363461311448029}, {0.36279832236245257, 0.1517405841313158}}</string>
+		<key>Text</key>
+		<string>&lt;p class="center"&gt;Papageitaucher im Vergleich mit Tordalk kompakter, an Vorder- und Hinterende dunkler, mit dunklen Unterflügeln (weiße Unterflügeldecken des Tordalks blitzen auf) und geschlossenem Brustband&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>EndPoint</key>
+		<string>{0.39686699759045735, 0.63168326303689015}</string>
+		<key>StartPoint</key>
+		<string>{0.40413785885375902, 0.66675647807049454}</string>
+		<key>Type</key>
+		<string>line</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.5081078147471898</real>
+		<key>Frame</key>
+		<string>{{0.36104825876350793, 0.57215844195886245}, {0.04619023370522074, 0.059401507480906814}}</string>
+		<key>Text</key>
+		<string>&lt;p class="right"&gt;grau&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.56517243150287566</real>
+		<key>Frame</key>
+		<string>{{0.41527821317941405, 0.55537519724579398}, {0.063003670581332397, 0.053403825941320426}}</string>
+		<key>Text</key>
+		<string>&lt;p class="center"&gt;&lt;b&gt;SK&lt;/b&gt;&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.35094991364421385</real>
+		<key>Frame</key>
+		<string>{{0.48215856310368754, 0.51464682176574506}, {0.11753932848657997, 0.086001930718269698}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;dunkler „Oberschenkel“&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>EndPoint</key>
+		<string>{0.53405112123753773, 0.75312234571598591}</string>
+		<key>StartPoint</key>
+		<string>{0.50471137201339067, 0.74041497034434667}</string>
+		<key>Type</key>
+		<string>line</string>
+	</dict>
+	<dict>
+		<key>EndPoint</key>
+		<string>{0.53556749274794269, 0.76365137557594431}</string>
+		<key>StartPoint</key>
+		<string>{0.5140909123335804, 0.78209991763163544}</string>
+		<key>Type</key>
+		<string>line</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.7642749605007465</real>
+		<key>Frame</key>
+		<string>{{0.54102544526263907, 0.73621478627944148}, {0.077709180536459449, 0.039491507269892999}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;ohne Weiß&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>EndPoint</key>
+		<string>{0.49550217524688811, 0.60413424285781592}</string>
+		<key>StartPoint</key>
+		<string>{0.49022018425365477, 0.6698065779403084}</string>
+		<key>Type</key>
+		<string>line</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.36871869839719001</real>
+		<key>Frame</key>
+		<string>{{0.36201056680109195, 0.83868294915028085}, {0.10680680649363772, 0.081857443872562857}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;Unterflügel düster&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.64357822790776842</real>
+		<key>Frame</key>
+		<string>{{0.90298963287460687, 0.32351188623220734}, {0.074466336793826651, 0.046897748944884861}}</string>
+		<key>Text</key>
+		<string>&lt;p class="center"&gt;&lt;b&gt;PK&lt;/b&gt;&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.64357612122045371</real>
+		<key>Frame</key>
+		<string>{{0.92553366320617336, 0.73597503370499362}, {0.074466336793826651, 0.046897902460358055}}</string>
+		<key>Text</key>
+		<string>&lt;p class="center"&gt;&lt;b&gt;PK&lt;/b&gt;&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+</array>
+</plist>

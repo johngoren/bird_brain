@@ -1,0 +1,134 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>EndPoint</key>
+		<string>{0.70971046201827548, 0.80982233296890582}</string>
+		<key>StartPoint</key>
+		<string>{0.75458160343740754, 0.84037009130291151}</string>
+		<key>Type</key>
+		<string>line</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.2319634703196326</real>
+		<key>Frame</key>
+		<string>{{0.51434754577140629, 0.62730653688783733}, {0.23978758112868709, 0.13273728323704306}}</string>
+		<key>Text</key>
+		<string>&lt;p class="center"&gt;hält sich wie Dunkellaubsänger meist im Unterwuchs auf&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.33706844207391956</real>
+		<key>Frame</key>
+		<string>{{0.33458009405940337, 0.13108048838057265}, {0.14629215573265092, 0.091347029318491271}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;Beine hell und kräftig&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.43050847457626956</real>
+		<key>Frame</key>
+		<string>{{0.4538071168725803, 0.55008859221023176}, {0.21117926080590851, 0.071520545305803637}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;Flügel leuchtender gefärbt als Mantel&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>EndPoint</key>
+		<string>{0.81158918099231026, 0.34037580682201973}</string>
+		<key>StartPoint</key>
+		<string>{0.77479009675969146, 0.4215940531862406}</string>
+		<key>Type</key>
+		<string>line</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.31663931482426949</real>
+		<key>Frame</key>
+		<string>{{0.68504781392143266, 0.53020830504047378}, {0.22934138947555574, 0.097240612327476286}}</string>
+		<key>Text</key>
+		<string>&lt;p class="right"&gt;Überaugenstreif vor dem Auge beige und diffus&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.18907497174633639</real>
+		<key>Frame</key>
+		<string>{{0.19882507515752115, 0.28352303436704124}, {0.16642682611010959, 0.16284651837353037}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;apricot-beige, oft leuchtendster Bereich der Unterseite&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>EndPoint</key>
+		<string>{0.87759011916436713, 0.41529054749827099}</string>
+		<key>StartPoint</key>
+		<string>{0.87474115780442352, 0.45189936899378136}</string>
+		<key>Type</key>
+		<string>line</string>
+	</dict>
+	<dict>
+		<key>EndPoint</key>
+		<string>{0.2999632034355586, 0.42547313360960604}</string>
+		<key>StartPoint</key>
+		<string>{0.32346713465510479, 0.45456623678485503}</string>
+		<key>Type</key>
+		<string>line</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.39703008987894428</real>
+		<key>Frame</key>
+		<string>{{0.77317505425820576, 0.24824764676709482}, {0.15562451428698457, 0.077551303151487921}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;Ohrdecken gefleckt&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>EndPoint</key>
+		<string>{0.55043438966404179, 0.54039089115180905}</string>
+		<key>StartPoint</key>
+		<string>{0.55162145689735265, 0.56075606337448469}</string>
+		<key>Type</key>
+		<string>line</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.57957786651461429</real>
+		<key>Frame</key>
+		<string>{{0.79971850865920924, 0.35007350788044}, {0.10921018546455084, 0.053125218610618072}}</string>
+		<key>Text</key>
+		<string>&lt;p class="right"&gt;kräftig&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.19782175328023599</real>
+		<key>Frame</key>
+		<string>{{0, 0.00069362740658397953}, {0.35222504418703415, 0.15564618324278442}}</string>
+		<key>Text</key>
+		<string>&lt;p class="center"&gt;Beide Arten zucken nervös mit den Flügeln und schlagen den Schwanz (im Gegensatz zum Zilpzalp) aufwärts&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>EndPoint</key>
+		<string>{0.5086496230515144, 0.2033957793719412}</string>
+		<key>StartPoint</key>
+		<string>{0.45309487653259212, 0.2033957793719412}</string>
+		<key>Type</key>
+		<string>line</string>
+	</dict>
+</array>
+</plist>

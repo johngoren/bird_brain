@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>EndPoint</key>
+		<string>{0.4833162509070662, 0.79273698510022972}</string>
+		<key>StartPoint</key>
+		<string>{0.4833162509070662, 0.72089984938015472}</string>
+		<key>Type</key>
+		<string>line</string>
+	</dict>
+	<dict>
+		<key>EndPoint</key>
+		<string>{0.75972214657220205, 0.45042293236986958}</string>
+		<key>StartPoint</key>
+		<string>{0.6952358301319661, 0.51015433965011336}</string>
+		<key>Type</key>
+		<string>line</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.34181816917398411</real>
+		<key>Frame</key>
+		<string>{{0.77247599832787861, 0.3740512756303474}, {0.22466698173143934, 0.13530873568919946}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;side of head &lt;/p&gt;&lt;p&gt;and breast tinged grey&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.59682173484101242</real>
+		<key>Frame</key>
+		<string>{{0.36436101730095893, 0.76190514795866771}, {0.28288597738781146, 0.07749547579538052}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;warm red-brown&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.2362088933955509</real>
+		<key>Frame</key>
+		<string>{{0.60629568679233459, 0.75729360036200366}, {0.3550042785621968, 0.1958054315468879}}</string>
+		<key>Text</key>
+		<string>&lt;p class="right"&gt;pale supercilium and eye-&lt;/p&gt;&lt;p class="right"&gt;ring create a slightly Chiffchaff-like &lt;/p&gt;&lt;p class="right"&gt;expression&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>EndPoint</key>
+		<string>{0.75554328190060971, 0.75261740308414293}</string>
+		<key>StartPoint</key>
+		<string>{0.79512275463651172, 0.79795793494368927}</string>
+		<key>Type</key>
+		<string>line</string>
+	</dict>
+</array>
+</plist>

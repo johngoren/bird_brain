@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>FontScale</key>
+		<real>0.29007223385540543</real>
+		<key>Frame</key>
+		<string>{{0.019511299209566148, 0.49200674534998157}, {0.16602404877216409, 0.15606796658817257}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;lacks the colourful bill and neck patch of ad., eye dull greyish&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.57204706539576144</real>
+		<key>Frame</key>
+		<string>{{0.19413182713290011, 0.20687629318803988}, {0.044522614173603078, 0.079138564709150289}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;&lt;b&gt;juv.&lt;/b&gt;&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.22019148182606246</real>
+		<key>Frame</key>
+		<string>{{0.14854553400658499, 0.70610081204550335}, {0.17392330907934112, 0.20559825169469201}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;longer-tailed than &lt;/p&gt;&lt;p&gt;Bolle’s with more &lt;/p&gt;&lt;p&gt;striking tail &lt;/p&gt;&lt;p&gt;pattern&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>EndPoint</key>
+		<string>{0.40552527399318594, 0.24711546330527073}</string>
+		<key>StartPoint</key>
+		<string>{0.4240336252982192, 0.20001781208626349}</string>
+		<key>Type</key>
+		<string>line</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.37727441515038784</real>
+		<key>Frame</key>
+		<string>{{0.37032721163810095, 0.099272050128489317}, {0.12934864723572981, 0.11999484164187553}}</string>
+		<key>Text</key>
+		<string>&lt;p class="right"&gt;prominent &lt;br/&gt;light-grey band&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.68800828655813884</real>
+		<key>Frame</key>
+		<string>{{0.61748838550055274, 0.33262258324341987}, {0.056656598245888382, 0.065800055880106692}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;&lt;b&gt;ad.&lt;/b&gt; &lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>EndPoint</key>
+		<string>{0.60575683930402213, 0.88015196092458003}</string>
+		<key>StartPoint</key>
+		<string>{0.62989549828284908, 0.81929143564221696}</string>
+		<key>Type</key>
+		<string>line</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.27866154690071343</real>
+		<key>Frame</key>
+		<string>{{0.52059424433799051, 0.78720385856106434}, {0.10924898546147591, 0.16245866788944496}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;prominent silvery-grey neck patch&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.41503267973856567</real>
+		<key>Frame</key>
+		<string>{{0.64667553116171839, 0.87640908431932441}, {0.11929881634860286, 0.10907811820991724}}</string>
+		<key>Text</key>
+		<string>&lt;p class="right"&gt;pale yellowish eye&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.17627945343040563</real>
+		<key>Frame</key>
+		<string>{{0.68575806487817237, 0.32773064694344489}, {0.081936739096107242, 0.25681372854593504}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;not so extensive pink on chest as Bolle’s&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+</array>
+</plist>

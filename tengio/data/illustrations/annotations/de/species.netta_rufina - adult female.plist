@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>FontScale</key>
+		<real>0.58676957099816685</real>
+		<key>Frame</key>
+		<string>{{0.61103800616066095, 0.41059661594902896}, {0.17512144582082656, 0.058964185315218062}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;gerundet&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>EndPoint</key>
+		<string>{0.65127559042415151, 0.43652219996623565}</string>
+		<key>StartPoint</key>
+		<string>{0.64841078245232342, 0.38263486731464058}</string>
+		<key>Type</key>
+		<string>line</string>
+	</dict>
+	<dict>
+		<key>EndPoint</key>
+		<string>{0.81690414298084912, 0.20296288159190221}</string>
+		<key>StartPoint</key>
+		<string>{0.79914918667442914, 0.23799356483997375}</string>
+		<key>Type</key>
+		<string>line</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.65344540496345671</real>
+		<key>Frame</key>
+		<string>{{0.82628804633261799, 0.15867897387536631}, {0.17371195366738199, 0.052947636418993256}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;rosa Fleck&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.46886309541378779</real>
+		<key>Frame</key>
+		<string>{{0.78615945198148407, 0.067701389157679356}, {0.13911776386394534, 0.073792094238367495}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;♀&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.60023538283292843</real>
+		<key>Frame</key>
+		<string>{{0.13997913185167538, 0.93818250120554558}, {0.18675214236014154, 0.057641369887881377}}</string>
+		<key>Text</key>
+		<string>&lt;p class="right"&gt;♀&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>EndPoint</key>
+		<string>{0.29921135826135625, 0.6852239353309505}</string>
+		<key>StartPoint</key>
+		<string>{0.37603190059776992, 0.7133234873483395}</string>
+		<key>Type</key>
+		<string>line</string>
+	</dict>
+</array>
+</plist>

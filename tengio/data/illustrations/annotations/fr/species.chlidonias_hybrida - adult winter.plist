@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>EndPoint</key>
+		<string>{0.78416820191721914, 0.14186339214971527}</string>
+		<key>StartPoint</key>
+		<string>{0.78100430083326611, 0.16896467933261428}</string>
+		<key>Type</key>
+		<string>line</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.34389342885928581</real>
+		<key>Frame</key>
+		<string>{{0.74126901049519878, 0.058725971351342568}, {0.1533374985551568, 0.076866985167911239}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;assez fort&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.60476161181175025</real>
+		<key>Frame</key>
+		<string>{{0.59482530670551914, 0.023973319716055142}, {0.19027707571765032, 0.043709869441410962}}</string>
+		<key>Text</key>
+		<string>&lt;p class="right"&gt;&lt;b&gt;ad. intern.&lt;/b&gt;&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>EndPoint</key>
+		<string>{0.62037063979355012, 0.22303371534450556}</string>
+		<key>StartPoint</key>
+		<string>{0.57971675210385476, 0.24829328630490211}</string>
+		<key>Type</key>
+		<string>line</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.29419035106882746</real>
+		<key>Frame</key>
+		<string>{{0.49204854974205192, 0.21834173343085922}, {0.28084693119562615, 0.089853562495951708}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;bord inférieur de la calotte assez droit&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.27397764232740462</real>
+		<key>Frame</key>
+		<string>{{0.2137748707636194, 0.72484532544057367}, {0.12227183558612008, 0.09648251175137873}}</string>
+		<key>Text</key>
+		<string>&lt;p class="right"&gt;gris très pâle&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>EndPoint</key>
+		<string>{0.34535948279414297, 0.75436608328323451}</string>
+		<key>StartPoint</key>
+		<string>{0.42167000278120353, 0.73891892179642027}</string>
+		<key>Type</key>
+		<string>line</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.64357612122045382</real>
+		<key>Frame</key>
+		<string>{{0.15495918518375057, 0.89064684757765167}, {0.1927674342407249, 0.041073697770731936}}</string>
+		<key>Text</key>
+		<string>&lt;p class="right"&gt;&lt;b&gt;ad. intern.&lt;/b&gt;&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>EndPoint</key>
+		<string>{0.56401077528348209, 0.60435138479980532}</string>
+		<key>StartPoint</key>
+		<string>{0.51813920234537669, 0.63485748887109617}</string>
+		<key>Type</key>
+		<string>line</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.40218471923903171</real>
+		<key>Frame</key>
+		<string>{{0.57777219498837329, 0.54905226836024479}, {0.26726861982787609, 0.065726144806009468}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;amorce de marque pectorale&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+</array>
+</plist>

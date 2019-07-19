@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>EndPoint</key>
+		<string>{0.66960211517678925, 0.35997461556290067}</string>
+		<key>StartPoint</key>
+		<string>{0.64676516449992716, 0.39738024007759548}</string>
+		<key>Type</key>
+		<string>line</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.50362882314089019</real>
+		<key>Frame</key>
+		<string>{{0.81424719659185651, 0.15196847910678515}, {0.18575280340814362, 0.068266277824214641}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;﻿slitt drakt&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.2102330889638562</real>
+		<key>Frame</key>
+		<string>{{0.6093661214263173, 0.37494865015467077}, {0.36366610332080385, 0.1635368881761953}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;﻿hodetegning variabel, lys kinnflekk oftest tydelig om sommeren&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.63999791667344863</real>
+		<key>Frame</key>
+		<string>{{0.1185098873664916, 0.23512199715104967}, {0.14270491561831186, 0.053720276683901613}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;&lt;b&gt;ad. &lt;/b&gt;♀&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.29223242881846279</real>
+		<key>Frame</key>
+		<string>{{0.1227840653591827, 0.0066402481759886721}, {0.35210755613192884, 0.1176490415517025}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;﻿det hvite vingefeltet ser ofte ut som en smal linje&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.63373076885884727</real>
+		<key>Frame</key>
+		<string>{{0.4764146819342393, 0.63101892208220522}, {0.13462730369115236, 0.054251532117854329}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;&lt;b&gt;ad. &lt;/b&gt;♀&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>EndPoint</key>
+		<string>{0.2553714934038992, 0.80822802801052218}</string>
+		<key>StartPoint</key>
+		<string>{0.32771676710774483, 0.82830138403392017}</string>
+		<key>Type</key>
+		<string>line</string>
+	</dict>
+</array>
+</plist>

@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>EndPoint</key>
+		<string>{0.45160841750600655, 0.44353802749555227}</string>
+		<key>StartPoint</key>
+		<string>{0.51120698462995395, 0.39858313746242402}</string>
+		<key>Type</key>
+		<string>line</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.3285291943828289</real>
+		<key>Frame</key>
+		<string>{{0.30879085376804444, 0.43737207968220571}, {0.23667357495677782, 0.092103682895037148}}</string>
+		<key>Text</key>
+		<string>&lt;p class="right"&gt;légèrement plus sombre que le C. gris&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>EndPoint</key>
+		<string>{0.66620358012291536, 0.29589382307996143}</string>
+		<key>StartPoint</key>
+		<string>{0.68958821121260339, 0.26891257434725457}</string>
+		<key>Type</key>
+		<string>line</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.12561564990865853</real>
+		<key>Frame</key>
+		<string>{{0.67232647055559114, 0.15993781535205581}, {0.23112042762633161, 0.24088359024692196}}</string>
+		<key>Text</key>
+		<string>&lt;p class="right"&gt;barres en général moins nombreuses, plus larges et plus espacées que chez le C. gris&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.63965123183160222</real>
+		<key>Frame</key>
+		<string>{{0.81332336223238977, 0.40724403439396306}, {0.12784413230188924, 0.047305073820547522}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;♂ &lt;b&gt;ad.&lt;/b&gt;&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.24571586511888788</real>
+		<key>Frame</key>
+		<string>{{0.32881346949472451, 0.019127417666638884}, {0.57683822034459942, 0.12314527890397967}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;bas ventre et couv. sous-caudales fortement teintés de chamois et barrés caractéristiques du C. oriental, mais certains C. gris s’en approchent&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>EndPoint</key>
+		<string>{0.35823964567728012, 0.21034954533637187}</string>
+		<key>StartPoint</key>
+		<string>{0.43701953649304282, 0.14905136353715837}</string>
+		<key>Type</key>
+		<string>line</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.20840806461871145</real>
+		<key>Frame</key>
+		<string>{{0.67183484383015946, 0.5266170311547026}, {0.22793602724569462, 0.14518991285945365}}</string>
+		<key>Text</key>
+		<string>&lt;p class="right"&gt;♂ ad. surveillé par deux Pouillots boréaux&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+</array>
+</plist>

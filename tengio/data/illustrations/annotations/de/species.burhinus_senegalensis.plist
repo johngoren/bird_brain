@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>FontScale</key>
+		<real>0.58415622423436819</real>
+		<key>Frame</key>
+		<string>{{0.63430388620430034, 0.50751346828311006}, {0.36351383783812485, 0.076063601583714807}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;weißer Fleck größer als bei Triel&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>EndPoint</key>
+		<string>{0.63166878622767164, 0.55945924185927198}</string>
+		<key>StartPoint</key>
+		<string>{0.59867113253959459, 0.54245513430963188}</string>
+		<key>Type</key>
+		<string>line</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.34100625926913902</real>
+		<key>Frame</key>
+		<string>{{0.24469418634196827, 0.81505739291877621}, {0.26187560458739878, 0.13029973818674512}}</string>
+		<key>Text</key>
+		<string>&lt;p class="right"&gt;Schnabel kräftiger mit weniger Gelb als bei Triel&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>EndPoint</key>
+		<string>{0.46451763438667681, 0.69359197274825179}</string>
+		<key>StartPoint</key>
+		<string>{0.46451763438667681, 0.81505739291877621}</string>
+		<key>Type</key>
+		<string>line</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.18669967862888071</real>
+		<key>Frame</key>
+		<string>{{0.38323428356990819, 0.078986931404226843}, {0.12277812748124398, 0.2379919806457384}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;ohne weiße, schwarz eingefasste Flügelbinde&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>EndPoint</key>
+		<string>{0.39415545339047697, 0.33469240002864942}</string>
+		<key>StartPoint</key>
+		<string>{0.34228824888924608, 0.43080365601159154}</string>
+		<key>Type</key>
+		<string>line</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.28807354184278994</real>
+		<key>Frame</key>
+		<string>{{0.072623767264429526, 0.0018659538604842857}, {0.18663526345715037, 0.15424195508749131}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;Schwanzspitze meist einfarbiger als bei Triel&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>EndPoint</key>
+		<string>{0.10967050311097638, 0.15849438306575228}</string>
+		<key>StartPoint</key>
+		<string>{0.084412428820888702, 0.20431403821981103}</string>
+		<key>Type</key>
+		<string>line</string>
+	</dict>
+</array>
+</plist>

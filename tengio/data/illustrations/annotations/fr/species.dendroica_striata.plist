@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>EndPoint</key>
+		<string>{0.79319383154284351, 0.59180203266109188}</string>
+		<key>StartPoint</key>
+		<string>{0.74371896478665189, 0.60082231132640185}</string>
+		<key>Type</key>
+		<string>line</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.23054527358854998</real>
+		<key>Frame</key>
+		<string>{{0.51549619233065769, 0.76318732730201222}, {0.47878903312445004, 0.22586283313608532}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;bien plus grande que le Pouillot à grands sourcils, striée dessus et dessous et à sourcil plus discret&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.48000058593821671</real>
+		<key>Frame</key>
+		<string>{{0.72009870581917901, 0.23215265481648864}, {0.27990129418082105, 0.10848238561430883}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;stries estompées&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>EndPoint</key>
+		<string>{0.71020373246793911, 0.32734386270082994}</string>
+		<key>StartPoint</key>
+		<string>{0.67126222444048433, 0.38269557269250976}</string>
+		<key>Type</key>
+		<string>line</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.28818771602205667</real>
+		<key>Frame</key>
+		<string>{{0.58873683417746536, 0.010096561915152501}, {0.34490178041521663, 0.18068642681098337}}</string>
+		<key>Text</key>
+		<string>&lt;p class="right"&gt;âge et sexe très difficiles à identifier en automne&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>EndPoint</key>
+		<string>{0.45830994115111029, 0.061387689615220689}</string>
+		<key>StartPoint</key>
+		<string>{0.49325691239394542, 0.089425523530347453}</string>
+		<key>Type</key>
+		<string>line</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.61903112661599591</real>
+		<key>Frame</key>
+		<string>{{0.34313214040585582, 0}, {0.10956218256819727, 0.084117916563419326}}</string>
+		<key>Text</key>
+		<string>&lt;p class="right"&gt;pâle&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.36238033272754866</real>
+		<key>Frame</key>
+		<string>{{0, 0.038096113536180656}, {0.34951599418084917, 0.14369325251984144}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;nettes barres alaires et liserés des tertiaires blancs&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.37385001017002822</real>
+		<key>Frame</key>
+		<string>{{0.75667904910515937, 0.47040407600056744}, {0.12620792797632979, 0.13928475924117659}}</string>
+		<key>Text</key>
+		<string>&lt;p class="right"&gt;jaune terne&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.42000025634781418</real>
+		<key>Frame</key>
+		<string>{{0.018193983258730541, 0.41729039143731061}, {0.24753393012534156, 0.12397994494489505}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;taches caudales pâles&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>EndPoint</key>
+		<string>{0.089054760161149688, 0.53932041133564435}</string>
+		<key>StartPoint</key>
+		<string>{0.11331340450611936, 0.59180203266109188}</string>
+		<key>Type</key>
+		<string>line</string>
+	</dict>
+</array>
+</plist>

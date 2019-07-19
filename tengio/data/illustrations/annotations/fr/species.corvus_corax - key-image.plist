@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>EndPoint</key>
+		<string>{0.90307247544348801, 0.80406915308249738}</string>
+		<key>StartPoint</key>
+		<string>{0.90366455209827434, 0.8597113344197993}</string>
+		<key>Type</key>
+		<string>line</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.3123122210492712</real>
+		<key>Frame</key>
+		<string>{{0.88538327434504449, 0.67296569351529434}, {0.11461672565495561, 0.12653996876131182}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;très puissant&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.20011254924029437</real>
+		<key>Frame</key>
+		<string>{{0.72361021860268704, 0.2882126950808036}, {0.16888581555604876, 0.19748875742867705}}</string>
+		<key>Text</key>
+		<string>&lt;p class="center"&gt;grand, de la taille d’une Buse variable&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+</array>
+</plist>

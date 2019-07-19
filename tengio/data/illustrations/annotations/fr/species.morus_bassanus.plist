@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>FontScale</key>
+		<real>0.27009783071033916</real>
+		<key>Frame</key>
+		<string>{{0.52227181879928053, 0.15815845384109226}, {0.11723096640122625, 0.14451073142391416}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;&lt;b&gt;3e année civ.&lt;/b&gt;&lt;/p&gt;&lt;p&gt;(août-sept.)&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.63533939671065265</real>
+		<key>Frame</key>
+		<string>{{0.91633128980369305, 0.040727102626387887}, {0.083118453576306664, 0.06143493583751377}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;&lt;b&gt;ad. intern.&lt;/b&gt;&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.24698125423648565</real>
+		<key>Frame</key>
+		<string>{{0.54299324317697195, 0.52942379531300143}, {0.11978686421075639, 0.15803642747149668}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;&lt;b&gt;4e année civ.&lt;/b&gt;&lt;/p&gt;&lt;p&gt;(été)&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.25813008130081605</real>
+		<key>Frame</key>
+		<string>{{0.70748729012041622, 0.5392586387956988}, {0.10237144865424375, 0.15121071854650306}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;&lt;b&gt;4e année civ.&lt;/b&gt;&lt;/p&gt;&lt;p&gt;(variante)&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.65670295754818619</real>
+		<key>Frame</key>
+		<string>{{0.53960431110883811, 0.038115560204854862}, {0.058930265373278945, 0.059436362549196591}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;&lt;b&gt;juv.&lt;/b&gt;&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.42333319337637437</real>
+		<key>Frame</key>
+		<string>{{0.25858778735113036, 0.21842906127939948}, {0.094211414340531818, 0.092201688132830403}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;&lt;b&gt;ad. nuptial&lt;/b&gt;&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.63130314161678958</real>
+		<key>Frame</key>
+		<string>{{0.028050616281431, 0.32344587848088741}, {0.039546783758223042, 0.06182772189601534}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;&lt;b&gt;juv.&lt;/b&gt;&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.47924528301883651</real>
+		<key>Frame</key>
+		<string>{{0.41554229049775354, 0.44244689826287131}, {0.16094585783767545, 0.08144479759111059}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;&lt;b&gt;2e année civ.&lt;/b&gt;&lt;/p&gt;&lt;p&gt;(mai-oct.)&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+</array>
+</plist>

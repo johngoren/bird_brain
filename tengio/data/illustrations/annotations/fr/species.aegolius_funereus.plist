@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>FontScale</key>
+		<real>0.26478835301881398</real>
+		<key>Frame</key>
+		<string>{{0.22398823969540074, 0.783692079630672}, {0.10812120302534856, 0.14799031027363069}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;♀ observant depuis son nid dans un vieux tremble&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.30176400566759859</real>
+		<key>Frame</key>
+		<string>{{0.21565824863539446, 0.60268321483816567}, {0.17067080266934789, 0.1298568079165231}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;trois jeunes à peine sortis du nid, âgés d’environ 4 semaines&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.21108296913922164</real>
+		<key>Frame</key>
+		<string>{{0.52075476190169079, 0.40697305656006233}, {0.070695866644036376, 0.18564316524395857}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;brun sombre uniforme&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>EndPoint</key>
+		<string>{0.51395729581468208, 0.49013581468158801}</string>
+		<key>StartPoint</key>
+		<string>{0.49280881102196722, 0.44080366956425554}</string>
+		<key>Type</key>
+		<string>line</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.49715839767766323</real>
+		<key>Frame</key>
+		<string>{{0.78887481535701698, 0.85662558582856263}, {0.14028961982299976, 0.07882017220898796}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;expression étonnée&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+</array>
+</plist>

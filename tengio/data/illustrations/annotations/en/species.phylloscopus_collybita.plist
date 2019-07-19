@@ -1,0 +1,338 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>EndPoint</key>
+		<string>{0.69156145487778842, 0.71085691498588466}</string>
+		<key>StartPoint</key>
+		<string>{0.63189927014765135, 0.6667036661800444}</string>
+		<key>Type</key>
+		<string>line</string>
+	</dict>
+	<dict>
+		<key>EndPoint</key>
+		<string>{0.69337755544771384, 0.68287448232511683}</string>
+		<key>StartPoint</key>
+		<string>{0.69376811989231668, 0.72336422965937974}</string>
+		<key>Type</key>
+		<string>line</string>
+	</dict>
+	<dict>
+		<key>EndPoint</key>
+		<string>{0.63187190104034641, 0.64567004618960955}</string>
+		<key>StartPoint</key>
+		<string>{0.63186748506823665, 0.68355274278736988}</string>
+		<key>Type</key>
+		<string>line</string>
+	</dict>
+	<dict>
+		<key>EndPoint</key>
+		<string>{0.66319275319027282, 0.68987459909314031}</string>
+		<key>StartPoint</key>
+		<string>{0.6632834399153521, 0.62681589718575781}</string>
+		<key>Type</key>
+		<string>line</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.29698918444894462</real>
+		<key>Frame</key>
+		<string>{{0.60297906844675864, 0.53010971905000626}, {0.095585310835929846, 0.093415542255355172}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;longer primary projection than Chiffchaff&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>EndPoint</key>
+		<string>{0.77025336240963516, 0.56652879043665694}</string>
+		<key>StartPoint</key>
+		<string>{0.75015872319981081, 0.5535386974934845}</string>
+		<key>Type</key>
+		<string>line</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.71150227569348345</real>
+		<key>Frame</key>
+		<string>{{0.72111757259840747, 0.52601471284687129}, {0.032028191565024101, 0.038992715353205379}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;pale&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.23069401881957627</real>
+		<key>Frame</key>
+		<string>{{0.87675482360179791, 0.56418823314957023}, {0.08215733057846844, 0.12026061989483884}}</string>
+		<key>Text</key>
+		<string>&lt;p class="right"&gt;cleaner below than Chiffchaff&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>EndPoint</key>
+		<string>{0.89989398954396671, 0.66552266089281398}</string>
+		<key>StartPoint</key>
+		<string>{0.85687755035469715, 0.72147368283995672}</string>
+		<key>Type</key>
+		<string>line</string>
+	</dict>
+	<dict>
+		<key>EndPoint</key>
+		<string>{0.93291309539932321, 0.79498278536884781}</string>
+		<key>StartPoint</key>
+		<string>{0.89978232055946206, 0.83194798678914672}</string>
+		<key>Type</key>
+		<string>line</string>
+	</dict>
+	<dict>
+		<key>EndPoint</key>
+		<string>{0.92549712272331297, 0.89813119008977182}</string>
+		<key>StartPoint</key>
+		<string>{0.91589520945675817, 0.88484848240548308}</string>
+		<key>Type</key>
+		<string>line</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.28555368184371266</real>
+		<key>Frame</key>
+		<string>{{0.88620486163390289, 0.83730786297650506}, {0.087533186491983578, 0.097156532985829935}}</string>
+		<key>Text</key>
+		<string>&lt;p class="right"&gt;supercilium distinct&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.23069401881957627</real>
+		<key>Frame</key>
+		<string>{{0.92232090237588815, 0.69525944122489225}, {0.050182997859286649, 0.12026061989483884}}</string>
+		<key>Text</key>
+		<string>&lt;p class="right"&gt;pale cheek, diffuse frame&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.34194658128205568</real>
+		<key>Frame</key>
+		<string>{{0.5847309636508089, 0.80862991069149759}, {0.12341776809585264, 0.081133742016825799}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;(to compare; &lt;/p&gt;&lt;p&gt;a short-winged &lt;/p&gt;&lt;p&gt;♀ shown)&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.61859679261489697</real>
+		<key>Frame</key>
+		<string>{{0.58511113250072311, 0.8863386834017879}, {0.30242161913680626, 0.044848932358666972}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;WILLOW WARBLER&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.34194658128205568</real>
+		<key>Frame</key>
+		<string>{{0.34509786525398778, 0.52677832584478002}, {0.17614490046090886, 0.081133742016825799}}</string>
+		<key>Text</key>
+		<string>&lt;p class="center"&gt;all species in the Chiffchaff group habitually dip &lt;/p&gt;&lt;p class="center"&gt;their tail downward&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.18978477267381116</real>
+		<key>Frame</key>
+		<string>{{0.085569263711583646, 0.052355165615496371}, {0.23825431057137839, 0.14618351787873568}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;a certain variation in e.g. amount of yellow on underparts, even in W and C Europe, makes subspecific identification of individual birds difficult or impossible&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.37995512341060556</real>
+		<key>Frame</key>
+		<string>{{0.38438197974526811, 0.065735351439882614}, {0.12745059514377532, 0.073017585498623305}}</string>
+		<key>Text</key>
+		<string>&lt;p class="right"&gt;&lt;b&gt;&lt;i&gt;collybita&lt;/i&gt;&lt;/b&gt;&lt;/p&gt;&lt;p class="right"&gt;(W and C Europe)&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.22987225894572258</real>
+		<key>Frame</key>
+		<string>{{0.47453630701097566, 0.18501795264607776}, {0.10427488454828746, 0.12069053411018435}}</string>
+		<key>Text</key>
+		<string>&lt;p class="center"&gt;extensive overlap between these forms&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>EndPoint</key>
+		<string>{0.46782904230175065, 0.26403370682347183}</string>
+		<key>StartPoint</key>
+		<string>{0.4988011021244062, 0.26403516665713544}</string>
+		<key>Type</key>
+		<string>line</string>
+	</dict>
+	<dict>
+		<key>EndPoint</key>
+		<string>{0.68354472802033017, 0.263510881824842}</string>
+		<key>StartPoint</key>
+		<string>{0.68363541474540668, 0.20045217991745984}</string>
+		<key>Type</key>
+		<string>line</string>
+	</dict>
+	<dict>
+		<key>EndPoint</key>
+		<string>{0.66210106906173538, 0.23241344972883021}</string>
+		<key>StartPoint</key>
+		<string>{0.66164737831162679, 0.27029614632659316}</string>
+		<key>Type</key>
+		<string>line</string>
+	</dict>
+	<dict>
+		<key>EndPoint</key>
+		<string>{0.70538585491441974, 0.27450937025161115}</string>
+		<key>StartPoint</key>
+		<string>{0.66231114123628521, 0.25439122033707945}</string>
+		<key>Type</key>
+		<string>line</string>
+	</dict>
+	<dict>
+		<key>EndPoint</key>
+		<string>{0.70604985044490187, 0.25323398485493753}</string>
+		<key>StartPoint</key>
+		<string>{0.70453957063992578, 0.29372373218920272}</string>
+		<key>Type</key>
+		<string>line</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.71150227569348345</real>
+		<key>Frame</key>
+		<string>{{0.72208053814175532, 0.093725484713482202}, {0.032028191565023845, 0.038992715353205379}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;dark&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>EndPoint</key>
+		<string>{0.77298533880410969, 0.13609824863890305}</string>
+		<key>StartPoint</key>
+		<string>{0.75036224957313413, 0.12214942450208756}</string>
+		<key>Type</key>
+		<string>line</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.19352380952377593</real>
+		<key>Frame</key>
+		<string>{{0.61717203884360849, 0.053802410204668506}, {0.10593931325551363, 0.14335913383239474}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;short primary &lt;/p&gt;&lt;p&gt;projection, half &lt;/p&gt;&lt;p&gt;to two thirds &lt;/p&gt;&lt;p&gt;the length of &lt;/p&gt;&lt;p&gt;the tertials&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>EndPoint</key>
+		<string>{0.68162236034977552, 0.38296626119719834}</string>
+		<key>StartPoint</key>
+		<string>{0.68175765752627415, 0.29658451666254981}</string>
+		<key>Type</key>
+		<string>line</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.28555368184371266</real>
+		<key>Frame</key>
+		<string>{{0.59754808487653444, 0.37091281424189637}, {0.12138248279449083, 0.097156532985829935}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;primary tips evenly spaced (unlike Willow Warbler)&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>EndPoint</key>
+		<string>{0.88643769370836989, 0.2129447020094436}</string>
+		<key>StartPoint</key>
+		<string>{0.8510246315174147, 0.27872606456221694}</string>
+		<key>Type</key>
+		<string>line</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.51675852873531458</real>
+		<key>Frame</key>
+		<string>{{0.87280274901409394, 0.16179962435838147}, {0.08215733057846844, 0.053687368793257251}}</string>
+		<key>Text</key>
+		<string>&lt;p class="right"&gt;duller flank than Willow&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.37995512341060556</real>
+		<key>Frame</key>
+		<string>{{0.82528381522536276, 0.051493183323548387}, {0.1274505951437751, 0.073017585498623305}}</string>
+		<key>Text</key>
+		<string>&lt;p class="right"&gt;&lt;b&gt;&lt;i&gt;abietinus&lt;/i&gt;&lt;/b&gt;(N and NE Europe)&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.19695874050620632</real>
+		<key>Frame</key>
+		<string>{{0.89000655013306029, 0.24353188482247673}, {0.083637146981439037, 0.14085897197540032}}</string>
+		<key>Text</key>
+		<string>&lt;p class="right"&gt;dark cheek,&lt;/p&gt;&lt;p class="right"&gt;making&lt;/p&gt;&lt;p class="right"&gt;eye-ring&lt;/p&gt;&lt;p class="right"&gt;stand out&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>EndPoint</key>
+		<string>{0.93132521664642798, 0.35121457169689041}</string>
+		<key>StartPoint</key>
+		<string>{0.89819444180656427, 0.39801011372282696}</string>
+		<key>Type</key>
+		<string>line</string>
+	</dict>
+	<dict>
+		<key>EndPoint</key>
+		<string>{0.92958462906099493, 0.44836580087970368}</string>
+		<key>StartPoint</key>
+		<string>{0.92340423544368311, 0.43901522943767679}</string>
+		<key>Type</key>
+		<string>line</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.44698636163659011</real>
+		<key>Frame</key>
+		<string>{{0.88783415670497001, 0.43835987339728372}, {0.085809540409528193, 0.062067678323997427}}</string>
+		<key>Text</key>
+		<string>&lt;p class="right"&gt;supercilium subdued&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>EndPoint</key>
+		<string>{0.56174231272099395, 0.26351065913656097}</string>
+		<key>StartPoint</key>
+		<string>{0.59271437254364945, 0.26351211897022425}</string>
+		<key>Type</key>
+		<string>line</string>
+	</dict>
+</array>
+</plist>

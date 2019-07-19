@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>EndPoint</key>
+		<string>{0.49266177112433429, 0.78941815920312353}</string>
+		<key>StartPoint</key>
+		<string>{0.52970586968189914, 0.74004291028001146}</string>
+		<key>Type</key>
+		<string>line</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.19081216281409083</real>
+		<key>Frame</key>
+		<string>{{0.11657848518014224, 0.59048700157053957}, {0.25085401091896353, 0.27791105025231078}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;﻿sikker identifikasjon bare mulig ved å kombinere lyd og draktkarakterer&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.98506784471397524</real>
+		<key>Frame</key>
+		<string>{{0.40645130179117916, 0.79524292284471265}, {0.19244281327472157, 0.053832645998079839}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;﻿brungrå&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.29296424452135544</real>
+		<key>Frame</key>
+		<string>{{0.65819039179678751, 0.7585507452623127}, {0.265523725993347, 0.18100778357856367}}</string>
+		<key>Text</key>
+		<string>&lt;p class="right"&gt;﻿øyenbryn beige, ikke gult&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>EndPoint</key>
+		<string>{0.8169253009460814, 0.79722628379508875}</string>
+		<key>StartPoint</key>
+		<string>{0.83275811803496391, 0.82671572950500116}</string>
+		<key>Type</key>
+		<string>line</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.19242424242421916</real>
+		<key>Frame</key>
+		<string>{{0.68820720336309205, 0.17544262584477699}, {0.23550691442704169, 0.27558278468713632}}</string>
+		<key>Text</key>
+		<string>&lt;p class="right"&gt;﻿«ansikt», bryst- og kroppssider beige uten spor av gult&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>EndPoint</key>
+		<string>{0.80158803844197035, 0.41403571779025583}</string>
+		<key>StartPoint</key>
+		<string>{0.75882496333171245, 0.48030204814701383}</string>
+		<key>Type</key>
+		<string>line</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.40868865647626224</real>
+		<key>Frame</key>
+		<string>{{0.64425510404961639, 0.066879710665032746}, {0.17031181403431431, 0.12975356112351255}}</string>
+		<key>Text</key>
+		<string>&lt;p class="right"&gt;&lt;b&gt;&lt;i&gt;tristis&lt;/i&gt;&lt;/b&gt;&lt;/p&gt;&lt;p class="right"&gt;(﻿Sibir)&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.20368885324777344</real>
+		<key>Frame</key>
+		<string>{{0.11483327219592955, 0.084625571800214114}, {0.3414460990263396, 0.26034222159458581}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;﻿typiske &lt;i&gt;tristis&lt;/i&gt; mangler grønt i hodet og på framryggen, men har grønt anstrøk på vinger, overgump og stjert&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+</array>
+</plist>

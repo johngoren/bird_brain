@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>FontScale</key>
+		<real>0.37629629629629113</real>
+		<key>Frame</key>
+		<string>{{0.859312051705728, 0.11686636998542407}, {0.14068794829427189, 0.16928928979528365}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;yel­low tinge&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>EndPoint</key>
+		<string>{0.84553377259153184, 0.19565353049770259}</string>
+		<key>StartPoint</key>
+		<string>{0.79404272079130545, 0.22413347925314009}</string>
+		<key>Type</key>
+		<string>line</string>
+	</dict>
+	<dict>
+		<key>EndPoint</key>
+		<string>{0.6951176647668762, 0.85398087789955224}</string>
+		<key>StartPoint</key>
+		<string>{0.74291217932832287, 0.78508184590411156}</string>
+		<key>Type</key>
+		<string>line</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.42333364913398841</real>
+		<key>Frame</key>
+		<string>{{0.56696518426506459, 0.84952074354847151}, {0.1637008478667665, 0.15047925645152832}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;striped head-side&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.61677264727749592</real>
+		<key>Frame</key>
+		<string>{{0.22857729813120994, 0.080576953159888734}, {0.28472147068783005, 0.10328430262558932}}</string>
+		<key>Text</key>
+		<string>&lt;p class="right"&gt;&lt;b&gt;ad.&lt;/b&gt; &lt;b&gt;summer&lt;/b&gt; ♀&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+</array>
+</plist>

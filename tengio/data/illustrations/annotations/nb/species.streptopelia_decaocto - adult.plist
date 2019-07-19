@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>FontScale</key>
+		<real>0.60476254192947076</real>
+		<key>Frame</key>
+		<string>{{0.87805202088272971, 0.20342385726017376}, {0.0884847278201214, 0.056081248300055217}}</string>
+		<key>Text</key>
+		<string>&lt;p class="right"&gt;&lt;b&gt;ad.&lt;/b&gt;&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.29335942038794183</real>
+		<key>Frame</key>
+		<string>{{0.34237887772338493, 0.21287082793001508}, {0.14236162208367981, 0.11561189421382313}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;﻿kjønnene svært like&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>EndPoint</key>
+		<string>{0.42164467936880584, 0.78413176295153098}</string>
+		<key>StartPoint</key>
+		<string>{0.47619199043411581, 0.75280119305123105}</string>
+		<key>Type</key>
+		<string>line</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.2125862983909752</real>
+		<key>Frame</key>
+		<string>{{0.17515466981345676, 0.70713364841166881}, {0.23971014939274096, 0.15953915437270258}}</string>
+		<key>Text</key>
+		<string>&lt;p class="right"&gt;﻿ingen sterke kontraster på stjertoversiden&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.68800828655813895</real>
+		<key>Frame</key>
+		<string>{{0.69247418568993491, 0.71776603588539001}, {0.10029902565516632, 0.04929568282700212}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;&lt;b&gt;ad.&lt;/b&gt;&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+</array>
+</plist>

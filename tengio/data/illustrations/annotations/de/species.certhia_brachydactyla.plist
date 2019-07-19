@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>EndPoint</key>
+		<string>{0.844435275241468, 0.83280653311608532}</string>
+		<key>StartPoint</key>
+		<string>{0.80379688280396433, 0.88283849440779905}</string>
+		<key>Type</key>
+		<string>line</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.53714363772966445</real>
+		<key>Frame</key>
+		<string>{{0.77888680589883719, 0.73546044807961364}, {0.1631857886608408, 0.091200355599911687}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;lang&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.44761876160027253</real>
+		<key>Frame</key>
+		<string>{{0.66579904291383918, 0.40626673448165196}, {0.26112681313103503, 0.1094406556911079}}</string>
+		<key>Text</key>
+		<string>&lt;p class="right"&gt;kurze Hinterzehe&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>EndPoint</key>
+		<string>{0.69603550917538082, 0.46982237518428588}</string>
+		<key>StartPoint</key>
+		<string>{0.62612975176904873, 0.47861012121816371}</string>
+		<key>Type</key>
+		<string>line</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.3712241960337328</real>
+		<key>Frame</key>
+		<string>{{0.51167186534340336, 0.25834824945732238}, {0.38407703057143489, 0.13196254794966022}}</string>
+		<key>Text</key>
+		<string>&lt;p class="right"&gt;deutlich braun getönt&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>EndPoint</key>
+		<string>{0.59203216732413111, 0.39099269058199559}</string>
+		<key>StartPoint</key>
+		<string>{0.50251202938298034, 0.49605120883391673}</string>
+		<key>Type</key>
+		<string>line</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.26876897608108158</real>
+		<key>Frame</key>
+		<string>{{0.23553104216980308, 0.1087816864173041}, {0.40507699715095036, 0.18226690998144462}}</string>
+		<key>Text</key>
+		<string>&lt;p class="right"&gt;helles Flügelfeld gleichmäßig gestuft&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>EndPoint</key>
+		<string>{0.50138963408126658, 0.29137778895333999}</string>
+		<key>StartPoint</key>
+		<string>{0.34721363114003823, 0.50755039187564344}</string>
+		<key>Type</key>
+		<string>line</string>
+	</dict>
+	<dict>
+		<key>EndPoint</key>
+		<string>{0.078622021642991494, 0.56503091296383501}</string>
+		<key>StartPoint</key>
+		<string>{0.16200414397062851, 0.44305563463496761}</string>
+		<key>Type</key>
+		<string>line</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.16933316796891149</real>
+		<key>Frame</key>
+		<string>{{0.057449794098301123, 0.49642225662843326}, {0.20694719275107532, 0.28929766894911796}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;deut-liche weiße Spitzen&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+</array>
+</plist>

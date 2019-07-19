@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>FontScale</key>
+		<real>0.2845938375349969</real>
+		<key>Frame</key>
+		<string>{{0, 0.0003431865641097757}, {0.41341888295867985, 0.11807257565701976}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;…but single individ-&lt;/p&gt;&lt;p&gt;uals, especially 1st-&lt;/p&gt;&lt;p&gt;years, more difficult&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.39486980178777753</real>
+		<key>Frame</key>
+		<string>{{0.71716076930593076, 0.26767669609791273}, {0.26982172127918652, 0.085098245704624084}}</string>
+		<key>Text</key>
+		<string>&lt;p class="right"&gt;rather short, stubby&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>EndPoint</key>
+		<string>{0.82269257735877832, 0.36372228705252974}</string>
+		<key>StartPoint</key>
+		<string>{0.8069514996895657, 0.38730372863333451}</string>
+		<key>Type</key>
+		<string>line</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.63381160324397434</real>
+		<key>Frame</key>
+		<string>{{0.50128707150913565, 0.079058237002120169}, {0.16995081736096168, 0.053016901618536234}}</string>
+		<key>Text</key>
+		<string>&lt;p class="right"&gt;&lt;b&gt;1st-w.&lt;/b&gt;&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>EndPoint</key>
+		<string>{0.64788680622256145, 0.72071582779354559}</string>
+		<key>StartPoint</key>
+		<string>{0.53623505391893267, 0.72071582779354559}</string>
+		<key>Type</key>
+		<string>line</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.75036927621860072</real>
+		<key>Frame</key>
+		<string>{{0.66565837558966945, 0.68985820507980511}, {0.12333331946822279, 0.044781587518094523}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;light&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.43344709897610817</real>
+		<key>Frame</key>
+		<string>{{0.16640269822013345, 0.7569313657051151}, {0.17565450692680587, 0.077524402616257218}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;lighter ’window’&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>EndPoint</key>
+		<string>{0.31927656367089235, 0.88290851995655195}</string>
+		<key>StartPoint</key>
+		<string>{0.23900192227911907, 0.84226112626398364}</string>
+		<key>Type</key>
+		<string>line</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.63381160324397434</real>
+		<key>Frame</key>
+		<string>{{0.45596041252715902, 0.81492583668960827}, {0.16995081736096243, 0.053016901618536234}}</string>
+		<key>Text</key>
+		<string>&lt;p class="right"&gt;&lt;b&gt;1st-w.&lt;/b&gt;&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+</array>
+</plist>

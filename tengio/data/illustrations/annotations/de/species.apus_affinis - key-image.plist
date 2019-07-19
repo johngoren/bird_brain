@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>FontScale</key>
+		<real>0.25951468710089265</real>
+		<key>Frame</key>
+		<string>{{0.052374354516691729, 0.22969853310331093}, {0.4693611016771233, 0.19902976136383005}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;weißer Bürzel auch von unten gut sichtbar&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.47674246632559547</real>
+		<key>Frame</key>
+		<string>{{0.00022312099701818678, 0.47371969646126166}, {0.21512383826868109, 0.10834181951985811}}</string>
+		<key>Text</key>
+		<string>&lt;p class="right"&gt;recht-eckig&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>EndPoint</key>
+		<string>{0.30315755061805705, 0.53493770499467452}</string>
+		<key>StartPoint</key>
+		<string>{0.22857937492333197, 0.55545741733833587}</string>
+		<key>Type</key>
+		<string>line</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.35912104772864162</real>
+		<key>Frame</key>
+		<string>{{0.096034916529699088, 0.07273370827884533}, {0.32988874413143482, 0.14382656369149446}}</string>
+		<key>Text</key>
+		<string>&lt;p class="right"&gt;Flügelspitze recht breit&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>EndPoint</key>
+		<string>{0.53458356902463, 0.16423022272240784}</string>
+		<key>StartPoint</key>
+		<string>{0.44043885840035463, 0.18942434362901087}</string>
+		<key>Type</key>
+		<string>line</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.26303028087659747</real>
+		<key>Frame</key>
+		<string>{{0.66103083109653904, 0.096503648103929904}, {0.33896916890346118, 0.19636958175295488}}</string>
+		<key>Text</key>
+		<string>&lt;p class="right"&gt;in Städten oft in großen, lärmenden Trupps&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+</array>
+</plist>

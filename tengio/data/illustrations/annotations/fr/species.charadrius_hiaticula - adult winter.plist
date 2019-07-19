@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>EndPoint</key>
+		<string>{0.79217569035828872, 0.11271259491235551}</string>
+		<key>StartPoint</key>
+		<string>{0.73605500749697428, 0.10147389331245681}</string>
+		<key>Type</key>
+		<string>line</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.63999583336045995</real>
+		<key>Frame</key>
+		<string>{{0.7990276486734933, 0.084956007694317798}, {0.17391078882468802, 0.043532400339466142}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;orange&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.18405800493360247</real>
+		<key>Frame</key>
+		<string>{{-2.427932554909595e-17, 0.022162183181625942}, {0.33101114735168458, 0.15136834088519155}}</string>
+		<key>Text</key>
+		<string>&lt;p class="center"&gt;corps ramassé, poitrine bombée et pattes proportionnellement plus courtes que le Petit Gravelot&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.42973275024267865</real>
+		<key>Frame</key>
+		<string>{{0.56753530049976597, 0.34859088574346031}, {0.16264443831867612, 0.064832281965254909}}</string>
+		<key>Text</key>
+		<string>&lt;p class="right"&gt;arrondi&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>EndPoint</key>
+		<string>{0.73943642813030996, 0.39624761224166416}</string>
+		<key>StartPoint</key>
+		<string>{0.82293851025616482, 0.34229208100369574}</string>
+		<key>Type</key>
+		<string>line</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.57859066229160994</real>
+		<key>Frame</key>
+		<string>{{0.4573118932346858, 0.015580784618575625}, {0.2113110880634706, 0.04815244463692378}}</string>
+		<key>Text</key>
+		<string>&lt;p class="right"&gt;&lt;b&gt;ad. internuptial&lt;/b&gt;&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>EndPoint</key>
+		<string>{0.59848913066575882, 0.89706728133238067}</string>
+		<key>StartPoint</key>
+		<string>{0.5408575079946577, 0.87884823444369775}</string>
+		<key>Type</key>
+		<string>line</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.63999583336045995</real>
+		<key>Frame</key>
+		<string>{{0.15806150943994982, 0.85020221967329368}, {0.37414543354273666, 0.043532400339466142}}</string>
+		<key>Text</key>
+		<string>&lt;p class="right"&gt;nette barre alaire blanche&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.66881317705649124</real>
+		<key>Frame</key>
+		<string>{{0.74067849121175711, 0.60416045195626111}, {0.1365108548196351, 0.041656707417241222}}</string>
+		<key>Text</key>
+		<string>&lt;p class="right"&gt;&lt;b&gt;juv.&lt;/b&gt;&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+</array>
+</plist>

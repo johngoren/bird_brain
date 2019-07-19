@@ -1,0 +1,138 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>FontScale</key>
+		<real>0.25752789826621136</real>
+		<key>Frame</key>
+		<string>{{0.78179941973959488, 0.32527105454399896}, {0.084738867600553824, 0.14992089098367034}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;Unterflügel einfarbig grau&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>EndPoint</key>
+		<string>{0.88744750596502942, 0.4621348018909851}</string>
+		<key>StartPoint</key>
+		<string>{0.85359448533426818, 0.45620667721977376}</string>
+		<key>Type</key>
+		<string>line</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.52587991718429905</real>
+		<key>Frame</key>
+		<string>{{0.88299142902081795, 0.6563188856723331}, {0.10417713972194501, 0.073417544004996949}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;oft paarweise unterwegs&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.2281137636226282</real>
+		<key>Frame</key>
+		<string>{{0.054065732781036394, 0.67558505130676949}, {0.19853666363848876, 0.16925244381611942}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;der „Kaminvogel“ nutzt Schornsteine als Rast- und Brutplatz&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.31709868125540785</real>
+		<key>Frame</key>
+		<string>{{0.31055225324985558, 0.054080323872373506}, {0.15771520314015652, 0.12175645703844751}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;skandinavische Unterart &lt;i&gt;monedula&lt;/i&gt; intermediär gefärbt&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.15659679408138208</real>
+		<key>Frame</key>
+		<string>{{0.30623456003855609, 0.64499464751835156}, {0.14835588452892604, 0.24654918504371004}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;auffälliges helles Nackenband (auch bei einigen Vögeln in Skandinavien vorhanden)&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>EndPoint</key>
+		<string>{0.45452756651645088, 0.8328258873299732}</string>
+		<key>StartPoint</key>
+		<string>{0.42096817084781196, 0.85684910291580574}</string>
+		<key>Type</key>
+		<string>line</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.84691755850384798</real>
+		<key>Frame</key>
+		<string>{{0.58890463060919729, 0.85730971253992216}, {0.13425615758890042, 0.045587450128473164}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;&lt;b&gt;&lt;i&gt;soemmerringii&lt;/i&gt;&lt;/b&gt;&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.63724809602529509</real>
+		<key>Frame</key>
+		<string>{{0.58910161087159141, 0.79672292977503567}, {0.19963267378283164, 0.060586782764887027}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;(Finnland, Russland, O-Europa)&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.67733333333333035</real>
+		<key>Frame</key>
+		<string>{{0.57859259145585173, 0.7195652507802488}, {0.049609648193483492, 0.057001198761647526}}</string>
+		<key>Text</key>
+		<string>&lt;p class="right"&gt;grau&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>EndPoint</key>
+		<string>{0.64671016338931953, 0.73455777766626351}</string>
+		<key>StartPoint</key>
+		<string>{0.6282557331534514, 0.74564798935994581}</string>
+		<key>Type</key>
+		<string>line</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.45853580037012504</real>
+		<key>Frame</key>
+		<string>{{0.75800948590623562, 0.54931341428933722}, {0.073538913075326881, 0.084200212786128839}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;dunkles Gesicht&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>EndPoint</key>
+		<string>{0.75360544393451667, 0.61695005772762146}</string>
+		<key>StartPoint</key>
+		<string>{0.73427108015486486, 0.63339102155725469}</string>
+		<key>Type</key>
+		<string>line</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.32739294684813225</real>
+		<key>Frame</key>
+		<string>{{0.6703245509852146, 0.14156006005547872}, {0.14045582002191373, 0.11792805047547923}}</string>
+		<key>Text</key>
+		<string>&lt;p class="right"&gt;&lt;b&gt;&lt;i&gt;spermologus&lt;/i&gt;&lt;/b&gt;&lt;/p&gt;&lt;p class="right"&gt;(S- u. W-Europa)&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+</array>
+</plist>

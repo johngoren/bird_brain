@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>FontScale</key>
+		<real>0.30400957510474996</real>
+		<key>Frame</key>
+		<string>{{0.41752077501524065, 0.60223103061326178}, {0.41998664729472474, 0.086283824461173289}}</string>
+		<key>Text</key>
+		<string>&lt;p class="center"&gt;﻿sjelden gjest til Europa, har først og fremst tilhold i saksaulkratt (&lt;i&gt;Haloxylon&lt;/i&gt;) i Sentral-Asia&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.311752071187479</real>
+		<key>Frame</key>
+		<string>{{0.48430126054781575, 0.38239058618268734}, {0.11215062428824857, 0.084140928760917416}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;﻿lyst gråbrun&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>EndPoint</key>
+		<string>{0.53001172748503089, 0.36823022975697195}</string>
+		<key>StartPoint</key>
+		<string>{0.50740013485712154, 0.40926714550768839}</string>
+		<key>Type</key>
+		<string>line</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.16211903622151849</real>
+		<key>Frame</key>
+		<string>{{0.2328309947142051, 0.064390027867806968}, {0.28642567622957033, 0.16180153438003475}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;﻿svært kort håndsvingfjær-projeksjon (maks. ¹/³ ﻿av tertiærlengden)&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.22324763788192045</real>
+		<key>Frame</key>
+		<string>{{0.62894607487467491, 0.39886248325222851}, {0.27221149770852759, 0.11749781122758492}}</string>
+		<key>Text</key>
+		<string>&lt;p class="right"&gt;﻿som regel svak eller ingen øyenbryn-stripe bak øyet&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>EndPoint</key>
+		<string>{0.80294330382142332, 0.33081909026372663}</string>
+		<key>StartPoint</key>
+		<string>{0.8009868442843382, 0.35405530870030022}</string>
+		<key>Type</key>
+		<string>line</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.10199779138640769</real>
+		<key>Frame</key>
+		<string>{{0.71777209864022407, 0.065629292851094631}, {0.19434164735066586, 0.25717330205200606}}</string>
+		<key>Text</key>
+		<string>&lt;p class="right"&gt;﻿ganske langt nebb med bare antydning til mørk spiss på undernebbet&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>EndPoint</key>
+		<string>{0.72691859190379926, 0.40286427642738898}</string>
+		<key>StartPoint</key>
+		<string>{0.76596266940953639, 0.43072192053080194}</string>
+		<key>Type</key>
+		<string>line</string>
+	</dict>
+	<dict>
+		<key>EndPoint</key>
+		<string>{0.25326092981181952, 0.24555486802864437}</string>
+		<key>StartPoint</key>
+		<string>{0.25226715692074803, 0.2961059315181887}</string>
+		<key>Type</key>
+		<string>line</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.36363636363636365</real>
+		<key>Frame</key>
+		<string>{{0.60729735011269881, 0.12516564808971978}, {0.093613062150154303, 0.072135549235348845}}</string>
+		<key>Text</key>
+		<string>&lt;p class="right"&gt;&lt;b&gt;ung&lt;/b&gt;&lt;/p&gt;&lt;p class="right"&gt;&lt;b&gt;høst&lt;/b&gt;&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>EndPoint</key>
+		<string>{0.27204045817994932, 0.22672567508026148}</string>
+		<key>StartPoint</key>
+		<string>{0.28680205316839008, 0.25562988127216296}</string>
+		<key>Type</key>
+		<string>line</string>
+	</dict>
+	<dict>
+		<key>EndPoint</key>
+		<string>{0.31547502782510783, 0.24540344318196394}</string>
+		<key>StartPoint</key>
+		<string>{0.31278256467334437, 0.31144836613777765}</string>
+		<key>Type</key>
+		<string>line</string>
+	</dict>
+	<dict>
+		<key>EndPoint</key>
+		<string>{0.25241170367136717, 0.25466993180579212}</string>
+		<key>StartPoint</key>
+		<string>{0.31417909864965604, 0.25466993180579212}</string>
+		<key>Type</key>
+		<string>line</string>
+	</dict>
+</array>
+</plist>

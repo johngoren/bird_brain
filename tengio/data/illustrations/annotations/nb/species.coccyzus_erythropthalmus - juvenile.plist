@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>FontScale</key>
+		<real>0.71904852465731395</real>
+		<key>Frame</key>
+		<string>{{0.36922893078303387, 0.87674553204947714}, {0.14074646656838927, 0.061734246344099887}}</string>
+		<key>Text</key>
+		<string>&lt;p class="right"&gt;&lt;b&gt;juv.&lt;/b&gt;&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>EndPoint</key>
+		<string>{0.86558876063171286, 0.90991262942100026}</string>
+		<key>StartPoint</key>
+		<string>{0.87739467448099806, 0.95446395827037989}</string>
+		<key>Type</key>
+		<string>line</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.77044465842783538</real>
+		<key>Frame</key>
+		<string>{{0.76706743334606498, 0.94021170639412621}, {0.14606818188151061, 0.057615973151320159}}</string>
+		<key>Text</key>
+		<string>&lt;p class="right"&gt;grått&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.36709474610057791</real>
+		<key>Frame</key>
+		<string>{{0.75532367074577922, 0.63701281047384239}, {0.17078533378997976, 0.12092223935668667}}</string>
+		<key>Text</key>
+		<string>&lt;p class="right"&gt;﻿beigetonet&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>EndPoint</key>
+		<string>{0.81684677973165964, 0.76733779613000264}</string>
+		<key>StartPoint</key>
+		<string>{0.75162733559177808, 0.81592778089658713}</string>
+		<key>Type</key>
+		<string>line</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.36289261178938337</real>
+		<key>Frame</key>
+		<string>{{0.50457846850642585, 0.3773143094137314}, {0.43279011629055397, 0.12232246486274388}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;﻿mattere brunfarget håndsvingfjærfelt&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>EndPoint</key>
+		<string>{0.49434233610584993, 0.48196391791339327}</string>
+		<key>StartPoint</key>
+		<string>{0.37491618409421296, 0.57093874549749468}</string>
+		<key>Type</key>
+		<string>line</string>
+	</dict>
+	<dict>
+		<key>EndPoint</key>
+		<string>{0.38593722127005586, 0.36519632339525182}</string>
+		<key>StartPoint</key>
+		<string>{0.30493859855736294, 0.42554215883785973}</string>
+		<key>Type</key>
+		<string>line</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.65470747488336589</real>
+		<key>Frame</key>
+		<string>{{0.35616235019077347, 0.29500843728051768}, {0.31820797966156783, 0.067801148539604089}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;﻿beigegultonet&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>EndPoint</key>
+		<string>{0.33947194298958788, 0.20617041247480342}</string>
+		<key>StartPoint</key>
+		<string>{0.27646475980810215, 0.25311221198489325}</string>
+		<key>Type</key>
+		<string>line</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.44639377235939665</real>
+		<key>Frame</key>
+		<string>{{0.27312408781677999, 0.099789935467919533}, {0.34827252589977953, 0.099441169440906502}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;﻿smale hvite spisser&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+</array>
+</plist>

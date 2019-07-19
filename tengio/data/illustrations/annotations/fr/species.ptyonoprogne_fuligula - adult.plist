@@ -1,0 +1,124 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>FontScale</key>
+		<real>0.21166666666666656</real>
+		<key>Frame</key>
+		<string>{{0.35064505137526908, 0.363043007458206}, {0.19121180213436301, 0.11494126480501873}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;comme une petite H. de rochers décolorée&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.67142725419283489</real>
+		<key>Frame</key>
+		<string>{{0.88215707276702138, 0.39002617695807912}, {0.10818214224306574, 0.036235101020700537}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;pâle&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>EndPoint</key>
+		<string>{0.87068924147794624, 0.42130750986504312}</string>
+		<key>StartPoint</key>
+		<string>{0.81481449506420367, 0.4323750930057379}</string>
+		<key>Type</key>
+		<string>line</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.67142954716207914</real>
+		<key>Frame</key>
+		<string>{{0.85136440456544338, 0.47511123172516356}, {0.10818214224306574, 0.036234977275815386}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;pâle&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>EndPoint</key>
+		<string>{0.84424411611511752, 0.49653931099014026}</string>
+		<key>StartPoint</key>
+		<string>{0.80076924858457976, 0.48023670115486666}</string>
+		<key>Type</key>
+		<string>line</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.32563824818388792</real>
+		<key>Frame</key>
+		<string>{{0.55066522398837048, 0.074548574626432343}, {0.22216776750184697, 0.074712459360702102}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;plus pâle que l’H. de rochers&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>EndPoint</key>
+		<string>{0.54152632664818046, 0.13682350546646144}</string>
+		<key>StartPoint</key>
+		<string>{0.48298888511253574, 0.17016023775581041}</string>
+		<key>Type</key>
+		<string>line</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.26795870387406756</real>
+		<key>Frame</key>
+		<string>{{0.35656630897180713, 0.67247262010248743}, {0.16030800830781158, 0.090794715872200046}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;petits points blancs&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>EndPoint</key>
+		<string>{0.39125585913091809, 0.80520687716714034}</string>
+		<key>StartPoint</key>
+		<string>{0.39860688429428937, 0.76768580521085539}</string>
+		<key>Type</key>
+		<string>line</string>
+	</dict>
+	<dict>
+		<key>EndPoint</key>
+		<string>{0.42747878893616753, 0.89035763426813685}</string>
+		<key>StartPoint</key>
+		<string>{0.4807481209435519, 0.83892282259395212}</string>
+		<key>Type</key>
+		<string>line</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.24049172808171027</real>
+		<key>Frame</key>
+		<string>{{0.1673304284689941, 0.86167178448399295}, {0.28486994674600147, 0.10116453724954221}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;croupion et dos plus pâles que chez l’H. de rochers&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.36636513932553932</real>
+		<key>Frame</key>
+		<string>{{0.56152970395586921, 0.89574898809415737}, {0.12626695542938948, 0.066407067082086213}}</string>
+		<key>Text</key>
+		<string>&lt;p class="right"&gt;assez pâle&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>EndPoint</key>
+		<string>{0.63401896599624541, 0.90776434849979326}</string>
+		<key>StartPoint</key>
+		<string>{0.59462957876579714, 0.86536296383613809}</string>
+		<key>Type</key>
+		<string>line</string>
+	</dict>
+</array>
+</plist>

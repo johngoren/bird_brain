@@ -1,0 +1,168 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>FontScale</key>
+		<real>0.47856806406033209</real>
+		<key>Frame</key>
+		<string>{{0.40183593550802754, 0.78923535920816901}, {0.15389202116916462, 0.12704523918254851}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;cou plus long que le F. milouin&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.47856806406033209</real>
+		<key>Frame</key>
+		<string>{{0.62676123570060294, 0.38565877275163801}, {0.084488118716796554, 0.12704523918254851}}</string>
+		<key>Text</key>
+		<string>&lt;p class="right"&gt;♀ &lt;b&gt;ad.&lt;/b&gt;&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.39780736100246078</real>
+		<key>Frame</key>
+		<string>{{0.36472609378859866, 0.0082332788635343934}, {0.16037781384599925, 0.15283727784840559}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;plus allongé que le F. milouin&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>EndPoint</key>
+		<string>{0.71344529345743501, 0.28943232687052861}</string>
+		<key>StartPoint</key>
+		<string>{0.71983015111103044, 0.34263214676374337}</string>
+		<key>Type</key>
+		<string>line</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.35160859292276359</real>
+		<key>Frame</key>
+		<string>{{0.89523090851051901, 0.2924497735744242}, {0.10036249450838031, 0.17291896554140737}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;tout noir&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.46185038821700536</real>
+		<key>Frame</key>
+		<string>{{0.67589029551236413, 0.28022579065697911}, {0.096382958494451054, 0.13164391698011663}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;très pâle&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>EndPoint</key>
+		<string>{0.94686903068499229, 0.40432957568378758}</string>
+		<key>StartPoint</key>
+		<string>{0.93298825019451814, 0.36411553859916124}</string>
+		<key>Type</key>
+		<string>line</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.47856806406033209</real>
+		<key>Frame</key>
+		<string>{{0.895648486716492, 0.025792038665857026}, {0.084488118716796554, 0.12704523918254851}}</string>
+		<key>Text</key>
+		<string>&lt;p class="right"&gt;♂ &lt;b&gt;ad.&lt;/b&gt;&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.47856806406033209</real>
+		<key>Frame</key>
+		<string>{{0.82760763096072087, 0.79794241634481944}, {0.12832639922825484, 0.12704523918254851}}</string>
+		<key>Text</key>
+		<string>&lt;p class="right"&gt;bande gris pâle&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.20344413295956229</real>
+		<key>Frame</key>
+		<string>{{0.80409528849725953, 0.46465063131074735}, {0.19590471150274044, 0.2988525315485947}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;en été, le F. milouin ♀ peut avoir le bec tout noir&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.47856806406033209</real>
+		<key>Frame</key>
+		<string>{{0.78766497689629666, 0.87295476081745138}, {0.12832639922825526, 0.12704523918254851}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;marque claire&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>EndPoint</key>
+		<string>{0.78823153936529322, 0.88689802069938062}</string>
+		<key>StartPoint</key>
+		<string>{0.81039042704169495, 0.94689991730187451}</string>
+		<key>Type</key>
+		<string>line</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.29552065154156359</real>
+		<key>Frame</key>
+		<string>{{0.57747030089769413, 0.70496027894011981}, {0.11706279740707595, 0.20573788615623326}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;F. MILOUIN (♀ en hiver)&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>EndPoint</key>
+		<string>{0.86868340996314208, 0.87109964898758219}</string>
+		<key>StartPoint</key>
+		<string>{0.85621903564516355, 0.82944939629277614}</string>
+		<key>Type</key>
+		<string>line</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.41445221445216557</real>
+		<key>Frame</key>
+		<string>{{0.029037830906737411, 0.8193958870216691}, {0.11139983599424562, 0.14669916589549639}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;F. À TÊTE ROUGE&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.68005354752415104</real>
+		<key>Frame</key>
+		<string>{{0.34631281354613547, 0.44167118154803431}, {0.16288670983718992, 0.089404421732709044}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;F. À DOS BLANC&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.26541274817138322</real>
+		<key>Frame</key>
+		<string>{{0.22783094668940049, 0.7562024001745129}, {0.087887493530790867, 0.22907638982138959}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;F. MILOUIN&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+</array>
+</plist>

@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>FontScale</key>
+		<real>0.24892809016293044</real>
+		<key>Frame</key>
+		<string>{{0.68651257028866464, 0.28873052902888197}, {0.11700064641241117, 0.18213973897084962}}</string>
+		<key>Text</key>
+		<string>&lt;p class="right"&gt;pale iris (dark in juv.)&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>EndPoint</key>
+		<string>{0.54477607315762255, 0.5001367682543949}</string>
+		<key>StartPoint</key>
+		<string>{0.52235636725299528, 0.53938351970458809}</string>
+		<key>Type</key>
+		<string>line</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.78912621359223234</real>
+		<key>Frame</key>
+		<string>{{0.38457541825664004, 0.52616149342785268}, {0.16917395399866675, 0.057455571217682029}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;faintly streaked&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.35699226985242294</real>
+		<key>Frame</key>
+		<string>{{0.25342146784271469, 0.090592481489850371}, {0.21418666722272026, 0.12700470344506687}}</string>
+		<key>Text</key>
+		<string>&lt;p class="center"&gt;general impression drab and featureless&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.38484848484848394</real>
+		<key>Frame</key>
+		<string>{{0.52044713667103815, 0.85315621039683498}, {0.43026044164564109, 0.1178118120502375}}</string>
+		<key>Text</key>
+		<string>&lt;p class="center"&gt;’the mongoose among birds’, immediately raises alarm if for instance a snake is spotted&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+</array>
+</plist>

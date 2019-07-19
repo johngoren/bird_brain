@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>FontScale</key>
+		<real>0.49816131404757624</real>
+		<key>Frame</key>
+		<string>{{0.5396278912743846, 0.070495402837542159}, {0.44053678171203164, 0.10291723270376726}}</string>
+		<key>Text</key>
+		<string>&lt;p class="right"&gt;brer blinksnabbt ut stjärten &lt;/p&gt;&lt;p class="right"&gt;och visar gulaktiga fält&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.52500060081550581</real>
+		<key>Frame</key>
+		<string>{{0.66701878229175038, 0.58757348346006011}, {0.23332908375568243, 0.097655857540372287}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;&lt;b&gt;1:a vint. &lt;/b&gt;♀&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.43936986716695497</real>
+		<key>Frame</key>
+		<string>{{0.0070553997524499968, 0.070495402837540327}, {0.39565764423863792, 0.11668843886002582}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;variabel, vissa 1:a vinter♀♀ är ganska matt färgade&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.29398148148148351</real>
+		<key>Frame</key>
+		<string>{{0.50118614662817473, 0.82053722107361871}, {0.38234799920863727, 0.17439664438550057}}</string>
+		<key>Text</key>
+		<string>&lt;p class="right"&gt;framträdande ögonring; saknar helt mörkt ögonstreck&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.23046517843327569</real>
+		<key>Frame</key>
+		<string>{{0.3235684505621137, 0.73665740316644501}, {0.18265221195970854, 0.22246043515286371}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;&lt;b&gt;1:a v.&lt;/b&gt; ♂(mättat färgad)&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+</array>
+</plist>

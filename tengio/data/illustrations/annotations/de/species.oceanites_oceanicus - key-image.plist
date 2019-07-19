@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>FontScale</key>
+		<real>0.22478284357019734</real>
+		<key>Frame</key>
+		<string>{{0, 0.044996385520888957}, {0.17262732850596643, 0.35589693264278444}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;gerade oder gerundet&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.29228411038670549</real>
+		<key>Frame</key>
+		<string>{{0.031412590560872096, 0.48936440368502393}, {0.245481087601742, 0.27370466506548369}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;Bronze-glanz, kein weißes Band&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>EndPoint</key>
+		<string>{0.42985162647873859, 0.51690435820372771}</string>
+		<key>StartPoint</key>
+		<string>{0.26905662792605928, 0.55979363415687888}</string>
+		<key>Type</key>
+		<string>line</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.49999834286271727</real>
+		<key>Frame</key>
+		<string>{{0.016421542337333124, 0.84000042064275149}, {0.93009486706645494, 0.15999957935724851}}</string>
+		<key>Text</key>
+		<string>&lt;p class="center"&gt;Armflügel kürzer als bei Sturmschwalbe und Wellenläufer&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>EndPoint</key>
+		<string>{0.18508206747114986, 0.45526230994329864}</string>
+		<key>StartPoint</key>
+		<string>{0.10809440226258722, 0.43178203949155464}</string>
+		<key>Type</key>
+		<string>line</string>
+	</dict>
+</array>
+</plist>

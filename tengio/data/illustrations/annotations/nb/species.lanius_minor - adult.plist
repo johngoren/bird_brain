@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>EndPoint</key>
+		<string>{0.75716530906376645, 0.90143600617363318}</string>
+		<key>StartPoint</key>
+		<string>{0.79495844876037236, 0.94589037378944474}</string>
+		<key>Type</key>
+		<string>line</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.77794793261866479</real>
+		<key>Frame</key>
+		<string>{{0.69331789543975675, 0.93457767439031114}, {0.27261963068304823, 0.060874841482769788}}</string>
+		<key>Text</key>
+		<string>&lt;p class="right"&gt;﻿svart panne&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>EndPoint</key>
+		<string>{0.67003165746276216, 0.47047774244285523}</string>
+		<key>StartPoint</key>
+		<string>{0.73124329128012566, 0.43590035788908477}</string>
+		<key>Type</key>
+		<string>line</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.22673510377146291</real>
+		<key>Frame</key>
+		<string>{{0.61781376209417072, 0.21862241774765331}, {0.20110062096799841, 0.20886689485781404}}</string>
+		<key>Text</key>
+		<string>&lt;p class="right"&gt;﻿fersken- eller lakserosa farget&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.7272727272727274</real>
+		<key>Frame</key>
+		<string>{{0.37974611521293683, 0.16706991033574467}, {0.1121662830032587, 0.065116503485013327}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;&lt;b&gt;ad. &lt;/b&gt;&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+</array>
+</plist>

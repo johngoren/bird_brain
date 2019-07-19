@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>FontScale</key>
+		<real>0.49339036225032062</real>
+		<key>Frame</key>
+		<string>{{0.31251230824222187, 0.80138546806576716}, {0.23208985690339443, 0.13240968795615532}}</string>
+		<key>Text</key>
+		<string>&lt;p class="right"&gt;helle Flecke&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.64563671113037646</real>
+		<key>Frame</key>
+		<string>{{0.21888920308158916, 0.23487018448022859}, {0.18724621032126551, 0.1011864145577482}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;&lt;b&gt;JK&lt;/b&gt;&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.16983400826503392</real>
+		<key>Frame</key>
+		<string>{{0.6696091481979658, 0.10959817478781603}, {0.31780455902516735, 0.3846677386556725}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;typisches JK; manche, wahrscheinlich ♂, noch dunkler gefärbt&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>EndPoint</key>
+		<string>{0.46462544827974966, 0.86759031204384596}</string>
+		<key>StartPoint</key>
+		<string>{0.46462544827974966, 0.80586160826014097}</string>
+		<key>Type</key>
+		<string>line</string>
+	</dict>
+</array>
+</plist>

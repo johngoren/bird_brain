@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>EndPoint</key>
+		<string>{0.68607606064380766, 0.29308714383047108}</string>
+		<key>StartPoint</key>
+		<string>{0.59982583456260752, 0.26915228646236428}</string>
+		<key>Type</key>
+		<string>line</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.69564971251658603</real>
+		<key>Frame</key>
+		<string>{{0.51275506697529238, 0.10023772934041451}, {0.15334145393637408, 0.034431034567858218}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;&lt;b&gt;ad.&lt;/b&gt;&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.19242431063810597</real>
+		<key>Frame</key>
+		<string>{{0.697284602239713, 0.18119035542201645}, {0.1398872933309801, 0.12447460104885509}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;vita ving­fram­kanter&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.6666621455746421</real>
+		<key>Frame</key>
+		<string>{{0.62111777808026425, 0.61668534032910427}, {0.15044822784139805, 0.035928152599895076}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;&lt;b&gt;ad.&lt;/b&gt;&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>EndPoint</key>
+		<string>{0.29652834575057563, 0.65370956113401035}</string>
+		<key>StartPoint</key>
+		<string>{0.27158270486461195, 0.69093844664575432}</string>
+		<key>Type</key>
+		<string>line</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.27370188312040894</real>
+		<key>Frame</key>
+		<string>{{0.56863473206184267, 0.66464915725132256}, {0.2530296686827736, 0.087511050438195528}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;några visar &lt;/p&gt;&lt;p&gt;vit kant även underifrån&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.1709759669401939</real>
+		<key>Frame</key>
+		<string>{{0.24058367306415104, 0.51392724497569076}, {0.18720029877376201, 0.14008950923001601}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;medel­-lång stjärt, ­ljusare innerdel&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>EndPoint</key>
+		<string>{0.49972411819152379, 0.72304737290282017}</string>
+		<key>StartPoint</key>
+		<string>{0.56015013518352474, 0.73521774952583274}</string>
+		<key>Type</key>
+		<string>line</string>
+	</dict>
+</array>
+</plist>

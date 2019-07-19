@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>EndPoint</key>
+		<string>{0.48510712537255951, 0.59959424671123052}</string>
+		<key>StartPoint</key>
+		<string>{0.43373629269088515, 0.64275938565193169}</string>
+		<key>Type</key>
+		<string>line</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.35574229691876685</real>
+		<key>Frame</key>
+		<string>{{0.24294646451705898, 0.61236792706858267}, {0.31838790981533399, 0.10755370454726236}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;Mantel außerhalb der Brutzeit grau&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.38936987489162544</real>
+		<key>Frame</key>
+		<string>{{0.68664583208065966, 0.32405169387045768}, {0.16403431164472329, 0.0982649258841993}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;&lt;b&gt;PK&lt;/b&gt;&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.24901966744687964</real>
+		<key>Frame</key>
+		<string>{{0.053634734356588651, 0.0055707504799595159}, {0.32914425811990639, 0.15364811257700103}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;Schirmfedern hängen buschig über&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>EndPoint</key>
+		<string>{0.1289513639884646, 0.16825698948950574}</string>
+		<key>StartPoint</key>
+		<string>{0.1289513639884646, 0.22086641709893348}</string>
+		<key>Type</key>
+		<string>line</string>
+	</dict>
+</array>
+</plist>

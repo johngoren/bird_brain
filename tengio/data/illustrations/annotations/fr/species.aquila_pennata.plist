@@ -1,0 +1,186 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>FontScale</key>
+		<real>0.37499856949398347</real>
+		<key>Frame</key>
+		<string>{{0.028748846941674806, 0.14999233992884836}, {0.042482647140594194, 0.10255345057829111}}</string>
+		<key>Text</key>
+		<string>&lt;p class="right"&gt;&lt;b&gt;juv. &lt;/b&gt;(pâle)&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.33760553174500346</real>
+		<key>Frame</key>
+		<string>{{0.13191916183872732, 0.057097420626254947}, {0.061634099213778659, 0.11391222491158208}}</string>
+		<key>Text</key>
+		<string>&lt;p class="right"&gt;&lt;b&gt;ad. &lt;/b&gt;(sombre)&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.22192730571210048</real>
+		<key>Frame</key>
+		<string>{{0.59551537228319762, 0.49617794056421033}, {0.076372786113684435, 0.17328826274951811}}</string>
+		<key>Text</key>
+		<string>&lt;p class="right"&gt;primaires internes pâles&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>EndPoint</key>
+		<string>{0.67730825838179975, 0.5714207081113768}</string>
+		<key>StartPoint</key>
+		<string>{0.70297960982696739, 0.55417339980909186}</string>
+		<key>Type</key>
+		<string>line</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.59181130235329948</real>
+		<key>Frame</key>
+		<string>{{0.8608102017550473, 0.11412435420999209}, {0.055303449360089393, 0.064982532625868658}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;(sombre)&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.17594901634802759</real>
+		<key>Frame</key>
+		<string>{{0.46286790166469322, 0.30485995953195194}, {0.089924507269040929, 0.21857125468358554}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;bande alaire noire chez la forme sombre&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.28222324299494717</real>
+		<key>Frame</key>
+		<string>{{0.70349453444793941, 0.063154532283406506}, {0.077204888628062227, 0.13626587539503127}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;(sombre ; variante plus pâle)&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>EndPoint</key>
+		<string>{0.54331443812123825, 0.46013240718580461}</string>
+		<key>StartPoint</key>
+		<string>{0.58742200161856395, 0.43389971889168805}</string>
+		<key>Type</key>
+		<string>line</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.17594901634802759</real>
+		<key>Frame</key>
+		<string>{{0.46286790166469322, 0.30485995953195194}, {0.089924507269040929, 0.21857125468358554}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;bande alaire noire chez la forme sombre&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.63999791667344874</real>
+		<key>Frame</key>
+		<string>{{0.53723071678470213, 0.070803057001621234}, {0.05134760196557478, 0.060089878828704882}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;(pâle)&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.37245957292029763</real>
+		<key>Frame</key>
+		<string>{{0.32151530857684496, 0.41412288012489235}, {0.052920732019456108, 0.10325254083819875}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;coin aigu&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>EndPoint</key>
+		<string>{0.35378260052681126, 0.4333090360665281}</string>
+		<key>StartPoint</key>
+		<string>{0.37024725063137859, 0.38441966038795283}</string>
+		<key>Type</key>
+		<string>line</string>
+	</dict>
+	<dict>
+		<key>EndPoint</key>
+		<string>{0.37732340674073805, 0.8778563302704987}</string>
+		<key>StartPoint</key>
+		<string>{0.34799707576447414, 0.82426193728311625}</string>
+		<key>Type</key>
+		<string>line</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.3483465286802801</real>
+		<key>Frame</key>
+		<string>{{0.24705976244941991, 0.7340148663526771}, {0.099238922264573037, 0.11039982918511621}}</string>
+		<key>Text</key>
+		<string>&lt;p class="right"&gt;plage alaire brun pâle&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.21071742828021506</real>
+		<key>Frame</key>
+		<string>{{0.79113689460947745, 0.380290354183482}, {0.17820316759859731, 0.18250696004314318}}</string>
+		<key>Text</key>
+		<string>&lt;p class="center"&gt;comme l’Aigle botté, peuvent présenter des « phares » blancs à la base du bord d’attaque&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>EndPoint</key>
+		<string>{0.57444678955286721, 0.87136310730350419}</string>
+		<key>StartPoint</key>
+		<string>{0.59864131264988141, 0.81129067664085663}</string>
+		<key>Type</key>
+		<string>line</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.38511849845155816</real>
+		<key>Frame</key>
+		<string>{{0.84186200143887113, 0.71050150103179754}, {0.12747806076920476, 0.099858608241765456}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;BONDRÉE APIVORE, ♀ ad.&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.5104003468296644</real>
+		<key>Frame</key>
+		<string>{{0.4481624907964622, 0.84007980779438485}, {0.19750606282552677, 0.075347513970960261}}</string>
+		<key>Text</key>
+		<string>&lt;p class="right"&gt;« phare » blanc&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.34782485625829374</real>
+		<key>Frame</key>
+		<string>{{0.73584434371540364, 0.80198224106580374}, {0.09369228864699812, 0.11056540834152677}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;BUSARD DES ROSEAUX&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+</array>
+</plist>

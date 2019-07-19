@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>FontScale</key>
+		<real>0.15255255255255185</real>
+		<key>Frame</key>
+		<string>{{0.45751019013214633, 0.68916498899483669}, {0.35044852324383946, 0.22718236147509252}}</string>
+		<key>Text</key>
+		<string>&lt;p class="center"&gt;Altersbestimmung: im 1en W Armdecken mit weißen Spitzen, bei ad. Spitzen diffus rötlich beige&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.67266083672044985</real>
+		<key>Frame</key>
+		<string>{{0.55003370967802878, 0.29469284604361939}, {0.17498380021513718, 0.051522620681936686}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;&lt;b&gt;1er W&lt;/b&gt;&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>EndPoint</key>
+		<string>{0.63985331083961516, 0.21471708098012085}</string>
+		<key>StartPoint</key>
+		<string>{0.59638476670456297, 0.16801442541684522}</string>
+		<key>Type</key>
+		<string>line</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.57274043154076204</real>
+		<key>Frame</key>
+		<string>{{0.58207878673360136, 0.19136575319848489}, {0.14293872315956632, 0.060511266935893489}}</string>
+		<key>Text</key>
+		<string>&lt;p class="right"&gt;sehr lang&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.1603727422753656</real>
+		<key>Frame</key>
+		<string>{{0.077529685783328597, 0.15950396582710852}, {0.32645922250362736, 0.21610436191478338}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;frisch gemauserte Feder mit (wie bei ad.) diffusem, spitz zulaufendem Zentrum&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.28222243275599296</real>
+		<key>Frame</key>
+		<string>{{0.076599020083977135, 0.48776267029645659}, {0.16416027695116481, 0.12280118486508207}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;drei Mittlere Armdecken vergrößert:&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.19226880752633921</real>
+		<key>Frame</key>
+		<string>{{0.077540915772999014, 0.72511197938112992}, {0.14286305519578521, 0.18025414306059048}}</string>
+		<key>Text</key>
+		<string>&lt;p class="right"&gt;ohne deutlichen Zügelstreif (vgl. Brachpieper)&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>EndPoint</key>
+		<string>{0.22824815378846922, 0.86161762435214628}</string>
+		<key>StartPoint</key>
+		<string>{0.28670417863384873, 0.92135409666458934}</string>
+		<key>Type</key>
+		<string>line</string>
+	</dict>
+	<dict>
+		<key>EndPoint</key>
+		<string>{0.15880822124259183, 0.3760209602593757}</string>
+		<key>StartPoint</key>
+		<string>{0.19887865013860534, 0.38910912395266756}</string>
+		<key>Type</key>
+		<string>line</string>
+	</dict>
+</array>
+</plist>

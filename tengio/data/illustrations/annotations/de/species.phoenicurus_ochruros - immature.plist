@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>EndPoint</key>
+		<string>{0.63138778434102116, 0.43940418280900395}</string>
+		<key>StartPoint</key>
+		<string>{0.71185532130434181, 0.36221859571053416}</string>
+		<key>Type</key>
+		<string>line</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.20958508957639135</real>
+		<key>Frame</key>
+		<string>{{0.095360364877782253, 0.39773911597544176}, {0.34499375623722495, 0.24890064513431823}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;♀&lt;b&gt;/1er W/&lt;/b&gt;♂&lt;b&gt; 1er S&lt;/b&gt;&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.20315084535751954</real>
+		<key>Frame</key>
+		<string>{{0.057850064633095076, 0.7305340560618937}, {0.52587969950884295, 0.25678388841696631}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;das Gefieder der meisten ♂ im 1en S ist identisch mit dem der ♀&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.52888720311831572</real>
+		<key>Frame</key>
+		<string>{{0.69037669621016473, 0.24313212687563682}, {0.241899462384981, 0.098633250527764824}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;mausgrau&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+</array>
+</plist>

@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>EndPoint</key>
+		<string>{0.34817146508477687, 0.68288466986583751}</string>
+		<key>StartPoint</key>
+		<string>{0.43114857317098426, 0.69747477806549529}</string>
+		<key>Type</key>
+		<string>line</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.59749826775099368</real>
+		<key>Frame</key>
+		<string>{{0.17326369319809456, 0.61479814026680402}, {0.15984081607205045, 0.0979053566835629}}</string>
+		<key>Text</key>
+		<string>&lt;p class="right"&gt;noir&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.29310988713641328</real>
+		<key>Frame</key>
+		<string>{{0.81492736632053098, 0.19831414590076996}, {0.18147712103158353, 0.19957798624086298}}</string>
+		<key>Text</key>
+		<string>&lt;p class="right"&gt;tête toute blanche&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.62654418852922644</real>
+		<key>Frame</key>
+		<string>{{0.63188660742164104, 0.0050576936337914579}, {0.36451787993047347, 0.093366568700115282}}</string>
+		<key>Text</key>
+		<string>&lt;p class="right"&gt;♂ &lt;b&gt;ad. nuptial&lt;/b&gt;&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+</array>
+</plist>

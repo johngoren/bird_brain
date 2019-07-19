@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>FontScale</key>
+		<real>0.19546130271989312</real>
+		<key>Frame</key>
+		<string>{{0.0081889798679086502, 0.76701223900208837}, {0.40687796300670948, 0.18387492965243324}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;Parties sombres des primaires parfois plus étendues que chez cet oiseau&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>EndPoint</key>
+		<string>{0.22172429017001147, 0.74625923290438312}</string>
+		<key>StartPoint</key>
+		<string>{0.14487773898931416, 0.77172883129702396}</string>
+		<key>Type</key>
+		<string>line</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.28109783089862744</real>
+		<key>Frame</key>
+		<string>{{0.55533480833280535, 0.35572539088388905}, {0.42406377581875421, 0.12785738393105758}}</string>
+		<key>Text</key>
+		<string>&lt;p class="right"&gt;bec en moyenne moins fort que le P. cendré&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.11460025266197442</real>
+		<key>Frame</key>
+		<string>{{0.075879346227081534, 0}, {0.51686991721387598, 0.31361565487471854}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;l’étendue du blanc sur la main est le critère d’identification principal du P. de Scopoli&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.17001338688085757</real>
+		<key>Frame</key>
+		<string>{{0.69127612379530923, 0.10951927308836124}, {0.29989469798393148, 0.21139766665891868}}</string>
+		<key>Text</key>
+		<string>&lt;p class="center"&gt;taille inférieure du P. de Scopoli difficile à apprécier sur le terrain&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>EndPoint</key>
+		<string>{0.75284246278167066, 0.48528074804112192}</string>
+		<key>StartPoint</key>
+		<string>{0.72923853456334664, 0.5093919678528237}</string>
+		<key>Type</key>
+		<string>line</string>
+	</dict>
+	<dict>
+		<key>EndPoint</key>
+		<string>{0.4825120542832082, 0.24394215349396167}</string>
+		<key>StartPoint</key>
+		<string>{0.55854108896197574, 0.20290780052804236}</string>
+		<key>Type</key>
+		<string>line</string>
+	</dict>
+</array>
+</plist>

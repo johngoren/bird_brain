@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>FontScale</key>
+		<real>0.53714217022834687</real>
+		<key>Frame</key>
+		<string>{{0.35862240091056963, 0.89647919792251574}, {0.24473166986029971, 0.10352080207748394}}</string>
+		<key>Text</key>
+		<string>&lt;p class="center"&gt;﻿mosegrønn&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>EndPoint</key>
+		<string>{0.35833818426674985, 0.51640908314493805}</string>
+		<key>StartPoint</key>
+		<string>{0.45265000207345657, 0.56676041899960061}</string>
+		<key>Type</key>
+		<string>line</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.25885350318473144</real>
+		<key>Frame</key>
+		<string>{{0.75600347790533862, 0.24057133020200977}, {0.22362612788827524, 0.21481412307561457}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;﻿doble gule vingebånd&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.42838233419652755</real>
+		<key>Frame</key>
+		<string>{{0.15945385569972903, 0.40193022495384562}, {0.1891614607519011, 0.12980317779903824}}</string>
+		<key>Text</key>
+		<string>&lt;p class="right"&gt;﻿rent hvit&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>EndPoint</key>
+		<string>{0.51768339754089354, 0.94549057394159064}</string>
+		<key>StartPoint</key>
+		<string>{0.53862799971515773, 0.87800018942986235}</string>
+		<key>Type</key>
+		<string>line</string>
+	</dict>
+</array>
+</plist>

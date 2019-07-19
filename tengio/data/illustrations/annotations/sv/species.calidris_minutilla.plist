@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>FontScale</key>
+		<real>0.4541061909293323</real>
+		<key>Frame</key>
+		<string>{{0.90686690593414443, 0.014152764386643544}, {0.090594382302788767, 0.11349789319449402}}</string>
+		<key>Text</key>
+		<string>&lt;p class="center"&gt;&lt;b&gt;juv.&lt;/b&gt;&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.28794460440715924</real>
+		<key>Frame</key>
+		<string>{{0.51837696097217079, 0.0014921377878230734}, {0.14737405726855946, 0.17899309508914144}}</string>
+		<key>Text</key>
+		<string>&lt;p class="right"&gt;&lt;b&gt;ad. sommar &lt;/b&gt;(sliten)&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.58995733035666342</real>
+		<key>Frame</key>
+		<string>{{0.41454189825887655, 0.26269751606627029}, {0.096257989902152855, 0.087362413017051402}}</string>
+		<key>Text</key>
+		<string>&lt;p class="right"&gt;&lt;b&gt;1:a vinter&lt;/b&gt;&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>EndPoint</key>
+		<string>{0.19004224396270958, 0.63102579220934996}</string>
+		<key>StartPoint</key>
+		<string>{0.21577797007889588, 0.52341568115882786}</string>
+		<key>Type</key>
+		<string>line</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.36296504157497528</real>
+		<key>Frame</key>
+		<string>{{0.10425302548219915, 0.57432362481443633}, {0.090145769136750556, 0.14199741036606023}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;”inramade” örontäckare&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>EndPoint</key>
+		<string>{0.29723906219884844, 0.52539649419426837}</string>
+		<key>StartPoint</key>
+		<string>{0.26868607753825458, 0.48361056625407178}</string>
+		<key>Type</key>
+		<string>line</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.15767981585854737</real>
+		<key>Frame</key>
+		<string>{{0.30139529892597894, 0.22523294829787316}, {0.083277652595995205, 0.32686552604356067}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;ögonbryn når näbb-&lt;/p&gt;&lt;p&gt;fäs­tet; tyd­-&lt;/p&gt;&lt;p&gt;lig, isole­rad, mörk tygel-&lt;/p&gt;&lt;p&gt;fläck&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.59526231652376105</real>
+		<key>Frame</key>
+		<string>{{0.1963086965807973, 0.14213844517454105}, {0.061020298706060072, 0.086583837959106805}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;ljusa&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.65571845942448537</real>
+		<key>Frame</key>
+		<string>{{0.051335735276773473, 0.048620308416523678}, {0.066590370994792439, 0.078600953223570774}}</string>
+		<key>Text</key>
+		<string>&lt;p class="right"&gt;&lt;b&gt;juv.&lt;/b&gt;&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>EndPoint</key>
+		<string>{0.19222267032058898, 0.19418378599605476}</string>
+		<key>StartPoint</key>
+		<string>{0.1695129265203997, 0.17929106705213835}</string>
+		<key>Type</key>
+		<string>line</string>
+	</dict>
+</array>
+</plist>

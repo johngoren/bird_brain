@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>EndPoint</key>
+		<string>{0.21377458617802167, 0.6396966460044311}</string>
+		<key>StartPoint</key>
+		<string>{0.24862611803342374, 0.60876215156000124}</string>
+		<key>Type</key>
+		<string>line</string>
+	</dict>
+	<dict>
+		<key>EndPoint</key>
+		<string>{0.26906849287607859, 0.48294314291573964}</string>
+		<key>StartPoint</key>
+		<string>{0.34363917200553262, 0.54171582334843738}</string>
+		<key>Type</key>
+		<string>line</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.27616954659328685</real>
+		<key>Frame</key>
+		<string>{{0.18187639861367016, 0.32472768497862708}, {0.16156653251281233, 0.15488120683223108}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;ofläckat rost-&lt;/p&gt;&lt;p&gt;beige&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.22280710800548711</real>
+		<key>Frame</key>
+		<string>{{0, 0.47021738552385678}, {0.2237557655337381, 0.19197535056029247}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;rätt livligt röd-&lt;/p&gt;&lt;p&gt;­brun &lt;/p&gt;&lt;p&gt;ovan-&lt;/p&gt;&lt;p&gt;sida&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.32564121462874457</real>
+		<key>Frame</key>
+		<string>{{0.49877360872718418, 0.74302449288467654}, {0.11484844904819362, 0.13135153274576533}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;varmt brun&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>EndPoint</key>
+		<string>{0.57296018387604797, 0.76366867803690575}</string>
+		<key>StartPoint</key>
+		<string>{0.53845745311365922, 0.79188810787486796}</string>
+		<key>Type</key>
+		<string>line</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.55999874674759698</real>
+		<key>Frame</key>
+		<string>{{0.30108285954735942, 0.26930957422570667}, {0.23359041732309474, 0.076381372128243752}}</string>
+		<key>Text</key>
+		<string>&lt;p class="right"&gt;&lt;b&gt;1:a vinter&lt;/b&gt;&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+</array>
+</plist>

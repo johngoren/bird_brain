@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>FontScale</key>
+		<real>0.22117625883094094</real>
+		<key>Frame</key>
+		<string>{{0.32623162936927769, 0.55478095277181727}, {0.092893280014437321, 0.25980295150683741}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;usually seen in family groups&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.48831118512474758</real>
+		<key>Frame</key>
+		<string>{{0.63526907820313638, 0.33780563256155127}, {0.12058290031432981, 0.1176754631021588}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;unmistakable!&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.24102565359917863</real>
+		<key>Frame</key>
+		<string>{{0.70370062691221125, 0.079717447862175272}, {0.28989653166470131, 0.23840717363255182}}</string>
+		<key>Text</key>
+		<string>&lt;p class="center"&gt;stunningly attractive colours in good light; &lt;/p&gt;&lt;p class="center"&gt;in the shadow of foliage, the bird can on &lt;/p&gt;&lt;p class="center"&gt;the other hand look surprisingly ‘plain’&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+</array>
+</plist>

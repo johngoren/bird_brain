@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>FontScale</key>
+		<real>0.50825412706352402</real>
+		<key>Frame</key>
+		<string>{{0.5852255185689349, 0.08476304814896056}, {0.36746347770765297, 0.062530248967930024}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;&lt;b&gt;1st-winter &lt;/b&gt;♀&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.25793348565625179</real>
+		<key>Frame</key>
+		<string>{{0.0036640671100736516, 0.16637456368540912}, {0.2357134724398938, 0.12321493280874361}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;tail rufous in many 1st-years&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>EndPoint</key>
+		<string>{0.16240429964756523, 0.12383272346710124}</string>
+		<key>StartPoint</key>
+		<string>{0.075724023381181171, 0.19092996410552632}</string>
+		<key>Type</key>
+		<string>line</string>
+	</dict>
+	<dict>
+		<key>EndPoint</key>
+		<string>{0.74372144407463259, 0.75615929474833843}</string>
+		<key>StartPoint</key>
+		<string>{0.61572427537742436, 0.7443664463937063}</string>
+		<key>Type</key>
+		<string>line</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.3173376133115226</real>
+		<key>Frame</key>
+		<string>{{0.65581841607397395, 0.70555268697798612}, {0.23801424229785242, 0.10014966953526941}}</string>
+		<key>Text</key>
+		<string>&lt;p class="right"&gt;dark wing-feathers&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.50825412706352402</real>
+		<key>Frame</key>
+		<string>{{0.61498914077312405, 0.82801121164645097}, {0.24737737388162179, 0.062530248967930024}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;&lt;b&gt;1st-w. &lt;/b&gt;♀&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+</array>
+</plist>

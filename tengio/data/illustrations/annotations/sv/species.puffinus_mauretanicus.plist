@@ -1,0 +1,120 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>FontScale</key>
+		<real>0.29090779959250862</real>
+		<key>Frame</key>
+		<string>{{0.35049726725595642, 0.030487464809896666}, {0.1939041497319286, 0.12859655011300958}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;något större och tyngre än mindre lira och medelhavslira&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.36337693925605125</real>
+		<key>Frame</key>
+		<string>{{0.055723787107924541, 0.25185316493915916}, {0.18704895251918399, 0.10295022987741895}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;smutsbrun ovan och under, saknar tydliga kontraster&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.31036168132942532</real>
+		<key>Frame</key>
+		<string>{{0.54420555421037997, 0.60948418780819924}, {0.097686542871590981, 0.12053594782809474}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;GRÅLIRA&lt;/p&gt;&lt;p&gt;(för jämförelse)&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.24245895379915983</real>
+		<key>Frame</key>
+		<string>{{0.73732625283227926, 0.66975216172224683}, {0.21544905525769853, 0.15429308277701975}}</string>
+		<key>Text</key>
+		<string>&lt;p class="right"&gt;mörkaste balearisk lira (t.v.) &lt;/p&gt;&lt;p class="right"&gt;lik grålira; storlek, form och &lt;/p&gt;&lt;p class="right"&gt;flyktsätt skiljer naturligtvis&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>EndPoint</key>
+		<string>{0.44550051348854347, 0.40376007743883974}</string>
+		<key>StartPoint</key>
+		<string>{0.4337389476964324, 0.44538209461408329}</string>
+		<key>Type</key>
+		<string>line</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.31545245033520924</real>
+		<key>Frame</key>
+		<string>{{0.36812491723158774, 0.2811621754690094}, {0.13416600259229416, 0.11859073970993303}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;brunaktig under-&lt;/p&gt;&lt;p&gt;gump och buk, ser oljeskadad ut&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.23728925743034571</real>
+		<key>Frame</key>
+		<string>{{0.34019103764948738, 0.50662213262351774}, {0.075920260071314513, 0.15765458509871522}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;diffust brunsolkiga ”armhålor”&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>EndPoint</key>
+		<string>{0.46311836432248077, 0.56689010653756744}</string>
+		<key>StartPoint</key>
+		<string>{0.41648330022993207, 0.60948418780819824}</string>
+		<key>Type</key>
+		<string>line</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.38195488721804355</real>
+		<key>Frame</key>
+		<string>{{0.63253966686603669, 0.31650996075584215}, {0.12886279633427697, 0.097942821732262791}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;kortstjärtad, fötter-&lt;/p&gt;&lt;p&gt;na sticker oftast ut&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.13883352548303848</real>
+		<key>Frame</key>
+		<string>{{0.63234380408852786, 0}, {0.15962816366820387, 0.26945753411076334}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;de större bilderna visar typiska intermediära fåglar – några är ljusare (som medelhavslira) eller mörkare (som grålira, &lt;/p&gt;&lt;p&gt;se ovan)&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>EndPoint</key>
+		<string>{0.72655380006939585, 0.42196418686155823}</string>
+		<key>StartPoint</key>
+		<string>{0.74770157819140837, 0.43751721238776164}</string>
+		<key>Type</key>
+		<string>line</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.13460519342872221</real>
+		<key>Frame</key>
+		<string>{{0.85582323322401488, 0.028720075545555047}, {0.11653835261666406, 0.27792196181771422}}</string>
+		<key>Text</key>
+		<string>&lt;p class="right"&gt;ovansidan myc-&lt;/p&gt;&lt;p class="right"&gt;ket brunare än mindre lira och medelhavslira i fräsch dräkt; &lt;/p&gt;&lt;p class="right"&gt;slitna och blekta fåglar mer snarlika&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+</array>
+</plist>

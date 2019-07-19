@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>FontScale</key>
+		<real>0.45770409200827145</real>
+		<key>Frame</key>
+		<string>{{0.092276222582650475, 0.035191383817228014}, {0.10765851345296432, 0.072059339143321008}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;vol de parade&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.22352819385087697</real>
+		<key>Frame</key>
+		<string>{{0.53564795499135764, 0.05787975111137169}, {0.23427401031912218, 0.14755120517509804}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;les trois espèces de pigeons des îles de l’Atlantique habitent les versants montagneux boisés dominés par le laurier et la bruyère arborescente&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.41503267973856567</real>
+		<key>Frame</key>
+		<string>{{0.6767120432392949, 0.77806866445378209}, {0.084752092321125364, 0.079468090113013548}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;œil rougeâtre&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.39570398726198641</real>
+		<key>Frame</key>
+		<string>{{0.33593263190520345, 0.028946356913791819}, {0.084724388297305192, 0.083349815657716167}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;extrémité pâle diffuse&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>EndPoint</key>
+		<string>{0.4037041579861016, 0.15248823074716802}</string>
+		<key>StartPoint</key>
+		<string>{0.38089092713736972, 0.12475320346726301}</string>
+		<key>Type</key>
+		<string>line</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.68800828655813884</real>
+		<key>Frame</key>
+		<string>{{0.66421999182769387, 0.36982082897123447}, {0.050631081150313846, 0.047938164463550779}}</string>
+		<key>Text</key>
+		<string>&lt;p class="right"&gt;&lt;b&gt;ad.&lt;/b&gt; &lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.2373420517305759</real>
+		<key>Frame</key>
+		<string>{{0.78817957891205348, 0.65554997730922371}, {0.075913235501274254, 0.13896338281742807}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;large bande terminale crème&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>EndPoint</key>
+		<string>{0.81508553579857912, 0.69782147541808948}</string>
+		<key>StartPoint</key>
+		<string>{0.82282740641929375, 0.66686907599704137}</string>
+		<key>Type</key>
+		<string>line</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.29007223385540543</real>
+		<key>Frame</key>
+		<string>{{0.73667389001498629, 0.37972187778025757}, {0.097630186416828538, 0.11370221118699199}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;à l’ombre, paraît très sombre&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+</array>
+</plist>

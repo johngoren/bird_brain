@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>FontScale</key>
+		<real>0.51815585475323445</real>
+		<key>Frame</key>
+		<string>{{0.050558108995405526, 0.085923372807093765}, {0.13657255416940298, 0.051877059336679486}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;enfärgad&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>EndPoint</key>
+		<string>{0.18603917764481276, 0.088370220711867647}</string>
+		<key>StartPoint</key>
+		<string>{0.13583373213479183, 0.099178515066476916}</string>
+		<key>Type</key>
+		<string>line</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.25198412698412637</real>
+		<key>Frame</key>
+		<string>{{0.35456336178594861, 0.025283725724436237}, {0.56375266042682881, 0.1066749812553659}}</string>
+		<key>Text</key>
+		<string>&lt;p class="center"&gt;lägg märke till korta tår, anpassning till annorlunda diet är hos sparvhöken  – tar ödlor och insekter&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.67844054742334214</real>
+		<key>Frame</key>
+		<string>{{0.70256073539067421, 0.21818828510554031}, {0.18820332698108194, 0.039620866006271058}}</string>
+		<key>Text</key>
+		<string>&lt;p class="right"&gt;&lt;b&gt;ad. &lt;/b&gt;♂&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.45519713261641936</real>
+		<key>Frame</key>
+		<string>{{0.45239658568614349, 0.48436712719842395}, {0.24031516743270029, 0.059052221766371968}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;grå kind, mörkt öga&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>EndPoint</key>
+		<string>{0.53110719367374115, 0.68786961236058275}</string>
+		<key>StartPoint</key>
+		<string>{0.45487303544583546, 0.69536225985351507}</string>
+		<key>Type</key>
+		<string>line</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.67844054742334214</real>
+		<key>Frame</key>
+		<string>{{0.57927944121662911, 0.65078862686040895}, {0.18820332698108194, 0.039620866006271058}}</string>
+		<key>Text</key>
+		<string>&lt;p class="right"&gt;&lt;b&gt;ad. &lt;/b&gt;♂&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.30238095238091084</real>
+		<key>Frame</key>
+		<string>{{0.24439237642707662, 0.671360389071051}, {0.28999781133727509, 0.088895817712816919}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;mycket ljus &lt;/p&gt;&lt;p&gt;med svart vingspets&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+</array>
+</plist>

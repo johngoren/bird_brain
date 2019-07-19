@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>FontScale</key>
+		<real>0.61097852028639621</real>
+		<key>Frame</key>
+		<string>{{0.47332681901787993, 0.043460186252054826}, {0.060588650850176617, 0.055390838870973506}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;♂&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>EndPoint</key>
+		<string>{0.81001734600778674, 0.21601669779763205}</string>
+		<key>StartPoint</key>
+		<string>{0.84444836054128791, 0.20339011491536424}</string>
+		<key>Type</key>
+		<string>line</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.24969279921357038</real>
+		<key>Frame</key>
+		<string>{{0.85452399633515153, 0.11394358301981869}, {0.14547600366484831, 0.13553699937443092}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;pas de bande pectorale&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>EndPoint</key>
+		<string>{0.39979207390953619, 0.879411918460411}</string>
+		<key>StartPoint</key>
+		<string>{0.46656175226013641, 0.89821525830892268}</string>
+		<key>Type</key>
+		<string>line</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.55096035824977474</real>
+		<key>Frame</key>
+		<string>{{0.25381828020265679, 0.8240377878668822}, {0.13416087221615988, 0.061424769067445747}}</string>
+		<key>Text</key>
+		<string>&lt;p class="right"&gt;pâle&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.61097852028639621</real>
+		<key>Frame</key>
+		<string>{{0.65052825829924699, 0.61822235536595338}, {0.060588247383100299, 0.055390838870973506}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;♂&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+</array>
+</plist>

@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>FontScale</key>
+		<real>0.20370927318295404</real>
+		<key>Frame</key>
+		<string>{{0.75508400876215254, 0.47373327259834319}, {0.21052898125122807, 0.25360790843503339}}</string>
+		<key>Text</key>
+		<string>&lt;p class="right"&gt;brer ut &lt;/p&gt;&lt;p class="right"&gt;och slår &lt;/p&gt;&lt;p class="right"&gt;hela tiden &lt;/p&gt;&lt;p class="right"&gt;med stjärten&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.52500060081550581</real>
+		<key>Frame</key>
+		<string>{{0.45467332570184821, 0.76345719061217465}, {0.21883070282545131, 0.098404235386589239}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;&lt;b&gt;1:a vint. &lt;/b&gt;♀&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.38145972369228132</real>
+		<key>Frame</key>
+		<string>{{0.70245176344934446, 0.84218297776530593}, {0.1881602769932838, 0.13543312568019661}}</string>
+		<key>Text</key>
+		<string>&lt;p class="right"&gt;några saknar vingband&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.28000017089854151</real>
+		<key>Frame</key>
+		<string>{{0.14718157539922924, 0.6392677072301528}, {0.23947671617327199, 0.18450803988783893}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;nätt byggd, iögonfallande stjärtteckning&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.19832129611555807</real>
+		<key>Frame</key>
+		<string>{{0.13402351407102986, 0.06114689284058808}, {0.21232112359575828, 0.26049790775190967}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;varierande &lt;/p&gt;&lt;p&gt;tydlig vingfläck, större hos ♂♂ än hos ♀♀&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.60000000000000009</real>
+		<key>Frame</key>
+		<string>{{0.47613310860427155, 0.078028662384526326}, {0.18622654097352917, 0.086103804501249673}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;&lt;b&gt;1:a vint.&lt;/b&gt; ♂&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+</array>
+</plist>

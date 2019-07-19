@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>EndPoint</key>
+		<string>{0.36899455765434075, 0.68614368565584438}</string>
+		<key>StartPoint</key>
+		<string>{0.43377519680654752, 0.64566291837821099}</string>
+		<key>Type</key>
+		<string>line</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.50105124735276696</real>
+		<key>Frame</key>
+		<string>{{0.091862473053630558, 0.61593826166682675}, {0.26778029613661369, 0.10171673996263729}}</string>
+		<key>Text</key>
+		<string>&lt;p class="right"&gt;brun uni&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.25052562367638348</real>
+		<key>Frame</key>
+		<string>{{0.15217175622412574, 0.032136383573133129}, {0.43063222147673713, 0.20343347992527458}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;détermination de l’âge difficile sur le terrain ; sexes semblables&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+</array>
+</plist>

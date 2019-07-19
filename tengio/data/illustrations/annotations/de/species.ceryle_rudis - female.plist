@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>EndPoint</key>
+		<string>{0.47899467309095456, 0.38149024339254672}</string>
+		<key>StartPoint</key>
+		<string>{0.51895563854963878, 0.36806304140702767}</string>
+		<key>Type</key>
+		<string>line</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.38863581371080946</real>
+		<key>Frame</key>
+		<string>{{0.42250708574845725, 0.3593577692817479}, {0.096570607070930917, 0.065031571280967648}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;schwarzweiß&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.72307873367070741</real>
+		<key>Frame</key>
+		<string>{{0.23089273340989874, 0.17042839143080549}, {0.12034525730822804, 0.034952760252497009}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;recht lang&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>EndPoint</key>
+		<string>{0.29974404174895131, 0.1764989117192326}</string>
+		<key>StartPoint</key>
+		<string>{0.33716309379609938, 0.14271689485906661}</string>
+		<key>Type</key>
+		<string>line</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.6064498218664689</real>
+		<key>Frame</key>
+		<string>{{0.53526491943226473, 0.15141090100061838}, {0.050730815737138821, 0.041674672347807591}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;♀&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.78910040203670195</real>
+		<key>Frame</key>
+		<string>{{0.79076948249251255, 0.32340129736561374}, {0.10355514957274475, 0.03202836743770391}}</string>
+		<key>Text</key>
+		<string>&lt;p class="center"&gt;schwarz&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>EndPoint</key>
+		<string>{0.86156516287961538, 0.36490264376892945}</string>
+		<key>StartPoint</key>
+		<string>{0.86156516287961538, 0.40254424598845095}</string>
+		<key>Type</key>
+		<string>line</string>
+	</dict>
+	<dict>
+		<key>EndPoint</key>
+		<string>{0.64944313181101188, 0.74780129374534243}</string>
+		<key>StartPoint</key>
+		<string>{0.70853214383445129, 0.79693546375194257}</string>
+		<key>Type</key>
+		<string>line</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.49053913416986805</real>
+		<key>Frame</key>
+		<string>{{0.1485797365325302, 0.70685036855898886}, {0.49062212285880663, 0.051522082258414509}}</string>
+		<key>Text</key>
+		<string>&lt;p class="right"&gt;große weiße Flecke auf Handschwingenbasen&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+</array>
+</plist>

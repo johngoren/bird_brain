@@ -1,0 +1,118 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>FontScale</key>
+		<real>0.7175141242937535</real>
+		<key>Frame</key>
+		<string>{{0.56126046199219104, 0.088232681150203884}, {0.19391802784875622, 0.040551733334086716}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;&lt;b&gt;1:a vinter &lt;/b&gt;♀&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>1.0071884311479433</real>
+		<key>Frame</key>
+		<string>{{0.81630834897691507, 0.14796130799182647}, {0.1683398071517278, 0.028888776451332313}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;mäktig näbb&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>EndPoint</key>
+		<string>{0.84728955306910803, 0.18033322804456553}</string>
+		<key>StartPoint</key>
+		<string>{0.83813231286513568, 0.20699541994713122}</string>
+		<key>Type</key>
+		<string>line</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.50648055832502858</real>
+		<key>Frame</key>
+		<string>{{0.1136330143746458, 0.18302522164160454}, {0.19230204428334954, 0.057448288889953215}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;1-åriga ♀♀ saknar vitt&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>EndPoint</key>
+		<string>{0.27361538734986979, 0.23030693896827792}</string>
+		<key>StartPoint</key>
+		<string>{0.37246118993537375, 0.27555534198229764}</string>
+		<key>Type</key>
+		<string>line</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.50648055832502858</real>
+		<key>Frame</key>
+		<string>{{0.11201703080924028, 0.098084232186165354}, {0.21654179776444399, 0.057448288889953215}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;aningen större än en stenknäck&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.36376655925529827</real>
+		<key>Frame</key>
+		<string>{{0.81254590641286883, 0.34872601900814265}, {0.18745409358713122, 0.07998657570769338}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;kraftiga huvudteckningar&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>EndPoint</key>
+		<string>{0.81766346378303834, 0.32206764268138205}</string>
+		<key>StartPoint</key>
+		<string>{0.84324987023530518, 0.34383269729572125}</string>
+		<key>Type</key>
+		<string>line</string>
+	</dict>
+	<dict>
+		<key>EndPoint</key>
+		<string>{0.81294990230422459, 0.59272373652678423}</string>
+		<key>StartPoint</key>
+		<string>{0.72609078566363572, 0.68482428342114665}</string>
+		<key>Type</key>
+		<string>line</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.24696159455517216</real>
+		<key>Frame</key>
+		<string>{{0.76063792977718547, 0.49071436213694364}, {0.15485001281703201, 0.11781767721499217}}</string>
+		<key>Text</key>
+		<string>&lt;p class="right"&gt;stor vit handbasfläck hos ♂♂ &lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.24411340701585293</real>
+		<key>Frame</key>
+		<string>{{0.37825032320992763, 0.78686229604074043}, {0.31117892378548556, 0.11919231224326607}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;irrgäster har ofta &lt;/p&gt;&lt;p&gt;setts äta &lt;/p&gt;&lt;p&gt;björnbär&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.7175141242937535</real>
+		<key>Frame</key>
+		<string>{{0.44006169458671884, 0.49100074443450387}, {0.19391802784875622, 0.040551733334086716}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;&lt;b&gt;1:a vinter &lt;/b&gt;♂&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+</array>
+</plist>

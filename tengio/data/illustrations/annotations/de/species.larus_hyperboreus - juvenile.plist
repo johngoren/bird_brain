@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>FontScale</key>
+		<real>0.59354791964787368</real>
+		<key>Frame</key>
+		<string>{{0.16363020340504097, 0.011507440333669915}, {0.24296093813604414, 0.047326209319424578}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;&lt;b&gt;JK/1er W&lt;/b&gt;&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>EndPoint</key>
+		<string>{0.15517975273429896, 0.96323628915048498}</string>
+		<key>StartPoint</key>
+		<string>{0.16225109321635978, 0.92822191088319461}</string>
+		<key>Type</key>
+		<string>line</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.29152808772176991</real>
+		<key>Frame</key>
+		<string>{{0.087195871399487077, 0.90364436817774729}, {0.27607280563099368, 0.096355631822252763}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;Spitze beigeweiß&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.32914083674709627</real>
+		<key>Frame</key>
+		<string>{{0.087195871399487077, 0.72706619526698324}, {0.15643765738609527, 0.085344539328458424}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;&lt;b&gt;JK/1er W&lt;/b&gt;&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.28541357880418639</real>
+		<key>Frame</key>
+		<string>{{0.087195871399487077, 0.45877647181237768}, {0.24553706700746608, 0.098419890196031007}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;Endbinde schwach oder fehlend&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>EndPoint</key>
+		<string>{0.15078910707953369, 0.55887643521428965}</string>
+		<key>StartPoint</key>
+		<string>{0.17379019656114322, 0.59215594624942458}</string>
+		<key>Type</key>
+		<string>line</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.21159762400186141</real>
+		<key>Frame</key>
+		<string>{{0.69569849563479547, 0.5850323072987037}, {0.20614643186773318, 0.13275372641290697}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;lang, rosa, Spitze schwarz abgesetzt&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>EndPoint</key>
+		<string>{0.69150918309719822, 0.6404585545375282}</string>
+		<key>StartPoint</key>
+		<string>{0.6501566661656264, 0.63540152246641357}</string>
+		<key>Type</key>
+		<string>line</string>
+	</dict>
+</array>
+</plist>

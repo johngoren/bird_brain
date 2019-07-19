@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>FontScale</key>
+		<real>0.38367327822401232</real>
+		<key>Frame</key>
+		<string>{{0.37146266747778472, 0.58416851816233806}, {0.045560801292997707, 0.13244599560209805}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;roux&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>EndPoint</key>
+		<string>{0.38568002500368337, 0.61110966268181977}</string>
+		<key>StartPoint</key>
+		<string>{0.40292094871245004, 0.55794822830906954}</string>
+		<key>Type</key>
+		<string>line</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.29020990891511955</real>
+		<key>Frame</key>
+		<string>{{0.53595722622905217, 0.28681519296003755}, {0.12126621143427072, 0.17510080724074351}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;n’a pas le bord d’attaque sombre de l’E. d’Europe&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.354716810926133</real>
+		<key>Frame</key>
+		<string>{{0.53367876744557008, 0.12773387559967433}, {0.11878586469987679, 0.14325791097304971}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;plusieurs barres alaires pâles de même épaisseur&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>EndPoint</key>
+		<string>{0.53192833000471307, 0.33585476273180143}</string>
+		<key>StartPoint</key>
+		<string>{0.4839857828697875, 0.33585476273180143}</string>
+		<key>Type</key>
+		<string>line</string>
+	</dict>
+	<dict>
+		<key>EndPoint</key>
+		<string>{0.53070149703003699, 0.2496042046867038}</string>
+		<key>StartPoint</key>
+		<string>{0.47757852276330959, 0.2496042046867038}</string>
+		<key>Type</key>
+		<string>line</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.23456699845895701</real>
+		<key>Frame</key>
+		<string>{{0.73196858243179685, 0.048605612712263956}, {0.1825653810545462, 0.21663741981671614}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;les deux sexes présentent des marques alaires et caudales blanches, plus visibles chez le ♂&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.30528846153847417</real>
+		<key>Frame</key>
+		<string>{{0.78316122064562332, 0.66653467221174278}, {0.057355680096544973, 0.16645237446648786}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;rémiges barrées de roux&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.16576156625105654</real>
+		<key>Frame</key>
+		<string>{{0.91700948496368717, 0.45606844872762825}, {0.082990515036312745, 0.30656074547061168}}</string>
+		<key>Text</key>
+		<string>&lt;p class="right"&gt;pas de bord d’attaque sombre&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>EndPoint</key>
+		<string>{0.94904605758950278, 0.65522550595869022}</string>
+		<key>StartPoint</key>
+		<string>{0.92385213429895308, 0.57197621859337278}</string>
+		<key>Type</key>
+		<string>line</string>
+	</dict>
+	<dict>
+		<key>EndPoint</key>
+		<string>{0.87820878088984944, 0.70947232200604271}</string>
+		<key>StartPoint</key>
+		<string>{0.83026623375492103, 0.70947232200604271}</string>
+		<key>Type</key>
+		<string>line</string>
+	</dict>
+</array>
+</plist>

@@ -1,0 +1,126 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>FontScale</key>
+		<real>0.60506017266395462</real>
+		<key>Frame</key>
+		<string>{{0.084800894548003117, 0.016501404730571323}, {0.061795670605676305, 0.074422724783162614}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;weiß&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>EndPoint</key>
+		<string>{0.11292860795546705, 0.14034746325193079}</string>
+		<key>StartPoint</key>
+		<string>{0.094421801623948823, 0.099479653496262824}</string>
+		<key>Type</key>
+		<string>line</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.3762962962962888</real>
+		<key>Frame</key>
+		<string>{{0.34923151653310097, 0.050646371911078666}, {0.26232330225869266, 0.11966694105319169}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;rein weiße Flanken und Unterschwanz­decken breit schwarz unterbrochen&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>EndPoint</key>
+		<string>{0.34409222922671684, 0.14882644888183291}</string>
+		<key>StartPoint</key>
+		<string>{0.32189536172910427, 0.14882644888183291}</string>
+		<key>Type</key>
+		<string>line</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.29314231484860759</real>
+		<key>Frame</key>
+		<string>{{0.084800894548003117, 0.23414040831532063}, {0.20467793003599744, 0.15361216865152363}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;dunkle Kappe reicht bis unter das Auge, heller Keil hinter Ohrdecken&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.24744276668290302</real>
+		<key>Frame</key>
+		<string>{{0.55344691904238075, 0.70110267816908423}, {0.11621579949882915, 0.18198239257940571}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;oft einige Achselfeder-spitzen dunkel&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>EndPoint</key>
+		<string>{0.66704698753582325, 0.71014418038199323}</string>
+		<key>StartPoint</key>
+		<string>{0.63216619575386146, 0.74471463001957783}</string>
+		<key>Type</key>
+		<string>line</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.3533667223149678</real>
+		<key>Frame</key>
+		<string>{{0.3590114826702851, 0.57367068227422058}, {0.066922333259157044, 0.12743199589486351}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;immer weiß&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>EndPoint</key>
+		<string>{0.38264962272267128, 0.53995119755078846}</string>
+		<key>StartPoint</key>
+		<string>{0.37373123846024009, 0.61175136218270032}</string>
+		<key>Type</key>
+		<string>line</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.16163930253277323</real>
+		<key>Frame</key>
+		<string>{{0.36184005944366238, 0.19584226038895311}, {0.13278483235178484, 0.27858463877182488}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;Zehenprojektion gering oder fehlend; nur nach dem Auffliegen noch sichtbar&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.20550161812297801</real>
+		<key>Frame</key>
+		<string>{{0.74419115475067388, 0.25636713990829629}, {0.082767816447486431, 0.21912346539517261}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;weiße Kerbe immer vorhanden&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>EndPoint</key>
+		<string>{0.8105611306988062, 0.4445367565510428}</string>
+		<key>StartPoint</key>
+		<string>{0.83258130490844551, 0.50644445405589422}</string>
+		<key>Type</key>
+		<string>line</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.14111111111111069</real>
+		<key>Frame</key>
+		<string>{{0.87613355191064857, 0.058624167981296077}, {0.12386644808935142, 0.31911184280850574}}</string>
+		<key>Text</key>
+		<string>&lt;p class="right"&gt;wirkt allgemein schwarz-weiß, bei Sonne oberseits aber oft bräunlich&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+</array>
+</plist>

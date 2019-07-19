@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>FontScale</key>
+		<real>0.58181473831239439</real>
+		<key>Frame</key>
+		<string>{{0.12832581023460216, 0.25362583441590941}, {0.16646363091572847, 0.070576266772096108}}</string>
+		<key>Text</key>
+		<string>&lt;p class="right"&gt;”segel”&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>EndPoint</key>
+		<string>{0.28997067179897612, 0.3023033144530447}</string>
+		<key>StartPoint</key>
+		<string>{0.36174575661649722, 0.29691103322584317}</string>
+		<key>Type</key>
+		<string>line</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.73067289038866046</real>
+		<key>Frame</key>
+		<string>{{0.74869299682911983, 0.031284285257608194}, {0.14890982072589043, 0.05619794127195675}}</string>
+		<key>Text</key>
+		<string>&lt;p class="right"&gt;&lt;b&gt;ad. &lt;/b&gt;♂&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>EndPoint</key>
+		<string>{0.86569730769437103, 0.38799924541852304}</string>
+		<key>StartPoint</key>
+		<string>{0.82224623275644748, 0.34222277520894823}</string>
+		<key>Type</key>
+		<string>line</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.70555557549245174</real>
+		<key>Frame</key>
+		<string>{{0.17107885042929583, 0.90606723311635728}, {0.11449447221826924, 0.058198551055900674}}</string>
+		<key>Text</key>
+		<string>&lt;p class="right"&gt;&lt;b&gt;ad. &lt;/b&gt;♂&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>EndPoint</key>
+		<string>{0.51691665217909899, 0.81095328201491956}</string>
+		<key>StartPoint</key>
+		<string>{0.408333003024622, 0.88224744924964305}</string>
+		<key>Type</key>
+		<string>line</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.58578181260213813</real>
+		<key>Frame</key>
+		<string>{{0.52694725944640619, 0.75538038089180348}, {0.25597010187828534, 0.070098305033861261}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;svarta skuldror&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>EndPoint</key>
+		<string>{0.74202636556653379, 0.97219466317645797}</string>
+		<key>StartPoint</key>
+		<string>{0.70001137894909005, 0.92793102399052285}</string>
+		<key>Type</key>
+		<string>line</string>
+	</dict>
+</array>
+</plist>

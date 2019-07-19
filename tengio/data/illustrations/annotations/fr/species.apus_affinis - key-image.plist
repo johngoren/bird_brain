@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>FontScale</key>
+		<real>0.27078891257995774</real>
+		<key>Frame</key>
+		<string>{{0.054758892455790728, 0.23311772086966354}, {0.37252974203026212, 0.19074320935813169}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;croupion blanc bien visible, même de dessous&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.43961186036447009</real>
+		<key>Frame</key>
+		<string>{{0.039548116012546958, 0.45970153859599322}, {0.18377101335506338, 0.11749261314578081}}</string>
+		<key>Text</key>
+		<string>&lt;p class="right"&gt;queue carrée&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>EndPoint</key>
+		<string>{0.30554208855715564, 0.53007034075532955}</string>
+		<key>StartPoint</key>
+		<string>{0.23096391286242138, 0.55059005309899922}</string>
+		<key>Type</key>
+		<string>line</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.35912104772864162</real>
+		<key>Frame</key>
+		<string>{{0.168839715780086, 0.068759299799611678}, {0.28885379820807727, 0.14382656369149446}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;main assez large&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>EndPoint</key>
+		<string>{0.53696810696371899, 0.15936285848305387}</string>
+		<key>StartPoint</key>
+		<string>{0.44282339633945367, 0.18455697938966661}</string>
+		<key>Type</key>
+		<string>line</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.17731239092495668</real>
+		<key>Frame</key>
+		<string>{{0.66103083109653904, 0.044357183463815147}, {0.33896916890346118, 0.29130026375855389}}</string>
+		<key>Text</key>
+		<string>&lt;p class="right"&gt;forme souvent de grands groupes bruyants dans les villes&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+</array>
+</plist>

@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>EndPoint</key>
+		<string>{0.28757334300216147, 0.43242699880956353}</string>
+		<key>StartPoint</key>
+		<string>{0.26609681298647969, 0.39232019747903857}</string>
+		<key>Type</key>
+		<string>line</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.35697516708699473</real>
+		<key>Frame</key>
+		<string>{{0.21070115706815357, 0.22468355300680085}, {0.15871842076873285, 0.15262849864054112}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;roux&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.55395486832132701</real>
+		<key>Frame</key>
+		<string>{{0.31278049520777707, 0}, {0.3705074017677199, 0.09835563674988769}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;♂ &lt;b&gt;ad. nuptial&lt;/b&gt;&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.56470182745126252</real>
+		<key>Frame</key>
+		<string>{{0.52612786754290819, 0.27811118997982953}, {0.25710910474397336, 0.096483809961012884}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;non barré&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>EndPoint</key>
+		<string>{0.62425532260516703, 0.38497562128416163}</string>
+		<key>StartPoint</key>
+		<string>{0.57392286261220116, 0.45226510777857387}</string>
+		<key>Type</key>
+		<string>line</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.61935191208458873</real>
+		<key>Frame</key>
+		<string>{{0.74641188053234808, 0.65409365275322018}, {0.16250783060742233, 0.087970316618644767}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;sombre&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>EndPoint</key>
+		<string>{0.78171127766514825, 0.7487800391916517}</string>
+		<key>StartPoint</key>
+		<string>{0.78023688278138126, 0.80769435849203775}</string>
+		<key>Type</key>
+		<string>line</string>
+	</dict>
+</array>
+</plist>

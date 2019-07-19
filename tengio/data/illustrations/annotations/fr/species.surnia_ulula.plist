@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>FontScale</key>
+		<real>0.2008576456375771</real>
+		<key>Frame</key>
+		<string>{{0.67275734798556563, 0.84772181748565556}, {0.10961805801502271, 0.13129050822160873}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;à l’affût depuis le sommet d’un arbre mort&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.36718171487053541</real>
+		<key>Frame</key>
+		<string>{{0.72334721686781689, 0.02966730842960141}, {0.22477973963069942, 0.071819214595833944}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;silhouette rappelant l’Épervier en vol, mais tête plus grosse&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.2066191090727951</real>
+		<key>Frame</key>
+		<string>{{0.34810957532298098, 0.52963944982399014}, {0.072187435107772216, 0.12762954256405437}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;larges taches alaires pâles&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>EndPoint</key>
+		<string>{0.6345865680425109, 0.43836715051775138}</string>
+		<key>StartPoint</key>
+		<string>{0.61438517116324609, 0.47016301883461781}</string>
+		<key>Type</key>
+		<string>line</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.19583308846892861</real>
+		<key>Frame</key>
+		<string>{{0.62017643775476616, 0.29584298625071287}, {0.077334888360886936, 0.13465907412340761}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;finement barrée, comme un Épervier d’Europe&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.33072834748427665</real>
+		<key>Frame</key>
+		<string>{{0.47200565672448869, 0.065796978861252978}, {0.049467592606750231, 0.079735234601282554}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;longue queue&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>EndPoint</key>
+		<string>{0.48367423257439912, 0.14520333298217558}</string>
+		<key>StartPoint</key>
+		<string>{0.46347283538730455, 0.1769991337503784}</string>
+		<key>Type</key>
+		<string>line</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.57207286503441257</real>
+		<key>Frame</key>
+		<string>{{0.49693963646328038, 0.91173597052774247}, {0.10686005158614173, 0.04609675443069125}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;expression sauvage&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.17118922474724296</real>
+		<key>Frame</key>
+		<string>{{0.022006054920795458, 0.050043547555912622}, {0.074751228934644129, 0.154044171967535}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;jeune à peine sorti du nid, à l’âge d’environ 4 semaines&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.27610497179378107</real>
+		<key>Frame</key>
+		<string>{{0.16101827706740768, 0.82014761594381536}, {0.1306301337295363, 0.095509697650968783}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;nuque pâle esquissant une « fausse face »&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+</array>
+</plist>

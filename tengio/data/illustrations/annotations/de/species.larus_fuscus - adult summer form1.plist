@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>FontScale</key>
+		<real>0.3862275978445992</real>
+		<key>Frame</key>
+		<string>{{0.71303013795879822, 0.04758686035892197}, {0.2572684265325626, 0.092458802208161481}}</string>
+		<key>Text</key>
+		<string>&lt;p class="center"&gt;♀&lt;b&gt; PK&lt;/b&gt;&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.35376044568244591</real>
+		<key>Frame</key>
+		<string>{{0.079762573955477631, 0.02416344295188514}, {0.55395545867980012, 0.10094441453893477}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;besonders ♀ auffällig elegant, mit längeren und schmaleren Flügeln als &lt;i&gt;graellsii&lt;/i&gt;&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.23931299576016515</real>
+		<key>Frame</key>
+		<string>{{0.3944122677144119, 0.63253881759789221}, {0.22175748583226101, 0.14921939764706779}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;komplett schwarz, sehr kon­trastarm&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>EndPoint</key>
+		<string>{0.55078197313922161, 0.76403776865974338}</string>
+		<key>StartPoint</key>
+		<string>{0.62251038778987144, 0.79960731862958467}</string>
+		<key>Type</key>
+		<string>line</string>
+	</dict>
+</array>
+</plist>

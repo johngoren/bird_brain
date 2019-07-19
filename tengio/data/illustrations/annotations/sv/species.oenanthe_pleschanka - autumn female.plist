@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>FontScale</key>
+		<real>0.23047382364663682</real>
+		<key>Frame</key>
+		<string>{{0.17855944182777372, 0.80246088797390291}, {0.76064487921197121, 0.19455081191990614}}</string>
+		<key>Text</key>
+		<string>&lt;p class="center"&gt;enstaka höst-♀♀ är varmare skärbruna eller orange på bröstet och mycket likaöstlig ras av medelhavsstenskvätta(&lt;i&gt;melanoleuca&lt;/i&gt;)&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.31671939738773508</real>
+		<key>Frame</key>
+		<string>{{0.37330506604288971, 0.62819347946118309}, {0.21892232866189248, 0.14157285561466793}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;♀&lt;b&gt; höst&lt;/b&gt;&lt;/p&gt;&lt;p&gt;(fräsch)&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.23797437098525395</real>
+		<key>Frame</key>
+		<string>{{0.12958533670976513, 0.40386776800195184}, {0.26151102449052893, 0.18841890129217692}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;kallt gråbrun med finaljusa bräm&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>EndPoint</key>
+		<string>{0.38065608598461975, 0.56634116356408626}</string>
+		<key>StartPoint</key>
+		<string>{0.4720074958166241, 0.56634116356408626}</string>
+		<key>Type</key>
+		<string>line</string>
+	</dict>
+</array>
+</plist>

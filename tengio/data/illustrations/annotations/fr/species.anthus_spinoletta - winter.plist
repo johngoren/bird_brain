@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>FontScale</key>
+		<real>0.16137644873517901</real>
+		<key>Frame</key>
+		<string>{{6.2558538245866311e-16, 0.17960450165055175}, {0.36331460960234613, 0.30936368665639147}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;parties inf. plus propres, plus blanches et moins striées que chez le P. maritime; barres alaires gris-brun terne&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.40448903946091486</real>
+		<key>Frame</key>
+		<string>{{0.61162893212543912, 0.17355900369024815}, {0.18807435219073046, 0.1234248848541549}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;&lt;b&gt;&lt;i&gt;spinoletta&lt;/i&gt;&lt;/b&gt;&lt;/p&gt;&lt;p&gt;(Europe)&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.40967741935484381</real>
+		<key>Frame</key>
+		<string>{{0.59110710292445279, 0.24667606227578648}, {0.19607455121396458, 0.12186176430922407}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;&lt;b&gt;internuptial&lt;/b&gt;&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.44127602512371689</real>
+		<key>Frame</key>
+		<string>{{0.60984952326108011, 0.016711119950315271}, {0.39015047673891989, 0.11313556657929547}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;couleur des pattes variable, souvent plus pâle en hiver&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>EndPoint</key>
+		<string>{0.71852433832359885, 0.5333951730597879}</string>
+		<key>StartPoint</key>
+		<string>{0.64052140449485218, 0.51000557636172028}</string>
+		<key>Type</key>
+		<string>line</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.69021739130428839</real>
+		<key>Frame</key>
+		<string>{{0.73108982484678686, 0.48843407856666682}, {0.23342396016896302, 0.072330853654514318}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;brun chaud&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+</array>
+</plist>

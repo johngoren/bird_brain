@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>EndPoint</key>
+		<string>{0.41302484965219732, 0.84321263394335366}</string>
+		<key>StartPoint</key>
+		<string>{0.44106444599379979, 0.75229895742698549}</string>
+		<key>Type</key>
+		<string>line</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.41741988496301496</real>
+		<key>Frame</key>
+		<string>{{0.37018486879941992, 0.82305813377339021}, {0.19382101037110999, 0.13465819798841078}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;﻿lyskantete tertiærer&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.68144246941280551</real>
+		<key>Frame</key>
+		<string>{{0.090561042285328672, 0.81868755134073257}, {0.24535238259592981, 0.082485333739301947}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;﻿lyst skjellmønster&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.19112114371708216</real>
+		<key>Frame</key>
+		<string>{{0.16195988378149789, 0.13156560433332662}, {0.29779807707675371, 0.29410147103794998}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;﻿gråvatret (vinkelflekket) undergump, hos noen strekker tverrvatringen seg opp på bakre kroppsside&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>EndPoint</key>
+		<string>{0.43664283501134771, 0.48735314388281736}</string>
+		<key>StartPoint</key>
+		<string>{0.3729110063838198, 0.43695313633662664}</string>
+		<key>Type</key>
+		<string>line</string>
+	</dict>
+	<dict>
+		<key>EndPoint</key>
+		<string>{0.24711990523018759, 0.83463245216573323}</string>
+		<key>StartPoint</key>
+		<string>{0.26737053704493507, 0.7702742132148751}</string>
+		<key>Type</key>
+		<string>line</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.39349341595662257</real>
+		<key>Frame</key>
+		<string>{{0.86945749497082303, 0.58632747264257734}, {0.13054250502917689, 0.14284612457110493}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;&lt;b&gt;ung høst&lt;/b&gt;&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>EndPoint</key>
+		<string>{0.65669953228980704, 0.52425710073527454}</string>
+		<key>StartPoint</key>
+		<string>{0.71978946900225793, 0.36031597091377299}</string>
+		<key>Type</key>
+		<string>line</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.26051282051282082</real>
+		<key>Frame</key>
+		<string>{{0.70199475764344155, 0.13488503402902238}, {0.11683446790282373, 0.21576293021971663}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;﻿lyse vinge-bånd&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+</array>
+</plist>

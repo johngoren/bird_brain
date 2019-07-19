@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>FontScale</key>
+		<real>0.20303756994404545</real>
+		<key>Frame</key>
+		<string>{{0.46158293121096361, 0.65413359678776895}, {0.22242722107330115, 0.25936358843212981}}</string>
+		<key>Text</key>
+		<string>&lt;p class="right"&gt;coverts dark with distinct pale bar in juv. (older &lt;/p&gt;&lt;p class="right"&gt;birds attain several &lt;/p&gt;&lt;p class="right"&gt;distinct bars)&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.20460770098276071</real>
+		<key>Frame</key>
+		<string>{{0.45854483925549883, 0.1331258448053976}, {0.18104906937394213, 0.25737326832905527}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;lacks &lt;/p&gt;&lt;p&gt;Griffon’s &lt;/p&gt;&lt;p&gt;typical rusty underside&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>EndPoint</key>
+		<string>{0.60643476952989739, 0.69563089656653054}</string>
+		<key>StartPoint</key>
+		<string>{0.58619642170912778, 0.58159673620151908}</string>
+		<key>Type</key>
+		<string>line</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.46547964154402427</real>
+		<key>Frame</key>
+		<string>{{0.64128595600676752, 0.10478996771754912}, {0.18104906937394213, 0.11313180647933156}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;&lt;b&gt;immature&lt;/b&gt;&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.15438852419158786</real>
+		<key>Frame</key>
+		<string>{{0.85786802030456832, 0.22310489946530368}, {0.14213197969543168, 0.34109110766470091}}</string>
+		<key>Text</key>
+		<string>&lt;p class="right"&gt;smaller size &lt;/p&gt;&lt;p class="right"&gt;of Rüppell’s evident when seen together with Griffon Vultures&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.31242312423124424</real>
+		<key>Frame</key>
+		<string>{{0.798646362098139, 0.82436816310401362}, {0.18104906937394249, 0.16855523372927336}}</string>
+		<key>Text</key>
+		<string>&lt;p class="right"&gt;darker coverts above than Griffon&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+</array>
+</plist>

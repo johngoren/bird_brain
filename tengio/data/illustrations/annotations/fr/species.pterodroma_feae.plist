@@ -1,0 +1,118 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>FontScale</key>
+		<real>0.11913696060037535</real>
+		<key>Frame</key>
+		<string>{{0.78499153465246507, 0.094200332151703287}, {0.2080300499582369, 0.23386064985649427}}</string>
+		<key>Text</key>
+		<string>&lt;p class="right"&gt;bec plus fort que chez le P. de Madère, mais variable ; très difficile à identifier avec certitude en mer&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.82467532467533178</real>
+		<key>Frame</key>
+		<string>{{0.085723683837520326, 0.7064940223482008}, {0.081774208381520677, 0.033784746789774708}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;pointue&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>EndPoint</key>
+		<string>{0.11301251936680785, 0.66568906843328313}</string>
+		<key>StartPoint</key>
+		<string>{0.11178459974088671, 0.70627464087554537}</string>
+		<key>Type</key>
+		<string>line</string>
+	</dict>
+	<dict>
+		<key>EndPoint</key>
+		<string>{0.23948824083674453, 0.56301853922799017}</string>
+		<key>StartPoint</key>
+		<string>{0.2689583118588651, 0.59855833779905421}</string>
+		<key>Type</key>
+		<string>line</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.20711024135681799</real>
+		<key>Frame</key>
+		<string>{{0.14227793711794356, 0.42849382019234628}, {0.13507115885138804, 0.13452471903564872}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;sous-alaires noirâtres contrastant avec le corps blanc&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>EndPoint</key>
+		<string>{0.62137124449839765, 0.7358911396847615}</string>
+		<key>StartPoint</key>
+		<string>{0.65391111458532269, 0.72097319954382122}</string>
+		<key>Type</key>
+		<string>line</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.33866666666666984</real>
+		<key>Frame</key>
+		<string>{{0.46419753238041489, 0.70715216676618708}, {0.18909962239194331, 0.082268052247827975}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;discret W sombre visible sous une bonne lumière&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.1814285714285713</real>
+		<key>Frame</key>
+		<string>{{0.81579185193599923, 0.61084370026806356}, {0.15962955136982232, 0.15356703086261375}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;parties sup. plus grises et dessus des ailes plus sombre que le P. cendré&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.1814285714285713</real>
+		<key>Frame</key>
+		<string>{{0.72574441270174128, 0.44367501810047588}, {0.24026294013868194, 0.15356703086261375}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;masque faisant ressortir la face blanche ; épais bec sombre&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.13041692339289387</real>
+		<key>Frame</key>
+		<string>{{0.45314625574712036, 0.41585744736707753}, {0.15103411398837011, 0.21363367807716155}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;gris pâle remarquable, mais changeant avec la lumière et pas toujours évident&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>EndPoint</key>
+		<string>{0.53050519218019065, 0.63497566226075752}</string>
+		<key>StartPoint</key>
+		<string>{0.55465427815664969, 0.67336741997641092}</string>
+		<key>Type</key>
+		<string>line</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.31869510664994416</real>
+		<key>Frame</key>
+		<string>{{0.20967058479430289, 0.83461280238215174}, {0.28276909898231317, 0.087423516855357444}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;vol rapide et efficace, typique du genre &lt;i&gt;Pterodroma&lt;/i&gt;&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+</array>
+</plist>

@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>FontScale</key>
+		<real>0.27506220475910947</real>
+		<key>Frame</key>
+		<string>{{0.37719204591154976, 0.7975385437193937}, {0.27578709462396134, 0.15544434010657809}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;sourcil souvent court et peu marqué ; aspect « gentil »&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>EndPoint</key>
+		<string>{0.51770071038891241, 0.82771125658328526}</string>
+		<key>StartPoint</key>
+		<string>{0.59227623803139429, 0.76151661452242614}</string>
+		<key>Type</key>
+		<string>line</string>
+	</dict>
+	<dict>
+		<key>EndPoint</key>
+		<string>{0.71690818001372447, 0.73847232546744468}</string>
+		<key>StartPoint</key>
+		<string>{0.75604705257661298, 0.70752566569407083}</string>
+		<key>Type</key>
+		<string>line</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.59854601249406347</real>
+		<key>Frame</key>
+		<string>{{0.68682625929047791, 0.62928669553200489}, {0.1471549872085291, 0.071434546408350383}}</string>
+		<key>Text</key>
+		<string>&lt;p class="center"&gt;assez fin&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.3848489979358764</real>
+		<key>Frame</key>
+		<string>{{0.69330880697532737, 0.44661430865356871}, {0.15743201212039851, 0.11110036179479517}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;&lt;b&gt;automne&lt;/b&gt;&lt;/p&gt;&lt;p&gt;(plum. frais)&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.38388790773006676</real>
+		<key>Frame</key>
+		<string>{{0.62448749119817459, 0.23933039634389702}, {0.35195024881715553, 0.11137850931502902}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;blanc cassé à olivâtre, plus coloré sur les côtés&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>EndPoint</key>
+		<string>{0.65643043344492502, 0.36351225520165642}</string>
+		<key>StartPoint</key>
+		<string>{0.61167318888008704, 0.4035917935013863}</string>
+		<key>Type</key>
+		<string>line</string>
+	</dict>
+	<dict>
+		<key>EndPoint</key>
+		<string>{0.31736942732228596, 0.30886710365607606}</string>
+		<key>StartPoint</key>
+		<string>{0.38276753339011016, 0.39228216575439917}</string>
+		<key>Type</key>
+		<string>line</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.22426107215471755</real>
+		<key>Frame</key>
+		<string>{{0.058492766894834805, 0.11506637904273499}, {0.30189874843946657, 0.19065664181584896}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;stries des flancs généralement aussi épaisses que celles de la poitrine&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+</array>
+</plist>

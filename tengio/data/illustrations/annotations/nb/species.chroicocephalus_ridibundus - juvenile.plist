@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>FontScale</key>
+		<real>0.20337797558977491</real>
+		<key>Frame</key>
+		<string>{{0.12923730681939116, 0.29640054145361089}, {0.39039130019506835, 0.11998871603043842}}</string>
+		<key>Text</key>
+		<string>&lt;p class="right"&gt;﻿overside og hode vanligvis med mye oker og rødbrunt hos ungfugler&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.65863451124507366</real>
+		<key>Frame</key>
+		<string>{{0.16437989659010616, 0.16488177027462597}, {0.13264330024819956, 0.037050992232028242}}</string>
+		<key>Text</key>
+		<string>&lt;p class="right"&gt;&lt;b&gt;juv.&lt;/b&gt;&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>EndPoint</key>
+		<string>{0.49900614982879127, 0.31691352092005859}</string>
+		<key>StartPoint</key>
+		<string>{0.51911114431147021, 0.29173545260767603}</string>
+		<key>Type</key>
+		<string>line</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.19363445778540145</real>
+		<key>Frame</key>
+		<string>{{0.12124750253277586, 0.018638559287468208}, {0.4389065821447149, 0.12602644404815608}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;﻿variasjon: enkelte er mye lysere enn vist her, mens andre kan være enda mørkere (mørkebrune)&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.65863451124507366</real>
+		<key>Frame</key>
+		<string>{{0.19329846944197382, 0.87123767381640815}, {0.13264330024819956, 0.037050992232028242}}</string>
+		<key>Text</key>
+		<string>&lt;p class="center"&gt;&lt;b&gt;juv.&lt;/b&gt;&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>EndPoint</key>
+		<string>{0.52704713375766488, 0.92866703546253859}</string>
+		<key>StartPoint</key>
+		<string>{0.48340395491001248, 0.90505126080033549}</string>
+		<key>Type</key>
+		<string>line</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.60476161181175014</real>
+		<key>Frame</key>
+		<string>{{0.5299829065962125, 0.90582462801337105}, {0.16676958708704614, 0.040351539653418193}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;hvit&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.28451079607093283</real>
+		<key>Frame</key>
+		<string>{{0.61904748925181807, 0.72228681628942826}, {0.21553918137455844, 0.085772007589486665}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;﻿kontrastrikt mønster i flukt&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+</array>
+</plist>

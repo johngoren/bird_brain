@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>FontScale</key>
+		<real>0.17594901634802759</real>
+		<key>Frame</key>
+		<string>{{0.52928555323349824, 0.42515886772525152}, {0.33671644459726391, 0.32568121103695058}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;bande alaire noire chez la forme sombre&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.63999791667344874</real>
+		<key>Frame</key>
+		<string>{{0.80773225789588243, 0.076403329958005292}, {0.19226774210411771, 0.089536680092388743}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;(pâle)&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.37245957292029763</real>
+		<key>Frame</key>
+		<string>{{0, 0.58796563914474775}, {0.19815822485146536, 0.15385102945722418}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;coin aigu&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>EndPoint</key>
+		<string>{0.12082276736494429, 0.61655389294445917}</string>
+		<key>StartPoint</key>
+		<string>{0.18247357439312503, 0.54370647711711806}</string>
+		<key>Type</key>
+		<string>line</string>
+	</dict>
+</array>
+</plist>

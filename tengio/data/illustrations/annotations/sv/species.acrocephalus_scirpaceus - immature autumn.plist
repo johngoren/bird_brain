@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>FontScale</key>
+		<real>0.19183663911200621</real>
+		<key>Frame</key>
+		<string>{{0.028281604983836698, 0.31909461826461077}, {0.24635440908378478, 0.28922621527350489}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;&lt;b&gt;&lt;i&gt;fuscus&lt;/i&gt;&lt;/b&gt;&lt;/p&gt;&lt;p&gt;(Mell. Östern, Centralasien, &lt;/p&gt;&lt;p&gt;s.ö. Ryssland)&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.43974940224696907</real>
+		<key>Frame</key>
+		<string>{{0.026351908959740638, 0.18625293563653172}, {0.42092864939508956, 0.12617228084370227}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;obs.: ytterst lik kärrsångare!&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.53714290397800091</real>
+		<key>Frame</key>
+		<string>{{0.65516042335108515, 0.14493484441021584}, {0.14377807042968202, 0.10329501641043212}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;ljus&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>EndPoint</key>
+		<string>{0.64393942655264391, 0.22513514805427273}</string>
+		<key>StartPoint</key>
+		<string>{0.59792710791035464, 0.2860810448181062}</string>
+		<key>Type</key>
+		<string>line</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.48205071624280493</real>
+		<key>Frame</key>
+		<string>{{0.7909677002298523, 0.20922318732863099}, {0.17374164202677095, 0.11510030627816316}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;&lt;b&gt;ung höst&lt;/b&gt;&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>EndPoint</key>
+		<string>{0.60014864314038141, 0.71399427034082708}</string>
+		<key>StartPoint</key>
+		<string>{0.62928105028053383, 0.64388714109921685}</string>
+		<key>Type</key>
+		<string>line</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.51955725798033692</real>
+		<key>Frame</key>
+		<string>{{0.53743615593366911, 0.66371106696747317}, {0.23721231125328365, 0.10679128090104481}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;gråbrun&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+</array>
+</plist>

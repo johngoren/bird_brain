@@ -1,0 +1,126 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>FontScale</key>
+		<real>0.18795009549992744</real>
+		<key>Frame</key>
+		<string>{{0.86310007259177035, 0.12559593166237584}, {0.1259252519231106, 0.27759041915403171}}</string>
+		<key>Text</key>
+		<string>&lt;p class="right"&gt;vgl. Kalan-derlerche (l.) mit kleinerer Kurzzehen-lerche (r.)&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>EndPoint</key>
+		<string>{0.84359874952161107, 0.64642915962495373}</string>
+		<key>StartPoint</key>
+		<string>{0.88316458301710776, 0.70632399556728898}</string>
+		<key>Type</key>
+		<string>line</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.30605513239682702</real>
+		<key>Frame</key>
+		<string>{{0.7185052503891356, 0.50313161320067212}, {0.11999928954021345, 0.17046976269039704}}</string>
+		<key>Text</key>
+		<string>&lt;p class="right"&gt;deutlicher weißer Hinterrand&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>EndPoint</key>
+		<string>{0.52966480231200519, 0.87028742715106744}</string>
+		<key>StartPoint</key>
+		<string>{0.50923272214286741, 0.83753849868766328}</string>
+		<key>Type</key>
+		<string>line</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.59496329292427697</real>
+		<key>Frame</key>
+		<string>{{0.53324698076018573, 0.80786283570552997}, {0.080486897711235489, 0.0876913692161264}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;schwärzlich&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>EndPoint</key>
+		<string>{0.44285874845248979, 0.62371595657200807}</string>
+		<key>StartPoint</key>
+		<string>{0.44462866244537957, 0.67353383792004129}</string>
+		<key>Type</key>
+		<string>line</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.54829758574818821</real>
+		<key>Frame</key>
+		<string>{{0.42307110773030709, 0.51616925536649938}, {0.091053994732662985, 0.095154797588013179}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;Schwanz-seiten weiß&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.34741275497176649</real>
+		<key>Frame</key>
+		<string>{{0.63381509168078942, 0.12559593166237451}, {0.09279670647303101, 0.15017625301093263}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;&lt;b&gt;Frühjahr&lt;/b&gt;&lt;/p&gt;&lt;p&gt;(abgetragen)&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.20790527857831295</real>
+		<key>Frame</key>
+		<string>{{0.36478056768541717, 0.15223964014781433}, {0.087115123940877406, 0.25094671066859309}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;schwarzer Fleck (Größe variabel)&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>EndPoint</key>
+		<string>{0.36144921876591524, 0.38282462469922712}</string>
+		<key>StartPoint</key>
+		<string>{0.32182555169888649, 0.423220261742142}</string>
+		<key>Type</key>
+		<string>line</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.38769330881591763</real>
+		<key>Frame</key>
+		<string>{{0.31648310189975409, 0.041937930776831459}, {0.065336433500248772, 0.134573242827458}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;&lt;b&gt;Herbst&lt;/b&gt;(frisch)&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.606451692505105</real>
+		<key>Frame</key>
+		<string>{{0.089287256333789145, 0.0662094642333063}, {0.056814376608085825, 0.086030175914507748}}</string>
+		<key>Text</key>
+		<string>&lt;p class="right"&gt;rosa&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>EndPoint</key>
+		<string>{0.1503626613879567, 0.13799377977948404}</string>
+		<key>StartPoint</key>
+		<string>{0.17876984969199963, 0.13799377977948404}</string>
+		<key>Type</key>
+		<string>line</string>
+	</dict>
+</array>
+</plist>

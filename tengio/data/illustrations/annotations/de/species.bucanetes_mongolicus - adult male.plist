@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>EndPoint</key>
+		<string>{0.35020441880438063, 0.35734883169201809}</string>
+		<key>StartPoint</key>
+		<string>{0.43435694059761382, 0.30494186832260234}</string>
+		<key>Type</key>
+		<string>line</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.39975139709449814</real>
+		<key>Frame</key>
+		<string>{{0.13947259163511577, 0.34381102831668942}, {0.22388073219351881, 0.065972312715540882}}</string>
+		<key>Text</key>
+		<string>&lt;p class="right"&gt;weiße Flügelbinde&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.48156822902250523</real>
+		<key>Frame</key>
+		<string>{{0.12545485023049777, 0.27209103242675464}, {0.16132108363004044, 0.054763837371755102}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;weißes Feld&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>EndPoint</key>
+		<string>{0.24904672009646794, 0.30177959777828994}</string>
+		<key>StartPoint</key>
+		<string>{0.31131508434555216, 0.26300101262105074}</string>
+		<key>Type</key>
+		<string>line</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.64134134705560941</real>
+		<key>Frame</key>
+		<string>{{0.23153811372288083, 0.07856468945568372}, {0.16873213179136545, 0.041120885623028264}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;&lt;b&gt;ad. &lt;/b&gt;♂&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>EndPoint</key>
+		<string>{0.75000266482324807, 0.50838557111518645}</string>
+		<key>StartPoint</key>
+		<string>{0.7104205736534247, 0.48373509409587195}</string>
+		<key>Type</key>
+		<string>line</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.65844591652879825</real>
+		<key>Frame</key>
+		<string>{{0.75990409478517207, 0.48227707504537026}, {0.24009590521482815, 0.040052680889302993}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;gelbbraun&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>EndPoint</key>
+		<string>{0.50937214517548057, 0.5113083805984594}</string>
+		<key>StartPoint</key>
+		<string>{0.54439373615933706, 0.49510511478714408}</string>
+		<key>Type</key>
+		<string>line</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.70000017801925118</real>
+		<key>Frame</key>
+		<string>{{0.30094342533270552, 0.48522831917357706}, {0.19468579600838348, 0.037675024958161232}}</string>
+		<key>Text</key>
+		<string>&lt;p class="right"&gt;braun&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>EndPoint</key>
+		<string>{0.41432081769638884, 0.77121115557513786}</string>
+		<key>StartPoint</key>
+		<string>{0.49841450657607872, 0.83160047869579767}</string>
+		<key>Type</key>
+		<string>line</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.29309711274838468</real>
+		<key>Frame</key>
+		<string>{{0.30528410530214134, 0.67851796282102217}, {0.20403216759053661, 0.089978792115337658}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;weiße Flügel-binde&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.56911965379162988</real>
+		<key>Frame</key>
+		<string>{{0.40983474396948749, 0.61908616428954966}, {0.17795931632814407, 0.046339155574564438}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;&lt;b&gt;ad. &lt;/b&gt;♂&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+</array>
+</plist>

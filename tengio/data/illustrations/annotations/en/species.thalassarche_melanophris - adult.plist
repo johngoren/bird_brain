@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>EndPoint</key>
+		<string>{0.44958494703864804, 0.75878731877188565}</string>
+		<key>StartPoint</key>
+		<string>{0.38242408443778714, 0.7413020613061887}</string>
+		<key>Type</key>
+		<string>line</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.39197530864197089</real>
+		<key>Frame</key>
+		<string>{{0.32521297925928028, 0.72206827809391461}, {0.30098016202606553, 0.094420390314774449}}</string>
+		<key>Text</key>
+		<string>&lt;p class="right"&gt;wide black border&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>EndPoint</key>
+		<string>{0.80155761585424767, 0.60054573870731554}</string>
+		<key>StartPoint</key>
+		<string>{0.7443465106757492, 0.60928836744016079}</string>
+		<key>Type</key>
+		<string>line</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.24643869604984231</real>
+		<key>Frame</key>
+		<string>{{0.53664532448420654, 0.35506987522651945}, {0.40047773624955629, 0.15018121029273623}}</string>
+		<key>Text</key>
+		<string>&lt;p class="right"&gt;’jizz’ recalls giant Fulmar more than Gannet&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.19383394383394331</real>
+		<key>Frame</key>
+		<string>{{0.69211028420841381, 0.022308274316657366}, {0.23879417813638076, 0.19093901152543116}}</string>
+		<key>Text</key>
+		<string>&lt;p class="right"&gt;exceptio­nally long, narrow wings!&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.26179902584323256</real>
+		<key>Frame</key>
+		<string>{{0.84329132059799894, 0.51661650287196048}, {0.15670867940200073, 0.14136974542407676}}</string>
+		<key>Text</key>
+		<string>&lt;p class="left"&gt;stout, pale bill&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+</array>
+</plist>

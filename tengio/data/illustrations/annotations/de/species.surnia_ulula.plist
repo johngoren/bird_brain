@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>FontScale</key>
+		<real>0.2008576456375771</real>
+		<key>Frame</key>
+		<string>{{0.67043864263422515, 0.84772181748565556}, {0.10961805801502271, 0.13129050822160873}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;Ansitz auf der Spitze eines toten Baums&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.36718171487053541</real>
+		<key>Frame</key>
+		<string>{{0.72102851151647651, 0.021680163445621955}, {0.22477956919401476, 0.071819214595833944}}</string>
+		<key>Text</key>
+		<string>&lt;p class="center"&gt;sperberähnliche Flugsilhouette, aber Kopf proportional größer&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.2066191090727951</real>
+		<key>Frame</key>
+		<string>{{0.347869611207347, 0.543895736504035}, {0.072187435107772216, 0.12762954256405437}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;große helle Schulterflecke&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>EndPoint</key>
+		<string>{0.63464236108148242, 0.44533032499101571}</string>
+		<key>StartPoint</key>
+		<string>{0.61444096420221761, 0.47712619330788242}</string>
+		<key>Type</key>
+		<string>line</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.19583308846892861</real>
+		<key>Frame</key>
+		<string>{{0.61983662309259024, 0.30280616072397692}, {0.066736529063496378, 0.13465907412340761}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;fein gebändert wie ein Sperber&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.626666007939784</real>
+		<key>Frame</key>
+		<string>{{0.47372705903818191, 0.10295791078719904}, {0.039212879317262, 0.042080952280544377}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;lang&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>EndPoint</key>
+		<string>{0.48135552722305852, 0.15216650745544022}</string>
+		<key>StartPoint</key>
+		<string>{0.46115413003596423, 0.18396230822364273}</string>
+		<key>Type</key>
+		<string>line</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.45230434107333428</real>
+		<key>Frame</key>
+		<string>{{0.43058724201440707, 0.90649289417339285}, {0.20105529401907071, 0.058303005258306131}}</string>
+		<key>Text</key>
+		<string>&lt;p class="center"&gt;grimmiger Gesichtsausdruck&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.22222222222222224</real>
+		<key>Frame</key>
+		<string>{{0.020165313081775185, 0}, {0.091181489204496452, 0.11866816069178983}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;ca. 4 Wochen alter Ästling&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.22819371205686337</real>
+		<key>Frame</key>
+		<string>{{0.16859171238892373, 0.79771374687258545}, {0.12152785732753435, 0.11556279153468525}}</string>
+		<key>Text</key>
+		<string>&lt;p class="right"&gt;helle Nackenzeichnung erzeugt „Scheingesicht“&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+</array>
+</plist>

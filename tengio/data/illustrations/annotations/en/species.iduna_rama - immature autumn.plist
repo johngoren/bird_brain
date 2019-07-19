@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>FontScale</key>
+		<real>0.19686107343537693</real>
+		<key>Frame</key>
+		<string>{{0.80842359026319099, 0.36709985877302087}, {0.19157640973680884, 0.25805005758198329}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;fairly long with only faint dark &lt;/p&gt;&lt;p&gt;tip to lower mandible&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.27819118002878046</real>
+		<key>Frame</key>
+		<string>{{0.60084739246045604, 0.20034570474177418}, {0.16003147475623403, 0.18260827439027544}}</string>
+		<key>Text</key>
+		<string>&lt;p class="right"&gt;&lt;b&gt;imm. autumn&lt;/b&gt;&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>EndPoint</key>
+		<string>{0.29272732559483566, 0.43908425474245111}</string>
+		<key>StartPoint</key>
+		<string>{0.30861144169797083, 0.49506107267540217}</string>
+		<key>Type</key>
+		<string>line</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.21122661122661807</real>
+		<key>Frame</key>
+		<string>{{0.25053624322743479, 0.197549820939104}, {0.23578635044530258, 0.24050005366581581}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;primary&lt;/p&gt;&lt;p&gt;projection&lt;/p&gt;&lt;p&gt;very short (¹/³ or less of tertial length)&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>EndPoint</key>
+		<string>{0.27160593486311579, 0.49320200357843003}</string>
+		<key>StartPoint</key>
+		<string>{0.33807032939444009, 0.49320200357843003}</string>
+		<key>Type</key>
+		<string>line</string>
+	</dict>
+	<dict>
+		<key>EndPoint</key>
+		<string>{0.86400180143958705, 0.64067491981930391}</string>
+		<key>StartPoint</key>
+		<string>{0.86189656616775634, 0.68567492986070733}</string>
+		<key>Type</key>
+		<string>line</string>
+	</dict>
+	<dict>
+		<key>EndPoint</key>
+		<string>{0.56021046477482772, 0.71312653915020874}</string>
+		<key>StartPoint</key>
+		<string>{0.53587941092463398, 0.79259995372027636}</string>
+		<key>Type</key>
+		<string>line</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.32383446991956388</real>
+		<key>Frame</key>
+		<string>{{0.49305934654260097, 0.77927968300707617}, {0.13052458685364962, 0.15687030274531336}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;pale grey-brown&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>EndPoint</key>
+		<string>{0.7821959158457501, 0.78019995095331351}</string>
+		<key>StartPoint</key>
+		<string>{0.82420903575092141, 0.83414996299185928}</string>
+		<key>Type</key>
+		<string>line</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.31127450980390381</real>
+		<key>Frame</key>
+		<string>{{0.72232528433230514, 0.78684995243727807}, {0.25746445705809856, 0.16320003641690084}}</string>
+		<key>Text</key>
+		<string>&lt;p class="right"&gt;supercilium usually faint or absent behind eye&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>EndPoint</key>
+		<string>{0.27251973900306986, 0.47554947708754181}</string>
+		<key>StartPoint</key>
+		<string>{0.27145039629353956, 0.57344829701998834}</string>
+		<key>Type</key>
+		<string>line</string>
+	</dict>
+	<dict>
+		<key>EndPoint</key>
+		<string>{0.33946480536403795, 0.4752562228456893}</string>
+		<key>StartPoint</key>
+		<string>{0.33656759829803229, 0.60316095073021425}</string>
+		<key>Type</key>
+		<string>line</string>
+	</dict>
+</array>
+</plist>

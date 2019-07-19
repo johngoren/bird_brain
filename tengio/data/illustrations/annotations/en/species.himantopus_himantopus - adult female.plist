@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>FontScale</key>
+		<real>0.61935483870967745</real>
+		<key>Frame</key>
+		<string>{{0.53860709259551254, 0.067145721582271431}, {0.17335954252242197, 0.083434387051550596}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;&lt;b&gt;ad.&lt;/b&gt; ♀&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.2070870172467181</real>
+		<key>Frame</key>
+		<string>{{0.45936738996908727, 0.20822879137565062}, {0.50959232429793178, 0.24953515687363964}}</string>
+		<key>Text</key>
+		<string>&lt;p class="center"&gt;♂ has on average more black on head than ♀, but note &lt;/p&gt;&lt;p class="center"&gt;that &lt;i&gt;head pattern varies in &lt;/i&gt;&lt;/p&gt;&lt;p class="center"&gt;&lt;i&gt;both sexes&lt;/i&gt;&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>EndPoint</key>
+		<string>{0.30553252713056406, 0.82607170065217361}</string>
+		<key>StartPoint</key>
+		<string>{0.27330092338538436, 0.89444616392176934}</string>
+		<key>Type</key>
+		<string>line</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.43261057493186067</real>
+		<key>Frame</key>
+		<string>{{0.068599150297889711, 0.88054963440666423}, {0.34715419975529099, 0.11945036559333574}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;brown-tinged back in ♀♀ and immatures&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+</array>
+</plist>

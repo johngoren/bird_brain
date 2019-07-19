@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>EndPoint</key>
+		<string>{0.55122401916855923, 0.75351033160393566}</string>
+		<key>StartPoint</key>
+		<string>{0.61203513989660019, 0.69148502754784336}</string>
+		<key>Type</key>
+		<string>line</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.48504878201229212</real>
+		<key>Frame</key>
+		<string>{{0.47014252486450225, 0.70318173546961871}, {0.16441525233878126, 0.10311139117124039}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;﻿brungrå&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.42035581299130542</real>
+		<key>Frame</key>
+		<string>{{0.830054269025292, 0.87380054805568341}, {0.12612676891742161, 0.11898028563777145}}</string>
+		<key>Text</key>
+		<string>&lt;p class="right"&gt;﻿lyse øyne&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.18356797707040584</real>
+		<key>Frame</key>
+		<string>{{0.7537350212137226, 0.19606410901444374}, {0.2186623155897994, 0.27245522610962108}}</string>
+		<key>Text</key>
+		<string>&lt;p class="right"&gt;﻿hele undersiden rosabeigetonet hos typiske fugler&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>EndPoint</key>
+		<string>{0.7524186154255641, 0.44465758955670615}</string>
+		<key>StartPoint</key>
+		<string>{0.81322973615360483, 0.37672511368574607}</string>
+		<key>Type</key>
+		<string>line</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.50297029702968254</real>
+		<key>Frame</key>
+		<string>{{0.73590964508335444, 0.071311257006068787}, {0.25936814866825592, 0.099437392216923715}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;&lt;b&gt;ad. &lt;/b&gt;♂ &lt;b&gt;sommer&lt;/b&gt;&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.83809378734377238</real>
+		<key>Frame</key>
+		<string>{{0.29446595387237579, 0.294503898744441}, {0.20946052695214792, 0.059675964020346819}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;﻿uflekket beige&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>EndPoint</key>
+		<string>{0.43861161447416569, 0.43359689145174513}</string>
+		<key>StartPoint</key>
+		<string>{0.38996193605270901, 0.36451741344082889}</string>
+		<key>Type</key>
+		<string>line</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.32987012987014364</real>
+		<key>Frame</key>
+		<string>{{0.13365432350266424, 0.1019793240115878}, {0.47149135185310326, 0.15161740991490091}}</string>
+		<key>Text</key>
+		<string>&lt;p class="center"&gt;﻿identifikasjon basert på drakttegninger svært vanskelig utenfor hekkeområdet&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+</array>
+</plist>

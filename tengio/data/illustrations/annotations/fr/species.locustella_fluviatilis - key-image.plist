@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>EndPoint</key>
+		<string>{0.4174550981350838, 0.78261858109654348}</string>
+		<key>StartPoint</key>
+		<string>{0.69310202160085432, 0.73761766215927493}</string>
+		<key>Type</key>
+		<string>line</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.23209853515895884</real>
+		<key>Frame</key>
+		<string>{{0, 0.68977131823977544}, {0.46295811933759212, 0.14847092154038838}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;haut de la poitrine marqué de stries grisâtres diffuses&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>EndPoint</key>
+		<string>{0.36485338865995248, 0.15972953877751966}</string>
+		<key>StartPoint</key>
+		<string>{0.45755270739350756, 0.14405369816591559}</string>
+		<key>Type</key>
+		<string>line</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.18687623956976104</real>
+		<key>Frame</key>
+		<string>{{0.47462400025245838, 0.010772315610757314}, {0.39192558506575231, 0.18439949071407205}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;les couv. sous-caudales s’avancent loin vers la pointe de la queue&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+</array>
+</plist>

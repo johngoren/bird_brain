@@ -1,0 +1,144 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>FontScale</key>
+		<real>0.65337482947644066</real>
+		<key>Frame</key>
+		<string>{{0.066930445695640786, 0.29947546637624806}, {0.048081233998381122, 0.05282369472515664}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;(mørk) &lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.66145753605318369</real>
+		<key>Frame</key>
+		<string>{{0.044856615467193127, 0.073801560752412926}, {0.043555951553406747, 0.052178213493949445}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;(lys) &lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.21525570976477743</real>
+		<key>Frame</key>
+		<string>{{0.37817145191675272, 0.055920285022913761}, {0.13217495709004781, 0.16033801180502899}}</string>
+		<key>Text</key>
+		<string>&lt;p class="center"&gt;﻿måkelignende, men legg merke til kompakt kroppsform og kort, kraftig nebb&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.22676654631420956</real>
+		<key>Frame</key>
+		<string>{{0.84038943801623245, 0.01673177142421511}, {0.13082391998414428, 0.15219913648789427}}</string>
+		<key>Text</key>
+		<string>&lt;p class="right"&gt;﻿mørkere tøyle, nebb og vinger hos mørk morf&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.58467476930671725</real>
+		<key>Frame</key>
+		<string>{{0.86084857394953429, 0.55335143901777673}, {0.12475455161731648, 0.059030548854176905}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;﻿(mellommørk)&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.61538076309117651</real>
+		<key>Frame</key>
+		<string>{{0.93483331604142172, 0.39274379066655596}, {0.063575525940079633, 0.056085068957950408}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;(mørk)&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.21869715751229146</real>
+		<key>Frame</key>
+		<string>{{0.60673593037313345, 0.061107193618624503}, {0.089162753187685656, 0.15781491138687984}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;﻿lang glideflukt på stive vinger&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.2604605924660206</real>
+		<key>Frame</key>
+		<string>{{0.49295536910468002, 0.51079363493332752}, {0.074195344935269969, 0.13251015136912656}}</string>
+		<key>Text</key>
+		<string>&lt;p class="right"&gt;﻿lys hånd-basisflekk&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.60476533229979879</real>
+		<key>Frame</key>
+		<string>{{0.60673593037313345, 0.22136827926120697}, {0.043082389551373772, 0.057069528774270746}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;(lys) &lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.38207507294791276</real>
+		<key>Frame</key>
+		<string>{{0.63984667571580556, 0.42078632514552999}, {0.04268089884673034, 0.090332175472933651}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;﻿tykk hals&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>EndPoint</key>
+		<string>{0.60546570660528254, 0.59438068899402707}</string>
+		<key>StartPoint</key>
+		<string>{0.57186734061688005, 0.59438068899402707}</string>
+		<key>Type</key>
+		<string>line</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.30044363699648768</real>
+		<key>Frame</key>
+		<string>{{0.78633663995913716, 0.84750576303442171}, {0.10961787291782188, 0.11487569807899863}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;røykgrå &lt;/p&gt;&lt;p&gt;vingeunderside hos mørk morf&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.30520164454458759</real>
+		<key>Frame</key>
+		<string>{{0.39526972386238701, 0.8628281121808683}, {0.075009801462159076, 0.11308481834973402}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;﻿seiler på oppvind&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.57199048078992887</real>
+		<key>Frame</key>
+		<string>{{0.063655303382537567, 0.47573213705688921}, {0.14976510655643738, 0.060339592515072621}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;hekker på klippehyller&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+</array>
+</plist>

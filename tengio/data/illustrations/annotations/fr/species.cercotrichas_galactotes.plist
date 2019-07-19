@@ -1,0 +1,144 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>FontScale</key>
+		<real>0.54399964583356397</real>
+		<key>Frame</key>
+		<string>{{0.15615804652581658, 0.80194949392124448}, {0.17598365311860989, 0.068970305896822723}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;hoche souvent la queue vers le haut&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.17629573437277243</real>
+		<key>Frame</key>
+		<string>{{0.77052438833888459, 0.22765946686497202}, {0.07988924472745941, 0.21282319798827073}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;se perche souvent sur les figuiers de Barbarie&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>EndPoint</key>
+		<string>{0.81218375722855962, 0.79777062354372963}</string>
+		<key>StartPoint</key>
+		<string>{0.79756564422741805, 0.84350057412746982}</string>
+		<key>Type</key>
+		<string>line</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.17962204163297707</real>
+		<key>Frame</key>
+		<string>{{0.037815353309534651, 0.090077928186808973}, {0.12048895459650005, 0.20888205946110242}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;taches à la queue masquées (de dessus) quand la queue est fermée&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.32564148430823053</real>
+		<key>Frame</key>
+		<string>{{0.3004647170706885, 0.64525355119354111}, {0.051915116316489783, 0.11521818867951839}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;gris-brun&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.23373520044415036</real>
+		<key>Frame</key>
+		<string>{{0.1725259955721378, 0.02877926483477572}, {0.11002250506589824, 0.16052277068070142}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;&lt;b&gt;&lt;i&gt;syriaca&lt;/i&gt;&lt;/b&gt;&lt;/p&gt;&lt;p&gt;(S-E Europe, &lt;/p&gt;&lt;p&gt;Turquie, N Syrie)&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>EndPoint</key>
+		<string>{0.31417670116917634, 0.67778535571259146}</string>
+		<key>StartPoint</key>
+		<string>{0.31507606505507496, 0.62264329383832095}</string>
+		<key>Type</key>
+		<string>line</string>
+	</dict>
+	<dict>
+		<key>EndPoint</key>
+		<string>{0.11371601039762354, 0.30347557951582982}</string>
+		<key>StartPoint</key>
+		<string>{0.10972842985936207, 0.35257234078657385}</string>
+		<key>Type</key>
+		<string>line</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.28848414062075756</real>
+		<key>Frame</key>
+		<string>{{0.71220493094231596, 0.71391531335688518}, {0.058637585246871328, 0.13005852557499112}}</string>
+		<key>Text</key>
+		<string>&lt;p class="center"&gt;motif facial marqué&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.4064021232923441</real>
+		<key>Frame</key>
+		<string>{{0.62220536930807013, 0.64824375551187274}, {0.08654132755901367, 0.092321914258096438}}</string>
+		<key>Text</key>
+		<string>&lt;p class="center"&gt;chamois roussâtre&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>EndPoint</key>
+		<string>{0.48813640273079867, 0.90001718987064794}</string>
+		<key>StartPoint</key>
+		<string>{0.52040711018686436, 0.88698520085413246}</string>
+		<key>Type</key>
+		<string>line</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.23091369276574228</real>
+		<key>Frame</key>
+		<string>{{0.54350477752393966, 0.026817855683979236}, {0.095647720824499516, 0.1624841798314979}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;&lt;b&gt;&lt;i&gt;galactotes&lt;/i&gt;&lt;/b&gt;&lt;/p&gt;&lt;p&gt;(S-O Europe, Afrique du N.)&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>EndPoint</key>
+		<string>{0.66738763689255842, 0.6600556988063635}</string>
+		<key>StartPoint</key>
+		<string>{0.66806108271340114, 0.59937511470231186}</string>
+		<key>Type</key>
+		<string>line</string>
+	</dict>
+	<dict>
+		<key>EndPoint</key>
+		<string>{0.74175133498280399, 0.67586686932985041}</string>
+		<key>StartPoint</key>
+		<string>{0.74040971345051587, 0.73099211191632485}</string>
+		<key>Type</key>
+		<string>line</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.23518519183081685</real>
+		<key>Frame</key>
+		<string>{{0.36777782494874295, 0.75603094544297911}, {0.11527194031162961, 0.15953309682819844}}</string>
+		<key>Text</key>
+		<string>&lt;p class="right"&gt;taches noir et blanc visibles quand la queue est étalée&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+</array>
+</plist>

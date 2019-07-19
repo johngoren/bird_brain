@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>EndPoint</key>
+		<string>{0.39841432737745608, 0.92675965639136793}</string>
+		<key>StartPoint</key>
+		<string>{0.30383406405496116, 0.90615544112139323}</string>
+		<key>Type</key>
+		<string>line</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.36959030908222884</real>
+		<key>Frame</key>
+		<string>{{0.72772672527947357, 0.39454688287421552}, {0.14562067673454313, 0.13129684950146264}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;red base&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>EndPoint</key>
+		<string>{0.33606562811701096, 0.85996795344295773}</string>
+		<key>StartPoint</key>
+		<string>{0.26999829895034638, 0.94538010064033717}</string>
+		<key>Type</key>
+		<string>line</string>
+	</dict>
+	<dict>
+		<key>EndPoint</key>
+		<string>{0.46318530999590241, 0.82417030172153771}</string>
+		<key>StartPoint</key>
+		<string>{0.35808536867384616, 0.81247068091532049}</string>
+		<key>Type</key>
+		<string>line</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.22650012787635435</real>
+		<key>Frame</key>
+		<string>{{0.009887571159651231, 0.59003549638762975}, {0.17014380631130771, 0.21424289532966029}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;rather long, pointed tail&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.52282270223985461</real>
+		<key>Frame</key>
+		<string>{{0.41258484010777052, 0.85799701282482044}, {0.51074683197010007, 0.092815485978086393}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;long primary ­projection&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>EndPoint</key>
+		<string>{0.28368594755751914, 0.95849251391369805}</string>
+		<key>StartPoint</key>
+		<string>{0.25997967979286307, 0.94138890007043841}</string>
+		<key>Type</key>
+		<string>line</string>
+	</dict>
+	<dict>
+		<key>EndPoint</key>
+		<string>{0.13906552193302463, 0.87765686917893992}</string>
+		<key>StartPoint</key>
+		<string>{0.10267790278518422, 0.81617013148114825}</string>
+		<key>Type</key>
+		<string>line</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.27611660466233234</real>
+		<key>Frame</key>
+		<string>{{0.044562414377023914, 0.016893640744129225}, {0.79835391594520622, 0.17574474830339079}}</string>
+		<key>Text</key>
+		<string>&lt;p class="center"&gt;note Little Crake’s more attenuated shape, with longer wings and tail, compared &lt;/p&gt;&lt;p class="center"&gt;with Baillon’s Crake &lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>EndPoint</key>
+		<string>{0.75776412926887027, 0.53046428358551312}</string>
+		<key>StartPoint</key>
+		<string>{0.75412017645378837, 0.59623464526182213}</string>
+		<key>Type</key>
+		<string>line</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.56969661846947073</real>
+		<key>Frame</key>
+		<string>{{0.47438627303346526, 0.76340236865113587}, {0.44025201838472755, 0.085178745345438442}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;pale edges&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.62854420890092322</real>
+		<key>Frame</key>
+		<string>{{0.50604070055830708, 0.3493158439830813}, {0.16169363836734219, 0.077203866492734752}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;&lt;b&gt;ad.&lt;/b&gt; ♀&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>EndPoint</key>
+		<string>{0.35076537834468252, 0.87182359846068413}</string>
+		<key>StartPoint</key>
+		<string>{0.32468112584132808, 0.8520272540384437}</string>
+		<key>Type</key>
+		<string>line</string>
+	</dict>
+</array>
+</plist>

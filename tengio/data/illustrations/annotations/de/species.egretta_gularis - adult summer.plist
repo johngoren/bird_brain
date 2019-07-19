@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>FontScale</key>
+		<real>0.36339506554695539</real>
+		<key>Frame</key>
+		<string>{{0.72681543436065066, 0.88690608655159076}, {0.26025130128342461, 0.094875307387023475}}</string>
+		<key>Text</key>
+		<string>&lt;p class="right"&gt;meist ausgedehnt gelb&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>EndPoint</key>
+		<string>{0.83313645744964371, 0.92869420493509347}</string>
+		<key>StartPoint</key>
+		<string>{0.85601503083985953, 0.94343312608405372}</string>
+		<key>Type</key>
+		<string>line</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.28720036182723935</real>
+		<key>Frame</key>
+		<string>{{0.57989699663574068, 0.77125809363117948}, {0.40716973900833547, 0.1200458743413218}}</string>
+		<key>Text</key>
+		<string>&lt;p class="right"&gt;Schnabel nicht so elegant wie Seidenreiher, zur Spitze hin kräftiger&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.58132501004370363</real>
+		<key>Frame</key>
+		<string>{{0.6240250952060048, 0.48295253381550707}, {0.17421598084159146, 0.059307991142687901}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;&lt;b&gt;PK&lt;/b&gt;&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>EndPoint</key>
+		<string>{0.35783774268793134, 0.15057812744247639}</string>
+		<key>StartPoint</key>
+		<string>{0.31104700594300444, 0.11988298984425103}</string>
+		<key>Type</key>
+		<string>line</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.26228831061543212</real>
+		<key>Frame</key>
+		<string>{{0.014355923435077864, 0}, {0.31621831350232887, 0.13144778913630478}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;Beine wie bei Seiden-reiher, oft aber ganz grün oder „fleckig“&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+</array>
+</plist>

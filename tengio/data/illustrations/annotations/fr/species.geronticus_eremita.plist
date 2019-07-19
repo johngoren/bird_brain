@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>FontScale</key>
+		<real>0.60020056751142126</real>
+		<key>Frame</key>
+		<string>{{0.79648421379812062, 0.88866713961728361}, {0.17656044839245866, 0.084909024169449052}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;vol souple et puissant&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>EndPoint</key>
+		<string>{0.77845411727003788, 0.38254621100796832}</string>
+		<key>StartPoint</key>
+		<string>{0.79006353474921698, 0.29642374760200857}</string>
+		<key>Type</key>
+		<string>line</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.31778574095535544</real>
+		<key>Frame</key>
+		<string>{{0.74026427177252296, 0.3268587826659905}, {0.089962797319557683, 0.16036731018873446}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;pas de projection&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.50203512570795106</real>
+		<key>Frame</key>
+		<string>{{0.9229191732458405, 0.36937491236252262}, {0.064425803304635446, 0.10151171080206585}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;compact&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>EndPoint</key>
+		<string>{0.93980789076319882, 0.42221349277011694}</string>
+		<key>StartPoint</key>
+		<string>{0.92550243100487817, 0.35998022157017029}</string>
+		<key>Type</key>
+		<string>line</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.57588161808534677</real>
+		<key>Frame</key>
+		<string>{{0.556498950928071, 0.24704799068647953}, {0.20733871872478424, 0.088494653923458899}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;se nourrit surtout dans le désert&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.57044705445429633</real>
+		<key>Frame</key>
+		<string>{{0.49566717667052335, 0.085127589506124715}, {0.038129489821033702, 0.089337729234304178}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;&lt;b&gt;ad.&lt;/b&gt;&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.58237139328019183</real>
+		<key>Frame</key>
+		<string>{{0.28302924138567187, 0.51287829773632099}, {0.049743488307721628, 0.087508495577537981}}</string>
+		<key>Text</key>
+		<string>&lt;p class="right"&gt;&lt;b&gt;juv.&lt;/b&gt;&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.27549658480808836</real>
+		<key>Frame</key>
+		<string>{{0.57012348648494082, 0.57730634189047603}, {0.16086139382292169, 0.18498394282762115}}</string>
+		<key>Text</key>
+		<string>&lt;p class="center"&gt;pratique le vol à voile (pas l’Ibis falcinelle)&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.37876497972842066</real>
+		<key>Frame</key>
+		<string>{{0.065564781212235676, 0.046621922941529163}, {0.22517867727584875, 0.13454898742192328}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;niche sur des rebords de falaises ou dans des grottes peu profondes&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+</array>
+</plist>

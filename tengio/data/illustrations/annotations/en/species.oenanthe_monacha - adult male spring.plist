@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>FontScale</key>
+		<real>0.43308493273799348</real>
+		<key>Frame</key>
+		<string>{{0.50101237434692414, 0}, {0.22403647420224618, 0.069448761687530253}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;&lt;b&gt;ad. &lt;/b&gt;♂&lt;b&gt; spring&lt;/b&gt;&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.14972524517367997</real>
+		<key>Frame</key>
+		<string>{{0.62709103754962781, 0.13827820726320256}, {0.31786984451349193, 0.20088270517968879}}</string>
+		<key>Text</key>
+		<string>&lt;p class="right"&gt;black reaches far down onto breast (cf. Mourning Wheatear)&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.42727215433328836</real>
+		<key>Frame</key>
+		<string>{{0.72107828783209149, 0.80068294629151204}, {0.072044950401544836, 0.070393569951014451}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;♂&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.37311788468604101</real>
+		<key>Frame</key>
+		<string>{{0.25933565116764673, 0.90660078271989897}, {0.23331273732492855, 0.080610481348245638}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;white reaches far up&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>EndPoint</key>
+		<string>{0.49708476000427515, 0.97584546637224545}</string>
+		<key>StartPoint</key>
+		<string>{0.53616946142079369, 0.90495064350470167}</string>
+		<key>Type</key>
+		<string>line</string>
+	</dict>
+	<dict>
+		<key>FontScale</key>
+		<real>0.26293995859213448</real>
+		<key>Frame</key>
+		<string>{{0.25114872498565832, 0.60393403233263598}, {0.51674652153828537, 0.11438813805715986}}</string>
+		<key>Text</key>
+		<string>&lt;p&gt;beware confusion with ad. White-crowned Wheatear shown below; tail-pattern very similar. Look for the white belly!&lt;/p&gt;</string>
+		<key>Type</key>
+		<string>text</string>
+	</dict>
+	<dict>
+		<key>EndPoint</key>
+		<string>{0.38083040821996583, 0.78880194817543414}</string>
+		<key>StartPoint</key>
+		<string>{0.38061786396291297, 0.73211683189885068}</string>
+		<key>Type</key>
+		<string>line</string>
+	</dict>
+</array>
+</plist>
