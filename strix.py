@@ -18,3 +18,9 @@ class StrixDatabase:
             ref = row[0]
 
         return ref
+
+    def species_id_list():
+        pass
+
+    def get_songs_for_species(id):
+        pass

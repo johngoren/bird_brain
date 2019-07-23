@@ -4,11 +4,8 @@ import click
 import os
 import sqlite3
 import strix
-import controller
-import audit
+import auditing
 import config
-
-# main.38.com.natureguides.birdguide.obb (original)
 
 
 @click.group()
@@ -89,7 +86,7 @@ def audit():
 	"""Check for missing images and songs"""
 
 	audit.roll_call()
-    audit.songs(songs)	
+	audit.songs(songs)	
 
 @cli.command()
 def missing():
@@ -199,6 +196,7 @@ def modernname(name):
 	# now this is strictly for songs.
 
 	# TODO: Deduce file category from name
+	# TODO: Or pass in a nested enum argument
 
 	# Songs
 

@@ -1,5 +1,7 @@
 import os
 import strix
+import files
+import click
 
 
 # Does this file exist in expansion pack asset loading directory?
@@ -16,7 +18,7 @@ def roll_call():
 
 	plumage_images = os.listdir(f'{path_expansion_assets}/images/plumages')
 	map_images = os.listdir(f'{path_expansion_assets}/images/maps')
-	songs = os.listdir{f'{path_songs}'}
+	songs = os.listdir(path_songs)
 
 	click.echo(f'Found {len(family_images)} family image files')    
 	click.echo(f'Found {len(species_images)} species image files')
@@ -28,30 +30,24 @@ def roll_call():
 		click.echo(f'{missing} species images may be missing out of a hoped-for {NUM_SPECIES_IMAGES}.')
 
 
-def songs(songs_list):
-    # Loop through all species refs
-    # Check if refs are found in songs file list.
-    # return    
+def songs():
+	songs_list = files.get_songs()
+	species_id_list = strix.get_species_id_list()
+	for id in species_id_list:
+		songs_for_this_species = strix.get_songs_for_species(id)
+		check_songs_are_found(songs_for_this_species, songs)
+		
+def check_songs_are_found(songs_for_this_species, master_song_list):
+	for song in songs_for_this_species:
+		if song not in master_song_list:
+			click.echo(f'{song} not found')
 
-def missing():
-	original_species_images = os.listdir(f'{ORIGINAL_SPECIES_IMAGES_PATH}')
-	our_species_images = os.listdir(f'{OBB_SOURCE_DIR}/images/species')
+def get_song_file_list():
+	pass
 
-	click.echo(f'Found {len(original_species_images)} family image files')    
-	click.echo(f'Found {len(our_species_images)} species images staged to be put into expansion pack')
+def get_species_id_list():
+	pass
 
-	i = 0
-
-	need_conversion = []
-
-	for original in original_species_images:
-		name = original[:-3] + "jpg"
-	if name not in our_species_images:
-			i = i + 1
-			need_conversion.append(original)
-			click.echo(f'{i}. {name}')
-		  
-	click.echo(len(need_conversion))
-
-
+def get_species_ref_list():
+	pass
 
