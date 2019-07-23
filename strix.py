@@ -1,8 +1,10 @@
 import sqlite3
-
+import sys
 
 class StrixDatabase:
     def __init__(self, path):
+        if path is None:
+            sys.exit("Missing database path.")
         self.db_path = path
 
     def lookup_ref(self, id):

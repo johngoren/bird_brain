@@ -1,7 +1,8 @@
 import sqlite3
+import config
 
 def getSpeciesId(ref):
-    con = sqlite3.connect('../data/Strix_BIRDGUIDE.db')
+    con = sqlite3.connect(config.database_strix_path)
     c = con.cursor()
     c.execute('select entity_id from strix_entities where entity_reference = \"%s\" order by entity_order;' % ref)
     for row in c:

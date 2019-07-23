@@ -6,13 +6,13 @@ import sqlite3
 import xml.etree.ElementTree
 import nameutils
 import json
+import config
 
-base_root = "~/Dropbox/natureguides/birdbrain/tengio"
-
-dataFolder = '%s/data/illustrations/annotations/' % base_root
-assetFolder = '%s/data/output/' % base_root
-frameFile = '%s/data/illustrations/Layout.plist' % base_root
-database = '%s/data/database/bird-guide.db' % base_root
+base_root = config.base_root
+dataFolder = config.data_folder
+frameFile = config.frame_file
+database = config.database_tengio_path
+assetFolder = config.asset_folder
 
 def clean(locale):
     if os.path.exists('%s%s' % (assetFolder, locale)):
@@ -123,10 +123,12 @@ def insertAllAnnotationsForLocale(c, locale):
 ## Execution
 #######################
 
+locales = ['en','de','fr','nb','sv']
+
 if not(os.path.exists(dataFolder)): 
-    print "Could not find data folder."
+    print "Could not find data folder at %s" % dataFolder
     sys.exit()
-for l in ['en','de','fr','no','sv']:
+for l in locales:
     print "Processing annotations for locale %s" % locals
     clean(l)
     annotations(l)

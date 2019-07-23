@@ -4,6 +4,8 @@ import click
 import os
 import sqlite3
 import strix
+import controller
+import audit
 import config
 
 # main.38.com.natureguides.birdguide.obb (original)
@@ -27,8 +29,10 @@ def install():
 
 @cli.command()
 def status():
-	"""Reports OBB situation, audits assets"""
+	"""Reports OBB situation."""
     
+	#TODO: This should also launch the audit.
+
 	click.echo(f'\n\n\n\nBirdbrain status')
 	click.echo(f'----------------')
 
@@ -82,27 +86,10 @@ def boot():
 
 @cli.command()
 def audit():
-	"""Check for missing media assets"""
+	"""Check for missing images and songs"""
 
-	path_app_assets = config.PATH_APP_ASSETS
-	path_expansion_assets = config.PATH_EXPANSION_ASSETS
-
-	path_family_images = os.listdir(f'{path_app_assets}/images/family')
-	path_species_images = f'{path_expansion_assets}/images/species'
-
-	species_images = os.listdir(species_path) 
-	click.echo(species_path)
-
-	plumage_images = os.listdir(f'{path_expansion_assets}/images/plumages')
-	map_images = os.listdir(f'{path_expansion_assets}/images/maps')
-
-	click.echo(f'Found {len(family_images)} family image files')    
-	click.echo(f'Found {len(species_images)} species image files')
-	click.echo(f'Found {len(plumage_images)} plumage image files')
-
-	if len(species_images) != NUM_SPECIES_IMAGES:
-		missing = NUM_SPECIES_IMAGES - len(species_images)
-		click.echo(f'{missing} species images are missing.')
+	audit.roll_call()
+    audit.songs(songs)	
 
 @cli.command()
 def missing():
@@ -166,7 +153,7 @@ def ref(id):
 		print("Must provide valid Strix entity ID.")
 		return
 
-	found_ref = lookup_ref(id)
+	found_ref = strix.lookup_ref(id)
 	if ref is None:
 		click.echo('No ref found in Strix database.')
 		return
@@ -200,7 +187,7 @@ def name(ref):
 	# Songs
 	clean_ref = ref.replace(".wav", "")
 
-	new_name = name_song(clean_ref)
+	new_name = helpers.name_song(clean_ref)
 	click.echo(new_name)
 
 @cli.command()
@@ -223,12 +210,16 @@ def modernname(name):
 
 	clean_ref = ref.replace(".wav", "")
 
-	song_name = name_song(clean_ref)
+	song_name = helpers.name_song(clean_ref)
 	click.echo(song_name)
 
-def name_song(ref):
-	return f'{ref}.m4a'
-	
+@cli.command()
+@click.argument('id')
+def songs(id):
+	"""Get array of song ID that belong to a particular animal"""
+	return strix.get_song_IDs_for_species_ID(id)
+
 if __name__ == '__main__':
 	strix = strix.StrixDatabase(config.STRIX_DB_PATH)
+
 	cli()
