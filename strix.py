@@ -25,8 +25,8 @@ class StrixDatabase:
         rows = c.execute(query)
         return [i[0] for i in rows]
 
-    def get_songs_for_species(self, id):
-        query = f'SELECT entity_id FROM strix_entities WHERE entity_type="species.song" AND parent_entity_id={id}'
+    def get_song_refs_for_species(self, id):
+        query = f'SELECT entity_reference FROM strix_entities WHERE entity_type="species.song" AND parent_entity_id={id}'
         c = self.get_cursor()
 
         rows = c.execute(query)
