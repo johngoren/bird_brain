@@ -18,10 +18,13 @@ def settings():
 	"""Show Birdbrain's current config"""
 	click.echo('\n\n\nBirdbrain config\n\n')
 
-
 @cli.command()
 def install():
 	"""Install APK on device"""
+	# This could trigger some tests before allowing us to safely
+	# allow APK installation. For example, to stop us if the OBB
+	# configuration is not right
+	
 	pass
 
 @cli.command()
@@ -64,7 +67,7 @@ def pack(original):
 	destination_path = f'{destination_dir}/{filename}'
 	cmd = f'adb mkdir {destination_dir}'
 	os.system(cmd)
-	cmd = f'adb push {OBB_SOURCE_DIR}/{filename} {destination_path}'
+	cmd = f'adb push {config.OBB_SOURCE_DIR}/{filename} {destination_path}'
 	click.echo(cmd)
 	os.system(cmd)
 
@@ -85,8 +88,8 @@ def boot():
 def audit():
 	"""Check for missing images and songs"""
 
-	audit.roll_call()
-	audit.songs(songs)	
+	auditing.roll_call()
+	auditing.songs(strix)	
 
 @cli.command()
 def missing():

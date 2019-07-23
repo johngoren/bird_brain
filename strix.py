@@ -8,19 +8,30 @@ class StrixDatabase:
         self.db_path = path
 
     def lookup_ref(self, id):
-        query_key = f'SELECT entity_reference FROM strix_entities where entity_id={id}'
-        conn = sqlite3.connect(self.db_path)
-        c = conn.cursor()
+        query = f'SELECT entity_reference FROM strix_entities where entity_id={id}'
+        c = self.get_cursor()
 
         ref = None
         
-        for row in c.execute(query_key):
+        for row in c.execute(query):
             ref = row[0]
 
         return ref
 
-    def species_id_list():
-        pass
+    def get_species_id_list(self):
+        query = 'SELECT entity_id FROM strix_entities WHERE entity_type="taxon.species"'
+        c = self.get_cursor()
 
-    def get_songs_for_species(id):
-        pass
+        rows = c.execute(query)
+        return [i[0] for i in rows]
+
+    def get_songs_for_species(self, id):
+        query = f'SELECT entity_id FROM strix_entities WHERE entity_type="species.song" AND parent_entity_id={id}'
+        c = self.get_cursor()
+
+        rows = c.execute(query)
+        return [i[0] for i in rows]
+
+    def get_cursor(self):
+        conn = sqlite3.connect(self.db_path)
+        return conn.cursor()
