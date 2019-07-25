@@ -25,6 +25,13 @@ class StrixDatabase:
         rows = c.execute(query)
         return [i[0] for i in rows]
 
+    def get_all_song_refs(self):
+        query = f'SELECT entity_reference FROM strix_entities WHERE entity_type="species.song"'
+        c = self.get_cursor()
+
+        rows = c.execute(query)
+        return [i[0] for i in rows]
+
     def get_song_refs_for_species(self, id):
         query = f'SELECT entity_reference FROM strix_entities WHERE entity_type="species.song" AND parent_entity_id={id}'
         c = self.get_cursor()
@@ -35,3 +42,4 @@ class StrixDatabase:
     def get_cursor(self):
         conn = sqlite3.connect(self.db_path)
         return conn.cursor()
+

@@ -131,6 +131,7 @@ def forge():
 
 	click.echo('Resulting in this OBB:')
 	size_cmd = f'ls -lh {obb_creation_path}'
+	os.system(size_cmd)
 
 
 @cli.command()
