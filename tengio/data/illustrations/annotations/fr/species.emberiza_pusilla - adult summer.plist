@@ -1,52 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
-<plist version="1.0">
-<array>
-	<dict>
-		<key>EndPoint</key>
-		<string>{0.75368115001128577, 0.92530162419932671}</string>
-		<key>StartPoint</key>
-		<string>{0.72250113815802297, 0.8875142294999645}</string>
-		<key>Type</key>
-		<string>line</string>
-	</dict>
-	<dict>
-		<key>FontScale</key>
-		<real>0.22291629304473135</real>
-		<key>Frame</key>
-		<string>{{0.76383913601898268, 0.7230350614317822}, {0.23616086398101738, 0.25167361012536954}}</string>
-		<key>Text</key>
-		<string>&lt;p&gt;nette bande brun-roux au milieu de la calotte&lt;/p&gt;</string>
-		<key>Type</key>
-		<string>text</string>
-	</dict>
-	<dict>
-		<key>FontScale</key>
-		<real>0.09755724804484063</real>
-		<key>Frame</key>
-		<string>{{0.79566663045978125, 0.14459454421673312}, {0.19636305628837192, 0.57506899129161448}}</string>
-		<key>Text</key>
-		<string>&lt;p&gt;ceux qui ont la gorge brun-roux et les stries sur les côtés de la calotte noir de jais sont presque toujours des ♂♂&lt;/p&gt;</string>
-		<key>Type</key>
-		<string>text</string>
-	</dict>
-	<dict>
-		<key>EndPoint</key>
-		<string>{0.78918047575194017, 0.69618036003416939}</string>
-		<key>StartPoint</key>
-		<string>{0.75596118700617942, 0.70954022862378974}</string>
-		<key>Type</key>
-		<string>line</string>
-	</dict>
-	<dict>
-		<key>FontScale</key>
-		<real>0.58061200985169026</real>
-		<key>Frame</key>
-		<string>{{0.26075422130922105, 0.011964209516370446}, {0.18539782374228189, 0.096625883161912021}}</string>
-		<key>Text</key>
-		<string>&lt;p class="right"&gt;&lt;b&gt;ad. nuptial&lt;/b&gt;&lt;/p&gt;</string>
-		<key>Type</key>
-		<string>text</string>
-	</dict>
-</array>
-</plist>

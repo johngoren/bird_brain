@@ -1,34 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
-<plist version="1.0">
-<array>
-	<dict>
-		<key>FontScale</key>
-		<real>0.43105642766230978</real>
-		<key>Frame</key>
-		<string>{{0, 0.21643055189393803}, {0.2291818537293171, 0.079531597169822318}}</string>
-		<key>Text</key>
-		<string>&lt;p class="right"&gt;♀&lt;b&gt;/1er W&lt;/b&gt;&lt;/p&gt;</string>
-		<key>Type</key>
-		<string>text</string>
-	</dict>
-	<dict>
-		<key>FontScale</key>
-		<real>0.14585127763421826</real>
-		<key>Frame</key>
-		<string>{{0.49155671424463393, 0.17843624624555168}, {0.46764366135327878, 0.23505180563641778}}</string>
-		<key>Text</key>
-		<string>&lt;p class="center"&gt;Handschwingenprojektion sehr kurz, Schirmfedern rostfarben mit schmalen, spitz zulaufenden dunklen Zentren (vgl. Dorngrasmücke)&lt;/p&gt;</string>
-		<key>Type</key>
-		<string>text</string>
-	</dict>
-	<dict>
-		<key>EndPoint</key>
-		<string>{0.41185533104435107, 0.38169443041688073}</string>
-		<key>StartPoint</key>
-		<string>{0.53343371619727409, 0.38173614991471522}</string>
-		<key>Type</key>
-		<string>line</string>
-	</dict>
-</array>
-</plist>

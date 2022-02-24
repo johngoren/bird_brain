@@ -1,34 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
-<plist version="1.0">
-<array>
-	<dict>
-		<key>EndPoint</key>
-		<string>{0.25619647238746268, 0.16288075701723473}</string>
-		<key>StartPoint</key>
-		<string>{0.25505300403532011, 0.11992984459994969}</string>
-		<key>Type</key>
-		<string>line</string>
-	</dict>
-	<dict>
-		<key>FontScale</key>
-		<real>0.57407878071918661</real>
-		<key>Frame</key>
-		<string>{{0.20637559393865706, 0.052699310996240124}, {0.12797264374953121, 0.054916634938439519}}</string>
-		<key>Text</key>
-		<string>&lt;p&gt;﻿hvit!&lt;/p&gt;</string>
-		<key>Type</key>
-		<string>text</string>
-	</dict>
-	<dict>
-		<key>FontScale</key>
-		<real>0.13300170179342857</real>
-		<key>Frame</key>
-		<string>{{0.58025924097267056, 0.10036138317512878}, {0.41974075902732944, 0.23703813110320457}}</string>
-		<key>Text</key>
-		<string>&lt;p class="right"&gt;﻿en meget avvikende farge-variant med sterkt begrenset utbredelse i et område med mørk basaltørken&lt;/p&gt;</string>
-		<key>Type</key>
-		<string>text</string>
-	</dict>
-</array>
-</plist>

@@ -1,26 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
-<plist version="1.0">
-<array>
-	<dict>
-		<key>FontScale</key>
-		<real>0.22431918785602406</real>
-		<key>Frame</key>
-		<string>{{0.24081511835790867, 0.53590888130635661}, {0.47303315158073811, 0.27162568475514515}}</string>
-		<key>Text</key>
-		<string>&lt;p class="right"&gt;deutliches Brust-band&lt;/p&gt;</string>
-		<key>Type</key>
-		<string>text</string>
-	</dict>
-	<dict>
-		<key>FontScale</key>
-		<real>0.39700822254171853</real>
-		<key>Frame</key>
-		<string>{{0.20995649162865535, 0.093046188902668817}, {0.32409207924552863, 0.1534750404286849}}</string>
-		<key>Text</key>
-		<string>&lt;p&gt;&lt;b&gt;ad.&lt;/b&gt;(fuchsrot)&lt;/p&gt;</string>
-		<key>Type</key>
-		<string>text</string>
-	</dict>
-</array>
-</plist>

@@ -1,34 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
-<plist version="1.0">
-<array>
-	<dict>
-		<key>FontScale</key>
-		<real>0.16232625019973151</real>
-		<key>Frame</key>
-		<string>{{0.56146841106138135, 0.26262957748273186}, {0.33838700722266973, 0.16521505064626205}}</string>
-		<key>Text</key>
-		<string>&lt;p&gt;&lt;b&gt;&lt;i&gt;alba&lt;/i&gt; &lt;/b&gt;u. a.&lt;/p&gt;&lt;p&gt;„hellbäuchig“ (z. B. W- u. S-Europa, N-Afrika)&lt;/p&gt;</string>
-		<key>Type</key>
-		<string>text</string>
-	</dict>
-	<dict>
-		<key>FontScale</key>
-		<real>0.19632850241548813</real>
-		<key>Frame</key>
-		<string>{{0.54605352893319614, 0.7057617619908142}, {0.2194400627750997, 0.13660135598248596}}</string>
-		<key>Text</key>
-		<string>&lt;p class="right"&gt;ohne dunkles „Komma“&lt;/p&gt;</string>
-		<key>Type</key>
-		<string>text</string>
-	</dict>
-	<dict>
-		<key>EndPoint</key>
-		<string>{0.67745620425657438, 0.86783564135940205}</string>
-		<key>StartPoint</key>
-		<string>{0.72557433299225127, 0.85038762274984758}</string>
-		<key>Type</key>
-		<string>line</string>
-	</dict>
-</array>
-</plist>

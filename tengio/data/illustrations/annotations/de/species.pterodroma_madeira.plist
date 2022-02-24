@@ -1,76 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
-<plist version="1.0">
-<array>
-	<dict>
-		<key>FontScale</key>
-		<real>0.085666104553119793</real>
-		<key>Frame</key>
-		<string>{{0.51579953240655607, 0.00538079755016277}, {0.39595253314938084, 0.36814161182389771}}</string>
-		<key>Text</key>
-		<string>&lt;p class="right"&gt;schwächerer Schnabel als bei Kapverdensturmvogel ist dürftiges Bestim-mungsmerkmal auf hoher See; mögliche Unterschiede in Kopf-form und -muster (hier angedeutet) sind noch zu überprüfen&lt;/p&gt;</string>
-		<key>Type</key>
-		<string>text</string>
-	</dict>
-	<dict>
-		<key>FontScale</key>
-		<real>0.25198412698409994</real>
-		<key>Frame</key>
-		<string>{{0.42357096676039185, 0.40692210366770021}, {0.48818109879554933, 0.12515573177690692}}</string>
-		<key>Text</key>
-		<string>&lt;p class="right"&gt;Madeira- und Kapverden­sturmvogel nebeneinander zu sehen, könnte viele Fragen beantworten!&lt;/p&gt;</string>
-		<key>Type</key>
-		<string>text</string>
-	</dict>
-	<dict>
-		<key>FontScale</key>
-		<real>0.49013459404697401</real>
-		<key>Frame</key>
-		<string>{{0.10281550420682289, 0.71126595370562529}, {0.26679443058080515, 0.064344076488176971}}</string>
-		<key>Text</key>
-		<string>&lt;p&gt;Madeirasturmvogel&lt;/p&gt;</string>
-		<key>Type</key>
-		<string>text</string>
-	</dict>
-	<dict>
-		<key>FontScale</key>
-		<real>0.55121527777773927</real>
-		<key>Frame</key>
-		<string>{{0.5495029690101505, 0.55774337176772848}, {0.3021448083369726, 0.057214048812298163}}</string>
-		<key>Text</key>
-		<string>&lt;p&gt;Atlantiksturmtaucher&lt;/p&gt;</string>
-		<key>Type</key>
-		<string>text</string>
-	</dict>
-	<dict>
-		<key>FontScale</key>
-		<real>0.36363636363636359</real>
-		<key>Frame</key>
-		<string>{{0.71377579898124832, 0.64152701953321756}, {0.19797626657469117, 0.086727458974365179}}</string>
-		<key>Text</key>
-		<string>&lt;p&gt;Kapverdensturmvogel&lt;/p&gt;</string>
-		<key>Type</key>
-		<string>text</string>
-	</dict>
-	<dict>
-		<key>FontScale</key>
-		<real>0.36420992256951074</real>
-		<key>Frame</key>
-		<string>{{0.38432075485336686, 0.89301802619402704}, {0.52743131070257632, 0.086590880298822906}}</string>
-		<key>Text</key>
-		<string>&lt;p class="right"&gt;brütet in Felsklippen über „Wolkenmeer“&lt;/p&gt;</string>
-		<key>Type</key>
-		<string>text</string>
-	</dict>
-	<dict>
-		<key>FontScale</key>
-		<real>0.15887412040657042</real>
-		<key>Frame</key>
-		<string>{{0.037556906230098157, 0.50379984148409351}, {0.34956426775508537, 0.19850468866895329}}</string>
-		<key>Text</key>
-		<string>&lt;p&gt;Madeirast. ähnlich groß wie Atlantikst., Kapverdenst. etwas größer&lt;/p&gt;</string>
-		<key>Type</key>
-		<string>text</string>
-	</dict>
-</array>
-</plist>

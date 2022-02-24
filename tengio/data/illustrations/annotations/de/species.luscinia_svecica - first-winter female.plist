@@ -1,26 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
-<plist version="1.0">
-<array>
-	<dict>
-		<key>FontScale</key>
-		<real>0.25052562367638354</real>
-		<key>Frame</key>
-		<string>{{0.6578491527347563, 0.14124841634683116}, {0.27600916717579804, 0.22672576759803878}}</string>
-		<key>Text</key>
-		<string>&lt;p&gt;viele ad. ♀ recht ähnlich ♀ 1er W &lt;/p&gt;</string>
-		<key>Type</key>
-		<string>text</string>
-	</dict>
-	<dict>
-		<key>FontScale</key>
-		<real>0.54399889323141659</real>
-		<key>Frame</key>
-		<string>{{0.135710268633527, 0.040703565728779055}, {0.2409866414796755, 0.10441310641939583}}</string>
-		<key>Text</key>
-		<string>&lt;p class="right"&gt;♀&lt;b&gt; 1er W&lt;/b&gt;&lt;/p&gt;</string>
-		<key>Type</key>
-		<string>text</string>
-	</dict>
-</array>
-</plist>

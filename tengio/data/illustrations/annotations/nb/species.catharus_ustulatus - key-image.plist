@@ -1,44 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
-<plist version="1.0">
-<array>
-	<dict>
-		<key>EndPoint</key>
-		<string>{0.72160883280756793, 0.44624137003055531}</string>
-		<key>StartPoint</key>
-		<string>{0.67320350172078136, 0.49167851916880567}</string>
-		<key>Type</key>
-		<string>line</string>
-	</dict>
-	<dict>
-		<key>FontScale</key>
-		<real>0.1703840348817659</real>
-		<key>Frame</key>
-		<string>{{0.70507410472181165, 0.10183744704122377}, {0.2507618574232961, 0.36029484083960217}}</string>
-		<key>Text</key>
-		<string>&lt;p class="right"&gt;﻿kroppssider svakt gråtonet med mye svakere flekking enn måltrost&lt;/p&gt;</string>
-		<key>Type</key>
-		<string>text</string>
-	</dict>
-	<dict>
-		<key>FontScale</key>
-		<real>0.19011976047903006</real>
-		<key>Frame</key>
-		<string>{{0.7515772870662456, 0.50714648483288738}, {0.24842271293375437, 0.32289378323778251}}</string>
-		<key>Text</key>
-		<string>&lt;p&gt;﻿beige tone i «ansiktet», tydeligere lys øyering enn hos gråkinnskogtrost&lt;/p&gt;</string>
-		<key>Type</key>
-		<string>text</string>
-	</dict>
-	<dict>
-		<key>FontScale</key>
-		<real>0.16924870897884578</real>
-		<key>Frame</key>
-		<string>{{0, 0.03857588434471472}, {0.51577287066245969, 0.36271171047460071}}</string>
-		<key>Text</key>
-		<string>&lt;p&gt;﻿brunkinnskog-trosten mangler måltrostens tegninger på øredekkere, beige spisser på mellomdekkere og oker kroppsside&lt;/p&gt;</string>
-		<key>Type</key>
-		<string>text</string>
-	</dict>
-</array>
-</plist>

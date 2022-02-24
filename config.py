@@ -1,9 +1,9 @@
 import os
 
-PACKAGE = "com.natureguides.birdguide"
+PACKAGE = "com.NatureApp.birdguide"
 ANDROID_STUDIO_PROJECTS_PATH = os.environ['STUDIO_PROJECT_PATH']
 PLATFORM_TOOLS_PATH = os.environ['PLATFORM_TOOLS_PATH']
-PROJECT_DIR = "/home/john/Dropbox/natureguides"
+PROJECT_DIR = "/home/john/Dropbox/NatureApp"
 
 PATH_APP = f'{ANDROID_STUDIO_PROJECTS_PATH}/collins'
 PATH_APP_ASSETS = f'{PATH_APP}/app/src/main/assets'
@@ -31,8 +31,8 @@ PATH_PLUMAGES_IMAGES = f'{PATH_OBB_SOURCE}/images/plumages'
 PATH_MAPS_BRITAIN = f'{PATH_OBB_SOURCE}/images/maps/bto'
 PATH_MAPS_COLLINS = f'{PATH_OBB_SOURCE}/images/maps/collins'
 
-HD_ORIGINALS_PATH = f'/Users/johngorenfeld/Dropbox/natureguides/assets/HD/Europe'
+HD_ORIGINALS_PATH = f'/Users/johngorenfeld/Dropbox/NatureApp/assets/HD/Europe'
 
 DB_VERSION = 506
-DB_FILENAME = f'Strix_BIRDGUIDE_v{DB_VERSION}.db'
-STRIX_DB_PATH = f'{PATH_APP_ASSETS}/databases/{DB_FILENAME}'
+DB_FILENAME = f'CreatureRecord_BIRDGUIDE_v{DB_VERSION}.db'
+CreatureRecord_DB_PATH = f'{PATH_APP_ASSETS}/databases/{DB_FILENAME}'

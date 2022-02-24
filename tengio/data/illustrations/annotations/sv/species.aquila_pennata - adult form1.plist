@@ -1,44 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
-<plist version="1.0">
-<array>
-	<dict>
-		<key>FontScale</key>
-		<real>0.37246027851923641</real>
-		<key>Frame</key>
-		<string>{{0.010876592744092611, 0.57025514484122619}, {0.1981588730119784, 0.153850737997626}}</string>
-		<key>Text</key>
-		<string>&lt;p&gt;skarpa hörn&lt;/p&gt;</string>
-		<key>Type</key>
-		<string>text</string>
-	</dict>
-	<dict>
-		<key>EndPoint</key>
-		<string>{0.12417375379561955, 0.61237931307048898}</string>
-		<key>StartPoint</key>
-		<string>{0.18582521583330144, 0.53953219679451436}</string>
-		<key>Type</key>
-		<string>line</string>
-	</dict>
-	<dict>
-		<key>FontScale</key>
-		<real>0.63999791667344874</real>
-		<key>Frame</key>
-		<string>{{0.8035582930226407, 0.072228754129915265}, {0.19226774210411771, 0.089536680092388743}}</string>
-		<key>Text</key>
-		<string>&lt;p&gt;(ljus)&lt;/p&gt;</string>
-		<key>Type</key>
-		<string>text</string>
-	</dict>
-	<dict>
-		<key>FontScale</key>
-		<real>0.17594901634802759</real>
-		<key>Frame</key>
-		<string>{{0.5378270456181834, 0.53119251221634389}, {0.38337518250860492, 0.32568121103695058}}</string>
-		<key>Text</key>
-		<string>&lt;p&gt;mörka  morfer   har svart    mittvinge-    band&lt;/p&gt;</string>
-		<key>Type</key>
-		<string>text</string>
-	</dict>
-</array>
-</plist>

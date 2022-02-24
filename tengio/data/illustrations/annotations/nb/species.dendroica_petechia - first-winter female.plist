@@ -1,36 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
-<plist version="1.0">
-<array>
-	<dict>
-		<key>FontScale</key>
-		<real>0.52500060081550581</real>
-		<key>Frame</key>
-		<string>{{0.73879877804921223, 0.55934288925642306}, {0.26120122195078777, 0.10563802945134267}}</string>
-		<key>Text</key>
-		<string>&lt;p&gt;&lt;b&gt;1. vint. &lt;/b&gt;♀&lt;/p&gt;</string>
-		<key>Type</key>
-		<string>text</string>
-	</dict>
-	<dict>
-		<key>FontScale</key>
-		<real>0.43936986716695497</real>
-		<key>Frame</key>
-		<string>{{0, 0}, {0.44292061017783613, 0.12622629150361575}}</string>
-		<key>Text</key>
-		<string>&lt;p&gt;﻿variabel, enkelte 1. vinter♀♀ e﻿r ganske matte i fargene&lt;/p&gt;</string>
-		<key>Type</key>
-		<string>text</string>
-	</dict>
-	<dict>
-		<key>FontScale</key>
-		<real>0.29398148148148351</real>
-		<key>Frame</key>
-		<string>{{0.55315673815674271, 0.81134856300663227}, {0.42802107219650321, 0.18865143699336775}}</string>
-		<key>Text</key>
-		<string>&lt;p class="right"&gt;﻿tydelig øyering; mangler mørk øyestripe&lt;/p&gt;</string>
-		<key>Type</key>
-		<string>text</string>
-	</dict>
-</array>
-</plist>

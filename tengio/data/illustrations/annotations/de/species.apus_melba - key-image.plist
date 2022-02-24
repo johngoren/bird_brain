@@ -1,52 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
-<plist version="1.0">
-<array>
-	<dict>
-		<key>FontScale</key>
-		<real>0.33571420033775001</real>
-		<key>Frame</key>
-		<string>{{0.13614538559449804, 0.32163097112068245}, {0.26543841775482652, 0.088773471484587904}}</string>
-		<key>Text</key>
-		<string>&lt;p&gt;rein weißer Bauchfleck&lt;/p&gt;</string>
-		<key>Type</key>
-		<string>text</string>
-	</dict>
-	<dict>
-		<key>EndPoint</key>
-		<string>{0.3888027602088216, 0.452541179294564}</string>
-		<key>StartPoint</key>
-		<string>{0.34884671105257103, 0.41706567092737007}</string>
-		<key>Type</key>
-		<string>line</string>
-	</dict>
-	<dict>
-		<key>FontScale</key>
-		<real>0.18629609762451207</real>
-		<key>Frame</key>
-		<string>{{0.73992120586465282, 0.32163097112068356}, {0.23140390238502398, 0.15997390911924927}}</string>
-		<key>Text</key>
-		<string>&lt;p&gt;weiße Kehle, dunkles Halsband&lt;/p&gt;</string>
-		<key>Type</key>
-		<string>text</string>
-	</dict>
-	<dict>
-		<key>EndPoint</key>
-		<string>{0.7486796867016986, 0.48239802533603277}</string>
-		<key>StartPoint</key>
-		<string>{0.69957861398609333, 0.51172184982286184}</string>
-		<key>Type</key>
-		<string>line</string>
-	</dict>
-	<dict>
-		<key>FontScale</key>
-		<real>0.14086423020255462</real>
-		<key>Frame</key>
-		<string>{{0.45736805145040177, 0.03669967786025298}, {0.51395705679928083, 0.21156907575329939}}</string>
-		<key>Text</key>
-		<string>&lt;p class="right"&gt;sehr groß und langflügelig; Flügelschläge deutlich langsamer als bei kleineren Arten (an Baumfalke erinnernd)&lt;/p&gt;</string>
-		<key>Type</key>
-		<string>text</string>
-	</dict>
-</array>
-</plist>

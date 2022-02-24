@@ -1,34 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
-<plist version="1.0">
-<array>
-	<dict>
-		<key>FontScale</key>
-		<real>0.44483362521893244</real>
-		<key>Frame</key>
-		<string>{{0.095112743584375783, 0.23468536482090388}, {0.16674304829538536, 0.077068378419973771}}</string>
-		<key>Text</key>
-		<string>&lt;p&gt;♀&lt;b&gt;/ imm. autumn&lt;/b&gt;&lt;/p&gt;</string>
-		<key>Type</key>
-		<string>text</string>
-	</dict>
-	<dict>
-		<key>FontScale</key>
-		<real>0.1797593772116044</real>
-		<key>Frame</key>
-		<string>{{0.45162123462699055, 0.24220999196085677}, {0.46764366135327878, 0.19071386813910451}}</string>
-		<key>Text</key>
-		<string>&lt;p class="center"&gt;very short primary projection and rufous tertials with narrow, &lt;i&gt;pointed&lt;/i&gt; dark &lt;/p&gt;&lt;p class="center"&gt;centres (cf. Whitethroat)&lt;/p&gt;</string>
-		<key>Type</key>
-		<string>text</string>
-	</dict>
-	<dict>
-		<key>EndPoint</key>
-		<string>{0.41185533104435107, 0.38169443041688073}</string>
-		<key>StartPoint</key>
-		<string>{0.53343371619727409, 0.38173614991471522}</string>
-		<key>Type</key>
-		<string>line</string>
-	</dict>
-</array>
-</plist>

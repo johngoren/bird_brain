@@ -1,26 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
-<plist version="1.0">
-<array>
-	<dict>
-		<key>FontScale</key>
-		<real>0.14985334826072538</real>
-		<key>Frame</key>
-		<string>{{0.019455037040682247, 0.53570360216953772}, {0.25165216743535512, 0.25560729991523301}}</string>
-		<key>Text</key>
-		<string>&lt;p&gt;﻿inntar oppreist, slank holdning ved uro&lt;/p&gt;</string>
-		<key>Type</key>
-		<string>text</string>
-	</dict>
-	<dict>
-		<key>FontScale</key>
-		<real>0.20215035631920344</real>
-		<key>Frame</key>
-		<string>{{0.62432982503288903, 0.60183010952215221}, {0.27439182111927379, 0.18948079256263178}}</string>
-		<key>Text</key>
-		<string>&lt;p class="right"&gt;&lt;b&gt;ad&lt;/b&gt;.&lt;/p&gt;&lt;p class="right"&gt;﻿rød-brun morf&lt;/p&gt;</string>
-		<key>Type</key>
-		<string>text</string>
-	</dict>
-</array>
-</plist>

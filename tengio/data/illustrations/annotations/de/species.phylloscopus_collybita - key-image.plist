@@ -1,44 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
-<plist version="1.0">
-<array>
-	<dict>
-		<key>FontScale</key>
-		<real>0.16848969166914238</real>
-		<key>Frame</key>
-		<string>{{0, 0.061616695055120137}, {0.48081388546000237, 0.29946783117520381}}</string>
-		<key>Text</key>
-		<string>&lt;p&gt;Bestimmung der Unterarten aufgrund gewisser Variation z. B. im Gelbanteil der Unterseite auch bei Vögeln Mittel- und W-Europas schwierig oder unmöglich&lt;/p&gt;</string>
-		<key>Type</key>
-		<string>text</string>
-	</dict>
-	<dict>
-		<key>FontScale</key>
-		<real>0.31794045433241425</real>
-		<key>Frame</key>
-		<string>{{0.60302498903989077, 0.09365122895566691}, {0.25720422731621262, 0.15870029073677624}}</string>
-		<key>Text</key>
-		<string>&lt;p class="right"&gt;&lt;b&gt;&lt;i&gt;collybita&lt;/i&gt;&lt;/b&gt;&lt;/p&gt;&lt;p class="right"&gt;(W- und Mitteleuropa)&lt;/p&gt;</string>
-		<key>Type</key>
-		<string>text</string>
-	</dict>
-	<dict>
-		<key>FontScale</key>
-		<real>0.2018222890861309</real>
-		<key>Frame</key>
-		<string>{{0.78506786819326801, 0.30598717121079827}, {0.21043402016659343, 0.25000827593429703}}</string>
-		<key>Text</key>
-		<string>&lt;p class="center"&gt;große Über-schneidungen zwischen diesen Taxa&lt;/p&gt;</string>
-		<key>Type</key>
-		<string>text</string>
-	</dict>
-	<dict>
-		<key>EndPoint</key>
-		<string>{0.76222051731696394, 0.48020105834921245}</string>
-		<key>StartPoint</key>
-		<string>{0.82472430324351154, 0.48020371336503875}</string>
-		<key>Type</key>
-		<string>line</string>
-	</dict>
-</array>
-</plist>

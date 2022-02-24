@@ -1,26 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
-<plist version="1.0">
-<array>
-	<dict>
-		<key>FontScale</key>
-		<real>0.60000000000000009</real>
-		<key>Frame</key>
-		<string>{{0.76976254096194707, 0.24868149526885611}, {0.21445823689125174, 0.13396597515976555}}</string>
-		<key>Text</key>
-		<string>&lt;p class="center"&gt;♂&lt;b&gt; 1er W&lt;/b&gt;&lt;/p&gt;</string>
-		<key>Type</key>
-		<string>text</string>
-	</dict>
-	<dict>
-		<key>FontScale</key>
-		<real>0.2198952352565183</real>
-		<key>Frame</key>
-		<string>{{0, 0.027637636255238695}, {0.45490178370244444, 0.36553581982844108}}</string>
-		<key>Text</key>
-		<string>&lt;p&gt;klein und farbenfroh, mit deutlichem Augenring; Brust bei ♂ rotbraun gefleckt&lt;/p&gt;</string>
-		<key>Type</key>
-		<string>text</string>
-	</dict>
-</array>
-</plist>

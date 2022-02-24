@@ -1,34 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
-<plist version="1.0">
-<array>
-	<dict>
-		<key>EndPoint</key>
-		<string>{0.64613825533498603, 0.41229612493261858}</string>
-		<key>StartPoint</key>
-		<string>{0.54424692372744798, 0.48230548657874056}</string>
-		<key>Type</key>
-		<string>line</string>
-	</dict>
-	<dict>
-		<key>FontScale</key>
-		<real>0.68586858685869923</real>
-		<key>Frame</key>
-		<string>{{0.39978602963979254, 0.10438714675824873}, {0.24332770435577156, 0.075731317344796142}}</string>
-		<key>Text</key>
-		<string>&lt;p&gt;&lt;b&gt;ad. &lt;/b&gt;♀&lt;/p&gt;</string>
-		<key>Type</key>
-		<string>text</string>
-	</dict>
-	<dict>
-		<key>FontScale</key>
-		<real>0.18608058608058647</real>
-		<key>Frame</key>
-		<string>{{0.46457589502093688, 0.20561217489239444}, {0.31453541484180192, 0.27913568364261526}}</string>
-		<key>Text</key>
-		<string>&lt;p class="right"&gt;	stor vit 	fläck når   nästanving-kanten&lt;/p&gt;</string>
-		<key>Type</key>
-		<string>text</string>
-	</dict>
-</array>
-</plist>

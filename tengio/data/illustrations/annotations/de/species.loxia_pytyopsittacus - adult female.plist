@@ -1,36 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
-<plist version="1.0">
-<array>
-	<dict>
-		<key>FontScale</key>
-		<real>0.18904022379688606</real>
-		<key>Frame</key>
-		<string>{{0.49084225581465007, 0.78599611698462957}, {0.34872243465075536, 0.21023235207070801}}</string>
-		<key>Text</key>
-		<string>&lt;p&gt;First papageiartig stark gekrümmt, Unterschnabel sehr hoch und in der Mitte gewölbt&lt;/p&gt;</string>
-		<key>Type</key>
-		<string>text</string>
-	</dict>
-	<dict>
-		<key>FontScale</key>
-		<real>0.21333194445348624</real>
-		<key>Frame</key>
-		<string>{{0.20237637613868797, 0.54221956655830172}, {0.31288414480231069, 0.18629357636337299}}</string>
-		<key>Text</key>
-		<string>&lt;p&gt;Gefiederfärbung wie bei Fichten-kreuzschnabel&lt;/p&gt;</string>
-		<key>Type</key>
-		<string>text</string>
-	</dict>
-	<dict>
-		<key>FontScale</key>
-		<real>0.61935093654903894</real>
-		<key>Frame</key>
-		<string>{{0.31401658420950812, 0.15493621840493518}, {0.13013295106141895, 0.06416777393804049}}</string>
-		<key>Text</key>
-		<string>&lt;p&gt;&lt;b&gt;ad. &lt;/b&gt;♀&lt;/p&gt;</string>
-		<key>Type</key>
-		<string>text</string>
-	</dict>
-</array>
-</plist>

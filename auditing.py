@@ -38,14 +38,14 @@ def roll_call():
 
 # Audit bird songs
 
-def songs(strix):
+def songs(CreatureRecord):
 	not_found = 0
 
 	song_files_list = files.get_song_files_from_disk()
-	species_id_list = strix.get_species_id_list()
+	species_id_list = CreatureRecord.get_species_id_list()
 
 	for id in species_id_list:
-		songs_for_this_species = strix.get_song_refs_for_species(id)
+		songs_for_this_species = CreatureRecord.get_song_refs_for_species(id)
 		android_filenames = helpers.androidize_song_refs(songs_for_this_species)
 		missing = check_my_songs_are_found(android_filenames, song_files_list)
 		if missing > 0:
@@ -57,15 +57,15 @@ def songs(strix):
 		click.secho("All song files found", fg="green")
 
 	not_in_db = 0
-	song_refs_in_strix = strix.get_all_song_refs()
+	song_refs_in_CreatureRecord = CreatureRecord.get_all_song_refs()
 
 	for file in song_files_list:
-		absent = check_file_also_in_DB(file, song_refs_in_strix)
+		absent = check_file_also_in_DB(file, song_refs_in_CreatureRecord)
 		if absent > 0:
 			not_in_db = not_in_db + absent
 
 	if not_in_db > 0:		
-		click.secho(f'{not_in_db} possibly surplus files were found that do not have direct Strix counterparts', fg='yellow')
+		click.secho(f'{not_in_db} possibly surplus files were found that do not have direct CreatureRecord counterparts', fg='yellow')
 	
 
 # Check if a single bird's songs exist as files
@@ -83,13 +83,13 @@ def check_my_songs_are_found(songs_for_this_species, master_song_list):
 
 # Check that a song appears in the DB
 
-def check_file_also_in_DB(filename, master_strix_song_list):
-	possible_refs = helpers.strixify_song_filename(filename)
+def check_file_also_in_DB(filename, master_CreatureRecord_song_list):
+	possible_refs = helpers.CreatureRecordify_song_filename(filename)
 	for ref in possible_refs:
-		if ref in master_strix_song_list:
+		if ref in master_CreatureRecord_song_list:
 			return 0 # We found it. No absence
 	
-	click.echo(f'{possible_refs[2]} is on disk but not in Strix')
+	click.echo(f'{possible_refs[2]} is on disk but not in CreatureRecord')
 	return 1 # Tally this one as absent
 
 	

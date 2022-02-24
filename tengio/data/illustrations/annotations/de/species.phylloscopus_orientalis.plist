@@ -1,110 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
-<plist version="1.0">
-<array>
-	<dict>
-		<key>FontScale</key>
-		<real>0.13805510085054459</real>
-		<key>Frame</key>
-		<string>{{0.049038919784687662, 0.56041156261564318}, {0.39531967534237067, 0.19478820974671357}}</string>
-		<key>Text</key>
-		<string>&lt;p&gt;Vorsicht vor Verwechslung mit &lt;i&gt;tristis&lt;/i&gt;-Zilpzalp (oder matt gefärbtem Fitis), von dessen farblosem Körpergefieder sich Flügel und Bürzel scheinbar bunter abheben &lt;/p&gt;</string>
-		<key>Type</key>
-		<string>text</string>
-	</dict>
-	<dict>
-		<key>FontScale</key>
-		<real>0.17034677836824377</real>
-		<key>Frame</key>
-		<string>{{0.47761448601139356, 0.60345819144666835}, {0.19627999697675555, 0.15786330800426057}}</string>
-		<key>Text</key>
-		<string>&lt;p&gt;leuchtend grüner Bürzel beim Rütteln auffällig&lt;/p&gt;</string>
-		<key>Type</key>
-		<string>text</string>
-	</dict>
-	<dict>
-		<key>FontScale</key>
-		<real>0.24660135388878265</real>
-		<key>Frame</key>
-		<string>{{0.63422505709581933, 0.59757252943133099}, {0.29976076570497473, 0.10904849270700948}}</string>
-		<key>Text</key>
-		<string>&lt;p class="right"&gt;jagt oft im Rüttelflug zwischen Zweigen nach Insekten&lt;/p&gt;</string>
-		<key>Type</key>
-		<string>text</string>
-	</dict>
-	<dict>
-		<key>FontScale</key>
-		<real>0.19336528033849681</real>
-		<key>Frame</key>
-		<string>{{0.69240324499085282, 0.39768216458140382}, {0.24104932009632127, 0.1390710157170123}}</string>
-		<key>Text</key>
-		<string>&lt;p class="right"&gt;Zügel und Augenstreif meist etwas dunkler&lt;/p&gt;</string>
-		<key>Type</key>
-		<string>text</string>
-	</dict>
-	<dict>
-		<key>FontScale</key>
-		<real>0.65463917525781556</real>
-		<key>Frame</key>
-		<string>{{0.45653280321272799, 0.10039741571017821}, {0.11175923022647653, 0.041078363406053323}}</string>
-		<key>Text</key>
-		<string>&lt;p&gt;&lt;b&gt;Frühjahr&lt;/b&gt;&lt;/p&gt;</string>
-		<key>Type</key>
-		<string>text</string>
-	</dict>
-	<dict>
-		<key>FontScale</key>
-		<real>0.11513962004945444</real>
-		<key>Frame</key>
-		<string>{{0.69331147071548926, 0.036290039602391272}, {0.23923286864704529, 0.23355562515777986}}</string>
-		<key>Text</key>
-		<string>&lt;p class="right"&gt;Unter-scheidung vom fast identisch gefärbten Berg­laubsänger allein anhand Gefieder­merkmalen noch sehr umstritten&lt;/p&gt;</string>
-		<key>Type</key>
-		<string>text</string>
-	</dict>
-	<dict>
-		<key>FontScale</key>
-		<real>0.19870917269701238</real>
-		<key>Frame</key>
-		<string>{{0.24999403353505609, 0.33883455278716273}, {0.22798037461108822, 0.13533097428815319}}</string>
-		<key>Text</key>
-		<string>&lt;p&gt;Schirmfedern und Große Armdecken mit hellen, meist abgenutzten Säumen&lt;/p&gt;</string>
-		<key>Type</key>
-		<string>text</string>
-	</dict>
-	<dict>
-		<key>EndPoint</key>
-		<string>{0.40394022428262044, 0.38821063526763361}</string>
-		<key>StartPoint</key>
-		<string>{0.43559763150682351, 0.36081623699103921}</string>
-		<key>Type</key>
-		<string>line</string>
-	</dict>
-	<dict>
-		<key>EndPoint</key>
-		<string>{0.48405562655992851, 0.42809639140740041}</string>
-		<key>StartPoint</key>
-		<string>{0.57983012384494004, 0.34626038233282536}</string>
-		<key>Type</key>
-		<string>line</string>
-	</dict>
-	<dict>
-		<key>EndPoint</key>
-		<string>{0.55809964967482206, 0.47840411971539198}</string>
-		<key>StartPoint</key>
-		<string>{0.59340931932472241, 0.4478335593197762}</string>
-		<key>Type</key>
-		<string>line</string>
-	</dict>
-	<dict>
-		<key>FontScale</key>
-		<real>0.23836561877332227</real>
-		<key>Frame</key>
-		<string>{{0.45776958354844577, 0.46721767243991191}, {0.23129059410063377, 0.11281621099329973}}</string>
-		<key>Text</key>
-		<string>&lt;p&gt;Oberseite braungrau mit etwas weniger Grünton&lt;/p&gt;</string>
-		<key>Type</key>
-		<string>text</string>
-	</dict>
-</array>
-</plist>

@@ -1,34 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
-<plist version="1.0">
-<array>
-	<dict>
-		<key>FontScale</key>
-		<real>0.81063829787235098</real>
-		<key>Frame</key>
-		<string>{{0.39978619487836536, 0.11604336211914852}, {0.19443112498045639, 0.064075101983896349}}</string>
-		<key>Text</key>
-		<string>&lt;p&gt;♀ &lt;b&gt;ad.&lt;/b&gt;&lt;/p&gt;</string>
-		<key>Type</key>
-		<string>text</string>
-	</dict>
-	<dict>
-		<key>EndPoint</key>
-		<string>{0.64613842057355908, 0.41229612493261858}</string>
-		<key>StartPoint</key>
-		<string>{0.54424708896602081, 0.48230548657874056}</string>
-		<key>Type</key>
-		<string>line</string>
-	</dict>
-	<dict>
-		<key>FontScale</key>
-		<real>0.13577442202325288</real>
-		<key>Frame</key>
-		<string>{{0.62344351744291349, 0.24722690868085467}, {0.37655648255708635, 0.38255903309481537}}</string>
-		<key>Text</key>
-		<string>&lt;p&gt;          grande          tache         blanche       atteignant     presque   le bord de l’aile&lt;/p&gt;</string>
-		<key>Type</key>
-		<string>text</string>
-	</dict>
-</array>
-</plist>

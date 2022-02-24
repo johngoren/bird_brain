@@ -1,26 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
-<plist version="1.0">
-<array>
-	<dict>
-		<key>FontScale</key>
-		<real>0.40931061719224554</real>
-		<key>Frame</key>
-		<string>{{0.10725222540703599, 0.56167355464510249}, {0.41963869607016502, 0.078471881673190663}}</string>
-		<key>Text</key>
-		<string>&lt;p&gt;einfallsreich – öffnet unbeaufsichtigte Angelvorrichtung auf dem Eis&lt;/p&gt;</string>
-		<key>Type</key>
-		<string>text</string>
-	</dict>
-	<dict>
-		<key>FontScale</key>
-		<real>0.19837472806160483</real>
-		<key>Frame</key>
-		<string>{{0.71341002102436002, 0.48398083280453208}, {0.28658997897563987, 0.16191263188482319}}</string>
-		<key>Text</key>
-		<string>&lt;p class="right"&gt;durch hellgrau-schwarzes Gefieder unverwechselbar&lt;/p&gt;</string>
-		<key>Type</key>
-		<string>text</string>
-	</dict>
-</array>
-</plist>

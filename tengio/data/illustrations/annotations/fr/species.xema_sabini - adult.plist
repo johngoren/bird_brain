@@ -1,44 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
-<plist version="1.0">
-<array>
-	<dict>
-		<key>FontScale</key>
-		<real>0.42075527420742576</real>
-		<key>Frame</key>
-		<string>{{0.25602657748984986, 0}, {0.32051898984251581, 0.090635776835803178}}</string>
-		<key>Text</key>
-		<string>&lt;p class="right"&gt;&lt;b&gt;ad. nuptial&lt;/b&gt;&lt;/p&gt;</string>
-		<key>Type</key>
-		<string>text</string>
-	</dict>
-	<dict>
-		<key>FontScale</key>
-		<real>0.19801208341451293</real>
-		<key>Frame</key>
-		<string>{{0.14233203837202726, 0.63454151486410992}, {0.29552055408095068, 0.19259168671903557}}</string>
-		<key>Text</key>
-		<string>&lt;p&gt;l’ad. a la queue plus longue que la M. tridactyle juv.&lt;/p&gt;</string>
-		<key>Type</key>
-		<string>text</string>
-	</dict>
-	<dict>
-		<key>EndPoint</key>
-		<string>{0.28317587691274032, 0.60646498674890925}</string>
-		<key>StartPoint</key>
-		<string>{0.26682793136783073, 0.6361555165263566}</string>
-		<key>Type</key>
-		<string>line</string>
-	</dict>
-	<dict>
-		<key>FontScale</key>
-		<real>0.66287255563047875</real>
-		<key>Frame</key>
-		<string>{{0.6410349597688596, 0.78299316226729676}, {0.23306558126172894, 0.057530638146995793}}</string>
-		<key>Text</key>
-		<string>&lt;p&gt;&lt;b&gt;ad. intern.&lt;/b&gt;&lt;/p&gt;</string>
-		<key>Type</key>
-		<string>text</string>
-	</dict>
-</array>
-</plist>

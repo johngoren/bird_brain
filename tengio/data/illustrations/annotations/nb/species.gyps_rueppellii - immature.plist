@@ -1,44 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
-<plist version="1.0">
-<array>
-	<dict>
-		<key>FontScale</key>
-		<real>0.46547964154402427</real>
-		<key>Frame</key>
-		<string>{{0.5224810009638533, 0.02419199631098333}, {0.4246553455198222, 0.14102083780029093}}</string>
-		<key>Text</key>
-		<string>&lt;p&gt;&lt;b&gt;﻿ungfugl&lt;/b&gt;&lt;/p&gt;</string>
-		<key>Type</key>
-		<string>text</string>
-	</dict>
-	<dict>
-		<key>EndPoint</key>
-		<string>{0.428856903507912, 0.66189745607623518}</string>
-		<key>StartPoint</key>
-		<string>{0.39324054989001572, 0.58578556635366119}</string>
-		<key>Type</key>
-		<string>line</string>
-	</dict>
-	<dict>
-		<key>FontScale</key>
-		<real>0.31242312423124263</real>
-		<key>Frame</key>
-		<string>{{0.093856913897116617, 0.092334342826532759}, {0.4246553455198222, 0.21010713976770709}}</string>
-		<key>Text</key>
-		<string>&lt;p&gt;﻿mangler gåse-gribbens nesten rustbrune underside&lt;/p&gt;</string>
-		<key>Type</key>
-		<string>text</string>
-	</dict>
-	<dict>
-		<key>FontScale</key>
-		<real>0.20303756994404482</real>
-		<key>Frame</key>
-		<string>{{0.10098283834140448, 0.67613757620322767}, {0.52170888668202786, 0.32330139218868603}}</string>
-		<key>Text</key>
-		<string>&lt;p class="right"&gt;﻿dekkerne mørke med distinkt lyst bånd hos juv. (eldre fugler utvikler flere smalere bånd)&lt;/p&gt;</string>
-		<key>Type</key>
-		<string>text</string>
-	</dict>
-</array>
-</plist>

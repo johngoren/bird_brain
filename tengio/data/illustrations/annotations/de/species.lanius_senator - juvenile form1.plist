@@ -1,52 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
-<plist version="1.0">
-<array>
-	<dict>
-		<key>EndPoint</key>
-		<string>{0.40297284421170182, 0.60746930657011522}</string>
-		<key>StartPoint</key>
-		<string>{0.32907011600968972, 0.70782691388334062}</string>
-		<key>Type</key>
-		<string>line</string>
-	</dict>
-	<dict>
-		<key>FontScale</key>
-		<real>0.16227439706117325</real>
-		<key>Frame</key>
-		<string>{{0.057598773223067896, 0.42693487537391189}, {0.35611904208605538, 0.40441004426463106}}</string>
-		<key>Text</key>
-		<string>&lt;p&gt;Schulterfedern mit hellen Zentren, Flügel bunter gemustert als bei Neuntöter im JK&lt;/p&gt;</string>
-		<key>Type</key>
-		<string>text</string>
-	</dict>
-	<dict>
-		<key>FontScale</key>
-		<real>0.69996555287642936</real>
-		<key>Frame</key>
-		<string>{{0.20572587478041968, 0.088989922236587624}, {0.086727266714923062, 0.093755179563973168}}</string>
-		<key>Text</key>
-		<string>&lt;p&gt;&lt;b&gt;JK&lt;/b&gt;&lt;/p&gt;</string>
-		<key>Type</key>
-		<string>text</string>
-	</dict>
-	<dict>
-		<key>FontScale</key>
-		<real>0.22458001768350438</real>
-		<key>Frame</key>
-		<string>{{0.57796237351261037, 0.1065589259166059}, {0.30195788771079418, 0.29221387002921073}}</string>
-		<key>Text</key>
-		<string>&lt;p class="right"&gt;helles Hand-schwingenfeld oft ausgedehnt und beige getönt&lt;/p&gt;</string>
-		<key>Type</key>
-		<string>text</string>
-	</dict>
-	<dict>
-		<key>EndPoint</key>
-		<string>{0.5984668366438024, 0.32354634634402496}</string>
-		<key>StartPoint</key>
-		<string>{0.43286708862000434, 0.46294134694048272}</string>
-		<key>Type</key>
-		<string>line</string>
-	</dict>
-</array>
-</plist>
