@@ -34,5 +34,5 @@ PATH_MAPS_COLLINS = f'{PATH_OBB_SOURCE}/images/maps/collins'
 HD_ORIGINALS_PATH = f'/Users/johngorenfeld/Dropbox/NatureApp/assets/HD/Europe'
 
 DB_VERSION = 506
-DB_FILENAME = f'CreatureRecord_BIRDGUIDE_v{DB_VERSION}.db'
-CreatureRecord_DB_PATH = f'{PATH_APP_ASSETS}/databases/{DB_FILENAME}'
+DB_FILENAME = f'CreatureReport_BIRDGUIDE_v{DB_VERSION}.db'
+CreatureReport_DB_PATH = f'{PATH_APP_ASSETS}/databases/{DB_FILENAME}'

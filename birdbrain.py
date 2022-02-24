@@ -3,7 +3,7 @@
 import click
 import os
 import sqlite3
-import CreatureRecord
+import CreatureReport
 import auditing
 import config
 
@@ -89,7 +89,7 @@ def audit():
 	"""Check for missing images and songs"""
 
 	auditing.roll_call()
-	auditing.songs(CreatureRecord)	
+	auditing.songs(CreatureReport)	
 
 @cli.command()
 def missing():
@@ -136,7 +136,7 @@ def forge():
 
 @cli.command()
 def plumagenames():
-	"""Fit plumage filenames to CreatureRecord entries"""
+	"""Fit plumage filenames to CreatureReport entries"""
 	pass
 
 @cli.command()
@@ -149,27 +149,27 @@ def species():
 @cli.command()
 @click.argument('id')
 def ref(id):
-	"""Get a CreatureRecord object's reference from its ID"""
+	"""Get a CreatureReport object's reference from its ID"""
 	if id is None:
-		print("Must provide valid CreatureRecord entity ID.")
+		print("Must provide valid CreatureReport entity ID.")
 		return
 
-	found_ref = CreatureRecord.lookup_ref(id)
+	found_ref = CreatureReport.lookup_ref(id)
 	if ref is None:
-		click.echo('No ref found in CreatureRecord database.')
+		click.echo('No ref found in CreatureReport database.')
 		return
 	click.echo(found_ref)
 
 @cli.command()
 @click.argument('ref')
 def id(ref):
-	"""Get a CreatureRecord object's ID from its reference"""
+	"""Get a CreatureReport object's ID from its reference"""
 	if ref is None:
-		print("Must provide valid CreatureRecord entity reference.")
+		print("Must provide valid CreatureReport entity reference.")
 		return
 
-	query_key=f'SELECT entity_id FROM CreatureRecord_entities WHERE entity_reference={ref}'
-	conn = sqlite3.connect(CreatureRecord_DB_PATH)
+	query_key=f'SELECT entity_id FROM CreatureReport_entities WHERE entity_reference={ref}'
+	conn = sqlite3.connect(CreatureReport_DB_PATH)
 	c = conn.cursor()
 
 	for row in c.execute(query_key):
@@ -205,9 +205,9 @@ def modernname(name):
 	# Songs
 
 	id = name.split('.')[0]
-	ref = CreatureRecord.lookup_ref(id)
+	ref = CreatureReport.lookup_ref(id)
 	if ref is None:
-		click.echo(f'No CreatureRecord reference found for id {id}.')
+		click.echo(f'No CreatureReport reference found for id {id}.')
 		return
 
 	clean_ref = ref.replace(".wav", "")
@@ -219,9 +219,9 @@ def modernname(name):
 @click.argument('id')
 def songs(id):
 	"""Get array of song IDs that belong to a particular animal"""
-	return CreatureRecord.get_song_IDs_for_species_ID(id)
+	return CreatureReport.get_song_IDs_for_species_ID(id)
 
 if __name__ == '__main__':
-	CreatureRecord = CreatureRecord.CreatureRecordDatabase(config.CreatureRecord_DB_PATH)
+	CreatureReport = CreatureReport.CreatureReportDatabase(config.CreatureReport_DB_PATH)
 
 	cli()
